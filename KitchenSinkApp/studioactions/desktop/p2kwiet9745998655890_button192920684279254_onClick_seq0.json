@@ -1,0 +1,17 @@
+{
+    "p2kwiet9745998655890_button192920684279254_onClick_seq0": {
+        "id": "p2kwiet9745998655890_button192920684279254_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_812089745998656692",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "doTransactionDelete",
+            "display": "doTransactionDelete"
+        }]
+    }
+}

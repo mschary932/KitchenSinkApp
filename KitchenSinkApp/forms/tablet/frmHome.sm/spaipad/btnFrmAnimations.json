@@ -1,0 +1,71 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        3,
+        0,
+        3
+    ],
+    "_skin_": "sa8ccb4565504434b4c4478e012193c1",
+    "_text_": "",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s059c2b883db41289f3c289245346f1a",
+    "hexpand": false,
+    "id": "btnFrmAnimations",
+    "ide_onClick": "p2kwiet9745998653969_btnFrmAnimations_onClick_seq0",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet9745998653961",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "vbox11819528317011",
+    "pf": "frmHome",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "displayText": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAIPadButtonProperty",
+        "_margin_": [
+            2,
+            0,
+            2,
+            0
+        ],
+        "_padding_": [
+            0,
+            3,
+            0,
+            3
+        ],
+        "margin": [
+            2,
+            0,
+            2,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            3,
+            0,
+            3
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5
+}

@@ -1,0 +1,199 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0ee867e24a34e55b9589f5404cc3a38",
+    "_text_": "Provide feedback",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.link.AndroidLinkProperty",
+        "_margin_": [
+            2,
+            0,
+            2,
+            4
+        ],
+        "_padding_": [
+            0,
+            2,
+            0,
+            2
+        ],
+        "margin": [
+            2,
+            0,
+            2,
+            4
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            2,
+            0,
+            2
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "focusskin": "s4e226596ef8423882d7feb3d3d58d3b",
+    "hexpand": true,
+    "id": "lnkFeedback",
+    "ide_onClick": "p2kwiet9745998653941_lnkFeedback_onClick_seq0",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.component.property.link.IPadLinkProperty",
+        "_margin_": [
+            2,
+            0,
+            2,
+            4
+        ],
+        "_padding_": [
+            0,
+            2,
+            0,
+            2
+        ],
+        "margin": [
+            2,
+            0,
+            2,
+            4
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            2,
+            0,
+            2
+        ],
+        "paddingInPixel": false,
+        "psp": {
+            "glowEffect": false
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet9745998653940",
+    "margininpixel": false,
+    "name": "kony.ui.Link",
+    "paddinginpixel": false,
+    "parent": "frmHome",
+    "pf": "frmHome",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.link.SPALinkProperty"
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.component.property.link.SPAAndroidTabletLinkProperty",
+        "_margin_": [
+            2,
+            0,
+            2,
+            4
+        ],
+        "_padding_": [
+            0,
+            2,
+            0,
+            2
+        ],
+        "margin": [
+            2,
+            0,
+            2,
+            4
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            2,
+            0,
+            2
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.link.SPAIPadLinkProperty",
+        "_margin_": [
+            2,
+            0,
+            2,
+            4
+        ],
+        "_padding_": [
+            0,
+            2,
+            0,
+            2
+        ],
+        "margin": [
+            2,
+            0,
+            2,
+            4
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            2,
+            0,
+            2
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.component.property.link.SPAWindowsTabletLinkProperty",
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "Link",
+    "widgetalignment": 5,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.component.property.link.Windows8LinkProperty",
+        "_margin_": [
+            2,
+            0,
+            2,
+            4
+        ],
+        "_padding_": [
+            0,
+            2,
+            0,
+            2
+        ],
+        "margin": [
+            2,
+            0,
+            2,
+            4
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            2,
+            0,
+            2
+        ],
+        "paddingInPixel": false,
+        "psp": {
+            "hoverSkin": "Skin Defaults"
+        },
+        "render": true
+    }
+}

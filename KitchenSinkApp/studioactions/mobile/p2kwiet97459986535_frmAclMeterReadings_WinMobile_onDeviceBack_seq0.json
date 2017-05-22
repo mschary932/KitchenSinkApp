@@ -1,0 +1,19 @@
+{
+    "p2kwiet97459986535_frmAclMeterReadings_WinMobile_onDeviceBack_seq0": {
+        "id": "p2kwiet97459986535_frmAclMeterReadings_WinMobile_onDeviceBack_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_onDeviceBack_456089745998657152",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "\n kony.accelerometer.stopMonitoringAcceleration()\n frmAclmeterOptions.show();"
+        }]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "p2kwiet9745998654221_btnAdd_onClick_seq0": {
+        "id": "p2kwiet9745998654221_btnAdd_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_681619745998657746",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setNewData",
+            "display": "setNewData"
+        }]
+    }
+}

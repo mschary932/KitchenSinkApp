@@ -1,0 +1,16 @@
+{
+    "p2kwiet9745998655927_button117822895617346_onClick_seq0": {
+        "id": "p2kwiet9745998655927_button117822895617346_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_onClick_764549745998651228",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "popLeftNright.dismiss()"
+        }]
+    }
+}

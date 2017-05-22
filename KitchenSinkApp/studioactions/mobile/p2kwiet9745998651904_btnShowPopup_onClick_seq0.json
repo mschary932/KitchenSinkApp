@@ -1,0 +1,17 @@
+{
+    "p2kwiet9745998651904_btnShowPopup_onClick_seq0": {
+        "id": "p2kwiet9745998651904_btnShowPopup_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_113219745998657636",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "popUpFromBottom",
+            "display": "popUpFromBottom"
+        }]
+    }
+}

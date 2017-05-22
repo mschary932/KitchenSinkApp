@@ -1,0 +1,53 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_position_": 3,
+    "_resize_": true,
+    "_skin_": "s6f451efc4c44da188a496b082462c12",
+    "allboxes": [],
+    "borderCollapse": false,
+    "canUpdateUI": true,
+    "children": [
+        "hbox68508043454813",
+        "hbox68508043454814",
+        "hbox68508043454815"
+    ],
+    "containerweight": 100,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.DesktopWebVBoxProperty",
+        "render": true
+    },
+    "id": "vbox192926642422365",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.KioskVBoxProperty",
+        "render": true
+    },
+    "kuid": "p2kwiet9745998655558",
+    "layouttype": 0,
+    "margininpixel": false,
+    "name": "kony.ui.Box",
+    "paddinginpixel": false,
+    "parent": "hbxRadioButtons",
+    "pf": "frmRadioButton",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.SPAVBoxProperty"
+    },
+    "templateType": "forms",
+    "wType": "VBox",
+    "widgetalignment": 1
+}

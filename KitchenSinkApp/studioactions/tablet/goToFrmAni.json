@@ -1,0 +1,20 @@
+{
+    "goToFrmAni": {
+        "id": "p2kwiet9745998653503_goToFrmAni_titlebarAction",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION_goToFrmAni",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "goToFrmAni",
+            "display": "goToFrmAni",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

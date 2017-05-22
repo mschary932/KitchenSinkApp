@@ -1,0 +1,64 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "sa6d71de6bb74ddebac364ed11b2c616",
+    "_text_": "",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.AndroidComboBoxProperty",
+        "contentAlignment": 4,
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "s9cacf93489140a6ad0b8004d178c3f4",
+    "hexpand": true,
+    "id": "comboboxTS1",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet9745998653068",
+    "masterdata": [
+        [
+            "1",
+            "Please Select.."
+        ],
+        [
+            "2",
+            "Australia"
+        ],
+        [
+            "3",
+            "India"
+        ],
+        [
+            "4",
+            "Japan"
+        ],
+        [
+            "5",
+            "Singapur"
+        ],
+        [
+            "6",
+            "United Kingdom"
+        ],
+        [
+            "7",
+            "United States"
+        ]
+    ],
+    "name": "kony.ui.ComboBox",
+    "parent": "hboxTS1",
+    "pf": "frmTabScreenLevel",
+    "selectedkey": "1",
+    "selectedkeyvalue": [
+        "1",
+        "Please Select.."
+    ],
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.combobox.SPAComboBoxProperty"
+    },
+    "vexpand": false,
+    "wType": "ComboBox",
+    "widgetalignment": 5
+}

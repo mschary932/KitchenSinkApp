@@ -1,0 +1,19 @@
+{
+    "p2kwiet9745998652363_frmScrollBoxMenu_postshow_seq0": {
+        "id": "p2kwiet9745998652363_frmScrollBoxMenu_postshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_postshow_724129745998651655",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(kony.os.deviceInfo().name == \"android\")\n {\n glbScrollBegining = false;\n frmScrollBoxMenu.sboxGlobalHome.scrollToEnd()\n \n }"
+        }]
+    }
+}

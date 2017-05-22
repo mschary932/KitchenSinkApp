@@ -1,0 +1,25 @@
+{
+    "p2kwiet9745998652603_button117989725237450_onClick_seq0": {
+        "id": "p2kwiet9745998652603_button117989725237450_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "navigation_onClick_738269745998659024",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmSegSections",
+            "formKUID": "p2kwiet9745998652771",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "enableMappingEditor": true
+        }, {
+            "id": "expression_onClick_469779745998652763",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmSegSections.segAltRow.isVisible = false;\n frmSegSections.lblAltRow.isVisible = false;\n frmSegSections.lblSegSection1.isVisible = false;\n "
+        }]
+    }
+}

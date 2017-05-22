@@ -1,0 +1,57 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        4,
+        2,
+        2
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        2,
+        2,
+        2,
+        3
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_resize_": true,
+    "_skin_": "s9cfe4a9d6d840a6b3442d45b89e005e",
+    "allboxes": [],
+    "borderCollapse": false,
+    "canUpdateUI": true,
+    "children": [
+        "vbox192926642422365"
+    ],
+    "containerweight": 100,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.container.property.hbox.DesktopWebHBoxProperty",
+        "_position_": 3,
+        "position": 3,
+        "render": true
+    },
+    "id": "hbxTextBoxes",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.container.property.hbox.KioskHBoxProperty",
+        "_position_": 3,
+        "position": 3,
+        "render": true
+    },
+    "kuid": "p2kwiet9745998655846",
+    "layoutalignment": 3,
+    "layouttype": 0,
+    "margininpixel": false,
+    "name": "kony.ui.Box",
+    "paddinginpixel": false,
+    "parent": "frmTextBox",
+    "pf": "frmTextBox",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.hbox.SPAHBoxProperty"
+    },
+    "templateType": "forms",
+    "wType": "HBox",
+    "widgetalignment": 1
+}

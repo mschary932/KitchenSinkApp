@@ -1,0 +1,19 @@
+{
+    "p2kwiet974599865819_frmCrypto_preshow_seq0": {
+        "id": "p2kwiet974599865819_frmCrypto_preshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_preshow_172399745998651325",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmCrypto.textEncrypt.text =\"\";\n frmCrypto.lblEncrypt.text =\"\";\n frmCrypto.lblDecrypt.text=\"\";\n frmCrypto.txtMd2Hash.text = \"\";\n frmCrypto.lblMD2Hash.text = \"\";\n frmCrypto.txtMD4Hash.text = \"\";\n frmCrypto.lblMD4Hash.text = \"\";\n frmCrypto.txtMD5Hash.text = \"\";\n frmCrypto.lblMD5Hash.text = \"\";"
+        }]
+    }
+}

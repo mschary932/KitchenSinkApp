@@ -1,0 +1,80 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_max_": 100,
+    "_min_": 0,
+    "_orientation_": "horizontal",
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_step_": 1,
+    "_text_": "",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.AndroidSliderProperty",
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "hexpand": true,
+    "id": "slider192914726036080",
+    "ide_onSelection": "p2kwiet9745998654734_slider192914726036080_onSelection_seq0",
+    "ide_onSlide": "p2kwiet9745998654734_slider192914726036080_onslide_seq0",
+    "imgwt": 44,
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.IPadSliderProperty",
+        "psp": {
+            "enableThumbTintColor": false
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet9745998654728",
+    "leftskin": "sb5abd7cf7a44935932d97936d59c490",
+    "margininpixel": false,
+    "name": "kony.ui.Slider",
+    "noofsteps": 100,
+    "paddinginpixel": false,
+    "parent": "vbox192926642422365",
+    "pf": "frmSlider",
+    "rightskin": "sc8f167453a8413ba3b7a9ba1aa7c5dc",
+    "selectedvalue": 0,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPASliderProperty",
+        "_thickness_": 5,
+        "thickness": 5
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPAAndroidTabletSliderProperty",
+        "render": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPAIPadSliderProperty",
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.SPAWindowsTabletSliderProperty",
+        "render": true
+    },
+    "stepwidth": 0,
+    "vexpand": false,
+    "view": "default",
+    "wType": "Slider",
+    "widgetalignment": 5,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.component.property.slider.Windows8SliderProperty",
+        "leftSkin": "saee009e959d421fbe80900e9030423b",
+        "render": true,
+        "rightSkin": "s0467b2e84614a59ad538283c5aca8c7"
+    }
+}

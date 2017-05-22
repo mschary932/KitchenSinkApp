@@ -1,0 +1,21 @@
+{
+    "p2kwiet9745998653600_btnInLineBrowser_onClick_seq0": {
+        "id": "p2kwiet9745998653600_btnInLineBrowser_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_220569745998655832",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "browserOptions",
+            "display": "browserOptions",
+            "inputparams": [{
+                "name": "eventObj",
+                "value": "eventobject"
+            }]
+        }]
+    }
+}

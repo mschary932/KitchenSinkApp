@@ -1,0 +1,56 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "sce875a98c70436b9ad013320f4aa2bb",
+    "_text_": "Button with rounded vertical gradient",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sce875a98c70436b9ad013320f4aa2bb",
+    "hexpand": true,
+    "id": "button117989725223638",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet974599865488",
+    "name": "kony.ui.Button",
+    "parent": "frmBtn",
+    "pf": "frmBtn",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "displayText": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPABBButtonProperty",
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            8,
+            0,
+            8
+        ],
+        "margin": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            8,
+            0,
+            8
+        ],
+        "paddingInPixel": false,
+        "render": false
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5
+}

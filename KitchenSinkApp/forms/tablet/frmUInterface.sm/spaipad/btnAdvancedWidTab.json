@@ -1,0 +1,45 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        1,
+        3,
+        0,
+        3
+    ],
+    "_skin_": "scd8b698638a4ed7adf3dbdd25d294ad",
+    "_text_": "Advanced widgets",
+    "canUpdateUI": true,
+    "containerweight": 82,
+    "contentalignment": 4,
+    "displaytext": true,
+    "focusskin": "se36cb359aa942c6949afa82c00bd33b",
+    "hexpand": true,
+    "id": "btnAdvancedWidTab",
+    "ide_onClick": "p2kwiet9745998655011_btnAdvancedWidTab_onClick_seq0",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet9745998655003",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "hbox192926642421742",
+    "pf": "frmUInterface",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "displayText": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAIPadButtonProperty",
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5
+}

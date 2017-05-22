@@ -1,0 +1,17 @@
+{
+    "p2kwiet974599865321_btnBadge_onClick_seq0": {
+        "id": "p2kwiet974599865321_btnBadge_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_805079745998652124",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "BadgeIncrease",
+            "display": "BadgeIncrease"
+        }]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        3,
+        0,
+        3
+    ],
+    "_skin_": "s6a8b1cbc7944a88a88694eefed42a45",
+    "_text_": "Get current adress",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s7dcf1c34ee24bbcbfd7c43862135750",
+    "hexpand": true,
+    "id": "button1930040990150304",
+    "ide_onClick": "p2kwiet9745998651189_button1930040990150304_onClick_seq0",
+    "info": null,
+    "isvisible": false,
+    "kuid": "p2kwiet9745998651185",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "frmGeoCurrentNWatch",
+    "pf": "frmGeoCurrentNWatch",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "displayText": true
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAAndroidButtonProperty",
+        "_margin_": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "margin": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5
+}

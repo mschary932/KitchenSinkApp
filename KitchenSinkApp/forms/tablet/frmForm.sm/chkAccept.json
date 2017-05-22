@@ -1,0 +1,112 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        1,
+        2,
+        2
+    ],
+    "_orientation_": "vertical",
+    "_padding_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_skin_": "s792c6dc7bdf49d89dfddec9318aa63c",
+    "_text_": "",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.checkbox.AndroidCheckBoxProperty",
+        "_margin_": [
+            3,
+            1,
+            3,
+            1
+        ],
+        "itemOrientation": "vertical",
+        "margin": [
+            3,
+            1,
+            3,
+            1
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "context": {
+        "channel": "mobile",
+        "formID": "BasicWidgets1",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "focusskin": "s6addb4f77e34e63a25e4c0f82fdc2db",
+    "id": "chkAccept",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.component.property.checkbox.IPadCheckBoxProperty",
+        "_margin_": [
+            1,
+            0,
+            60,
+            2
+        ],
+        "margin": [
+            1,
+            0,
+            60,
+            2
+        ],
+        "marginInPixel": false,
+        "psp": {
+            "groupCells": true,
+            "viewType": 4
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "itemorientation": "horizontal",
+    "kuid": "p2kwiet9745998653864",
+    "margininpixel": false,
+    "masterdata": [
+        [
+            "1",
+            "Accept"
+        ]
+    ],
+    "name": "kony.ui.CheckBoxGroup",
+    "paddinginpixel": false,
+    "parent": "frmForm",
+    "pf": "frmForm",
+    "selectedkey": null,
+    "selectedkeys": [],
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.checkbox.SPACheckBoxProperty",
+        "itemOrientation": "vertical"
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.component.property.checkbox.SPAAndroidTabletCheckBoxProperty",
+        "render": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.checkbox.SPAIPadCheckBoxProperty",
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.component.property.checkbox.SPAWindowsTabletCheckBoxProperty",
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "CheckBoxGroup",
+    "widgetalignment": 4,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.component.property.checkbox.Windows8CheckBoxProperty",
+        "itemOrientation": "vertical",
+        "render": true
+    }
+}

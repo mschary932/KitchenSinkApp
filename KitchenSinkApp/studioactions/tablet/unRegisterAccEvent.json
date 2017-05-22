@@ -1,0 +1,20 @@
+{
+    "unRegisterAccEvent": {
+        "id": "p2kwiet9745998651947_unRegisterAccEvent_titlebarAction",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION_unRegisterAccEvent",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "unRegisterAccEvent",
+            "display": "unRegisterAccEvent",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

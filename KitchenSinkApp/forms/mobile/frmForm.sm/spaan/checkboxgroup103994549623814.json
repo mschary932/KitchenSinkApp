@@ -1,0 +1,72 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_orientation_": "vertical",
+    "_skin_": "sd36f97b416744e0a37971e51a6152c4",
+    "_text_": "",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "context": {
+        "channel": "mobile",
+        "formID": "BasicWidgets1",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "focusskin": "sd36f97b416744e0a37971e51a6152c4",
+    "id": "checkboxgroup103994549623814",
+    "info": null,
+    "isvisible": true,
+    "itemorientation": "vertical",
+    "kuid": "p2kwiet9745998651038",
+    "masterdata": [
+        [
+            "1",
+            "Accept"
+        ]
+    ],
+    "name": "kony.ui.CheckBoxGroup",
+    "parent": "frmForm",
+    "pf": "frmForm",
+    "selectedkey": null,
+    "selectedkeys": [],
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.checkbox.SPACheckBoxProperty",
+        "itemOrientation": "vertical"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.checkbox.SPAAndroidCheckBoxProperty",
+        "_margin_": [
+            3,
+            0,
+            3,
+            3
+        ],
+        "_padding_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "margin": [
+            3,
+            0,
+            3,
+            3
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "CheckBoxGroup",
+    "widgetalignment": 4
+}

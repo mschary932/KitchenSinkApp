@@ -1,0 +1,173 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        3,
+        0,
+        3
+    ],
+    "_skin_": "s63951f35dba4a6ba64d352ee1a16efa",
+    "_text_": "Capture Image",
+    "accessmode": "public",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.camera.AndroidCameraProperty",
+        "_margin_": [
+            12,
+            12,
+            12,
+            12
+        ],
+        "accessMode": "public",
+        "compressionLevel": 0,
+        "enableOverlay": false,
+        "margin": [
+            12,
+            12,
+            12,
+            12
+        ],
+        "marginInPixel": true,
+        "overlayConfig": {
+            "tapAnywhere": false
+        },
+        "render": true
+    },
+    "canUpdateUI": true,
+    "compressionlevel": 70,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "enableoverlay": false,
+    "focusskin": "s6c869bd5cbb45bf9ee5ce2e5cd5e13b",
+    "hexpand": true,
+    "id": "cameraBasic",
+    "ide_onCapture": "p2kwiet974599865554_cameraBasic_onCapture_seq0",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.camera.IPhoneCameraProperty",
+        "_margin_": [
+            12,
+            12,
+            12,
+            12
+        ],
+        "accessMode": "inmemory",
+        "compressionLevel": 70,
+        "enableOverlay": false,
+        "margin": [
+            12,
+            12,
+            12,
+            12
+        ],
+        "marginInPixel": true,
+        "overlayConfig": {},
+        "psp": {
+            "captureOrientation": 0,
+            "imageFormat": 1,
+            "nativeUserInterface": true
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet974599865549",
+    "margininpixel": false,
+    "name": "kony.ui.Camera",
+    "paddinginpixel": false,
+    "parent": "frmCameraBasic",
+    "pf": "frmCameraBasic",
+    "scalefactor": 80,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.camera.SPACameraProperty"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.camera.SPAAndroidCameraProperty",
+        "_margin_": [
+            4,
+            4,
+            4,
+            4
+        ],
+        "margin": [
+            4,
+            4,
+            4,
+            4
+        ],
+        "marginInPixel": false,
+        "render": false
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.camera.SPABBCameraProperty",
+        "_margin_": [
+            4,
+            4,
+            4,
+            4
+        ],
+        "margin": [
+            4,
+            4,
+            4,
+            4
+        ],
+        "marginInPixel": false,
+        "render": false
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.camera.SPAIPhoneCameraProperty",
+        "_margin_": [
+            4,
+            4,
+            4,
+            4
+        ],
+        "margin": [
+            4,
+            4,
+            4,
+            4
+        ],
+        "marginInPixel": false,
+        "render": false
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.camera.SPAWinPhone8CameraProperty",
+        "render": false
+    },
+    "vexpand": false,
+    "wType": "Camera",
+    "widgetalignment": 5,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.camera.WinPhone8CameraProperty",
+        "_margin_": [
+            12,
+            12,
+            12,
+            12
+        ],
+        "accessMode": "public",
+        "enableOverlay": false,
+        "margin": [
+            12,
+            12,
+            12,
+            12
+        ],
+        "marginInPixel": true,
+        "overlayConfig": {
+            "tapAnywhere": false
+        },
+        "psp": {
+            "enableCache": false,
+            "enablePhotoCropFeature": false
+        },
+        "render": true
+    }
+}

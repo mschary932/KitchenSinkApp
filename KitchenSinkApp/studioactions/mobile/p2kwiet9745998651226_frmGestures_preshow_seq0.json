@@ -1,0 +1,19 @@
+{
+    "p2kwiet9745998651226_frmGestures_preshow_seq0": {
+        "id": "p2kwiet9745998651226_frmGestures_preshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_preshow_907839745998655447",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmGestures.imgGes.isVisible = false;"
+        }]
+    }
+}

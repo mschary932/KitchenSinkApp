@@ -1,0 +1,90 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_padding_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_skin_": "s63951f35dba4a6ba64d352ee1a16efa",
+    "_text_": "Portrait",
+    "accessmode": "public",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.camera.AndroidCameraProperty",
+        "accessMode": "public",
+        "compressionLevel": 0,
+        "enableOverlay": false,
+        "overlayConfig": {
+            "tapAnywhere": false
+        },
+        "render": true
+    },
+    "canUpdateUI": true,
+    "compressionlevel": 0,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enableoverlay": false,
+    "focusskin": "s6c869bd5cbb45bf9ee5ce2e5cd5e13b",
+    "hexpand": true,
+    "id": "camera118085056482493",
+    "ide_onCapture": "p2kwiet9745998653672_camera118085056482493_onCapture_seq0",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.component.property.camera.IPadCameraProperty",
+        "accessMode": "public",
+        "compressionLevel": 0,
+        "enableOverlay": false,
+        "overlayConfig": {},
+        "psp": {
+            "captureOrientation": 2,
+            "imageFormat": 0,
+            "nativeUserInterface": true
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet9745998653666",
+    "margininpixel": false,
+    "name": "kony.ui.Camera",
+    "paddinginpixel": false,
+    "parent": "vbox118085056482470",
+    "pf": "frmCamera",
+    "scalefactor": 80,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.camera.SPACameraProperty"
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.component.property.camera.SPAAndroidTabletCameraProperty",
+        "render": false
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.camera.SPAIPadCameraProperty",
+        "render": false
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.component.property.camera.SPAWindowsTabletCameraProperty",
+        "render": false
+    },
+    "vexpand": false,
+    "wType": "Camera",
+    "widgetalignment": 5,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.component.property.camera.Windows8CameraProperty",
+        "accessMode": "public",
+        "enableOverlay": false,
+        "overlayConfig": {
+            "tapAnywhere": false
+        },
+        "psp": {
+            "enablePhotoCropFeature": false
+        },
+        "render": true
+    }
+}

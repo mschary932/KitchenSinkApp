@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project name="KitchenSinkApp" path="/Users/ykomar/Downloads/temp/1495451862279/KitchenSinkApp-master/KitchenSinkApp">
+    <channel type="mobile">
+        <container file="frm3DObj.kl" path="forms/mobile/" name="frm3DObj" type="forms">
+            <depricatedWidgets>objectselector3D</depricatedWidgets>
+        </container>
+    </channel>
+    <channel type="tablet"/>
+    <channel type="desktop"/>
+</project>
