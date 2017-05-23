@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "s4f5729f7273450da68314a5ad59ba38",
+    "_skin_": "s041128994fd4408aa4a08a467459fc8",
     "_text_": "Button with rounded vertical split",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.button.AndroidButtonProperty",
@@ -38,7 +38,7 @@
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "sff7271058284c8b83106190ad99999a",
+    "focusskin": "sc6d2324153d40e5a0cda0a955dbccc1",
     "hexpand": true,
     "id": "button117989725223668",
     "info": null,
@@ -77,7 +77,7 @@
         "render": false
     },
     "isvisible": true,
-    "kuid": "p2kwiet974599865423",
+    "kuid": "p2kwiet1288931495423",
     "name": "kony.ui.Button",
     "parent": "frmBtn",
     "pf": "frmBtn",

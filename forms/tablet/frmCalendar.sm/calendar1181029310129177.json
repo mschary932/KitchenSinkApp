@@ -14,7 +14,7 @@
         0,
         0
     ],
-    "_skin_": "s04698269f2842ecb408d31fb0ad8ccb",
+    "_skin_": "saedb0ca107f419b892cdff7626b22a8",
     "_text_": "",
     "advview": "default",
     "android": {
@@ -66,7 +66,7 @@
         8,
         2013
     ],
-    "focusskin": "s04698269f2842ecb408d31fb0ad8ccb",
+    "focusskin": "saedb0ca107f419b892cdff7626b22a8",
     "format": "dd/MM/yyyy",
     "formatteddate": "",
     "hexpand": true,
@@ -113,7 +113,7 @@
         "viewType": "default"
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998653631",
+    "kuid": "p2kwiet12889314953631",
     "margininpixel": false,
     "name": "kony.ui.Calendar",
     "paddinginpixel": false,

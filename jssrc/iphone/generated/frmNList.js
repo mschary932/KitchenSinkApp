@@ -23,11 +23,11 @@ function addWidgetsfrmNList() {
         "id": "segFirst",
         "isVisible": true,
         "needPageIndicator": true,
-        "onRowClick": p2kwiet9745998651835_segFirst_onRowClick_seq0,
+        "onRowClick": p2kwiet12889314951835_segFirst_onRowClick_seq0,
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865179,
+        "rowTemplate": vbox1288931495179,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -110,6 +110,6 @@ function frmNListGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmNList.info = {
-        "kuid": "p2kwiet9745998651835"
+        "kuid": "p2kwiet12889314951835"
     };
 };

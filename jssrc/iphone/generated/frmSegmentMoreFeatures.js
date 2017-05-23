@@ -3,7 +3,7 @@ function addWidgetsfrmSegmentMoreFeatures() {
         "focusSkin": "btnFocus",
         "id": "button11782289566537",
         "isVisible": true,
-        "onClick": p2kwiet9745998652571_button11782289566537_onClick_seq0,
+        "onClick": p2kwiet12889314952571_button11782289566537_onClick_seq0,
         "skin": "btnNormal",
         "text": "Icon edit style"
     }, {
@@ -25,7 +25,7 @@ function addWidgetsfrmSegmentMoreFeatures() {
         "focusSkin": "btnFocus",
         "id": "button11782289566543",
         "isVisible": true,
-        "onClick": p2kwiet9745998652571_button11782289566543_onClick_seq0,
+        "onClick": p2kwiet12889314952571_button11782289566543_onClick_seq0,
         "skin": "btnNormal",
         "text": "Swipe to delete"
     }, {
@@ -47,7 +47,7 @@ function addWidgetsfrmSegmentMoreFeatures() {
         "focusSkin": "btnFocus",
         "id": "button11782289566549",
         "isVisible": true,
-        "onClick": p2kwiet9745998652571_button11782289566549_onClick_seq0,
+        "onClick": p2kwiet12889314952571_button11782289566549_onClick_seq0,
         "skin": "btnNormal",
         "text": "Pull to refresh"
     }, {
@@ -69,7 +69,7 @@ function addWidgetsfrmSegmentMoreFeatures() {
         "focusSkin": "btnFocus",
         "id": "button15633488264683",
         "isVisible": true,
-        "onClick": p2kwiet9745998652571_button15633488264683_onClick_seq0,
+        "onClick": p2kwiet12889314952571_button15633488264683_onClick_seq0,
         "skin": "btnNormal",
         "text": "On reach end"
     }, {
@@ -137,6 +137,6 @@ function frmSegmentMoreFeaturesGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmSegmentMoreFeatures.info = {
-        "kuid": "p2kwiet9745998652571"
+        "kuid": "p2kwiet12889314952571"
     };
 };

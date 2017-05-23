@@ -29,7 +29,7 @@ function addWidgetsfrmNLst2() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865181,
+        "rowTemplate": vbox1288931495181,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -112,6 +112,6 @@ function frmNLst2Globals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmNLst2.info = {
-        "kuid": "p2kwiet9745998651846"
+        "kuid": "p2kwiet12889314951846"
     };
 };

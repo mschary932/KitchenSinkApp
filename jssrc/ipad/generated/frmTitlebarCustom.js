@@ -70,6 +70,6 @@ function frmTitlebarCustomGlobals() {
         }
     });
     frmTitlebarCustom.info = {
-        "kuid": "p2kwiet9745998654870"
+        "kuid": "p2kwiet12889314954870"
     };
 };

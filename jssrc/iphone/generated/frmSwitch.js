@@ -198,6 +198,6 @@ function frmSwitchGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmSwitch.info = {
-        "kuid": "p2kwiet9745998652934"
+        "kuid": "p2kwiet12889314952934"
     };
 };

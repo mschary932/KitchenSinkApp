@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "sf0ff8f9e8d04d0d89b98ac4d374f01a",
+    "_skin_": "s280f1f598554a02acf87a4b10a7e22c",
     "_text_": "",
     "canUpdateUI": true,
     "containerweight": 70,
@@ -32,7 +32,7 @@
         "render": true
     },
     "dropdownimage": "trans1.png",
-    "focusskin": "sf0ff8f9e8d04d0d89b98ac4d374f01a",
+    "focusskin": "s280f1f598554a02acf87a4b10a7e22c",
     "hexpand": true,
     "id": "listbox118082077326807",
     "info": null,
@@ -41,7 +41,7 @@
         "@class": "com.kony.gen.viz.model.component.property.listbox.KioskListBoxProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998655470",
+    "kuid": "p2kwiet12889314955470",
     "margininpixel": false,
     "masterdata": [
         [

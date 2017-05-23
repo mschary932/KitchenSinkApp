@@ -105,7 +105,7 @@ function addWidgetsfrmSegSecHdrDock() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865343,
+        "rowTemplate": vbox1288931495343,
         "screenLevelWidget": true,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -192,6 +192,6 @@ function frmSegSecHdrDockGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmSegSecHdrDock.info = {
-        "kuid": "p2kwiet9745998654707"
+        "kuid": "p2kwiet12889314954707"
     };
 };

@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "s4db4e67481b4e38b9cd481f2c847290",
+    "_skin_": "s07e43c1df2f48ec918818b644173771",
     "_text_": "Label with Georgia font",
     "_wrapping_": 2,
     "canUpdateUI": true,
@@ -34,7 +34,7 @@
         "@class": "com.kony.gen.viz.model.component.property.label.KioskLabelProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998655412",
+    "kuid": "p2kwiet12889314955412",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

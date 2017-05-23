@@ -20,7 +20,7 @@ function addWidgetsfrmBrowser() {
         "focusSkin": "btnFocHalfRoundLeft",
         "id": "btnInlineBack",
         "isVisible": true,
-        "onClick": p2kwiet974599865365_btnInlineBack_onClick_seq0,
+        "onClick": p2kwiet1288931495365_btnInlineBack_onClick_seq0,
         "skin": "btnLeft",
         "text": "Back"
     }, {
@@ -42,7 +42,7 @@ function addWidgetsfrmBrowser() {
         "focusSkin": "btnFocHalfRound",
         "id": "btnInlineForward",
         "isVisible": true,
-        "onClick": p2kwiet974599865365_btnInlineForward_onClick_seq0,
+        "onClick": p2kwiet1288931495365_btnInlineForward_onClick_seq0,
         "skin": "btnMiddle",
         "text": "Forward"
     }, {
@@ -64,7 +64,7 @@ function addWidgetsfrmBrowser() {
         "focusSkin": "btnFocHalfRoundRight",
         "id": "btnInlineReload",
         "isVisible": true,
-        "onClick": p2kwiet974599865365_btnInlineReload_onClick_seq0,
+        "onClick": p2kwiet1288931495365_btnInlineReload_onClick_seq0,
         "skin": "btnRight",
         "text": "Reload"
     }, {
@@ -146,6 +146,6 @@ function frmBrowserGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmBrowser.info = {
-        "kuid": "p2kwiet974599865365"
+        "kuid": "p2kwiet1288931495365"
     };
 };

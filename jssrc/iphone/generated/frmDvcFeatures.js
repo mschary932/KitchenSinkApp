@@ -3,7 +3,7 @@ function addWidgetsfrmDvcFeatures() {
         "focusSkin": "btnFocus",
         "id": "button1927359800122731",
         "isVisible": true,
-        "onClick": p2kwiet974599865959_button1927359800122731_onClick_seq0,
+        "onClick": p2kwiet1288931495959_button1927359800122731_onClick_seq0,
         "skin": "btnNormal",
         "text": "Accelerometer"
     }, {
@@ -25,7 +25,7 @@ function addWidgetsfrmDvcFeatures() {
         "focusSkin": "btnFocus",
         "id": "button1927359800122741",
         "isVisible": true,
-        "onClick": p2kwiet974599865959_button1927359800122741_onClick_seq0,
+        "onClick": p2kwiet1288931495959_button1927359800122741_onClick_seq0,
         "skin": "btnNormal",
         "text": "Badge"
     }, {
@@ -47,7 +47,7 @@ function addWidgetsfrmDvcFeatures() {
         "focusSkin": "btnFocus",
         "id": "button1927359800122747",
         "isVisible": true,
-        "onClick": p2kwiet974599865959_button1927359800122747_onClick_seq0,
+        "onClick": p2kwiet1288931495959_button1927359800122747_onClick_seq0,
         "skin": "btnNormal",
         "text": "Application settings"
     }, {
@@ -69,7 +69,7 @@ function addWidgetsfrmDvcFeatures() {
         "focusSkin": "btnFocus",
         "id": "button1181029310123279",
         "isVisible": true,
-        "onClick": p2kwiet974599865959_button1181029310123279_onClick_seq0,
+        "onClick": p2kwiet1288931495959_button1181029310123279_onClick_seq0,
         "skin": "btnNormal",
         "text": "Camera"
     }, {
@@ -91,7 +91,7 @@ function addWidgetsfrmDvcFeatures() {
         "focusSkin": "btnFocus",
         "id": "button1181029310123295",
         "isVisible": true,
-        "onClick": p2kwiet974599865959_button1181029310123295_onClick_seq0,
+        "onClick": p2kwiet1288931495959_button1181029310123295_onClick_seq0,
         "skin": "btnNormal",
         "text": "GeoLocation"
     }, {
@@ -113,7 +113,7 @@ function addWidgetsfrmDvcFeatures() {
         "focusSkin": "btnFocus",
         "id": "button1181029310123301",
         "isVisible": true,
-        "onClick": p2kwiet974599865959_button1181029310123301_onClick_seq0,
+        "onClick": p2kwiet1288931495959_button1181029310123301_onClick_seq0,
         "skin": "btnNormal",
         "text": "Email"
     }, {
@@ -135,7 +135,7 @@ function addWidgetsfrmDvcFeatures() {
         "focusSkin": "btnFocus",
         "id": "button1181029310123307",
         "isVisible": true,
-        "onClick": p2kwiet974599865959_button1181029310123307_onClick_seq0,
+        "onClick": p2kwiet1288931495959_button1181029310123307_onClick_seq0,
         "skin": "btnNormal",
         "text": "Address Book"
     }, {
@@ -157,7 +157,7 @@ function addWidgetsfrmDvcFeatures() {
         "focusSkin": "btnFocus",
         "id": "button1181029310123313",
         "isVisible": true,
-        "onClick": p2kwiet974599865959_button1181029310123313_onClick_seq0,
+        "onClick": p2kwiet1288931495959_button1181029310123313_onClick_seq0,
         "skin": "btnNormal",
         "text": "SMS"
     }, {
@@ -179,7 +179,7 @@ function addWidgetsfrmDvcFeatures() {
         "focusSkin": "btnFocus",
         "id": "button1181029310123319",
         "isVisible": true,
-        "onClick": p2kwiet974599865959_button1181029310123319_onClick_seq0,
+        "onClick": p2kwiet1288931495959_button1181029310123319_onClick_seq0,
         "skin": "btnNormal",
         "text": "Device Info"
     }, {
@@ -201,7 +201,7 @@ function addWidgetsfrmDvcFeatures() {
         "focusSkin": "btnFocus",
         "id": "button1181029310123331",
         "isVisible": true,
-        "onClick": p2kwiet974599865959_button1181029310123331_onClick_seq0,
+        "onClick": p2kwiet1288931495959_button1181029310123331_onClick_seq0,
         "skin": "btnNormal",
         "text": "Local Storage"
     }, {
@@ -223,7 +223,7 @@ function addWidgetsfrmDvcFeatures() {
         "focusSkin": "btnFocus",
         "id": "button1181029310123337",
         "isVisible": true,
-        "onClick": p2kwiet974599865959_button1181029310123337_onClick_seq0,
+        "onClick": p2kwiet1288931495959_button1181029310123337_onClick_seq0,
         "skin": "btnNormal",
         "text": "WebSQL"
     }, {
@@ -245,7 +245,7 @@ function addWidgetsfrmDvcFeatures() {
         "focusSkin": "btnFocus",
         "id": "button1181029310123343",
         "isVisible": true,
-        "onClick": p2kwiet974599865959_button1181029310123343_onClick_seq0,
+        "onClick": p2kwiet1288931495959_button1181029310123343_onClick_seq0,
         "skin": "btnNormal",
         "text": "Crypto Libraries"
     }, {
@@ -267,7 +267,7 @@ function addWidgetsfrmDvcFeatures() {
         "focusSkin": "btnFocus",
         "id": "button1181029310123359",
         "isVisible": true,
-        "onClick": p2kwiet974599865959_button1181029310123359_onClick_seq0,
+        "onClick": p2kwiet1288931495959_button1181029310123359_onClick_seq0,
         "skin": "btnNormal",
         "text": "Asynchronous Data Access"
     }, {
@@ -289,7 +289,7 @@ function addWidgetsfrmDvcFeatures() {
         "focusSkin": "btnFocus",
         "id": "button1181029310123373",
         "isVisible": true,
-        "onClick": p2kwiet974599865959_button1181029310123373_onClick_seq0,
+        "onClick": p2kwiet1288931495959_button1181029310123373_onClick_seq0,
         "skin": "btnNormal",
         "text": "Calendar events"
     }, {
@@ -356,6 +356,6 @@ function frmDvcFeaturesGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmDvcFeatures.info = {
-        "kuid": "p2kwiet974599865959"
+        "kuid": "p2kwiet1288931495959"
     };
 };

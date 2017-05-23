@@ -101,7 +101,7 @@ function frmRegisterAccelerometerGlobals() {
         "enabledForIdleTimeout": false,
         "id": "frmRegisterAccelerometer",
         "needAppMenu": true,
-        "onHide": p2kwiet9745998651944_frmRegisterAccelerometer_onhide_seq0,
+        "onHide": p2kwiet12889314951944_frmRegisterAccelerometer_onhide_seq0,
         "title": "Accelerometer"
     }, {
         "displayOrientation": constants.FORM_DISPLAY_ORIENTATION_PORTRAIT,
@@ -142,6 +142,6 @@ function frmRegisterAccelerometerGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmRegisterAccelerometer.info = {
-        "kuid": "p2kwiet9745998651944"
+        "kuid": "p2kwiet12889314951944"
     };
 };

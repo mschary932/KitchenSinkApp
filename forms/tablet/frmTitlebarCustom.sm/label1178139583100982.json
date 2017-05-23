@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "s08e4f4a6c204b41b75a0911138aebb0",
+    "_skin_": "scb504f086954855812d164e1bd5f678",
     "_text_": "Look at the customized look of titlebar ( with background image and custom left/right buttons ) above.",
     "_wrapping_": 2,
     "android": {
@@ -38,7 +38,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998654869",
+    "kuid": "p2kwiet12889314954869",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

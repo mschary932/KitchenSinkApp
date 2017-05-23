@@ -7,7 +7,7 @@
         0,
         0
     ],
-    "_skin_": "s4d5ed47df0448a798a7ad104ff78d71",
+    "_skin_": "seb400f08b6b426cbfe0fb19f1158626",
     "_text_": "GROUPS",
     "_wrapping_": 2,
     "android": {
@@ -29,7 +29,7 @@
         }
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998654365",
+    "kuid": "p2kwiet12889314954365",
     "name": "kony.ui.Label",
     "paddinginpixel": false,
     "parent": "hbox192735980042887",

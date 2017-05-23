@@ -7,7 +7,7 @@
         1,
         1
     ],
-    "_skin_": "s72e7540433d4476b4e30f1c73f67807",
+    "_skin_": "sec2924dd71a479b90443e156583682e",
     "_text_": "",
     "_wrapping_": 2,
     "canUpdateUI": true,
@@ -54,7 +54,7 @@
         "marginInPixel": false,
         "render": true
     },
-    "kuid": "p2kwiet9745998655254",
+    "kuid": "p2kwiet12889314955254",
     "name": "kony.ui.Label",
     "paddinginpixel": false,
     "parent": "hbox685080434214720",

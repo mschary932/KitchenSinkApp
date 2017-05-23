@@ -14,7 +14,7 @@
         1
     ],
     "_placeholder_": "Enter Text",
-    "_skin_": "sd308946d60f4da98747084f87393421",
+    "_skin_": "sd693074fa30420c88e77807207ca30b",
     "_text_": "",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.textbox2.AndroidTextBox2Property",
@@ -35,7 +35,7 @@
     "containerheightreference": 1,
     "containerweight": 100,
     "contentalignment": 4,
-    "focusskin": "sd308946d60f4da98747084f87393421",
+    "focusskin": "sd693074fa30420c88e77807207ca30b",
     "hexpand": true,
     "id": "textfield2192735980024664",
     "info": null,
@@ -85,7 +85,7 @@
     "isvisible": true,
     "keyboardstyle": "A",
     "keyboardtype": "A",
-    "kuid": "p2kwiet9745998654853",
+    "kuid": "p2kwiet12889314954853",
     "margininpixel": false,
     "mode": "A",
     "name": "kony.ui.TextBox2",

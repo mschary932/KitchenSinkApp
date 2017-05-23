@@ -43,7 +43,7 @@ function addWidgetsfrmSegSearchView() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865341,
+        "rowTemplate": vbox1288931495341,
         "screenLevelWidget": true,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -128,6 +128,6 @@ function frmSegSearchViewGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmSegSearchView.info = {
-        "kuid": "p2kwiet9745998654697"
+        "kuid": "p2kwiet12889314954697"
     };
 };

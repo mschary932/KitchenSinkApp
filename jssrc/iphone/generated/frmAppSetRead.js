@@ -126,7 +126,7 @@ function addWidgetsfrmAppSetRead() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865129,
+        "rowTemplate": vbox1288931495129,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -207,6 +207,6 @@ function frmAppSetReadGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmAppSetRead.info = {
-        "kuid": "p2kwiet974599865273"
+        "kuid": "p2kwiet1288931495273"
     };
 };

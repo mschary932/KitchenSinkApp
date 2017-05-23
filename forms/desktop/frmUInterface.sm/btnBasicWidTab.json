@@ -13,7 +13,7 @@
         0,
         3
     ],
-    "_skin_": "scd8b698638a4ed7adf3dbdd25d294ad",
+    "_skin_": "s706760a68174093be1e1377f9a77f2b",
     "_text_": "Basic widgets",
     "canUpdateUI": true,
     "containerweight": 85,
@@ -24,17 +24,17 @@
         "render": true
     },
     "displaytext": true,
-    "focusskin": "scd8b698638a4ed7adf3dbdd25d294ad",
+    "focusskin": "s706760a68174093be1e1377f9a77f2b",
     "hexpand": true,
     "id": "btnBasicWidTab",
-    "ide_onClick": "p2kwiet9745998655868_btnBasicWidTab_onClick_seq0",
+    "ide_onClick": "p2kwiet12889314955868_btnBasicWidTab_onClick_seq0",
     "info": null,
     "isvisible": true,
     "kiosk": {
         "@class": "com.kony.gen.viz.model.component.property.button.KioskButtonProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998655855",
+    "kuid": "p2kwiet12889314955855",
     "margininpixel": false,
     "name": "kony.ui.Button",
     "paddinginpixel": false,

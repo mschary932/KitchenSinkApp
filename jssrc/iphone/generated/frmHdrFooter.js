@@ -107,6 +107,6 @@ function frmHdrFooterGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmHdrFooter.info = {
-        "kuid": "p2kwiet9745998651263"
+        "kuid": "p2kwiet12889314951263"
     };
 };

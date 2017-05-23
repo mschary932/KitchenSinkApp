@@ -7,7 +7,7 @@
         0,
         0
     ],
-    "_skin_": "sc3e064209b94761b175f99769662244",
+    "_skin_": "s9daa39f9c9b4d49a387d0a00e4b6317",
     "_text_": "",
     "_thickness_": 1,
     "canUpdateUI": true,
@@ -25,7 +25,7 @@
         "@class": "com.kony.gen.viz.model.component.property.line.KioskLineProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998655368",
+    "kuid": "p2kwiet12889314955368",
     "margininpixel": false,
     "name": "kony.ui.Line",
     "parent": "vbox118290614361940",

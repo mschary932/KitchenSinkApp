@@ -13,7 +13,7 @@
         0,
         0
     ],
-    "_skin_": "sb3af36433f04064b137408e88d13542",
+    "_skin_": "s27285c1a630442880f9be871bc171db",
     "_title_": "User interface",
     "addWidgetsdone": false,
     "allboxes": [],
@@ -35,7 +35,7 @@
             "showActionBar": true,
             "showActionBarIcon": true,
             "titleBar": true,
-            "titleBarSkin": "sff9552856fc46c88ded7f22a1a6db9f",
+            "titleBarSkin": "sefd3386b41842d69d3027fb5c62adbf",
             "windowSoftInputMode": 1
         },
         "render": true
@@ -51,8 +51,8 @@
     "footeroverlap": false,
     "headeroverlap": false,
     "id": "frmUInterface",
-    "ide_postShow": "p2kwiet9745998654930_frmUInterface_postshow_seq0",
-    "ide_preShow": "p2kwiet9745998654930_frmUInterface_preshow_seq0",
+    "ide_postShow": "p2kwiet12889314954930_frmUInterface_postshow_seq0",
+    "ide_preShow": "p2kwiet12889314954930_frmUInterface_preshow_seq0",
     "info": null,
     "initdone": false,
     "intransitionconfig": {
@@ -89,7 +89,7 @@
         }
     },
     "templateType": "forms",
-    "titleBarSkin": "s0b46d97067d45c29179d97c1e6cbbdc",
+    "titleBarSkin": "s451cd155d3649ac9e2793e49e50285d",
     "titlebar": true,
     "transparencybehindthepopup": 100,
     "type": 3,

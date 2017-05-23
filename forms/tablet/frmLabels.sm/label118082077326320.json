@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "s730e363d7724b3eb948579456da1baf",
+    "_skin_": "s742c3f170d84a779218aa0e32b14097",
     "_text_": "Label with Courier font",
     "_wrapping_": 2,
     "android": {
@@ -38,7 +38,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998654108",
+    "kuid": "p2kwiet12889314954108",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

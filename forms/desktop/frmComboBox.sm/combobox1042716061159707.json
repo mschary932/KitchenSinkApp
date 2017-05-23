@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "se3cb1d51f54449dbb9cf67febc6be40",
+    "_skin_": "sb58f3b403184270838b63453512147c",
     "_text_": "",
     "canUpdateUI": true,
     "containerweight": 70,
@@ -26,7 +26,7 @@
         },
         "render": true
     },
-    "focusskin": "se3cb1d51f54449dbb9cf67febc6be40",
+    "focusskin": "sb58f3b403184270838b63453512147c",
     "hexpand": true,
     "id": "combobox1042716061159707",
     "info": null,
@@ -35,7 +35,7 @@
         "@class": "com.kony.gen.viz.model.component.property.combobox.KioskComboBoxProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998655158",
+    "kuid": "p2kwiet12889314955158",
     "margininpixel": false,
     "masterdata": [
         [

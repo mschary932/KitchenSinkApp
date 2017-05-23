@@ -13,7 +13,7 @@
         0,
         0
     ],
-    "_skin_": "s6b4fbe020324641a8d9ef8171c2ed9f",
+    "_skin_": "s551ea4f32974467a5ba37bba55ce39b",
     "_text_": "Platinum Account  PA12345",
     "_wrapping_": 2,
     "android": {
@@ -36,7 +36,7 @@
         }
     },
     "isvisible": true,
-    "kuid": "p2kwiet974599865675",
+    "kuid": "p2kwiet1288931495675",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

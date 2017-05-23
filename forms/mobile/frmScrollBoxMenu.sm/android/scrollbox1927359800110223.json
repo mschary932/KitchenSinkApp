@@ -5,7 +5,7 @@
     "_percent_": true,
     "_position_": 3,
     "_resize_": true,
-    "_skin_": "s0dc3b34e1b24706a2ce733aa9422b0b",
+    "_skin_": "sf8134b8e8fe4caeac5c538a24e3d97d",
     "allboxes": [],
     "android": {
         "@class": "com.kony.gen.viz.model.container.property.scrollbox.AndroidScrollBoxProperty",
@@ -43,7 +43,7 @@
     "id": "scrollbox1927359800110223",
     "info": null,
     "isvisible": true,
-    "kuid": "p2kwiet9745998652115",
+    "kuid": "p2kwiet12889314952115",
     "layoutalignment": 3,
     "name": "kony.ui.ScrollBox",
     "parent": "hbox1927359800108588",

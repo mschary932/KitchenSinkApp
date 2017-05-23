@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "s5a532e0408d4cf982beb66f3e51b9ec",
+    "_skin_": "s2b524a7e9a8435684eec2c225c89957",
     "_text_": "Label with Comic Sans font",
     "_wrapping_": 2,
     "canUpdateUI": true,
@@ -34,7 +34,7 @@
         "@class": "com.kony.gen.viz.model.component.property.label.KioskLabelProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998655418",
+    "kuid": "p2kwiet12889314955418",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

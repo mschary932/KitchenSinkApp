@@ -90,6 +90,6 @@ function frmRichTextGlobals() {
         "titleBar": true
     });
     frmRichText.info = {
-        "kuid": "p2kwiet9745998654266"
+        "kuid": "p2kwiet12889314954266"
     };
 };

@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "sf37b0edc0fb475aaf9243e676b7890c",
+    "_skin_": "sa193a8005e4466f8b1df85567b0c5c7",
     "_text_": "123-456-7890",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.call.AndroidCallProperty",
@@ -36,7 +36,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
-    "focusskin": "s96dacc7e68f479a88d1756e84e7bd1d",
+    "focusskin": "sacd344006e54812b866f5fc8415080c",
     "hexpand": true,
     "id": "phone192735980025729",
     "info": null,
@@ -71,7 +71,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998651856",
+    "kuid": "p2kwiet12889314951856",
     "name": "kony.ui.Phone",
     "parent": "frmPhn",
     "pf": "frmPhn",

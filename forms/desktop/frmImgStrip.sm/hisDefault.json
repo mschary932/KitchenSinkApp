@@ -39,7 +39,7 @@
         0,
         0
     ],
-    "_skin_": "scf8bca7cc7f411d973e6ba51d832029",
+    "_skin_": "sd472b85fabb422ebe3dcf368f472376",
     "_text_": "HImageStrip2",
     "arrowconfig": {
         "leftArrowFocusImage": "",
@@ -67,7 +67,7 @@
     "focuseditem": null,
     "hexpand": true,
     "id": "hisDefault",
-    "ide_onSelection": "p2kwiet9745998655408_hisDefault_onSelection_seq0",
+    "ide_onSelection": "p2kwiet12889314955408_hisDefault_onSelection_seq0",
     "imagescalemode": 1,
     "info": null,
     "isvisible": true,
@@ -76,7 +76,7 @@
         "render": true,
         "spaceBetweenImages": 0
     },
-    "kuid": "p2kwiet9745998655399",
+    "kuid": "p2kwiet12889314955399",
     "margininpixel": false,
     "masterdata": [],
     "name": "kony.ui.HorizontalImageStrip2",

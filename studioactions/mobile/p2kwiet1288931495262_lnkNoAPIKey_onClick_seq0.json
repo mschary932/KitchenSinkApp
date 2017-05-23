@@ -1,0 +1,17 @@
+{
+    "p2kwiet1288931495262_lnkNoAPIKey_onClick_seq0": {
+        "id": "p2kwiet1288931495262_lnkNoAPIKey_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_4793612889314959537",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "requestAPiKey",
+            "display": "requestAPiKey"
+        }]
+    }
+}

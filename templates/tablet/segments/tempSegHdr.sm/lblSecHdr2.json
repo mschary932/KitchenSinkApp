@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "sf59d15a8fbf4843a7bbfd3505c56d0c",
+    "_skin_": "s0631d811fed4e1396800cda510af6ef",
     "_text_": "Label",
     "_wrapping_": 2,
     "android": {
@@ -78,7 +78,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998656191",
+    "kuid": "p2kwiet12889314956191",
     "name": "kony.ui.Label",
     "parent": "vbox120944992024383",
     "pf": "tempSegHdr",

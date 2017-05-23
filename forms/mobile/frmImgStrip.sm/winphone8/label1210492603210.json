@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "s8777b0e57ae40e89c04e2d0a1c97623",
+    "_skin_": "s18012621d8d4e9ba70ef4988f4c365e",
     "_text_": "Slot View",
     "_wrapping_": 2,
     "canUpdateUI": true,
@@ -16,7 +16,7 @@
         }
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998651522",
+    "kuid": "p2kwiet12889314951522",
     "name": "kony.ui.Label",
     "parent": "frmImgStrip",
     "pf": "frmImgStrip",

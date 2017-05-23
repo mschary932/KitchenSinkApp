@@ -14,7 +14,7 @@
         1,
         1
     ],
-    "_skin_": "safd93c4527241e3ac2673538316adcd",
+    "_skin_": "sb6e75550f1948fd98eec218c7315fd4",
     "_src_": "kony_logo.png",
     "_text_": "kony_logo.png",
     "android": {
@@ -62,7 +62,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998654225",
+    "kuid": "p2kwiet12889314954225",
     "margininpixel": false,
     "name": "kony.ui.Image2",
     "paddinginpixel": false,

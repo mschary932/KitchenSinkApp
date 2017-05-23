@@ -67,7 +67,7 @@ function addWidgetsfrmCrypto() {
         "focusSkin": "btnFocus",
         "id": "button1930040990147649",
         "isVisible": true,
-        "onClick": p2kwiet974599865761_button1930040990147649_onClick_seq0,
+        "onClick": p2kwiet1288931495761_button1930040990147649_onClick_seq0,
         "skin": "btnNormal",
         "text": "Encrypt"
     }, {
@@ -142,7 +142,7 @@ function addWidgetsfrmCrypto() {
         "focusSkin": "btnFocus",
         "id": "button1930040990147720",
         "isVisible": true,
-        "onClick": p2kwiet974599865761_button1930040990147720_onClick_seq0,
+        "onClick": p2kwiet1288931495761_button1930040990147720_onClick_seq0,
         "skin": "btnNormal",
         "text": "Decrypt"
     }, {
@@ -248,7 +248,7 @@ function addWidgetsfrmCrypto() {
         "focusSkin": "btnFocus",
         "id": "button1930040990150784",
         "isVisible": true,
-        "onClick": p2kwiet974599865761_button1930040990150784_onClick_seq0,
+        "onClick": p2kwiet1288931495761_button1930040990150784_onClick_seq0,
         "skin": "btnNormal",
         "text": "Generate hash value (MD2 algo)"
     }, {
@@ -354,7 +354,7 @@ function addWidgetsfrmCrypto() {
         "focusSkin": "btnFocus",
         "id": "button1930040990151288",
         "isVisible": true,
-        "onClick": p2kwiet974599865761_button1930040990151288_onClick_seq0,
+        "onClick": p2kwiet1288931495761_button1930040990151288_onClick_seq0,
         "skin": "btnNormal",
         "text": "Generate hash value (MD4 algo)"
     }, {
@@ -460,7 +460,7 @@ function addWidgetsfrmCrypto() {
         "focusSkin": "btnFocus",
         "id": "button1930040990151315",
         "isVisible": true,
-        "onClick": p2kwiet974599865761_button1930040990151315_onClick_seq0,
+        "onClick": p2kwiet1288931495761_button1930040990151315_onClick_seq0,
         "skin": "btnNormal",
         "text": "Generate hash value (MD5 algo)"
     }, {
@@ -508,7 +508,7 @@ function frmCryptoGlobals() {
         "enabledForIdleTimeout": false,
         "id": "frmCrypto",
         "needAppMenu": true,
-        "preShow": p2kwiet974599865761_frmCrypto_preshow_seq0,
+        "preShow": p2kwiet1288931495761_frmCrypto_preshow_seq0,
         "skin": "frm",
         "title": "Crypto"
     }, {
@@ -549,6 +549,6 @@ function frmCryptoGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmCrypto.info = {
-        "kuid": "p2kwiet974599865761"
+        "kuid": "p2kwiet1288931495761"
     };
 };

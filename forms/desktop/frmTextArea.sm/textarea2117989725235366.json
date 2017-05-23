@@ -15,7 +15,7 @@
     ],
     "_placeholder_": "Enter text",
     "_render_": true,
-    "_skin_": "sacaa23e5cec4960b0f0247f692943f4",
+    "_skin_": "s744d8a19d914a019e21bafbbac442c7",
     "_text_": "",
     "autocapitalize": "none",
     "autocomplete": false,
@@ -29,7 +29,7 @@
         "@class": "com.kony.gen.viz.model.component.property.textarea2.DesktopWebTextArea2Property",
         "render": true
     },
-    "focusskin": "sacaa23e5cec4960b0f0247f692943f4",
+    "focusskin": "s744d8a19d914a019e21bafbbac442c7",
     "hexpand": true,
     "id": "textarea2117989725235366",
     "info": null,
@@ -41,7 +41,7 @@
         "@class": "com.kony.gen.viz.model.component.property.textarea2.KioskTextArea2Property",
         "render": true
     },
-    "kuid": "p2kwiet9745998655811",
+    "kuid": "p2kwiet12889314955811",
     "margininpixel": false,
     "mode": "A",
     "name": "kony.ui.TextArea2",

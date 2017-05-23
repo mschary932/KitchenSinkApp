@@ -13,7 +13,7 @@
         0,
         0
     ],
-    "_skin_": "s1008d6e7f184e0981d3cba09bcc4f26",
+    "_skin_": "s446e1728175409f82f02f094e3b65d8",
     "_title_": "Animations",
     "addWidgetsdone": false,
     "allboxes": [],
@@ -48,7 +48,7 @@
     "enabledforidletimeout": false,
     "footeroverlap": false,
     "headeroverlap": false,
-    "headersId": "p2kwiet9745998655998",
+    "headersId": "p2kwiet12889314955998",
     "id": "frmAnimations",
     "info": null,
     "initdone": false,
@@ -71,7 +71,7 @@
         },
         "render": true
     },
-    "kuid": "p2kwiet9745998655082",
+    "kuid": "p2kwiet12889314955082",
     "layouttype": 0,
     "margininpixel": false,
     "menuposition": 2,
@@ -95,7 +95,7 @@
         }
     },
     "templateType": "forms",
-    "titleBarSkin": "s0b46d97067d45c29179d97c1e6cbbdc",
+    "titleBarSkin": "s451cd155d3649ac9e2793e49e50285d",
     "titlebar": true,
     "transparencybehindthepopup": 100,
     "type": 3,

@@ -7,7 +7,7 @@
         0,
         0
     ],
-    "_skin_": "sade9b9c3eec4383a009af06c6554f53",
+    "_skin_": "s362bcd4c594499abe9e3ebbb93bdfea",
     "_text_": "Vikas Malhotra",
     "_wrapping_": 2,
     "android": {
@@ -45,7 +45,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998652046",
+    "kuid": "p2kwiet12889314952046",
     "name": "kony.ui.Label",
     "paddinginpixel": false,
     "parent": "hbox192735980042706",

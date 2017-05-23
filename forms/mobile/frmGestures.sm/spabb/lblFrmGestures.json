@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "s08e4f4a6c204b41b75a0911138aebb0",
+    "_skin_": "scb504f086954855812d164e1bd5f678",
     "_text_": "Perform Double Tap,Swipe and Longpress  gestures in this form",
     "_wrapping_": 2,
     "canUpdateUI": true,
@@ -16,7 +16,7 @@
         }
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998651252",
+    "kuid": "p2kwiet12889314951252",
     "name": "kony.ui.Label",
     "parent": "frmGestures",
     "pf": "frmGestures",

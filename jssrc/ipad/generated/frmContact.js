@@ -35,7 +35,7 @@ function addWidgetsfrmContact() {
         "focusSkin": "btnFocus",
         "id": "button1930040990148062",
         "isVisible": true,
-        "onClick": p2kwiet9745998653721_button1930040990148062_onClick_seq0,
+        "onClick": p2kwiet12889314953721_button1930040990148062_onClick_seq0,
         "skin": "btnNormal",
         "text": "Add contact"
     }, {
@@ -57,7 +57,7 @@ function addWidgetsfrmContact() {
         "focusSkin": "btnFocus",
         "id": "button1930040990148072",
         "isVisible": true,
-        "onClick": p2kwiet9745998653721_button1930040990148072_onClick_seq0,
+        "onClick": p2kwiet12889314953721_button1930040990148072_onClick_seq0,
         "skin": "btnNormal",
         "text": "Find contact"
     }, {
@@ -79,7 +79,7 @@ function addWidgetsfrmContact() {
         "focusSkin": "btnFocus",
         "id": "button1930040990148078",
         "isVisible": true,
-        "onClick": p2kwiet9745998653721_button1930040990148078_onClick_seq0,
+        "onClick": p2kwiet12889314953721_button1930040990148078_onClick_seq0,
         "skin": "btnNormal",
         "text": "Remove contact"
     }, {
@@ -156,6 +156,6 @@ function frmContactGlobals() {
         "titleBar": true
     });
     frmContact.info = {
-        "kuid": "p2kwiet9745998653721"
+        "kuid": "p2kwiet12889314953721"
     };
 };

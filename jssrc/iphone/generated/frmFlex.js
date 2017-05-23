@@ -254,8 +254,8 @@ function frmFlexGlobals() {
         "layoutType": kony.flex.FREE_FORM,
         "needAppMenu": true,
         "pagingEnabled": false,
-        "postShow": p2kwiet974599865983_frmFlex_postshow_seq0,
-        "preShow": p2kwiet974599865983_frmFlex_preshow_seq0,
+        "postShow": p2kwiet1288931495983_frmFlex_postshow_seq0,
+        "preShow": p2kwiet1288931495983_frmFlex_preshow_seq0,
         "skin": "frm",
         "title": "Flex Form",
         "verticalScrollIndicator": true
@@ -297,6 +297,6 @@ function frmFlexGlobals() {
         "zoomScale": 1
     });
     frmFlex.info = {
-        "kuid": "p2kwiet974599865983"
+        "kuid": "p2kwiet1288931495983"
     };
 };

@@ -323,6 +323,6 @@ function frmTxtAreaGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmTxtArea.info = {
-        "kuid": "p2kwiet9745998653218"
+        "kuid": "p2kwiet12889314953218"
     };
 };

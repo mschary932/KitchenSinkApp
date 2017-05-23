@@ -13,7 +13,7 @@
         0,
         0
     ],
-    "_skin_": "sa845488d5554d5e8796bf30b67d25cc",
+    "_skin_": "s70c7f26ac9b4296a85723b3f14b48b5",
     "_text_": "",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.textbox2.AndroidTextBox2Property",
@@ -34,16 +34,16 @@
     "containerheightreference": 1,
     "containerweight": 100,
     "contentalignment": 4,
-    "focusskin": "sa13af17b0de47e3aa8f425d88888c19",
+    "focusskin": "s2bd9becc641403fb557c588854e986f",
     "hexpand": true,
     "id": "tbxSearchORE",
-    "ide_onTextChange": "p2kwiet9745998655985_tbxSearchORE_onTextChange_seq0",
+    "ide_onTextChange": "p2kwiet12889314955985_tbxSearchORE_onTextChange_seq0",
     "info": null,
     "ipad": {
         "@class": "com.kony.gen.viz.model.component.property.textbox2.IPadTextBox2Property",
         "autoCorrect": false,
         "containerHeightMode": 1,
-        "ide_onBeginEditing": "p2kwiet9745998655985_tbxSearchORE_iPad_onBeginEditing_seq0",
+        "ide_onBeginEditing": "p2kwiet12889314955985_tbxSearchORE_iPad_onBeginEditing_seq0",
         "psp": {
             "keyboardActionLabel": 1,
             "pasteboardType": 1,
@@ -86,7 +86,7 @@
     "isvisible": true,
     "keyboardstyle": "A",
     "keyboardtype": "A",
-    "kuid": "p2kwiet9745998655983",
+    "kuid": "p2kwiet12889314955983",
     "margininpixel": false,
     "mode": "A",
     "name": "kony.ui.TextBox2",

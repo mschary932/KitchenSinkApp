@@ -56,7 +56,7 @@ function addWidgetsfrmCamera() {
         "focusSkin": "camFocus",
         "id": "camBasic",
         "isVisible": true,
-        "onCapture": p2kwiet9745998653672_camBasic_onCapture_seq0,
+        "onCapture": p2kwiet12889314953672_camBasic_onCapture_seq0,
         "scaleFactor": 80,
         "skin": "camNormal",
         "text": "Capture image"
@@ -153,7 +153,7 @@ function addWidgetsfrmCamera() {
         "focusSkin": "camFocus",
         "id": "camFrmOverlay",
         "isVisible": true,
-        "onCapture": p2kwiet9745998653672_camFrmOverlay_onCapture_seq0,
+        "onCapture": p2kwiet12889314953672_camFrmOverlay_onCapture_seq0,
         "scaleFactor": 80,
         "skin": "camNormal",
         "text": "Capture image"
@@ -252,7 +252,7 @@ function addWidgetsfrmCamera() {
         "focusSkin": "camFocus",
         "id": "camera118085056482412",
         "isVisible": true,
-        "onCapture": p2kwiet9745998653672_camera118085056482412_onCapture_seq0,
+        "onCapture": p2kwiet12889314953672_camera118085056482412_onCapture_seq0,
         "scaleFactor": 80,
         "skin": "camNormal",
         "text": "Public mode"
@@ -295,7 +295,7 @@ function addWidgetsfrmCamera() {
         "focusSkin": "camFocus",
         "id": "camera118085056482432",
         "isVisible": true,
-        "onCapture": p2kwiet9745998653672_camera118085056482432_onCapture_seq0,
+        "onCapture": p2kwiet12889314953672_camera118085056482432_onCapture_seq0,
         "scaleFactor": 80,
         "skin": "camNormal",
         "text": "Private mode"
@@ -338,7 +338,7 @@ function addWidgetsfrmCamera() {
         "focusSkin": "camFocus",
         "id": "camera118085056482452",
         "isVisible": true,
-        "onCapture": p2kwiet9745998653672_camera118085056482452_onCapture_seq0,
+        "onCapture": p2kwiet12889314953672_camera118085056482452_onCapture_seq0,
         "scaleFactor": 80,
         "skin": "camNormal",
         "text": "In memory mode"
@@ -435,7 +435,7 @@ function addWidgetsfrmCamera() {
         "focusSkin": "camFocus",
         "id": "camera118085056482493",
         "isVisible": true,
-        "onCapture": p2kwiet9745998653672_camera118085056482493_onCapture_seq0,
+        "onCapture": p2kwiet12889314953672_camera118085056482493_onCapture_seq0,
         "scaleFactor": 80,
         "skin": "camNormal",
         "text": "Portrait"
@@ -478,7 +478,7 @@ function addWidgetsfrmCamera() {
         "focusSkin": "camFocus",
         "id": "camera118085056482513",
         "isVisible": true,
-        "onCapture": p2kwiet9745998653672_camera118085056482513_onCapture_seq0,
+        "onCapture": p2kwiet12889314953672_camera118085056482513_onCapture_seq0,
         "scaleFactor": 80,
         "skin": "camNormal",
         "text": "Landscape"
@@ -557,6 +557,6 @@ function frmCameraGlobals() {
         "titleBar": true
     });
     frmCamera.info = {
-        "kuid": "p2kwiet9745998653672"
+        "kuid": "p2kwiet12889314953672"
     };
 };

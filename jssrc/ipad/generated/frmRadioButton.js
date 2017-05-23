@@ -368,6 +368,6 @@ function frmRadioButtonGlobals() {
         "titleBar": true
     });
     frmRadioButton.info = {
-        "kuid": "p2kwiet9745998654260"
+        "kuid": "p2kwiet12889314954260"
     };
 };

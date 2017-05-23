@@ -35,7 +35,7 @@ function addWidgetsfrmFormOptions() {
         "focusSkin": "btnFocus",
         "id": "button193203698710976",
         "isVisible": true,
-        "onClick": p2kwiet9745998653883_button193203698710976_onClick_seq0,
+        "onClick": p2kwiet12889314953883_button193203698710976_onClick_seq0,
         "skin": "btnNormal",
         "text": "Form with widgets"
     }, {
@@ -57,7 +57,7 @@ function addWidgetsfrmFormOptions() {
         "focusSkin": "btnFocus",
         "id": "button193203698710986",
         "isVisible": true,
-        "onClick": p2kwiet9745998653883_button193203698710986_onClick_seq0,
+        "onClick": p2kwiet12889314953883_button193203698710986_onClick_seq0,
         "skin": "btnNormal",
         "text": "Form with image background"
     }, {
@@ -79,7 +79,7 @@ function addWidgetsfrmFormOptions() {
         "focusSkin": "btnFocus",
         "id": "button193203698710992",
         "isVisible": true,
-        "onClick": p2kwiet9745998653883_button193203698710992_onClick_seq0,
+        "onClick": p2kwiet12889314953883_button193203698710992_onClick_seq0,
         "skin": "btnNormal",
         "text": "Form with header & footer"
     }, {
@@ -101,7 +101,7 @@ function addWidgetsfrmFormOptions() {
         "focusSkin": "btnFocus",
         "id": "button193203698710998",
         "isVisible": true,
-        "onClick": p2kwiet9745998653883_button193203698710998_onClick_seq0,
+        "onClick": p2kwiet12889314953883_button193203698710998_onClick_seq0,
         "skin": "btnNormal",
         "text": "Form with titlebar skin"
     }, {
@@ -123,7 +123,7 @@ function addWidgetsfrmFormOptions() {
         "focusSkin": "btnFocus",
         "id": "button193203698711004",
         "isVisible": true,
-        "onClick": p2kwiet9745998653883_button193203698711004_onClick_seq0,
+        "onClick": p2kwiet12889314953883_button193203698711004_onClick_seq0,
         "skin": "btnNormal",
         "text": "ShowLoadingScreen(center)"
     }, {
@@ -145,7 +145,7 @@ function addWidgetsfrmFormOptions() {
         "focusSkin": "btnFocus",
         "id": "button193203698711010",
         "isVisible": true,
-        "onClick": p2kwiet9745998653883_button193203698711010_onClick_seq0,
+        "onClick": p2kwiet12889314953883_button193203698711010_onClick_seq0,
         "skin": "btnNormal",
         "text": "ShowLoadingScreen(full screen)"
     }, {
@@ -167,7 +167,7 @@ function addWidgetsfrmFormOptions() {
         "focusSkin": "btnFocus",
         "id": "button193203698711026",
         "isVisible": true,
-        "onClick": p2kwiet9745998653883_button193203698711026_onClick_seq0,
+        "onClick": p2kwiet12889314953883_button193203698711026_onClick_seq0,
         "skin": "btnNormal",
         "text": "Gestures"
     }, {
@@ -189,7 +189,7 @@ function addWidgetsfrmFormOptions() {
         "focusSkin": "btnFocus",
         "id": "button193203698711042",
         "isVisible": true,
-        "onClick": p2kwiet9745998653883_button193203698711042_onClick_seq0,
+        "onClick": p2kwiet12889314953883_button193203698711042_onClick_seq0,
         "skin": "btnNormal",
         "text": "Popup anchoring"
     }, {
@@ -248,6 +248,6 @@ function frmFormOptionsGlobals() {
         "titleBar": true
     });
     frmFormOptions.info = {
-        "kuid": "p2kwiet9745998653883"
+        "kuid": "p2kwiet12889314953883"
     };
 };

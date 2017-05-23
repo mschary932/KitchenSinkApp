@@ -3,7 +3,7 @@ function addWidgetsfrmBrowserOptions() {
         "focusSkin": "btnFocus",
         "id": "btnStaticHTML",
         "isVisible": true,
-        "onClick": p2kwiet974599865410_btnStaticHTML_onClick_seq0,
+        "onClick": p2kwiet1288931495410_btnStaticHTML_onClick_seq0,
         "skin": "btnNormal",
         "text": "Browser with static content"
     }, {
@@ -25,7 +25,7 @@ function addWidgetsfrmBrowserOptions() {
         "focusSkin": "btnFocus",
         "id": "btnDynamicURL",
         "isVisible": true,
-        "onClick": p2kwiet974599865410_btnDynamicURL_onClick_seq0,
+        "onClick": p2kwiet1288931495410_btnDynamicURL_onClick_seq0,
         "skin": "btnNormal",
         "text": "Browser with dynamic content"
     }, {
@@ -47,7 +47,7 @@ function addWidgetsfrmBrowserOptions() {
         "focusSkin": "btnFocus",
         "id": "btnInLineBrowser",
         "isVisible": true,
-        "onClick": p2kwiet974599865410_btnInLineBrowser_onClick_seq0,
+        "onClick": p2kwiet1288931495410_btnInLineBrowser_onClick_seq0,
         "skin": "btnNormal",
         "text": "Browser with inline Navigation"
     }, {
@@ -69,7 +69,7 @@ function addWidgetsfrmBrowserOptions() {
         "focusSkin": "btnFocus",
         "id": "button192840248542398",
         "isVisible": true,
-        "onClick": p2kwiet974599865410_button192840248542398_onClick_seq0,
+        "onClick": p2kwiet1288931495410_button192840248542398_onClick_seq0,
         "skin": "btnNormal",
         "text": "Detect Telephone numbers"
     }, {
@@ -91,7 +91,7 @@ function addWidgetsfrmBrowserOptions() {
         "focusSkin": "btnFocus",
         "id": "button192840248542498",
         "isVisible": true,
-        "onClick": p2kwiet974599865410_button192840248542498_onClick_seq0,
+        "onClick": p2kwiet1288931495410_button192840248542498_onClick_seq0,
         "skin": "btnNormal",
         "text": "Enable Zoom property of Browser"
     }, {
@@ -119,7 +119,7 @@ function frmBrowserOptionsGlobals() {
         "enabledForIdleTimeout": false,
         "id": "frmBrowserOptions",
         "needAppMenu": true,
-        "preShow": p2kwiet974599865410_frmBrowserOptions_preshow_seq0,
+        "preShow": p2kwiet1288931495410_frmBrowserOptions_preshow_seq0,
         "title": "Browser"
     }, {
         "displayOrientation": constants.FORM_DISPLAY_ORIENTATION_PORTRAIT,
@@ -159,6 +159,6 @@ function frmBrowserOptionsGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmBrowserOptions.info = {
-        "kuid": "p2kwiet974599865410"
+        "kuid": "p2kwiet1288931495410"
     };
 };

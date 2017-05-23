@@ -54,7 +54,7 @@ function addWidgetsfrmLink() {
         "focusSkin": "lnkFocus",
         "id": "link117709689852615",
         "isVisible": true,
-        "onClick": p2kwiet9745998654135_link117709689852615_onClick_seq0,
+        "onClick": p2kwiet12889314954135_link117709689852615_onClick_seq0,
         "skin": "lnkNormal",
         "text": "Welcome to Kony"
     }, {
@@ -93,7 +93,7 @@ function addWidgetsfrmLink() {
         "focusSkin": "linkBckColFoc",
         "id": "link1181029310129233",
         "isVisible": true,
-        "onClick": p2kwiet9745998654135_link1181029310129233_onClick_seq0,
+        "onClick": p2kwiet12889314954135_link1181029310129233_onClick_seq0,
         "skin": "linkSkn",
         "text": "Welcome to Kony"
     }, {
@@ -132,7 +132,7 @@ function addWidgetsfrmLink() {
         "focusSkin": "linkVertiGradFoc",
         "id": "link1181029310129249",
         "isVisible": true,
-        "onClick": p2kwiet9745998654135_link1181029310129249_onClick_seq0,
+        "onClick": p2kwiet12889314954135_link1181029310129249_onClick_seq0,
         "skin": "lnkVertiGrad",
         "text": "Welcome to Kony"
     }, {
@@ -171,7 +171,7 @@ function addWidgetsfrmLink() {
         "focusSkin": "LinkVertiSplitFoc",
         "id": "link1181029310129279",
         "isVisible": true,
-        "onClick": p2kwiet9745998654135_link1181029310129279_onClick_seq0,
+        "onClick": p2kwiet12889314954135_link1181029310129279_onClick_seq0,
         "skin": "lnkVertiSplit",
         "text": "Welcome to Kony"
     }, {
@@ -210,7 +210,7 @@ function addWidgetsfrmLink() {
         "focusSkin": "linkSknFoc",
         "id": "link1181029310129295",
         "isVisible": true,
-        "onClick": p2kwiet9745998654135_link1181029310129295_onClick_seq0,
+        "onClick": p2kwiet12889314954135_link1181029310129295_onClick_seq0,
         "skin": "linkImage",
         "text": "Welcome to Kony"
     }, {
@@ -267,6 +267,6 @@ function frmLinkGlobals() {
         "titleBar": true
     });
     frmLink.info = {
-        "kuid": "p2kwiet9745998654135"
+        "kuid": "p2kwiet12889314954135"
     };
 };

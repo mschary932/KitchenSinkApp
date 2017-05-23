@@ -3,7 +3,7 @@ function addWidgetsfrmTabs() {
         "focusSkin": "btnFocus",
         "id": "button117989725229932",
         "isVisible": true,
-        "onClick": p2kwiet9745998653034_button117989725229932_onClick_seq0,
+        "onClick": p2kwiet12889314953034_button117989725229932_onClick_seq0,
         "skin": "btnNormal",
         "text": "Default view"
     }, {
@@ -25,7 +25,7 @@ function addWidgetsfrmTabs() {
         "focusSkin": "btnFocus",
         "id": "button1041822331265",
         "isVisible": true,
-        "onClick": p2kwiet9745998653034_button1041822331265_onClick_seq0,
+        "onClick": p2kwiet12889314953034_button1041822331265_onClick_seq0,
         "skin": "btnNormal",
         "text": "Collapsible view"
     }, {
@@ -47,7 +47,7 @@ function addWidgetsfrmTabs() {
         "focusSkin": "btnFocus",
         "id": "button1041822331266",
         "isVisible": true,
-        "onClick": p2kwiet9745998653034_button1041822331266_onClick_seq0,
+        "onClick": p2kwiet12889314953034_button1041822331266_onClick_seq0,
         "skin": "btnNormal",
         "text": "Page view"
     }, {
@@ -69,7 +69,7 @@ function addWidgetsfrmTabs() {
         "focusSkin": "btnFocus",
         "id": "button1181029310128010",
         "isVisible": true,
-        "onClick": p2kwiet9745998653034_button1181029310128010_onClick_seq0,
+        "onClick": p2kwiet12889314953034_button1181029310128010_onClick_seq0,
         "skin": "btnNormal",
         "text": "Toggle tabs"
     }, {
@@ -91,7 +91,7 @@ function addWidgetsfrmTabs() {
         "focusSkin": "btnFocus",
         "id": "button1181029310128024",
         "isVisible": true,
-        "onClick": p2kwiet9745998653034_button1181029310128024_onClick_seq0,
+        "onClick": p2kwiet12889314953034_button1181029310128024_onClick_seq0,
         "skin": "btnNormal",
         "text": "Tab image positions"
     }, {
@@ -113,7 +113,7 @@ function addWidgetsfrmTabs() {
         "focusSkin": "btnFocus",
         "id": "button1181029310128038",
         "isVisible": true,
-        "onClick": p2kwiet9745998653034_button1181029310128038_onClick_seq0,
+        "onClick": p2kwiet12889314953034_button1181029310128038_onClick_seq0,
         "skin": "btnNormal",
         "text": "Screen level tabpane"
     }, {
@@ -180,6 +180,6 @@ function frmTabsGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmTabs.info = {
-        "kuid": "p2kwiet9745998653034"
+        "kuid": "p2kwiet12889314953034"
     };
 };

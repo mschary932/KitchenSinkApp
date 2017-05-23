@@ -15,11 +15,11 @@ function addWidgetsfrmAniWin() {
         "id": "segWin",
         "isVisible": true,
         "needPageIndicator": true,
-        "onRowClick": p2kwiet974599865232_segWin_onRowClick_seq0,
+        "onRowClick": p2kwiet1288931495232_segWin_onRowClick_seq0,
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865127,
+        "rowTemplate": vbox1288931495127,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -92,6 +92,6 @@ function frmAniWinGlobals() {
         "titleBar": true
     });
     frmAniWin.info = {
-        "kuid": "p2kwiet974599865232"
+        "kuid": "p2kwiet1288931495232"
     };
 };

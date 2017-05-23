@@ -13,7 +13,7 @@
         2,
         0
     ],
-    "_skin_": "s41a18e76b934f96adc523501a94675e",
+    "_skin_": "s45a4d247d604b1f83bf42b440e775c4",
     "_text_": "",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.textbox2.AndroidTextBox2Property",
@@ -107,7 +107,7 @@
     "isvisible": true,
     "keyboardstyle": "A",
     "keyboardtype": "A",
-    "kuid": "p2kwiet974599865259",
+    "kuid": "p2kwiet1288931495259",
     "margininpixel": false,
     "mode": "A",
     "name": "kony.ui.TextBox2",

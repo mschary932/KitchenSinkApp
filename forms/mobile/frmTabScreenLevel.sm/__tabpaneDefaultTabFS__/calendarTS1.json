@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "Image": "default.png",
     "_enabled_": false,
-    "_skin_": "s130fe3bfd5240caa5cfc5e89f96f7ef",
+    "_skin_": "s6917b04925d4e7a9d6f1a9d5d886d6b",
     "_text_": "",
     "advview": "default",
     "android": {
@@ -53,7 +53,7 @@
         8,
         2013
     ],
-    "focusskin": "s74b5598831a45cca97369fde1b976cd",
+    "focusskin": "s58ae66d9048472b863fafe8ad78762a",
     "format": "dd/MM/yyyy",
     "formatteddate": "",
     "hexpand": true,
@@ -99,7 +99,7 @@
         "viewType": "default"
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998653045",
+    "kuid": "p2kwiet12889314953045",
     "name": "kony.ui.Calendar",
     "pagedate": "8/2013",
     "parent": "tabDefaultTabFS",

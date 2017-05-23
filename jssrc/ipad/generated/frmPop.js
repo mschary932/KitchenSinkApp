@@ -44,8 +44,8 @@ function addWidgetsfrmPop() {
         "isVisible": true,
         "navigationSkin": "segNormal",
         "needsectionheaders": true,
-        "onClick": p2kwiet9745998655903_segPop_onClick_seq0,
-        "rowTemplate": vbox974599865425,
+        "onClick": p2kwiet12889314955903_segPop_onClick_seq0,
+        "rowTemplate": vbox1288931495425,
         "showStatus": true,
         "skin": "seNormal1",
         "widgetDataMap": {
@@ -142,6 +142,6 @@ function frmPopGlobals() {
         "popupStyle": constants.POPUP_TYPE_NATIVE_STYLE
     });
     frmPop.info = {
-        "kuid": "p2kwiet9745998655903"
+        "kuid": "p2kwiet12889314955903"
     };
 };

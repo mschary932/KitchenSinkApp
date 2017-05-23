@@ -12,7 +12,7 @@
     "_percent_": true,
     "_position_": 3,
     "_render_": true,
-    "_skin_": "sea7d047350b4e7687f848ffdc954b8f",
+    "_skin_": "s064694eda74479c82695492ad045bfd",
     "allboxes": [],
     "android": {
         "@class": "com.kony.gen.viz.model.container.property.tab.AndroidTabProperty",
@@ -56,7 +56,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet974599865852",
+    "kuid": "p2kwiet1288931495852",
     "layoutalignment": 0,
     "margininpixel": false,
     "name": "kony.ui.Tab",

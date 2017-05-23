@@ -1,0 +1,19 @@
+{
+    "p2kwiet12889314951904_frmPopup_WinPhone8_onDeviceBack_seq0": {
+        "id": "p2kwiet12889314951904_frmPopup_WinPhone8_onDeviceBack_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_onDeviceBack_4650412889314952873",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "popFormAnchor.dismiss();\n frmFormOptions.show();"
+        }]
+    }
+}

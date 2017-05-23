@@ -1,0 +1,53 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_skin_": "s3ab48977dd441f6a76ab5d2fe0e0526",
+    "_text_": "Label",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 41,
+    "contentalignment": 4,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.label.DesktopWebLabelProperty",
+        "psp": {
+            "textCopyable": false
+        },
+        "render": true
+    },
+    "hexpand": true,
+    "id": "label118085056484607",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.label.KioskLabelProperty",
+        "render": true
+    },
+    "kuid": "p2kwiet12889314955611",
+    "margininpixel": false,
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "hbox118085056484606",
+    "pf": "vbox1288931495391",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPALabelProperty",
+        "psp": {
+            "textCopyable": false
+        }
+    },
+    "tooltip": "",
+    "vexpand": false,
+    "wType": "Label",
+    "widgetalignment": 5
+}

@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "sa44917fa2f940b088b0b58dd78ca883",
+    "_skin_": "s320b524d4a0499c9521dd9f7dcb6086",
     "_text_": "Label",
     "_wrapping_": 2,
     "canUpdateUI": true,
@@ -16,7 +16,7 @@
         }
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998656143",
+    "kuid": "p2kwiet12889314956143",
     "name": "kony.ui.Label",
     "parent": "hbox117989725237513",
     "pf": "hdr",

@@ -13,7 +13,7 @@
         0,
         0
     ],
-    "_skin_": "s31070ad3b8e4e89953d90b8d592c9fd",
+    "_skin_": "s54070763fbd41ee960f2c17eb004241",
     "_text_": "*Note: Please check your network connections before invoking service",
     "_wrapping_": 2,
     "android": {
@@ -90,7 +90,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet974599865300",
+    "kuid": "p2kwiet1288931495300",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

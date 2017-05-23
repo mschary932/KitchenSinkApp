@@ -3,7 +3,7 @@ function addWidgetspopFormAnchor() {
         "focusSkin": "btnRoundFocus",
         "id": "button1927359800105587",
         "isVisible": true,
-        "onClick": p2kwiet9745998655897_button1927359800105587_onClick_seq0,
+        "onClick": p2kwiet12889314955897_button1927359800105587_onClick_seq0,
         "skin": "btnSknRed",
         "text": "Clear All"
     }, {
@@ -25,7 +25,7 @@ function addWidgetspopFormAnchor() {
         "focusSkin": "btnRoundFocus",
         "id": "button1927359800105588",
         "isVisible": true,
-        "onClick": p2kwiet9745998655897_button1927359800105588_onClick_seq0,
+        "onClick": p2kwiet12889314955897_button1927359800105588_onClick_seq0,
         "skin": "btnSknBlack",
         "text": "Cancel"
     }, {
@@ -74,6 +74,6 @@ function popFormAnchorGlobals() {
         }
     });
     popFormAnchor.info = {
-        "kuid": "p2kwiet9745998655897"
+        "kuid": "p2kwiet12889314955897"
     };
 };

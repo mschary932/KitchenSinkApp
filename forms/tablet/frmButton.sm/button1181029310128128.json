@@ -13,7 +13,7 @@
         0,
         1
     ],
-    "_skin_": "sabed2e98c50434f86b58dbe512b0831",
+    "_skin_": "sbb63732504f457f877d691438da22b2",
     "_text_": "Button with Border:2",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.button.AndroidButtonProperty",
@@ -37,7 +37,7 @@
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "sc5ad967725d4e5d84cbd1cb64494c1a",
+    "focusskin": "s6cd361e982b426a9f743fdc370d3b42",
     "hexpand": true,
     "id": "button1181029310128128",
     "info": null,
@@ -63,7 +63,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998653610",
+    "kuid": "p2kwiet12889314953610",
     "margininpixel": false,
     "name": "kony.ui.Button",
     "paddinginpixel": false,

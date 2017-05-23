@@ -14,7 +14,7 @@
         1,
         1
     ],
-    "_skin_": "safd93c4527241e3ac2673538316adcd",
+    "_skin_": "sb6e75550f1948fd98eec218c7315fd4",
     "_text_": "",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.image2.AndroidImage2Property",
@@ -35,7 +35,7 @@
         "render": true
     },
     "isvisible": false,
-    "kuid": "p2kwiet9745998653915",
+    "kuid": "p2kwiet12889314953915",
     "margininpixel": false,
     "name": "kony.ui.Image2",
     "paddinginpixel": false,

@@ -167,6 +167,6 @@ function frmImgGalleryGlobals() {
         "titleBar": true
     });
     frmImgGallery.info = {
-        "kuid": "p2kwiet9745998654077"
+        "kuid": "p2kwiet12889314954077"
     };
 };

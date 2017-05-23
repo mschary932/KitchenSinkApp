@@ -23,7 +23,7 @@ function addWidgetsfrmSegDynRowTemplate() {
         "id": "segDynamicRowTemp",
         "isVisible": true,
         "needPageIndicator": true,
-        "onRowClick": p2kwiet9745998654506_segDynamicRowTemp_onRowClick_seq0,
+        "onRowClick": p2kwiet12889314954506_segDynamicRowTemp_onRowClick_seq0,
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
@@ -64,7 +64,7 @@ function frmSegDynRowTemplateGlobals() {
         "bounces": true,
         "enabledForIdleTimeout": false,
         "id": "frmSegDynRowTemplate",
-        "init": p2kwiet9745998654506_frmSegDynRowTemplate_init_seq0,
+        "init": p2kwiet12889314954506_frmSegDynRowTemplate_init_seq0,
         "needAppMenu": true,
         "skin": "frm"
     }, {
@@ -95,6 +95,6 @@ function frmSegDynRowTemplateGlobals() {
         "titleBar": true
     });
     frmSegDynRowTemplate.info = {
-        "kuid": "p2kwiet9745998654506"
+        "kuid": "p2kwiet12889314954506"
     };
 };

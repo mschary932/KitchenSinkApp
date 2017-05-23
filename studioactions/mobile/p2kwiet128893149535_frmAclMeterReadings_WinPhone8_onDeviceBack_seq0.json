@@ -1,0 +1,19 @@
+{
+    "p2kwiet128893149535_frmAclMeterReadings_WinPhone8_onDeviceBack_seq0": {
+        "id": "p2kwiet128893149535_frmAclMeterReadings_WinPhone8_onDeviceBack_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_onDeviceBack_5645212889314952549",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.accelerometer.stopMonitoringAcceleration()\n frmAclmeterOptions.show();"
+        }]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "p2kwiet12889314953540_button193024952746804_onClick_seq0": {
+        "id": "p2kwiet12889314953540_button193024952746804_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_4395412889314952075",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "tabWriteSettings",
+            "display": "tabWriteSettings"
+        }]
+    }
+}

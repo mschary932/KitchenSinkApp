@@ -7,7 +7,7 @@
         0,
         0
     ],
-    "_skin_": "sb3af36433f04064b137408e88d13542",
+    "_skin_": "s27285c1a630442880f9be871bc171db",
     "_title_": "Auto Resize",
     "addWidgetsdone": false,
     "allboxes": [],
@@ -16,7 +16,7 @@
         "displayOrientation": 3,
         "footerOverlap": false,
         "headerOverlap": false,
-        "ide_onOrientationChange": "p2kwiet974599865668_frmComplex_Android_onOrientationChange_seq0",
+        "ide_onOrientationChange": "p2kwiet1288931495668_frmComplex_Android_onOrientationChange_seq0",
         "inTransitionConfig": {
             "formAnimation": 0
         },
@@ -51,7 +51,7 @@
     ],
     "headeroverlap": false,
     "id": "frmComplex",
-    "ide_postShow": "p2kwiet974599865668_frmComplex_postshow_seq0",
+    "ide_postShow": "p2kwiet1288931495668_frmComplex_postshow_seq0",
     "info": null,
     "initdone": false,
     "intransitionconfig": {
@@ -62,7 +62,7 @@
         "displayOrientation": 3,
         "footerOverlap": false,
         "headerOverlap": false,
-        "ide_onOrientationChange": "p2kwiet974599865668_frmComplex_iPhone_onOrientationChange_seq0",
+        "ide_onOrientationChange": "p2kwiet1288931495668_frmComplex_iPhone_onOrientationChange_seq0",
         "inTransitionConfig": {
             "transitionDirection": "none",
             "transitionEffect": "none"
@@ -102,7 +102,7 @@
     },
     "ismodal": false,
     "isvisible": true,
-    "kuid": "p2kwiet974599865668",
+    "kuid": "p2kwiet1288931495668",
     "margininpixel": false,
     "menuposition": 2,
     "name": "kony.ui.Form2",
@@ -150,7 +150,7 @@
         "render": true
     },
     "templateType": "forms",
-    "titleBarSkin": "s295496625ea4a25a1e89a1507d718be",
+    "titleBarSkin": "s3c00bcbcb0143eeb151337eb7c67c45",
     "titlebar": true,
     "transparencybehindthepopup": 100,
     "type": 3,
@@ -159,7 +159,7 @@
     "winphone8": {
         "@class": "com.kony.gen.viz.model.container.property.form.WinPhone8FormProperty",
         "displayOrientation": 3,
-        "ide_onOrientationChange": "p2kwiet974599865668_frmComplex_WinPhone8_onOrientationChange_seq0",
+        "ide_onOrientationChange": "p2kwiet1288931495668_frmComplex_WinPhone8_onOrientationChange_seq0",
         "inTransitionConfig": {
             "transitionSpeed": 0
         },

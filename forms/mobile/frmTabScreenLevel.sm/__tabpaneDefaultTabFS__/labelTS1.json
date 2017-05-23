@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "s72e7540433d4476b4e30f1c73f67807",
+    "_skin_": "sec2924dd71a479b90443e156583682e",
     "_text_": "Password",
     "_wrapping_": 2,
     "android": {
@@ -78,7 +78,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998653039",
+    "kuid": "p2kwiet12889314953039",
     "name": "kony.ui.Label",
     "parent": "tabDefaultTabFS",
     "pf": "frmTabScreenLevel",

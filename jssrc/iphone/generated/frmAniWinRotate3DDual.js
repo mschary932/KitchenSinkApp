@@ -9,7 +9,7 @@ function frmAniWinRotate3DDualGlobals() {
         "enabledForIdleTimeout": false,
         "id": "frmAniWinRotate3DDual",
         "needAppMenu": true,
-        "preShow": p2kwiet974599865240_frmAniWinRotate3DDual_preshow_seq0,
+        "preShow": p2kwiet1288931495240_frmAniWinRotate3DDual_preshow_seq0,
         "skin": "frmAniSkin",
         "title": "Rotate3DDual"
     }, {
@@ -41,6 +41,6 @@ function frmAniWinRotate3DDualGlobals() {
         "titleBar": true
     });
     frmAniWinRotate3DDual.info = {
-        "kuid": "p2kwiet974599865240"
+        "kuid": "p2kwiet1288931495240"
     };
 };

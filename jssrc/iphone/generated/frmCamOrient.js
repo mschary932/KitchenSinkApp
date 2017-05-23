@@ -4,7 +4,7 @@ function addWidgetsfrmCamOrient() {
         "focusSkin": "camFocus",
         "id": "camera1930040990139485",
         "isVisible": true,
-        "onCapture": p2kwiet974599865588_camera1930040990139485_onCapture_seq0,
+        "onCapture": p2kwiet1288931495588_camera1930040990139485_onCapture_seq0,
         "scaleFactor": 80,
         "skin": "camNormal",
         "text": "Portrait"
@@ -31,7 +31,7 @@ function addWidgetsfrmCamOrient() {
         "focusSkin": "camFocus",
         "id": "camera1930040990139495",
         "isVisible": true,
-        "onCapture": p2kwiet974599865588_camera1930040990139495_onCapture_seq0,
+        "onCapture": p2kwiet1288931495588_camera1930040990139495_onCapture_seq0,
         "scaleFactor": 80,
         "skin": "camNormal",
         "text": "Landscape"
@@ -171,6 +171,6 @@ function frmCamOrientGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmCamOrient.info = {
-        "kuid": "p2kwiet974599865588"
+        "kuid": "p2kwiet1288931495588"
     };
 };

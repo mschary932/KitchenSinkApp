@@ -1,0 +1,27 @@
+{
+    "p2kwiet1288931495710_frmComplex_iPhone_onOrientationChange_seq0": {
+        "id": "p2kwiet1288931495710_frmComplex_iPhone_onOrientationChange_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onOrientationChange_973141288931495320",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "orientation",
+            "display": "orientation",
+            "inputparams": [{
+                "name": "x",
+                "value": " neworientation"
+            }, {
+                "name": "y",
+                "value": " eventobject"
+            }]
+        }]
+    }
+}

@@ -8,7 +8,7 @@
         1,
         1
     ],
-    "_skin_": "s8784ea610634d94be2ad32f272cf853",
+    "_skin_": "s366295dee8f48f99db0f10ac1c9132b",
     "_text_": "",
     "canUpdateUI": true,
     "containerweight": 15,
@@ -37,7 +37,7 @@
         "marginInPixel": false,
         "render": true
     },
-    "focusskin": "s6addb4f77e34e63a25e4c0f82fdc2db",
+    "focusskin": "s41aefe5b0b54533958b1125c668297f",
     "id": "chkAccept",
     "info": null,
     "isvisible": true,
@@ -60,7 +60,7 @@
         "marginInPixel": false,
         "render": true
     },
-    "kuid": "p2kwiet9745998655264",
+    "kuid": "p2kwiet12889314955264",
     "masterdata": [
         [
             "1",

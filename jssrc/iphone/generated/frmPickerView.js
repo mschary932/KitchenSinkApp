@@ -129,7 +129,7 @@ function addWidgetsfrmPickerView() {
             ]
         ],
         "masterDataMap": null,
-        "onSelection": p2kwiet9745998651872_pickOne_onSelection_seq0,
+        "onSelection": p2kwiet12889314951872_pickOne_onSelection_seq0,
         "selectedKeyValues": ["2009", "Jan"]
     }, {
         "containerWeight": 100,
@@ -161,7 +161,7 @@ function addWidgetsfrmPickerView() {
         "focusSkin": "btnFocus",
         "id": "btnAdd",
         "isVisible": true,
-        "onClick": p2kwiet9745998651872_btnAdd_onClick_seq0,
+        "onClick": p2kwiet12889314951872_btnAdd_onClick_seq0,
         "skin": "btnNormal",
         "text": "Set New Year Range"
     }, {
@@ -247,6 +247,6 @@ function frmPickerViewGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmPickerView.info = {
-        "kuid": "p2kwiet9745998651872"
+        "kuid": "p2kwiet12889314951872"
     };
 };

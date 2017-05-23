@@ -223,6 +223,6 @@ function frmImgMaintainAspectRatioGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmImgMaintainAspectRatio.info = {
-        "kuid": "p2kwiet9745998651440"
+        "kuid": "p2kwiet12889314951440"
     };
 };

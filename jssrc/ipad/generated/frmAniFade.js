@@ -47,6 +47,6 @@ function frmAniFadeGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmAniFade.info = {
-        "kuid": "p2kwiet9745998653424"
+        "kuid": "p2kwiet12889314953424"
     };
 };

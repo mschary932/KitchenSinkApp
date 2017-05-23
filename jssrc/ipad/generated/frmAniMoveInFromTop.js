@@ -47,6 +47,6 @@ function frmAniMoveInFromTopGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmAniMoveInFromTop.info = {
-        "kuid": "p2kwiet9745998653477"
+        "kuid": "p2kwiet12889314953477"
     };
 };

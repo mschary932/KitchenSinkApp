@@ -805,6 +805,6 @@ function frmImageGlobals() {
         "titleBar": true
     });
     frmImage.info = {
-        "kuid": "p2kwiet9745998654066"
+        "kuid": "p2kwiet12889314954066"
     };
 };

@@ -466,6 +466,6 @@ function frmDatagridGlobals() {
         "titleBar": true
     });
     frmDatagrid.info = {
-        "kuid": "p2kwiet9745998653767"
+        "kuid": "p2kwiet12889314953767"
     };
 };

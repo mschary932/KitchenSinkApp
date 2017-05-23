@@ -298,6 +298,6 @@ function frmCalendarGlobals() {
         "titleBar": true
     });
     frmCalendar.info = {
-        "kuid": "p2kwiet9745998653634"
+        "kuid": "p2kwiet12889314953634"
     };
 };

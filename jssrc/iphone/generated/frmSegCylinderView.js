@@ -16,7 +16,7 @@ function addWidgetsfrmSegCylinderView() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865203,
+        "rowTemplate": vbox1288931495203,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -98,6 +98,6 @@ function frmSegCylinderViewGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmSegCylinderView.info = {
-        "kuid": "p2kwiet9745998652496"
+        "kuid": "p2kwiet12889314952496"
     };
 };

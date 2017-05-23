@@ -15,11 +15,11 @@ function addWidgetsfrmSegScreenLevel() {
         "id": "segiPhone",
         "isVisible": true,
         "needPageIndicator": true,
-        "onRowClick": p2kwiet9745998654683_segiPhone_onRowClick_seq0,
+        "onRowClick": p2kwiet12889314954683_segiPhone_onRowClick_seq0,
         "retainSelection": true,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865339,
+        "rowTemplate": vbox1288931495339,
         "screenLevelWidget": true,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -61,7 +61,7 @@ function frmSegScreenLevelGlobals() {
         "enabledForIdleTimeout": false,
         "id": "frmSegScreenLevel",
         "needAppMenu": true,
-        "postShow": p2kwiet9745998654683_frmSegScreenLevel_postshow_seq0,
+        "postShow": p2kwiet12889314954683_frmSegScreenLevel_postshow_seq0,
         "skin": "frm",
         "title": "Screen level segment features"
     }, {
@@ -100,6 +100,6 @@ function frmSegScreenLevelGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmSegScreenLevel.info = {
-        "kuid": "p2kwiet9745998654683"
+        "kuid": "p2kwiet12889314954683"
     };
 };

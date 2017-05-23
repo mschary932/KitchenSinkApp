@@ -81,7 +81,7 @@ function addWidgetsfrmRowTemplates() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865185,
+        "rowTemplate": vbox1288931495185,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -165,6 +165,6 @@ function frmRowTemplatesGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmRowTemplates.info = {
-        "kuid": "p2kwiet9745998651970"
+        "kuid": "p2kwiet12889314951970"
     };
 };

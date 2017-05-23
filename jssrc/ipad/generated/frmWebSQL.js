@@ -35,7 +35,7 @@ function addWidgetsfrmWebSQL() {
         "focusSkin": "btnFocus",
         "id": "button192920684279246",
         "isVisible": true,
-        "onClick": p2kwiet9745998655060_button192920684279246_onClick_seq0,
+        "onClick": p2kwiet12889314955060_button192920684279246_onClick_seq0,
         "skin": "btnNormal",
         "text": "Create database"
     }, {
@@ -57,7 +57,7 @@ function addWidgetsfrmWebSQL() {
         "focusSkin": "btnFocus",
         "id": "button192920684279248",
         "isVisible": true,
-        "onClick": p2kwiet9745998655060_button192920684279248_onClick_seq0,
+        "onClick": p2kwiet12889314955060_button192920684279248_onClick_seq0,
         "skin": "btnNormal",
         "text": "Insert data"
     }, {
@@ -79,7 +79,7 @@ function addWidgetsfrmWebSQL() {
         "focusSkin": "btnFocus",
         "id": "button192920684279250",
         "isVisible": true,
-        "onClick": p2kwiet9745998655060_button192920684279250_onClick_seq0,
+        "onClick": p2kwiet12889314955060_button192920684279250_onClick_seq0,
         "skin": "btnNormal",
         "text": "Show data"
     }, {
@@ -101,7 +101,7 @@ function addWidgetsfrmWebSQL() {
         "focusSkin": "btnFocus",
         "id": "button192920684279252",
         "isVisible": true,
-        "onClick": p2kwiet9745998655060_button192920684279252_onClick_seq0,
+        "onClick": p2kwiet12889314955060_button192920684279252_onClick_seq0,
         "skin": "btnNormal",
         "text": "Update data"
     }, {
@@ -123,7 +123,7 @@ function addWidgetsfrmWebSQL() {
         "focusSkin": "btnFocus",
         "id": "button192920684279254",
         "isVisible": true,
-        "onClick": p2kwiet9745998655060_button192920684279254_onClick_seq0,
+        "onClick": p2kwiet12889314955060_button192920684279254_onClick_seq0,
         "skin": "btnNormal",
         "text": "Delete data"
     }, {
@@ -169,7 +169,7 @@ function addWidgetsfrmWebSQL() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865383,
+        "rowTemplate": vbox1288931495383,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -243,6 +243,6 @@ function frmWebSQLGlobals() {
         "titleBar": true
     });
     frmWebSQL.info = {
-        "kuid": "p2kwiet9745998655060"
+        "kuid": "p2kwiet12889314955060"
     };
 };

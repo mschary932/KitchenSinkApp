@@ -38,6 +38,6 @@ function frmAnifromleftGlobals() {
         "titleBar": true
     });
     frmAnifromleft.info = {
-        "kuid": "p2kwiet9745998653443"
+        "kuid": "p2kwiet12889314953443"
     };
 };

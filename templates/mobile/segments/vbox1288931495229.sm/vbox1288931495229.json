@@ -1,0 +1,47 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_position_": 3,
+    "_resize_": true,
+    "_skin_": "sa4249ec99a64b438c2b4db549032228",
+    "allboxes": [],
+    "borderCollapse": false,
+    "canUpdateUI": true,
+    "children": [
+        "label117989725234774",
+        "hbox117989725234775",
+        "label117989725234777"
+    ],
+    "containerweight": 100,
+    "id": "vbox1288931495229",
+    "info": null,
+    "isGeneratedTemplate": true,
+    "isvisible": true,
+    "kuid": "p2kwiet12889314952708",
+    "margininpixel": false,
+    "name": "kony.ui.Box",
+    "paddinginpixel": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.SPAVBoxProperty"
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.SPAIPhoneVBoxProperty",
+        "render": true
+    },
+    "templateType": "forms",
+    "wType": "VBox",
+    "widgetalignment": 1
+}

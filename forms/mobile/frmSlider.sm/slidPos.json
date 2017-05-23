@@ -34,7 +34,7 @@
     "contentalignment": 5,
     "hexpand": true,
     "id": "slidPos",
-    "ide_onSelection": "p2kwiet9745998652901_slidPos_onSelection_seq0",
+    "ide_onSelection": "p2kwiet12889314952901_slidPos_onSelection_seq0",
     "imgwt": 44,
     "info": null,
     "iphone": {
@@ -58,14 +58,14 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998652897",
-    "leftskin": "sb5abd7cf7a44935932d97936d59c490",
+    "kuid": "p2kwiet12889314952897",
+    "leftskin": "se50e01e501a4b88a2c0c3f797adfda2",
     "name": "kony.ui.Slider",
     "noofsteps": 100,
     "paddinginpixel": false,
     "parent": "frmSlider",
     "pf": "frmSlider",
-    "rightskin": "sc8f167453a8413ba3b7a9ba1aa7c5dc",
+    "rightskin": "se84100163f24d03a41cb9761bfedfa5",
     "selectedvalue": 0,
     "spa": {
         "@class": "com.kony.gen.viz.model.component.property.slider.SPASliderProperty"
@@ -138,7 +138,7 @@
             12,
             0
         ],
-        "leftSkin": "s56847e746104f0fbb1bb0e0cf4c84b0",
+        "leftSkin": "s1142b79334d4668b862253565f2c7cf",
         "margin": [
             12,
             10,

@@ -125,7 +125,7 @@ function addWidgetsfrmSlider() {
         "isVisible": true,
         "max": 100,
         "min": 0,
-        "onSelection": p2kwiet9745998652901_slidPos_onSelection_seq0,
+        "onSelection": p2kwiet12889314952901_slidPos_onSelection_seq0,
         "selectedValue": 0,
         "step": 1
     }, {
@@ -202,7 +202,7 @@ function frmSliderGlobals() {
         "enabledForIdleTimeout": false,
         "id": "frmSlider",
         "needAppMenu": true,
-        "preShow": p2kwiet9745998652901_frmSlider_preshow_seq0,
+        "preShow": p2kwiet12889314952901_frmSlider_preshow_seq0,
         "skin": "frm",
         "title": "Slider"
     }, {
@@ -242,6 +242,6 @@ function frmSliderGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmSlider.info = {
-        "kuid": "p2kwiet9745998652901"
+        "kuid": "p2kwiet12889314952901"
     };
 };

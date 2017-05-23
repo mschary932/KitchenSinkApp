@@ -7,7 +7,7 @@
         0,
         0
     ],
-    "_skin_": "sb3af36433f04064b137408e88d13542",
+    "_skin_": "s27285c1a630442880f9be871bc171db",
     "_title_": "Titlebar",
     "addWidgetsdone": false,
     "allboxes": [],
@@ -29,7 +29,7 @@
             "showActionBar": true,
             "showActionBarIcon": true,
             "titleBar": true,
-            "titleBarSkin": "se02baa69e5045a8bc398df73d1743af",
+            "titleBarSkin": "s6acf27fbe324e07ad99dbbae473c827",
             "windowSoftInputMode": 1
         },
         "render": true
@@ -94,7 +94,7 @@
     },
     "ismodal": false,
     "isvisible": true,
-    "kuid": "p2kwiet9745998653178",
+    "kuid": "p2kwiet12889314953178",
     "margininpixel": false,
     "menuposition": 2,
     "name": "kony.ui.Form2",
@@ -142,7 +142,7 @@
         "render": true
     },
     "templateType": "forms",
-    "titleBarSkin": "se02baa69e5045a8bc398df73d1743af",
+    "titleBarSkin": "s6acf27fbe324e07ad99dbbae473c827",
     "titlebar": true,
     "transparencybehindthepopup": 100,
     "type": 3,

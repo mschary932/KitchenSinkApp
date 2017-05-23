@@ -17,7 +17,7 @@
     "_percent_": true,
     "_position_": 3,
     "_resize_": true,
-    "_skin_": "sd3809829db84bcf9a90d51ca11f49e1",
+    "_skin_": "s6a0c0e40ce44139bcfbe77d925b87e1",
     "allboxes": [],
     "borderCollapse": false,
     "canUpdateUI": true,
@@ -31,7 +31,7 @@
         "position": 3,
         "render": true
     },
-    "focusskin": "sd3809829db84bcf9a90d51ca11f49e1",
+    "focusskin": "s6a0c0e40ce44139bcfbe77d925b87e1",
     "id": "boxRefSegHdr",
     "info": null,
     "isvisible": true,
@@ -41,7 +41,7 @@
         "position": 3,
         "render": true
     },
-    "kuid": "p2kwiet9745998656276",
+    "kuid": "p2kwiet12889314956276",
     "layoutalignment": 3,
     "layouttype": 0,
     "margininpixel": false,

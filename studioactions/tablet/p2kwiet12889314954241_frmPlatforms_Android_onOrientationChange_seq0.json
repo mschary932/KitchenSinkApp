@@ -1,0 +1,20 @@
+{
+    "p2kwiet12889314954241_frmPlatforms_Android_onOrientationChange_seq0": {
+        "id": "p2kwiet12889314954241_frmPlatforms_Android_onOrientationChange_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onOrientationChange_9740012889314958784",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "orientChange_frmPlatforms_androidTab",
+            "display": "orientChange_frmPlatforms_androidTab"
+        }]
+    }
+}

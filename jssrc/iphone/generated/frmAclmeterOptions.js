@@ -3,7 +3,7 @@ function addWidgetsfrmAclmeterOptions() {
         "focusSkin": "btnFocus",
         "id": "button1927359800104630",
         "isVisible": true,
-        "onClick": p2kwiet97459986516_button1927359800104630_onClick_seq0,
+        "onClick": p2kwiet128893149516_button1927359800104630_onClick_seq0,
         "skin": "btnNormal",
         "text": "Current accelerometer data"
     }, {
@@ -25,7 +25,7 @@ function addWidgetsfrmAclmeterOptions() {
         "focusSkin": "btnFocus",
         "id": "button1927359800104641",
         "isVisible": true,
-        "onClick": p2kwiet97459986516_button1927359800104641_onClick_seq0,
+        "onClick": p2kwiet128893149516_button1927359800104641_onClick_seq0,
         "skin": "btnNormal",
         "text": "Start monitoring acceleration"
     }, {
@@ -47,7 +47,7 @@ function addWidgetsfrmAclmeterOptions() {
         "focusSkin": "btnFocus",
         "id": "button1927359800104647",
         "isVisible": true,
-        "onClick": p2kwiet97459986516_button1927359800104647_onClick_seq0,
+        "onClick": p2kwiet128893149516_button1927359800104647_onClick_seq0,
         "skin": "btnNormal",
         "text": "Register shake event"
     }, {
@@ -114,6 +114,6 @@ function frmAclmeterOptionsGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmAclmeterOptions.info = {
-        "kuid": "p2kwiet97459986516"
+        "kuid": "p2kwiet128893149516"
     };
 };

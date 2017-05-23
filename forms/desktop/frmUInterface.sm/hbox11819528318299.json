@@ -11,7 +11,7 @@
     "_percent_": true,
     "_position_": 3,
     "_resize_": true,
-    "_skin_": "s71982bf169f498c8bcaf34d463cacff",
+    "_skin_": "sca3c4010ec847ccbb065958f3f5b9a1",
     "allboxes": [],
     "borderCollapse": false,
     "canUpdateUI": true,
@@ -74,7 +74,7 @@
         "position": 3,
         "render": true
     },
-    "kuid": "p2kwiet9745998655867",
+    "kuid": "p2kwiet12889314955867",
     "layoutalignment": 3,
     "layouttype": 0,
     "name": "kony.ui.Box",

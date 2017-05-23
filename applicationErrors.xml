@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<project name="KitchenSinkApp" path="/Users/ykomar/Downloads/temp/1495451862279/KitchenSinkApp-master/KitchenSinkApp">
+<project name="KitchenSinkApp" path="C:\tmp\temp\1495533082266\KitchenSinkApp-master\KitchenSinkApp">
     <channel type="mobile">
-        <container file="frm3DObj.kl" path="forms/mobile/" name="frm3DObj" type="forms">
+        <container file="frm3DObj.kl" path="forms//mobile//" name="frm3DObj" type="forms">
             <depricatedWidgets>objectselector3D</depricatedWidgets>
         </container>
     </channel>

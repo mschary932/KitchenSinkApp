@@ -65,6 +65,6 @@ function frmTitlebarBgImageGlobals() {
         }
     });
     frmTitlebarBgImage.info = {
-        "kuid": "p2kwiet9745998654866"
+        "kuid": "p2kwiet12889314954866"
     };
 };

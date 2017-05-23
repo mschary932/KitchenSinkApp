@@ -26,7 +26,7 @@ function addWidgetsfrmSegCustomPageIndicator() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865201,
+        "rowTemplate": vbox1288931495201,
         "screenLevelWidget": true,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -110,6 +110,6 @@ function frmSegCustomPageIndicatorGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmSegCustomPageIndicator.info = {
-        "kuid": "p2kwiet9745998652487"
+        "kuid": "p2kwiet12889314952487"
     };
 };

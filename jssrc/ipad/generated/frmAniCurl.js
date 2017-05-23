@@ -47,6 +47,6 @@ function frmAniCurlGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmAniCurl.info = {
-        "kuid": "p2kwiet9745998653416"
+        "kuid": "p2kwiet12889314953416"
     };
 };

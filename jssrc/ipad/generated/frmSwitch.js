@@ -228,6 +228,6 @@ function frmSwitchGlobals() {
         "titleBar": true
     });
     frmSwitch.info = {
-        "kuid": "p2kwiet9745998654757"
+        "kuid": "p2kwiet12889314954757"
     };
 };

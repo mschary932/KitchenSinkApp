@@ -4,7 +4,7 @@ function addWidgetsfrmCameraFrmOverlay() {
         "focusSkin": "camFocus",
         "id": "cameraFrmOverLay",
         "isVisible": true,
-        "onCapture": p2kwiet974599865565_cameraFrmOverLay_onCapture_seq0,
+        "onCapture": p2kwiet1288931495565_cameraFrmOverLay_onCapture_seq0,
         "scaleFactor": 80,
         "skin": "camNormal",
         "text": "Capture image"
@@ -163,6 +163,6 @@ function frmCameraFrmOverlayGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmCameraFrmOverlay.info = {
-        "kuid": "p2kwiet974599865565"
+        "kuid": "p2kwiet1288931495565"
     };
 };

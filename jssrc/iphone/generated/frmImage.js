@@ -22,7 +22,7 @@ function addWidgetsfrmImage() {
         "focusSkin": "btnFocus",
         "id": "btnOne",
         "isVisible": true,
-        "onClick": p2kwiet9745998651341_btnOne_onClick_seq0,
+        "onClick": p2kwiet12889314951341_btnOne_onClick_seq0,
         "skin": "btnNormal",
         "text": "Fit to dimensions"
     }, {
@@ -44,7 +44,7 @@ function addWidgetsfrmImage() {
         "focusSkin": "btnFocus",
         "id": "btnTwo",
         "isVisible": true,
-        "onClick": p2kwiet9745998651341_btnTwo_onClick_seq0,
+        "onClick": p2kwiet12889314951341_btnTwo_onClick_seq0,
         "skin": "btnNormal",
         "text": "Maintain aspect ratio"
     }, {
@@ -66,7 +66,7 @@ function addWidgetsfrmImage() {
         "focusSkin": "btnFocus",
         "id": "btnThree",
         "isVisible": true,
-        "onClick": p2kwiet9745998651341_btnThree_onClick_seq0,
+        "onClick": p2kwiet12889314951341_btnThree_onClick_seq0,
         "skin": "btnNormal",
         "text": "Crop"
     }, {
@@ -88,7 +88,7 @@ function addWidgetsfrmImage() {
         "focusSkin": "btnFocus",
         "id": "button11798972521392",
         "isVisible": true,
-        "onClick": p2kwiet9745998651341_button11798972521392_onClick_seq0,
+        "onClick": p2kwiet12889314951341_button11798972521392_onClick_seq0,
         "skin": "btnNormal",
         "text": "URL based image scale modes"
     }, {
@@ -155,6 +155,6 @@ function frmImageGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmImage.info = {
-        "kuid": "p2kwiet9745998651341"
+        "kuid": "p2kwiet12889314951341"
     };
 };

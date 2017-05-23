@@ -13,7 +13,7 @@
         0,
         1
     ],
-    "_skin_": "s81e25b83bbb4b929996ed00a0ffe497",
+    "_skin_": "s0e89d737eba4cfdabe23e3a15739820",
     "_text_": "",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.combobox.AndroidComboBoxProperty",
@@ -22,7 +22,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "focusskin": "s390583605b34d479966bcc7487c098f",
+    "focusskin": "s5e3debd8dc944249d16e1f1e8b64f69",
     "hexpand": true,
     "id": "combobox118082077326843",
     "info": null,
@@ -35,7 +35,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998653697",
+    "kuid": "p2kwiet12889314953697",
     "margininpixel": false,
     "masterdata": [
         [

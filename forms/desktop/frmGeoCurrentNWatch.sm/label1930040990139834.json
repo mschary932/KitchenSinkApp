@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "sb214c7195dc42dcba44733f357f08e8",
+    "_skin_": "s3ab48977dd441f6a76ab5d2fe0e0526",
     "_text_": "Latitude",
     "_wrapping_": 2,
     "canUpdateUI": true,
@@ -34,7 +34,7 @@
         "@class": "com.kony.gen.viz.model.component.property.label.KioskLabelProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998655286",
+    "kuid": "p2kwiet12889314955286",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

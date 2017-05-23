@@ -13,7 +13,7 @@
         6,
         0
     ],
-    "_skin_": "s3f630ba33dc41689a7fc5c41e7b5a7d",
+    "_skin_": "s324beba24794938a53b5a85a4aa9623",
     "_text_": "$ 3,244",
     "_wrapping_": 2,
     "android": {
@@ -49,7 +49,7 @@
         }
     },
     "isvisible": true,
-    "kuid": "p2kwiet974599865679",
+    "kuid": "p2kwiet1288931495679",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

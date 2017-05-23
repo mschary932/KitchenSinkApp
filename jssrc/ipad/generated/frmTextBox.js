@@ -394,6 +394,6 @@ function frmTextBoxGlobals() {
         "titleBar": true
     });
     frmTextBox.info = {
-        "kuid": "p2kwiet9745998654858"
+        "kuid": "p2kwiet12889314954858"
     };
 };

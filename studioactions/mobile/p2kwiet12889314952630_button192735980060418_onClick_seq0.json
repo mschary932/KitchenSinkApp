@@ -1,0 +1,36 @@
+{
+    "p2kwiet12889314952630_button192735980060418_onClick_seq0": {
+        "id": "p2kwiet12889314952630_button192735980060418_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_6756312889314952183",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "segwidMultiTemplateSPA",
+            "display": "segwidMultiTemplateSPA"
+        }, {
+            "id": "customcode_onClick_1086512889314952392",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "segWidoutRowtmplateJS",
+            "display": "segWidoutRowtmplateJS"
+        }, {
+            "id": "customcode_onClick_4754612889314956615",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "segMetainfoJS",
+            "display": "segMetainfoJS"
+        }, {
+            "id": "navigation_onClick_4321812889314953164",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmRowTemplates",
+            "formKUID": "p2kwiet12889314951970",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "enableMappingEditor": true
+        }]
+    }
+}

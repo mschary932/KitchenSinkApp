@@ -4,11 +4,11 @@ function addWidgetsfrmAdvancedWidgets() {
         "id": "segFirst",
         "isVisible": true,
         "needPageIndicator": true,
-        "onRowClick": p2kwiet97459986542_segFirst_onRowClick_seq0,
+        "onRowClick": p2kwiet128893149542_segFirst_onRowClick_seq0,
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865113,
+        "rowTemplate": vbox1288931495113,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -49,7 +49,7 @@ function frmAdvancedWidgetsGlobals() {
         "bounces": true,
         "enabledForIdleTimeout": false,
         "id": "frmAdvancedWidgets",
-        "init": p2kwiet97459986542_frmAdvancedWidgets_init_seq0,
+        "init": p2kwiet128893149542_frmAdvancedWidgets_init_seq0,
         "needAppMenu": true,
         "skin": "frm",
         "title": "Advanced"
@@ -90,6 +90,6 @@ function frmAdvancedWidgetsGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmAdvancedWidgets.info = {
-        "kuid": "p2kwiet97459986542"
+        "kuid": "p2kwiet128893149542"
     };
 };

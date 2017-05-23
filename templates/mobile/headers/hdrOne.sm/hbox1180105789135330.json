@@ -5,7 +5,7 @@
     "_percent_": true,
     "_position_": 3,
     "_resize_": true,
-    "_skin_": "sa8e43660c704c54984da262d4c8dd30",
+    "_skin_": "s06c79548b7e42099507d90c4256755a",
     "allboxes": [],
     "android": {
         "@class": "com.kony.gen.viz.model.container.property.hbox.AndroidHBoxProperty",
@@ -52,7 +52,7 @@
         "render": false
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998655954",
+    "kuid": "p2kwiet12889314955954",
     "layoutalignment": 3,
     "name": "kony.ui.Box",
     "parent": "hdrOne",

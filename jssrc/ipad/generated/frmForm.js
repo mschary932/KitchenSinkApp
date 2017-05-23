@@ -346,6 +346,6 @@ function frmFormGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmForm.info = {
-        "kuid": "p2kwiet9745998653865"
+        "kuid": "p2kwiet12889314953865"
     };
 };

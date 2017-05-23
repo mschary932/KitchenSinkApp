@@ -372,6 +372,6 @@ function frmListBoxGlobals() {
         "titleBar": true
     });
     frmListBox.info = {
-        "kuid": "p2kwiet9745998654158"
+        "kuid": "p2kwiet12889314954158"
     };
 };

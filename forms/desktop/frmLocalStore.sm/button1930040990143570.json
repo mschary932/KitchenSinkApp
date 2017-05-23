@@ -13,7 +13,7 @@
         0,
         1
     ],
-    "_skin_": "s6a8b1cbc7944a88a88694eefed42a45",
+    "_skin_": "s14a8b145d524289a5a644b59ee96bf8",
     "_text_": "RemoveItem",
     "canUpdateUI": true,
     "containerweight": 100,
@@ -24,17 +24,17 @@
         "render": true
     },
     "displaytext": true,
-    "focusskin": "s7dcf1c34ee24bbcbfd7c43862135750",
+    "focusskin": "seb4c4d5145a411a83e0757046d08068",
     "hexpand": true,
     "id": "button1930040990143570",
-    "ide_onClick": "p2kwiet9745998655520_button1930040990143570_onClick_seq0",
+    "ide_onClick": "p2kwiet12889314955520_button1930040990143570_onClick_seq0",
     "info": null,
     "isvisible": true,
     "kiosk": {
         "@class": "com.kony.gen.viz.model.component.property.button.KioskButtonProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998655508",
+    "kuid": "p2kwiet12889314955508",
     "margininpixel": false,
     "name": "kony.ui.Button",
     "paddinginpixel": false,

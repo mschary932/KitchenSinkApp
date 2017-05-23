@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "s1944822d97543fbbe768823abe8426d",
+    "_skin_": "seb2f5a45280492c9296248a2c85fc61",
     "_text_": "Label with Default Bold font",
     "_wrapping_": 2,
     "android": {
@@ -38,7 +38,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998654101",
+    "kuid": "p2kwiet12889314954101",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

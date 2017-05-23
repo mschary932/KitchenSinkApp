@@ -190,6 +190,6 @@ function frmTabCollpasibleGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmTabCollpasible.info = {
-        "kuid": "p2kwiet9745998652946"
+        "kuid": "p2kwiet12889314952946"
     };
 };

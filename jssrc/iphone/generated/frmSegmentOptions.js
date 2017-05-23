@@ -3,7 +3,7 @@ function addWidgetsfrmSegmentOptions() {
         "focusSkin": "btnFocus",
         "id": "button117989725237440",
         "isVisible": true,
-        "onClick": p2kwiet9745998652589_button117989725237440_onClick_seq0,
+        "onClick": p2kwiet12889314952589_button117989725237440_onClick_seq0,
         "skin": "btnNormal",
         "text": "Segment views"
     }, {
@@ -25,7 +25,7 @@ function addWidgetsfrmSegmentOptions() {
         "focusSkin": "btnFocus",
         "id": "button117989725237450",
         "isVisible": true,
-        "onClick": p2kwiet9745998652589_button117989725237450_onClick_seq0,
+        "onClick": p2kwiet12889314952589_button117989725237450_onClick_seq0,
         "skin": "btnNormal",
         "text": "Segment with sections"
     }, {
@@ -47,7 +47,7 @@ function addWidgetsfrmSegmentOptions() {
         "focusSkin": "btnFocus",
         "id": "button117989725237596",
         "isVisible": true,
-        "onClick": p2kwiet9745998652589_button117989725237596_onClick_seq0,
+        "onClick": p2kwiet12889314952589_button117989725237596_onClick_seq0,
         "skin": "btnNormal",
         "text": "Dictionary view"
     }, {
@@ -69,7 +69,7 @@ function addWidgetsfrmSegmentOptions() {
         "focusSkin": "btnFocus",
         "id": "button192735980060418",
         "isVisible": true,
-        "onClick": p2kwiet9745998652589_button192735980060418_onClick_seq0,
+        "onClick": p2kwiet12889314952589_button192735980060418_onClick_seq0,
         "skin": "btnNormal",
         "text": "Row template"
     }, {
@@ -91,7 +91,7 @@ function addWidgetsfrmSegmentOptions() {
         "focusSkin": "btnFocus",
         "id": "btnSegSecHdrTemp",
         "isVisible": true,
-        "onClick": p2kwiet9745998652589_btnSegSecHdrTemp_onClick_seq0,
+        "onClick": p2kwiet12889314952589_btnSegSecHdrTemp_onClick_seq0,
         "skin": "btnNormal",
         "text": "Section header template"
     }, {
@@ -113,7 +113,7 @@ function addWidgetsfrmSegmentOptions() {
         "focusSkin": "btnFocus",
         "id": "button192735980061634",
         "isVisible": true,
-        "onClick": p2kwiet9745998652589_button192735980061634_onClick_seq0,
+        "onClick": p2kwiet12889314952589_button192735980061634_onClick_seq0,
         "skin": "btnNormal",
         "text": "Segment widgets prefered width"
     }, {
@@ -135,7 +135,7 @@ function addWidgetsfrmSegmentOptions() {
         "focusSkin": "btnFocus",
         "id": "button192735980060914",
         "isVisible": true,
-        "onClick": p2kwiet9745998652589_button192735980060914_onClick_seq0,
+        "onClick": p2kwiet12889314952589_button192735980060914_onClick_seq0,
         "skin": "btnNormal",
         "text": "Segment in group mode"
     }, {
@@ -157,7 +157,7 @@ function addWidgetsfrmSegmentOptions() {
         "focusSkin": "btnFocus",
         "id": "button1927359800104825",
         "isVisible": true,
-        "onClick": p2kwiet9745998652589_button1927359800104825_onClick_seq0,
+        "onClick": p2kwiet12889314952589_button1927359800104825_onClick_seq0,
         "skin": "btnNormal",
         "text": "Segment with row focus skin"
     }, {
@@ -179,7 +179,7 @@ function addWidgetsfrmSegmentOptions() {
         "focusSkin": "btnFocus",
         "id": "btnSegMulSel",
         "isVisible": true,
-        "onClick": p2kwiet9745998652589_btnSegMulSel_onClick_seq0,
+        "onClick": p2kwiet12889314952589_btnSegMulSel_onClick_seq0,
         "skin": "btnNormal",
         "text": "Multi Select"
     }, {
@@ -201,7 +201,7 @@ function addWidgetsfrmSegmentOptions() {
         "focusSkin": "btnFocus",
         "id": "button117822895631304",
         "isVisible": true,
-        "onClick": p2kwiet9745998652589_button117822895631304_onClick_seq0,
+        "onClick": p2kwiet12889314952589_button117822895631304_onClick_seq0,
         "skin": "btnNormal",
         "text": "Dynamic row templates"
     }, {
@@ -223,7 +223,7 @@ function addWidgetsfrmSegmentOptions() {
         "focusSkin": "btnFocus",
         "id": "button117822895619570",
         "isVisible": true,
-        "onClick": p2kwiet9745998652589_button117822895619570_onClick_seq0,
+        "onClick": p2kwiet12889314952589_button117822895619570_onClick_seq0,
         "skin": "btnNormal",
         "text": "More features"
     }, {
@@ -290,6 +290,6 @@ function frmSegmentOptionsGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmSegmentOptions.info = {
-        "kuid": "p2kwiet9745998652589"
+        "kuid": "p2kwiet12889314952589"
     };
 };

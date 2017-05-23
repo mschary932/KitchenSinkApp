@@ -1,0 +1,21 @@
+{
+    "p2kwiet12889314953969_btnDvcFeatures_onClick_seq0": {
+        "id": "p2kwiet12889314953969_btnDvcFeatures_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "navigation_onClick_1400712889314954485",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDeviceFeatures",
+            "formKUID": "p2kwiet12889314953775",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "enableMappingEditor": true
+        }]
+    }
+}

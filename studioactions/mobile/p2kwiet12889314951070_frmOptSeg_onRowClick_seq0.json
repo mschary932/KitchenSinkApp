@@ -1,0 +1,23 @@
+{
+    "p2kwiet12889314951070_frmOptSeg_onRowClick_seq0": {
+        "id": "p2kwiet12889314951070_frmOptSeg_onRowClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "sectionNumber",
+            "value": "sectionNumber"
+        }, {
+            "name": "rowNumber",
+            "value": "rowNumber"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onRowClick_772331288931495530",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmOptions",
+            "display": "frmOptions"
+        }]
+    }
+}

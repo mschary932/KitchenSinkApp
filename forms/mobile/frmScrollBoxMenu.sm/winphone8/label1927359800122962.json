@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "s1bcf617053a4ac086bcd3fd26f1602e",
+    "_skin_": "s6b055168ab6490f8455b4703c3a8610",
     "_text_": "",
     "_wrapping_": 2,
     "canUpdateUI": true,
@@ -28,7 +28,7 @@
         }
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998652177",
+    "kuid": "p2kwiet12889314952177",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

@@ -4,7 +4,7 @@
     "_orientation_": 2,
     "_position_": 3,
     "_resize_": true,
-    "_skin_": "s4b3c38d02d44887aebbec4d6c56e542",
+    "_skin_": "s8ae0600817c45dfb02820f2db0bf092",
     "allboxes": [],
     "borderCollapse": false,
     "canUpdateUI": true,
@@ -50,7 +50,7 @@
         "@class": "com.kony.gen.viz.model.container.property.vbox.KioskVBoxProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998656275",
+    "kuid": "p2kwiet12889314956275",
     "layouttype": 0,
     "name": "kony.ui.Box",
     "parent": "boxRefSegHdr",

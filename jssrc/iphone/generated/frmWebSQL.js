@@ -3,7 +3,7 @@ function addWidgetsfrmWebSQL() {
         "focusSkin": "btnFocus",
         "id": "btnCreateDB",
         "isVisible": true,
-        "onClick": p2kwiet9745998653313_btnCreateDB_onClick_seq0,
+        "onClick": p2kwiet12889314953313_btnCreateDB_onClick_seq0,
         "skin": "btnNormal",
         "text": "Create database"
     }, {
@@ -25,7 +25,7 @@ function addWidgetsfrmWebSQL() {
         "focusSkin": "btnFocus",
         "id": "button1930040990147039",
         "isVisible": true,
-        "onClick": p2kwiet9745998653313_button1930040990147039_onClick_seq0,
+        "onClick": p2kwiet12889314953313_button1930040990147039_onClick_seq0,
         "skin": "btnNormal",
         "text": "Insert data"
     }, {
@@ -47,7 +47,7 @@ function addWidgetsfrmWebSQL() {
         "focusSkin": "btnFocus",
         "id": "button1930040990147063",
         "isVisible": true,
-        "onClick": p2kwiet9745998653313_button1930040990147063_onClick_seq0,
+        "onClick": p2kwiet12889314953313_button1930040990147063_onClick_seq0,
         "skin": "btnNormal",
         "text": "Show data"
     }, {
@@ -69,7 +69,7 @@ function addWidgetsfrmWebSQL() {
         "focusSkin": "btnFocus",
         "id": "button1930040990147077",
         "isVisible": true,
-        "onClick": p2kwiet9745998653313_button1930040990147077_onClick_seq0,
+        "onClick": p2kwiet12889314953313_button1930040990147077_onClick_seq0,
         "skin": "btnNormal",
         "text": "Update data"
     }, {
@@ -91,7 +91,7 @@ function addWidgetsfrmWebSQL() {
         "focusSkin": "btnFocus",
         "id": "button1930040990147091",
         "isVisible": true,
-        "onClick": p2kwiet9745998653313_button1930040990147091_onClick_seq0,
+        "onClick": p2kwiet12889314953313_button1930040990147091_onClick_seq0,
         "skin": "btnNormal",
         "text": "Delete data"
     }, {
@@ -137,7 +137,7 @@ function frmWebSQLGlobals() {
         "enabledForIdleTimeout": false,
         "id": "frmWebSQL",
         "needAppMenu": true,
-        "preShow": p2kwiet9745998653313_frmWebSQL_preshow_seq0,
+        "preShow": p2kwiet12889314953313_frmWebSQL_preshow_seq0,
         "skin": "frm",
         "title": "WebSQL"
     }, {
@@ -178,6 +178,6 @@ function frmWebSQLGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmWebSQL.info = {
-        "kuid": "p2kwiet9745998653313"
+        "kuid": "p2kwiet12889314953313"
     };
 };

@@ -43,7 +43,7 @@ function addWidgetsfrmSegTableView() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865249,
+        "rowTemplate": vbox1288931495249,
         "screenLevelWidget": true,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -127,6 +127,6 @@ function frmSegTableViewGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmSegTableView.info = {
-        "kuid": "p2kwiet9745998652829"
+        "kuid": "p2kwiet12889314952829"
     };
 };

@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "s95819d8b33d40f4a761bfdf83399a1d",
+    "_skin_": "s67abb7e4ed14466bd7f7e38b9e889ee",
     "_text_": "Button With 3 Patch Image",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.button.AndroidButtonProperty",
@@ -38,7 +38,7 @@
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "s7dcf1c34ee24bbcbfd7c43862135750",
+    "focusskin": "seb4c4d5145a411a83e0757046d08068",
     "hexpand": true,
     "id": "button1210492603907",
     "info": null,
@@ -77,7 +77,7 @@
         "render": false
     },
     "isvisible": true,
-    "kuid": "p2kwiet974599865419",
+    "kuid": "p2kwiet1288931495419",
     "name": "kony.ui.Button",
     "parent": "frmBtn",
     "pf": "frmBtn",

@@ -13,7 +13,7 @@
         0,
         0
     ],
-    "_skin_": "s441d91ce9f5410cac68fffd9dde5595",
+    "_skin_": "s656f2dfeda1436b98fc5005af50ed2e",
     "_text_": "Back",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.button.AndroidButtonProperty",
@@ -50,10 +50,10 @@
     "containerweight": 33,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "sdbb9aef115d4b45bf37ac8baba6db5e",
+    "focusskin": "scdbf95b9d17434fb4cd06da49e99c91",
     "hexpand": true,
     "id": "btnInlineBack",
-    "ide_onClick": "p2kwiet974599865365_btnInlineBack_onClick_seq0",
+    "ide_onClick": "p2kwiet1288931495365_btnInlineBack_onClick_seq0",
     "info": null,
     "iphone": {
         "@class": "com.kony.gen.viz.model.component.property.button.IPhoneButtonProperty",
@@ -90,7 +90,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet974599865360",
+    "kuid": "p2kwiet1288931495360",
     "margininpixel": false,
     "name": "kony.ui.Button",
     "paddinginpixel": false,

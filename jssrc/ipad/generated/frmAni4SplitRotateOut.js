@@ -47,6 +47,6 @@ function frmAni4SplitRotateOutGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmAni4SplitRotateOut.info = {
-        "kuid": "p2kwiet9745998653396"
+        "kuid": "p2kwiet12889314953396"
     };
 };

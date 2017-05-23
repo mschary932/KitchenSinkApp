@@ -3,7 +3,7 @@ function addWidgetsfrmEmail() {
         "focusSkin": "btnFocus",
         "id": "button1930040990146518",
         "isVisible": true,
-        "onClick": p2kwiet974599865966_button1930040990146518_onClick_seq0,
+        "onClick": p2kwiet1288931495966_button1930040990146518_onClick_seq0,
         "skin": "btnNormal",
         "text": "Email without attachment"
     }, {
@@ -25,7 +25,7 @@ function addWidgetsfrmEmail() {
         "focusSkin": "btnFocus",
         "id": "button1930040990146529",
         "isVisible": true,
-        "onClick": p2kwiet974599865966_button1930040990146529_onClick_seq0,
+        "onClick": p2kwiet1288931495966_button1930040990146529_onClick_seq0,
         "skin": "btnNormal",
         "text": "Email with attachment"
     }, {
@@ -93,6 +93,6 @@ function frmEmailGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmEmail.info = {
-        "kuid": "p2kwiet974599865966"
+        "kuid": "p2kwiet1288931495966"
     };
 };

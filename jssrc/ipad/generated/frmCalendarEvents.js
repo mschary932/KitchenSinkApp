@@ -35,7 +35,7 @@ function addWidgetsfrmCalendarEvents() {
         "focusSkin": "btnFocus",
         "id": "button192920684279843",
         "isVisible": true,
-        "onClick": p2kwiet9745998653643_button192920684279843_onClick_seq0,
+        "onClick": p2kwiet12889314953643_button192920684279843_onClick_seq0,
         "skin": "btnNormal",
         "text": "Add calendar event"
     }, {
@@ -57,7 +57,7 @@ function addWidgetsfrmCalendarEvents() {
         "focusSkin": "btnFocus",
         "id": "button192920684279845",
         "isVisible": true,
-        "onClick": p2kwiet9745998653643_button192920684279845_onClick_seq0,
+        "onClick": p2kwiet12889314953643_button192920684279845_onClick_seq0,
         "skin": "btnNormal",
         "text": "Remove calendar event"
     }, {
@@ -79,7 +79,7 @@ function addWidgetsfrmCalendarEvents() {
         "focusSkin": "btnFocus",
         "id": "button192920684279847",
         "isVisible": true,
-        "onClick": p2kwiet9745998653643_button192920684279847_onClick_seq0,
+        "onClick": p2kwiet12889314953643_button192920684279847_onClick_seq0,
         "skin": "btnNormal",
         "text": "Confidential  event"
     }, {
@@ -156,6 +156,6 @@ function frmCalendarEventsGlobals() {
         "titleBar": true
     });
     frmCalendarEvents.info = {
-        "kuid": "p2kwiet9745998653643"
+        "kuid": "p2kwiet12889314953643"
     };
 };

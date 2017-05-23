@@ -36,7 +36,7 @@
         0,
         0
     ],
-    "_skin_": "sbf7bb91255a423ab2c690563ebd941f",
+    "_skin_": "sae03d72a7d24252ae44b0ecb91dee43",
     "_text_": "ImageGallery2",
     "canUpdateUI": true,
     "containerweight": 70,
@@ -57,7 +57,7 @@
     },
     "focusedindex": null,
     "focuseditem": null,
-    "focusskin": "sbf7bb91255a423ab2c690563ebd941f",
+    "focusskin": "sae03d72a7d24252ae44b0ecb91dee43",
     "hexpand": true,
     "id": "imagegallery21210492603228",
     "imagescalemode": 1,
@@ -68,7 +68,7 @@
         "render": true,
         "spaceBetweenImages": 0
     },
-    "kuid": "p2kwiet9745998655391",
+    "kuid": "p2kwiet12889314955391",
     "margininpixel": false,
     "name": "kony.ui.ImageGallery2",
     "noofrowsperpage": 1,

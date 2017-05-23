@@ -8,17 +8,17 @@
         }],
         "language": "js",
         "actions": [{
-            "id": "customcode_preappinit_912049745998653718",
+            "id": "customcode_preappinit_5485112889314953887",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "setChannelTablet",
             "display": "setChannelTablet"
         }, {
-            "id": "customcode_preappinit_149349745998659376",
+            "id": "customcode_preappinit_1036112889314952538",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "createAppMenu",
             "display": "createAppMenu"
         }, {
-            "id": "expression_preappinit_173589745998656292",
+            "id": "expression_preappinit_292612889314955136",
             "type": "ADD_SNIPPET",
             "codeSnippet": "count = 1;\n flag =0;//DismissLoadingScreen\n flag1 =0;//DismissLoadingScreen\n webSQLFlag = 0;\n j=0;\n andTab=0;//For android tablet post show handle"
         }]

@@ -54,7 +54,7 @@ function addWidgetsfrmBadge() {
         "focusSkin": "btnFocus",
         "id": "btnBadge",
         "isVisible": true,
-        "onClick": p2kwiet9745998653579_btnBadge_onClick_seq0,
+        "onClick": p2kwiet12889314953579_btnBadge_onClick_seq0,
         "skin": "btnNormal",
         "text": "Click to change the badge counter"
     }, {
@@ -113,6 +113,6 @@ function frmBadgeGlobals() {
         "titleBar": true
     });
     frmBadge.info = {
-        "kuid": "p2kwiet9745998653579"
+        "kuid": "p2kwiet12889314953579"
     };
 };

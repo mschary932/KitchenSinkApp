@@ -4,7 +4,7 @@ function addWidgetsfrmCamAcsModes() {
         "focusSkin": "camFocus",
         "id": "camera1930040990139338",
         "isVisible": true,
-        "onCapture": p2kwiet974599865546_camera1930040990139338_onCapture_seq0,
+        "onCapture": p2kwiet1288931495546_camera1930040990139338_onCapture_seq0,
         "scaleFactor": 80,
         "skin": "camNormal",
         "text": "Private mode"
@@ -31,7 +31,7 @@ function addWidgetsfrmCamAcsModes() {
         "focusSkin": "camFocus",
         "id": "camera1930040990139344",
         "isVisible": true,
-        "onCapture": p2kwiet974599865546_camera1930040990139344_onCapture_seq0,
+        "onCapture": p2kwiet1288931495546_camera1930040990139344_onCapture_seq0,
         "scaleFactor": 80,
         "skin": "camNormal",
         "text": "In memory mode"
@@ -171,6 +171,6 @@ function frmCamAcsModesGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmCamAcsModes.info = {
-        "kuid": "p2kwiet974599865546"
+        "kuid": "p2kwiet1288931495546"
     };
 };

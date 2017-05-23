@@ -33,7 +33,7 @@ function addWidgetsfrmsegGroupMode() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865205,
+        "rowTemplate": vbox1288931495205,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -99,7 +99,7 @@ function addWidgetsfrmsegGroupMode() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865207,
+        "rowTemplate": vbox1288931495207,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -180,6 +180,6 @@ function frmsegGroupModeGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmsegGroupMode.info = {
-        "kuid": "p2kwiet9745998652516"
+        "kuid": "p2kwiet12889314952516"
     };
 };

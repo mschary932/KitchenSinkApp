@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_base64_": null,
     "_enabled_": false,
-    "_skin_": "safd93c4527241e3ac2673538316adcd",
+    "_skin_": "sb6e75550f1948fd98eec218c7315fd4",
     "_src_": "groups.png",
     "_text_": "groups.png",
     "android": {
@@ -24,7 +24,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998654306",
+    "kuid": "p2kwiet12889314954306",
     "name": "kony.ui.Image2",
     "parent": "hbox192911746996457",
     "pf": "frmScrollBoxMenu",

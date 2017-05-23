@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "sfa7c814f33c401187b833674f6f521a",
+    "_skin_": "sc416f4b1ea748fcbaa8b5814f054c5f",
     "_text_": "Label",
     "_wrapping_": 2,
     "canUpdateUI": true,
@@ -48,7 +48,7 @@
         "@class": "com.kony.gen.viz.model.component.property.label.KioskLabelProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998656235",
+    "kuid": "p2kwiet12889314956235",
     "name": "kony.ui.Label",
     "parent": "vbox120944992024383",
     "pf": "segHdrTemp2",

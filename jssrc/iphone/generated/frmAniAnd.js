@@ -23,11 +23,11 @@ function addWidgetsfrmAniAnd() {
         "id": "segAndroid",
         "isVisible": true,
         "needPageIndicator": true,
-        "onRowClick": p2kwiet974599865115_segAndroid_onRowClick_seq0,
+        "onRowClick": p2kwiet1288931495115_segAndroid_onRowClick_seq0,
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865123,
+        "rowTemplate": vbox1288931495123,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -100,6 +100,6 @@ function frmAniAndGlobals() {
         "titleBar": true
     });
     frmAniAnd.info = {
-        "kuid": "p2kwiet974599865115"
+        "kuid": "p2kwiet1288931495115"
     };
 };

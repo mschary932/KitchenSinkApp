@@ -14,7 +14,7 @@
         1
     ],
     "_placeholder_": "Enter Text",
-    "_skin_": "s8a869ee42e14511873b2a3d9bf689e1",
+    "_skin_": "s62980d1f1fa4fb487a879abeacfe42f",
     "_text_": "",
     "autocapitalize": "none",
     "autocomplete": false,
@@ -30,7 +30,7 @@
         "containerHeightMode": 1,
         "render": true
     },
-    "focusskin": "s8a869ee42e14511873b2a3d9bf689e1",
+    "focusskin": "s62980d1f1fa4fb487a879abeacfe42f",
     "hexpand": true,
     "id": "textfield2192735980024620",
     "info": null,
@@ -41,7 +41,7 @@
         "@class": "com.kony.gen.viz.model.component.property.textbox2.KioskTextBox2Property",
         "render": true
     },
-    "kuid": "p2kwiet9745998655840",
+    "kuid": "p2kwiet12889314955840",
     "margininpixel": false,
     "mode": "A",
     "name": "kony.ui.TextBox2",

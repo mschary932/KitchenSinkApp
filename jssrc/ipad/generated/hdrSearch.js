@@ -22,7 +22,7 @@ function initializehdrSearch() {
         "id": "tbxSearchORE",
         "isVisible": true,
         "keyBoardStyle": constants.TEXTBOX_KEY_BOARD_STYLE_DEFAULT,
-        "onTextChange": p2kwiet9745998655985_tbxSearchORE_onTextChange_seq0,
+        "onTextChange": p2kwiet12889314955985_tbxSearchORE_onTextChange_seq0,
         "secureTextEntry": false,
         "skin": "textBoxNormal",
         "textInputMode": constants.TEXTBOX_INPUT_MODE_ANY
@@ -40,7 +40,7 @@ function initializehdrSearch() {
     }, {
         "autoCorrect": false,
         "keyboardActionLabel": constants.TEXTBOX_KEYBOARD_LABEL_DONE,
-        "onBeginEditing": p2kwiet9745998655985_tbxSearchORE_iPad_onBeginEditing_seq0,
+        "onBeginEditing": p2kwiet12889314955985_tbxSearchORE_iPad_onBeginEditing_seq0,
         "pasteboardType": constants.TEXTBOX_PASTE_BOARD_TYPE_NO_PASTE_BOARD,
         "showClearButton": true,
         "showCloseButton": true,

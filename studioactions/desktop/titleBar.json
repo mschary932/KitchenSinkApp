@@ -1,6 +1,6 @@
 {
     "titleBar": {
-        "id": "p2kwiet9745998654873_titleBar_titlebarAction",
+        "id": "p2kwiet12889314954873_titleBar_titlebarAction",
         "type": "ACTION_SEQUENCE",
         "params": [{
             "name": "eventobject",

@@ -5,7 +5,7 @@
     "_percent_": true,
     "_position_": 3,
     "_resize_": true,
-    "_skin_": "sedf5b0b3ace498b89c62377982e35ae",
+    "_skin_": "s0a85096c9624d7dafbafe8eab09fb3f",
     "allboxes": [],
     "android": {
         "@class": "com.kony.gen.viz.model.container.property.hbox.AndroidHBoxProperty",
@@ -69,7 +69,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998656063",
+    "kuid": "p2kwiet12889314956063",
     "layoutalignment": 3,
     "name": "kony.ui.Box",
     "parent": "rowTemplate3",

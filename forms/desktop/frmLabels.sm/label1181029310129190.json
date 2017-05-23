@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "s1b53848b3da455db70efd7737a62b70",
+    "_skin_": "s42a60ff23164e25b17ce72e0f0a79b6",
     "_text_": "Label with shadow radius:10",
     "_wrapping_": 2,
     "canUpdateUI": true,
@@ -34,7 +34,7 @@
         "@class": "com.kony.gen.viz.model.component.property.label.KioskLabelProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998655438",
+    "kuid": "p2kwiet12889314955438",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

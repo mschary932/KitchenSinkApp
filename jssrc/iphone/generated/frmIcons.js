@@ -186,6 +186,6 @@ function frmIconsGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmIcons.info = {
-        "kuid": "p2kwiet9745998651331"
+        "kuid": "p2kwiet12889314951331"
     };
 };

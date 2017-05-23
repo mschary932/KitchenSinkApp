@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "s08e4f4a6c204b41b75a0911138aebb0",
+    "_skin_": "scb504f086954855812d164e1bd5f678",
     "_text_": "Accelerometer readings",
     "_wrapping_": 2,
     "android": {
@@ -65,7 +65,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet97459986521",
+    "kuid": "p2kwiet128893149521",
     "name": "kony.ui.Label",
     "parent": "hbox10446524723745",
     "pf": "frmAclMeterReadings",

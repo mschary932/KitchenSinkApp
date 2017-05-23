@@ -41,7 +41,7 @@ function frmMapGlobals() {
         "enabledForIdleTimeout": false,
         "id": "frmMap",
         "needAppMenu": true,
-        "preShow": p2kwiet9745998651826_frmMap_preshow_seq0,
+        "preShow": p2kwiet12889314951826_frmMap_preshow_seq0,
         "skin": "frm",
         "title": "Map"
     }, {
@@ -81,6 +81,6 @@ function frmMapGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmMap.info = {
-        "kuid": "p2kwiet9745998651826"
+        "kuid": "p2kwiet12889314951826"
     };
 };

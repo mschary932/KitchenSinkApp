@@ -13,7 +13,7 @@
         0,
         1
     ],
-    "_skin_": "sd6e516dd2d341819d3cc045ee96d68a",
+    "_skin_": "sa1804e28ed840d8b489d06d0c82c14c",
     "_text_": "Button with vertical spilt",
     "canUpdateUI": true,
     "containerweight": 50,
@@ -37,7 +37,7 @@
         "render": true
     },
     "displaytext": true,
-    "focusskin": "sf1c866d4b8244ada8f0c9a67ef55293",
+    "focusskin": "s5c20bd4c50143c081dd6a2610208254",
     "hexpand": true,
     "id": "button117989725223628",
     "info": null,
@@ -46,7 +46,7 @@
         "@class": "com.kony.gen.viz.model.component.property.button.KioskButtonProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998655109",
+    "kuid": "p2kwiet12889314955109",
     "margininpixel": false,
     "name": "kony.ui.Button",
     "paddinginpixel": false,

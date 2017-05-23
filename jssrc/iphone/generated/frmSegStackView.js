@@ -24,7 +24,7 @@ function addWidgetsfrmSegStackView() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865247,
+        "rowTemplate": vbox1288931495247,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -108,6 +108,6 @@ function frmSegStackViewGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmSegStackView.info = {
-        "kuid": "p2kwiet9745998652811"
+        "kuid": "p2kwiet12889314952811"
     };
 };

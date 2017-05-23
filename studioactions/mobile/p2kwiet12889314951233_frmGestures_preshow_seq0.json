@@ -1,0 +1,19 @@
+{
+    "p2kwiet12889314951233_frmGestures_preshow_seq0": {
+        "id": "p2kwiet12889314951233_frmGestures_preshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_preshow_6251712889314953337",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "hBoxTitle.lblTitle.text = \"Gestures\";\n frmGestures.imgGes.isVisible = false;"
+        }]
+    }
+}

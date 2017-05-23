@@ -7,7 +7,7 @@
         0,
         0
     ],
-    "_skin_": "s51c7895b3eb44aea05bc52d882a630c",
+    "_skin_": "s0541975cb614bc5bc2e2600ecd301d8",
     "_title_": "Squeeze",
     "addWidgetsdone": false,
     "allboxes": [],
@@ -42,9 +42,9 @@
     "enabledforidletimeout": false,
     "footeroverlap": false,
     "headeroverlap": false,
-    "headersId": "p2kwiet9745998655965",
+    "headersId": "p2kwiet12889314955965",
     "id": "frmAniWinSqueeze",
-    "ide_preShow": "p2kwiet974599865252_frmAniWinSqueeze_preshow_seq0",
+    "ide_preShow": "p2kwiet1288931495252_frmAniWinSqueeze_preshow_seq0",
     "info": null,
     "initdone": false,
     "intransitionconfig": {
@@ -82,7 +82,7 @@
     },
     "ismodal": false,
     "isvisible": true,
-    "kuid": "p2kwiet974599865252",
+    "kuid": "p2kwiet1288931495252",
     "margininpixel": false,
     "menuposition": 2,
     "name": "kony.ui.Form2",
@@ -130,7 +130,7 @@
         "render": true
     },
     "templateType": "forms",
-    "titleBarSkin": "s0b46d97067d45c29179d97c1e6cbbdc",
+    "titleBarSkin": "s451cd155d3649ac9e2793e49e50285d",
     "titlebar": false,
     "transparencybehindthepopup": 100,
     "type": 3,

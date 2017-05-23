@@ -5,7 +5,7 @@
     "_percent_": true,
     "_position_": 3,
     "_resize_": true,
-    "_skin_": "s32ca65545514c2b8f0f3e208f665e16",
+    "_skin_": "s17da14750ae47ffae777714a5f65c50",
     "allboxes": [],
     "android": {
         "@class": "com.kony.gen.viz.model.container.property.hbox.AndroidHBoxProperty",
@@ -19,7 +19,7 @@
         "label103994549623664"
     ],
     "containerweight": 100,
-    "focusskin": "s32ca65545514c2b8f0f3e208f665e16",
+    "focusskin": "s17da14750ae47ffae777714a5f65c50",
     "id": "hbox103994549623663",
     "info": null,
     "iphone": {
@@ -55,7 +55,7 @@
         "render": false
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998653173",
+    "kuid": "p2kwiet12889314953173",
     "layoutalignment": 3,
     "name": "kony.ui.Box",
     "parent": "frmToggleTabs",

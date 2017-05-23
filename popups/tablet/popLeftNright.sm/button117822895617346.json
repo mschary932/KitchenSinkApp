@@ -13,7 +13,7 @@
         0,
         0
     ],
-    "_skin_": "s50e06ce0c4343e7aad702329f4b254a",
+    "_skin_": "s287c1d320a54f7bb33963e0b602bb69",
     "_text_": "Dismiss",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.button.AndroidButtonProperty",
@@ -50,10 +50,10 @@
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "s726a01967134b9e8820c0f8a871fc79",
+    "focusskin": "sbf06c04d83e48ba970df1322bcff5fc",
     "hexpand": true,
     "id": "button117822895617346",
-    "ide_onClick": "p2kwiet9745998655927_button117822895617346_onClick_seq0",
+    "ide_onClick": "p2kwiet12889314955927_button117822895617346_onClick_seq0",
     "info": null,
     "ipad": {
         "@class": "com.kony.gen.viz.model.component.property.button.IPadButtonProperty",
@@ -90,7 +90,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998655923",
+    "kuid": "p2kwiet12889314955923",
     "margininpixel": false,
     "name": "kony.ui.Button",
     "paddinginpixel": false,

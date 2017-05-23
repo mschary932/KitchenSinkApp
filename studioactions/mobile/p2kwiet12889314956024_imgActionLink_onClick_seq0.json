@@ -1,0 +1,29 @@
+{
+    "p2kwiet12889314956024_imgActionLink_onClick_seq0": {
+        "id": "p2kwiet12889314956024_imgActionLink_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "context",
+            "value": "context"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "alert_onClick_3539812889314957150",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_ERROR",
+            "alertTitle": "",
+            "yesLabel": "Yes",
+            "noLabel": "No",
+            "alertMessage": "You clicked link",
+            "messageType": "constant",
+            "alertTitlei18n": "",
+            "yesLabeli18n": "",
+            "noLabeli18n": "",
+            "alertMessagei18n": "",
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }]
+    }
+}

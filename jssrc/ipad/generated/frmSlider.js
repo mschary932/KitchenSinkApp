@@ -157,8 +157,8 @@ function addWidgetsfrmSlider() {
         "isVisible": true,
         "max": 100,
         "min": 0,
-        "onSelection": p2kwiet9745998654734_slider192914726036080_onSelection_seq0,
-        "onSlide": p2kwiet9745998654734_slider192914726036080_onslide_seq0,
+        "onSelection": p2kwiet12889314954734_slider192914726036080_onSelection_seq0,
+        "onSlide": p2kwiet12889314954734_slider192914726036080_onslide_seq0,
         "selectedValue": 0,
         "step": 1
     }, {
@@ -266,6 +266,6 @@ function frmSliderGlobals() {
         "titleBar": true
     });
     frmSlider.info = {
-        "kuid": "p2kwiet9745998654734"
+        "kuid": "p2kwiet12889314954734"
     };
 };

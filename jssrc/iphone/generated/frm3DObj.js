@@ -59,6 +59,6 @@ function frm3DObjGlobals() {
         "titleBar": true
     });
     frm3DObj.info = {
-        "kuid": "p2kwiet9745998658"
+        "kuid": "p2kwiet12889314958"
     };
 };

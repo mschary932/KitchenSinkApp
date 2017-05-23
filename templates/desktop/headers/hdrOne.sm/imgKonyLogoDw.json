@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_base64_": null,
     "_enabled_": false,
-    "_skin_": "safd93c4527241e3ac2673538316adcd",
+    "_skin_": "sb6e75550f1948fd98eec218c7315fd4",
     "_src_": "konylogodw.png",
     "_text_": "konylogodw.png",
     "canUpdateUI": true,
@@ -47,7 +47,7 @@
         "@class": "com.kony.gen.viz.model.component.property.image2.KioskImage2Property",
         "render": true
     },
-    "kuid": "p2kwiet9745998655995",
+    "kuid": "p2kwiet12889314955995",
     "name": "kony.ui.Image2",
     "parent": "hbox192735980024418",
     "pf": "hdrOne",

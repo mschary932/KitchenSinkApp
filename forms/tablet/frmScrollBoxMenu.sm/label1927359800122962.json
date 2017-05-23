@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "s1bcf617053a4ac086bcd3fd26f1602e",
+    "_skin_": "s6b055168ab6490f8455b4703c3a8610",
     "_text_": "",
     "_wrapping_": 2,
     "android": {
@@ -38,7 +38,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998654327",
+    "kuid": "p2kwiet12889314954327",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

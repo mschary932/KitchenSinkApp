@@ -76,7 +76,7 @@ function addWidgetsfrmImgStrip() {
         ],
         "id": "hisDefault",
         "isVisible": true,
-        "onSelection": p2kwiet9745998654090_hisDefault_onSelection_seq0,
+        "onSelection": p2kwiet12889314954090_hisDefault_onSelection_seq0,
         "showArrows": false,
         "showScrollbars": false,
         "skin": "imgGalNormal",
@@ -292,6 +292,6 @@ function frmImgStripGlobals() {
         "titleBar": true
     });
     frmImgStrip.info = {
-        "kuid": "p2kwiet9745998654090"
+        "kuid": "p2kwiet12889314954090"
     };
 };

@@ -176,6 +176,6 @@ function frmIconsGlobals() {
         "titleBar": true
     });
     frmIcons.info = {
-        "kuid": "p2kwiet9745998653994"
+        "kuid": "p2kwiet12889314953994"
     };
 };

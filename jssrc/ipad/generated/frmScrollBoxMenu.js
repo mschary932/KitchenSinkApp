@@ -1017,7 +1017,7 @@ function addWidgetsfrmScrollBoxMenu() {
         "focusSkin": "btnFocus",
         "id": "button192735980042699",
         "isVisible": true,
-        "onClick": p2kwiet9745998654342_button192735980042699_onClick_seq0,
+        "onClick": p2kwiet12889314954342_button192735980042699_onClick_seq0,
         "skin": "btnExpand"
     }, {
         "containerWeight": 10,
@@ -1254,7 +1254,7 @@ function frmScrollBoxMenuGlobals() {
         "bounces": true,
         "enabledForIdleTimeout": false,
         "id": "frmScrollBoxMenu",
-        "init": p2kwiet9745998654342_frmScrollBoxMenu_init_seq0,
+        "init": p2kwiet12889314954342_frmScrollBoxMenu_init_seq0,
         "needAppMenu": true,
         "skin": "frm"
     }, {
@@ -1285,6 +1285,6 @@ function frmScrollBoxMenuGlobals() {
         "titleBar": true
     });
     frmScrollBoxMenu.info = {
-        "kuid": "p2kwiet9745998654342"
+        "kuid": "p2kwiet12889314954342"
     };
 };

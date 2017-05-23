@@ -71,11 +71,11 @@ function addWidgetsfrmDeviceFeatures() {
         "id": "segDeviceFeatures",
         "isVisible": true,
         "needPageIndicator": true,
-        "onRowClick": p2kwiet9745998653775_segDeviceFeatures_onRowClick_seq0,
+        "onRowClick": p2kwiet12889314953775_segDeviceFeatures_onRowClick_seq0,
         "retainSelection": true,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865277,
+        "rowTemplate": vbox1288931495277,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -141,7 +141,7 @@ function frmDeviceFeaturesGlobals() {
         "bounces": true,
         "enabledForIdleTimeout": false,
         "id": "frmDeviceFeatures",
-        "init": p2kwiet9745998653775_frmDeviceFeatures_init_seq0,
+        "init": p2kwiet12889314953775_frmDeviceFeatures_init_seq0,
         "needAppMenu": true,
         "skin": "frm",
         "title": "Device features"
@@ -181,6 +181,6 @@ function frmDeviceFeaturesGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmDeviceFeatures.info = {
-        "kuid": "p2kwiet9745998653775"
+        "kuid": "p2kwiet12889314953775"
     };
 };

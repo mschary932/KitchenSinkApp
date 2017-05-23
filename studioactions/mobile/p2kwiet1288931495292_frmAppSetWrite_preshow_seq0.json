@@ -1,0 +1,19 @@
+{
+    "p2kwiet1288931495292_frmAppSetWrite_preshow_seq0": {
+        "id": "p2kwiet1288931495292_frmAppSetWrite_preshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_preshow_4589912889314957725",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmAppSetWrite.lblAppAfterSet.text=\"\";"
+        }]
+    }
+}

@@ -5,7 +5,7 @@
     "_percent_": true,
     "_position_": 3,
     "_resize_": true,
-    "_skin_": "sfea64a24b664d8d8b31ee90275f9e15",
+    "_skin_": "s487ba43d27540c39955a4b5c7ec9894",
     "allboxes": [],
     "android": {
         "@class": "com.kony.gen.viz.model.container.property.hbox.AndroidHBoxProperty",
@@ -80,7 +80,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998656169",
+    "kuid": "p2kwiet12889314956169",
     "layoutalignment": 3,
     "name": "kony.ui.Box",
     "parent": "segrow2",

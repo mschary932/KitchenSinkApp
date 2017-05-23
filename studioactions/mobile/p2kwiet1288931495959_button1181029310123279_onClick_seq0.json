@@ -1,0 +1,40 @@
+{
+    "p2kwiet1288931495959_button1181029310123279_onClick_seq0": {
+        "id": "p2kwiet1288931495959_button1181029310123279_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "decision_onClick_2809012889314953398",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "expression",
+                "leftValue": "kony.os.deviceInfo().model != \"iPhone Simulator\" && kony.os.userAgent()!=\"google_sdk\""
+            }],
+            "criteria": "all"
+        }, {
+            "id": "decision_onClick_9859612889314952344",
+            "type": "ELSE_CONDITION",
+            "conditions": [],
+            "criteria": "all"
+        }, {
+            "id": "navigation_onClick_3433912889314956021",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmCameraOptions",
+            "formKUID": "p2kwiet1288931495574",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "decision_onClick_2809012889314953398",
+            "enableMappingEditor": true
+        }, {
+            "id": "customcode_onClick_2053512889314955314",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "simulatorCheck",
+            "display": "simulatorCheck",
+            "parentId": "decision_onClick_9859612889314952344"
+        }]
+    }
+}

@@ -13,7 +13,7 @@
         0,
         0
     ],
-    "_skin_": "s03d746a1b1d48748712bb1779246d71",
+    "_skin_": "s7826bfede2d4bc19d87b8f8afe48323",
     "_text_": "",
     "canUpdateUI": true,
     "containerweight": 20,
@@ -30,7 +30,7 @@
         "@class": "com.kony.gen.viz.model.component.property.switchh.KioskSwitchhProperty",
         "render": false
     },
-    "kuid": "p2kwiet9745998655735",
+    "kuid": "p2kwiet12889314955735",
     "leftsidetext": "ON",
     "margininpixel": false,
     "name": "kony.ui.Switch",

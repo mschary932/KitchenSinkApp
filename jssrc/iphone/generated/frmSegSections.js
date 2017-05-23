@@ -60,7 +60,7 @@ function addWidgetsfrmSegSections() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865239,
+        "rowTemplate": vbox1288931495239,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -180,7 +180,7 @@ function addWidgetsfrmSegSections() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865241,
+        "rowTemplate": vbox1288931495241,
         "screenLevelWidget": true,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -268,6 +268,6 @@ function frmSegSectionsGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmSegSections.info = {
-        "kuid": "p2kwiet9745998652771"
+        "kuid": "p2kwiet12889314952771"
     };
 };

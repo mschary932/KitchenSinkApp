@@ -7,7 +7,7 @@ function addWidgetsfrmSegSwipe() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865345,
+        "rowTemplate": vbox1288931495345,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -35,7 +35,7 @@ function addWidgetsfrmSegSwipe() {
         "editStyle": constants.SEGUI_EDITING_STYLE_SWIPE,
         "enableDictionary": false,
         "indicator": constants.SEGUI_NONE,
-        "onEditing": p2kwiet9745998654714_segSwipeToDelete_iPad_onEditing_seq0,
+        "onEditing": p2kwiet12889314954714_segSwipeToDelete_iPad_onEditing_seq0,
         "progressIndicatorColor": constants.PROGRESS_INDICATOR_COLOR_WHITE,
         "searchCriteria": constants.SEGUI_SEARCH_CRITERIA_STARTSWITH,
         "showProgressIndicator": true
@@ -79,6 +79,6 @@ function frmSegSwipeGlobals() {
         "titleBar": true
     });
     frmSegSwipe.info = {
-        "kuid": "p2kwiet9745998654714"
+        "kuid": "p2kwiet12889314954714"
     };
 };

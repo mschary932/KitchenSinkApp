@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "s4dc3fb1fab54c4c9d7f599f9b1d9d29",
+    "_skin_": "s41dc4b0f6444847bf954a68f2374a84",
     "_text_": "Button with Border:1 ",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.button.AndroidButtonProperty",
@@ -38,7 +38,7 @@
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "sc1224f0dab24ac3acccee59794e38cb",
+    "focusskin": "s3b1060ff89e41459d4c339a998616ee",
     "hexpand": true,
     "id": "button1181029310128114",
     "info": null,
@@ -77,7 +77,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet974599865428",
+    "kuid": "p2kwiet1288931495428",
     "name": "kony.ui.Button",
     "parent": "frmBtn",
     "pf": "frmBtn",

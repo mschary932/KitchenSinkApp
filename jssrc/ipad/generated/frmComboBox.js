@@ -403,6 +403,6 @@ function frmComboBoxGlobals() {
         "titleBar": true
     });
     frmComboBox.info = {
-        "kuid": "p2kwiet9745998653712"
+        "kuid": "p2kwiet12889314953712"
     };
 };

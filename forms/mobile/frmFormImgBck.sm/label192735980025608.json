@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "s21bd8f1c4044e85b9a8b5f59748169d",
+    "_skin_": "sc44864bd5ff4c47a8572c66bf939711",
     "_text_": "This is the form with image background",
     "_wrapping_": 2,
     "android": {
@@ -78,7 +78,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998651062",
+    "kuid": "p2kwiet12889314951062",
     "name": "kony.ui.Label",
     "parent": "frmFormImgBck",
     "pf": "frmFormImgBck",

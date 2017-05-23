@@ -51,11 +51,11 @@ function addWidgetsfrmAni() {
         "id": "segiPhone",
         "isVisible": true,
         "needPageIndicator": true,
-        "onRowClick": p2kwiet97459986576_segiPhone_onRowClick_seq0,
+        "onRowClick": p2kwiet128893149576_segiPhone_onRowClick_seq0,
         "retainSelection": true,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865121,
+        "rowTemplate": vbox1288931495121,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -136,6 +136,6 @@ function frmAniGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmAni.info = {
-        "kuid": "p2kwiet97459986576"
+        "kuid": "p2kwiet128893149576"
     };
 };

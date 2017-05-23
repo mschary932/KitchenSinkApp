@@ -8,7 +8,7 @@
         0,
         0
     ],
-    "_skin_": "s8784ea610634d94be2ad32f272cf853",
+    "_skin_": "s366295dee8f48f99db0f10ac1c9132b",
     "_text_": "",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.checkbox.AndroidCheckBoxProperty",
@@ -52,7 +52,7 @@
         "templateType": "forms",
         "topLevelBox": null
     },
-    "focusskin": "s8784ea610634d94be2ad32f272cf853",
+    "focusskin": "s366295dee8f48f99db0f10ac1c9132b",
     "id": "checkboxgroup117989725237806",
     "info": null,
     "iphone": {
@@ -80,7 +80,7 @@
     },
     "isvisible": true,
     "itemorientation": "vertical",
-    "kuid": "p2kwiet974599865622",
+    "kuid": "p2kwiet1288931495622",
     "masterdata": [
         [
             "1",

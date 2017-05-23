@@ -1,0 +1,58 @@
+{
+    "DNDConfig": null,
+    "_base64_": null,
+    "_enabled_": false,
+    "_skin_": "sb6e75550f1948fd98eec218c7315fd4",
+    "_text_": "",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "hexpand": false,
+    "id": "image2117989725234759",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet12889314952851",
+    "name": "kony.ui.Image2",
+    "parent": "hbox117989725234754",
+    "pf": "vbox1288931495255",
+    "referenceheight": 80,
+    "referencewidth": 444,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.image2.SPAImage2Property"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.image2.SPAAndroidImage2Property",
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "srcType": 1,
+    "vexpand": false,
+    "wType": "Image",
+    "widgetalignment": 5
+}

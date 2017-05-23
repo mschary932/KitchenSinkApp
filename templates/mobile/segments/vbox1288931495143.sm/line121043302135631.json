@@ -1,0 +1,28 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "s9daa39f9c9b4d49a387d0a00e4b6317",
+    "_text_": "",
+    "_thickness_": 1,
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.line.AndroidLineProperty",
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "hexpand": true,
+    "id": "line121043302135631",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet1288931495700",
+    "name": "kony.ui.Line",
+    "parent": "vbox1288931495143",
+    "pf": "vbox1288931495143",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.line.SPALineProperty"
+    },
+    "vexpand": false,
+    "wType": "Line",
+    "widgetalignment": 5
+}

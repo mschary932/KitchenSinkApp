@@ -13,11 +13,11 @@ function addWidgetsfrmAniSPA() {
         "id": "segSPA",
         "isVisible": true,
         "needPageIndicator": true,
-        "onRowClick": p2kwiet974599865203_segSPA_onRowClick_seq0,
+        "onRowClick": p2kwiet1288931495203_segSPA_onRowClick_seq0,
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865125,
+        "rowTemplate": vbox1288931495125,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -90,6 +90,6 @@ function frmAniSPAGlobals() {
         "titleBar": true
     });
     frmAniSPA.info = {
-        "kuid": "p2kwiet974599865203"
+        "kuid": "p2kwiet1288931495203"
     };
 };

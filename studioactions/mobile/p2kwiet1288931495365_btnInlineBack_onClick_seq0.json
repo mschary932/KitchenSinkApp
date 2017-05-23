@@ -1,0 +1,16 @@
+{
+    "p2kwiet1288931495365_btnInlineBack_onClick_seq0": {
+        "id": "p2kwiet1288931495365_btnInlineBack_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_onClick_9439112889314951790",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmBrowser.brwDemo.goBack()"
+        }]
+    }
+}

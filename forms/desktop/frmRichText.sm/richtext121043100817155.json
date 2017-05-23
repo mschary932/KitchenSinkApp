@@ -14,7 +14,7 @@
         2
     ],
     "_render_": true,
-    "_skin_": "s477c95293d9440f852acbbf29d8ae25",
+    "_skin_": "s95df2972b4541aaa35e353e3662b5b6",
     "_text_": "<b>This is bold text  </b>\n<br/>\n<br/>\n<u>This is underlined text</u>\n<br/>\n<br/>\n <label style=\"color:#8A2BE2\">This is text with font color</label> \n<br/>\n<br/>\n<i>This is italic text</i>\n<br/>\n<br/>\n<b>This is</b> <sub>Subscript</sub> \n<br/>\n<br/>\n<b>This is</b><sup>Superscript</sup> <br/><br/>\n<a href=\"http://www.kony.com\"><label style=\"color:#F25E22\">This is link (Click to visit kony.com)</label></a>\n<br/><br/>\n<b>Below is an image</b><br/>\n<img src=\"http://www.fordesigner.com/imguploads/Image/cjbc/zcool/png20080525/1211728825.png\" alt=\"image\" height=\"60\" width=\"60\" ></img>\n",
     "_wrapping_": 2,
     "canUpdateUI": true,
@@ -35,7 +35,7 @@
         },
         "render": true
     },
-    "kuid": "p2kwiet9745998655563",
+    "kuid": "p2kwiet12889314955563",
     "margininpixel": false,
     "name": "kony.ui.RichText",
     "paddinginpixel": false,

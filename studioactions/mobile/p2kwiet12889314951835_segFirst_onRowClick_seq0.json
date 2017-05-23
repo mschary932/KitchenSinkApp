@@ -1,0 +1,27 @@
+{
+    "p2kwiet12889314951835_segFirst_onRowClick_seq0": {
+        "id": "p2kwiet12889314951835_segFirst_onRowClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "sectionNumber",
+            "value": "sectionNumber"
+        }, {
+            "name": "rowNumber",
+            "value": "rowNumber"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "navigation_onRowClick_2987712889314956584",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmNLst2",
+            "formKUID": "p2kwiet12889314951846",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "enableMappingEditor": true
+        }]
+    }
+}

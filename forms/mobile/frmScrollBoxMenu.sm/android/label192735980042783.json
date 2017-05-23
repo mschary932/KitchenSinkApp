@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "s4d5ed47df0448a798a7ad104ff78d71",
+    "_skin_": "seb400f08b6b426cbfe0fb19f1158626",
     "_text_": "FAVORITES",
     "_wrapping_": 2,
     "android": {
@@ -37,7 +37,7 @@
         }
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998652064",
+    "kuid": "p2kwiet12889314952064",
     "name": "kony.ui.Label",
     "parent": "hbox192735980042779",
     "pf": "frmScrollBoxMenu",

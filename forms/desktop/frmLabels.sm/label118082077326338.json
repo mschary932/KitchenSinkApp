@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "s49570292ff14fd9a40d4ebf68b19ff4",
+    "_skin_": "s0803f48fe644360a45fd077938071f1",
     "_text_": "Label with HelveticaNeue font",
     "_wrapping_": 2,
     "canUpdateUI": true,
@@ -34,7 +34,7 @@
         "@class": "com.kony.gen.viz.model.component.property.label.KioskLabelProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998655432",
+    "kuid": "p2kwiet12889314955432",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

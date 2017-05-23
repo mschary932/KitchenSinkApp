@@ -1,0 +1,21 @@
+{
+    "p2kwiet12889314953672_camera118085056482513_onCapture_seq0": {
+        "id": "p2kwiet12889314953672_camera118085056482513_onCapture_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onCapture_2412212889314953038",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onCaptureLandScapeTab",
+            "display": "onCaptureLandScapeTab",
+            "inputparams": [{
+                "name": "cameraObj",
+                "value": "eventobject"
+            }]
+        }]
+    }
+}

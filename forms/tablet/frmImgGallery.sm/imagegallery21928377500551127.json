@@ -36,7 +36,7 @@
         0,
         0
     ],
-    "_skin_": "sbf7bb91255a423ab2c690563ebd941f",
+    "_skin_": "sae03d72a7d24252ae44b0ecb91dee43",
     "_text_": "ImageGallery2",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.imagegallery2.AndroidImageGallery2Property",
@@ -54,7 +54,7 @@
     },
     "focusedindex": null,
     "focuseditem": null,
-    "focusskin": "sbf7bb91255a423ab2c690563ebd941f",
+    "focusskin": "sae03d72a7d24252ae44b0ecb91dee43",
     "hexpand": true,
     "id": "imagegallery21928377500551127",
     "imagescalemode": 1,
@@ -65,7 +65,7 @@
         "spaceBetweenImages": 0
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998654073",
+    "kuid": "p2kwiet12889314954073",
     "margininpixel": false,
     "name": "kony.ui.ImageGallery2",
     "noofrowsperpage": 1,

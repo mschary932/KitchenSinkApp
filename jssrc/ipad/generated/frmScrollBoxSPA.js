@@ -284,6 +284,6 @@ function frmScrollBoxSPAGlobals() {
         "titleBar": true
     });
     frmScrollBoxSPA.info = {
-        "kuid": "p2kwiet9745998654494"
+        "kuid": "p2kwiet12889314954494"
     };
 };

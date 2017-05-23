@@ -49,6 +49,6 @@ function frmAni2SplitVerticalInGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmAni2SplitVerticalIn.info = {
-        "kuid": "p2kwiet97459986589"
+        "kuid": "p2kwiet128893149589"
     };
 };

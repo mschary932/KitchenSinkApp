@@ -29,7 +29,7 @@
         "@class": "com.kony.gen.viz.model.component.property.image2.KioskImage2Property",
         "render": true
     },
-    "kuid": "p2kwiet9745998655376",
+    "kuid": "p2kwiet12889314955376",
     "margininpixel": false,
     "name": "kony.ui.Image2",
     "parent": "vbox118290614367890",

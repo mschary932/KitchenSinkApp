@@ -26,7 +26,7 @@ function frmAniWinRotate3DSingleGlobals() {
         "enabledForIdleTimeout": false,
         "id": "frmAniWinRotate3DSingle",
         "needAppMenu": true,
-        "preShow": p2kwiet974599865244_frmAniWinRotate3DSingle_preshow_seq0,
+        "preShow": p2kwiet1288931495244_frmAniWinRotate3DSingle_preshow_seq0,
         "skin": "frmSknTrans",
         "title": "Rotate3DSingle"
     }, {
@@ -58,6 +58,6 @@ function frmAniWinRotate3DSingleGlobals() {
         "titleBar": true
     });
     frmAniWinRotate3DSingle.info = {
-        "kuid": "p2kwiet974599865244"
+        "kuid": "p2kwiet1288931495244"
     };
 };

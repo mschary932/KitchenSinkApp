@@ -1,0 +1,19 @@
+{
+    "p2kwiet12889314952901_frmSlider_preshow_seq0": {
+        "id": "p2kwiet12889314952901_frmSlider_preshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_preshow_4030612889314951688",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmSlider.slidPos.selectedValue = 0;\n frmSlider.lblSlid.text = 0;"
+        }]
+    }
+}

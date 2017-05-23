@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_base64_": null,
     "_enabled_": false,
-    "_skin_": "safd93c4527241e3ac2673538316adcd",
+    "_skin_": "sb6e75550f1948fd98eec218c7315fd4",
     "_src_": "headertablet.png",
     "_text_": "headertablet.png",
     "android": {
@@ -76,7 +76,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998655967",
+    "kuid": "p2kwiet12889314955967",
     "name": "kony.ui.Image2",
     "parent": "hbox192735980024418",
     "pf": "hdrOne",

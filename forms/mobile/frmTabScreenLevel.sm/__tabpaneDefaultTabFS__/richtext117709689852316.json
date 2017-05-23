@@ -14,7 +14,7 @@
         0
     ],
     "_render_": true,
-    "_skin_": "s44ad515a2a14a6e966e389ba9126320",
+    "_skin_": "s928679bcb1245f08e900955213b9ab4",
     "_text_": "This is a tab form consists of different widgets including Label, Textbox2, Combobox, Richtext, Calendar, hBox, Checkboxgroup, Radiobutton.",
     "_wrapping_": 2,
     "android": {
@@ -86,7 +86,7 @@
         "wrapping": 2
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998653049",
+    "kuid": "p2kwiet12889314953049",
     "margininpixel": false,
     "name": "kony.ui.RichText",
     "paddinginpixel": false,

@@ -1,0 +1,16 @@
+{
+    "p2kwiet1288931495373_btnInlineReload_onClick_seq0": {
+        "id": "p2kwiet1288931495373_btnInlineReload_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_onClick_2156812889314955392",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmBrowser.brwDemo.reload()"
+        }]
+    }
+}

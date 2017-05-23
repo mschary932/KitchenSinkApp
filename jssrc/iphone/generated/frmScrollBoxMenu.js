@@ -820,7 +820,7 @@ function addWidgetsfrmScrollBoxMenu() {
         "focusSkin": "btnFocus",
         "id": "button192735980042699",
         "isVisible": true,
-        "onClick": p2kwiet9745998652058_button192735980042699_onClick_seq0,
+        "onClick": p2kwiet12889314952058_button192735980042699_onClick_seq0,
         "skin": "btnExpand"
     }, {
         "containerWeight": 16,
@@ -1073,8 +1073,8 @@ function frmScrollBoxMenuGlobals() {
         "enabledForIdleTimeout": false,
         "id": "frmScrollBoxMenu",
         "needAppMenu": true,
-        "postShow": p2kwiet9745998652058_frmScrollBoxMenu_postshow_seq0,
-        "preShow": p2kwiet9745998652058_frmScrollBoxMenu_preshow_seq0,
+        "postShow": p2kwiet12889314952058_frmScrollBoxMenu_postshow_seq0,
+        "preShow": p2kwiet12889314952058_frmScrollBoxMenu_preshow_seq0,
         "skin": "frm",
         "title": "ScrollBox Menu"
     }, {
@@ -1114,6 +1114,6 @@ function frmScrollBoxMenuGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmScrollBoxMenu.info = {
-        "kuid": "p2kwiet9745998652058"
+        "kuid": "p2kwiet12889314952058"
     };
 };

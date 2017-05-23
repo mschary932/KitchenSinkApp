@@ -381,6 +381,6 @@ function frmCBoxGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmCBox.info = {
-        "kuid": "p2kwiet974599865610"
+        "kuid": "p2kwiet1288931495610"
     };
 };

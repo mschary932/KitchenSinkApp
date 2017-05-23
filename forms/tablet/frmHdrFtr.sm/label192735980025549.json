@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "s323e98fa6a94a1a9ca3e04656711d75",
+    "_skin_": "sd807df87cce4d10bf7bfa4bd8a0141e",
     "_text_": "Copyright which is shown below is the fixed footer",
     "_wrapping_": 2,
     "android": {
@@ -38,7 +38,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998653926",
+    "kuid": "p2kwiet12889314953926",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

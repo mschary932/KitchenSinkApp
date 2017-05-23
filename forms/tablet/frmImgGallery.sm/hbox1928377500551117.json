@@ -17,7 +17,7 @@
     "_percent_": true,
     "_position_": 3,
     "_resize_": true,
-    "_skin_": "s78e82a00128447aaac7290603ff977a",
+    "_skin_": "s1fe7de366554334926df22631ca6988",
     "allboxes": [],
     "android": {
         "@class": "com.kony.gen.viz.model.container.property.hbox.AndroidHBoxProperty",
@@ -31,7 +31,7 @@
         "imagegallery21928377500551127"
     ],
     "containerweight": 100,
-    "focusskin": "s78e82a00128447aaac7290603ff977a",
+    "focusskin": "s1fe7de366554334926df22631ca6988",
     "id": "hbox1928377500551117",
     "info": null,
     "ipad": {
@@ -41,7 +41,7 @@
         "render": false
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998654074",
+    "kuid": "p2kwiet12889314954074",
     "layoutalignment": 3,
     "margininpixel": false,
     "name": "kony.ui.Box",

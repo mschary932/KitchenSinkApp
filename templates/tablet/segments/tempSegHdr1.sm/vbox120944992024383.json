@@ -4,7 +4,7 @@
     "_orientation_": 2,
     "_position_": 3,
     "_resize_": true,
-    "_skin_": "s4b3c38d02d44887aebbec4d6c56e542",
+    "_skin_": "s8ae0600817c45dfb02820f2db0bf092",
     "allboxes": [],
     "android": {
         "@class": "com.kony.gen.viz.model.container.property.vbox.AndroidVBoxProperty",
@@ -76,7 +76,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998656198",
+    "kuid": "p2kwiet12889314956198",
     "name": "kony.ui.Box",
     "parent": "boxRefSegHdr1",
     "pf": "tempSegHdr1",

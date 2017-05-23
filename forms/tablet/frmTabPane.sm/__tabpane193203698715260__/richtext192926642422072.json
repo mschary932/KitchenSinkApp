@@ -14,7 +14,7 @@
         0
     ],
     "_render_": true,
-    "_skin_": "s47201e5bc1a425e8f61941dc08800f5",
+    "_skin_": "sdd95e2203f34aeeaf8b5d5802b64fe3",
     "_text_": "<p>KonyOne's device detection database and heuristics identifies all browser categories from the most basic through different levels of HTML, CSS and JavaScript support, to all of the various HTML5-capable browsers in smartphones, tablets and the desktop. Depending on the type of browser, the user will be served markup, style and/or script appropriate and acceptable to their device, ensuring a solid experience and optimum UI.</p>",
     "_wrapping_": 2,
     "android": {
@@ -60,7 +60,7 @@
         "wrapping": 2
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998654803",
+    "kuid": "p2kwiet12889314954803",
     "margininpixel": false,
     "name": "kony.ui.RichText",
     "paddinginpixel": false,

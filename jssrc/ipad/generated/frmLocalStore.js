@@ -182,7 +182,7 @@ function addWidgetsfrmLocalStore() {
         "focusSkin": "btnFocus",
         "id": "button1930040990143063",
         "isVisible": true,
-        "onClick": p2kwiet9745998654201_button1930040990143063_onClick_seq0,
+        "onClick": p2kwiet12889314954201_button1930040990143063_onClick_seq0,
         "skin": "btnNormal",
         "text": "SetItem"
     }, {
@@ -342,7 +342,7 @@ function addWidgetsfrmLocalStore() {
         "focusSkin": "btnFocus",
         "id": "button1930040990143161",
         "isVisible": true,
-        "onClick": p2kwiet9745998654201_button1930040990143161_onClick_seq0,
+        "onClick": p2kwiet12889314954201_button1930040990143161_onClick_seq0,
         "skin": "btnNormal",
         "text": "GetItem"
     }, {
@@ -502,7 +502,7 @@ function addWidgetsfrmLocalStore() {
         "focusSkin": "btnFocus",
         "id": "button1930040990143420",
         "isVisible": true,
-        "onClick": p2kwiet9745998654201_button1930040990143420_onClick_seq0,
+        "onClick": p2kwiet12889314954201_button1930040990143420_onClick_seq0,
         "skin": "btnNormal",
         "text": "Read key"
     }, {
@@ -662,7 +662,7 @@ function addWidgetsfrmLocalStore() {
         "focusSkin": "btnFocus",
         "id": "button1930040990143570",
         "isVisible": true,
-        "onClick": p2kwiet9745998654201_button1930040990143570_onClick_seq0,
+        "onClick": p2kwiet12889314954201_button1930040990143570_onClick_seq0,
         "skin": "btnNormal",
         "text": "RemoveItem"
     }, {
@@ -774,7 +774,7 @@ function addWidgetsfrmLocalStore() {
         "focusSkin": "btnFocus",
         "id": "button1930040990144455",
         "isVisible": true,
-        "onClick": p2kwiet9745998654201_button1930040990144455_onClick_seq0,
+        "onClick": p2kwiet12889314954201_button1930040990144455_onClick_seq0,
         "skin": "btnNormal",
         "text": "Clear"
     }, {
@@ -836,6 +836,6 @@ function frmLocalStoreGlobals() {
         "titleBar": true
     });
     frmLocalStore.info = {
-        "kuid": "p2kwiet9745998654201"
+        "kuid": "p2kwiet12889314954201"
     };
 };

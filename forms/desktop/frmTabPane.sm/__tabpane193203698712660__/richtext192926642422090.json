@@ -14,7 +14,7 @@
         0
     ],
     "_render_": true,
-    "_skin_": "s44ad515a2a14a6e966e389ba9126320",
+    "_skin_": "s928679bcb1245f08e900955213b9ab4",
     "_text_": "<p>Solutions for your customers, employees, vendors and partners.Configurable,  Extensible with Universal Integration.Stunning User Experience.Support for All Technologies and Devices.\n</p>",
     "_wrapping_": 2,
     "canUpdateUI": true,
@@ -45,7 +45,7 @@
         "@class": "com.kony.gen.viz.model.component.property.richtext.KioskRichTextProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998655762",
+    "kuid": "p2kwiet12889314955762",
     "margininpixel": false,
     "name": "kony.ui.RichText",
     "paddinginpixel": false,

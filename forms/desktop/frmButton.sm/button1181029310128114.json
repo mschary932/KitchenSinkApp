@@ -13,7 +13,7 @@
         0,
         1
     ],
-    "_skin_": "s4dc3fb1fab54c4c9d7f599f9b1d9d29",
+    "_skin_": "s41dc4b0f6444847bf954a68f2374a84",
     "_text_": "Button with Border:1 ",
     "canUpdateUI": true,
     "containerweight": 50,
@@ -37,7 +37,7 @@
         "render": true
     },
     "displaytext": true,
-    "focusskin": "sc1224f0dab24ac3acccee59794e38cb",
+    "focusskin": "s3b1060ff89e41459d4c339a998616ee",
     "hexpand": true,
     "id": "button1181029310128114",
     "info": null,
@@ -46,7 +46,7 @@
         "@class": "com.kony.gen.viz.model.component.property.button.KioskButtonProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998655112",
+    "kuid": "p2kwiet12889314955112",
     "margininpixel": false,
     "name": "kony.ui.Button",
     "paddinginpixel": false,

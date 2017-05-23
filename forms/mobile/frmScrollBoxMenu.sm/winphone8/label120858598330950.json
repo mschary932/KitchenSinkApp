@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "s5ae54fee69b49eeac05424d755d2a76",
+    "_skin_": "sfae6c4942a04e358ff2b78c0a8d3b21",
     "_text_": "Windows8",
     "_wrapping_": 2,
     "canUpdateUI": true,
@@ -16,7 +16,7 @@
         }
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998652160",
+    "kuid": "p2kwiet12889314952160",
     "name": "kony.ui.Label",
     "parent": "hbox120858598330946",
     "pf": "frmScrollBoxMenu",

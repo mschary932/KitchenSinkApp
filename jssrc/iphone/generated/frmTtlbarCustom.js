@@ -71,6 +71,6 @@ function frmTtlbarCustomGlobals() {
         }
     });
     frmTtlbarCustom.info = {
-        "kuid": "p2kwiet9745998653186"
+        "kuid": "p2kwiet12889314953186"
     };
 };

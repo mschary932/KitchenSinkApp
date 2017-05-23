@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "sdb9a238939744d29bc40b55225c67b7",
+    "_skin_": "s26571e3d9f842ee8fe5501ebace14eb",
     "_text_": "Label with italic text",
     "_wrapping_": 2,
     "canUpdateUI": true,
@@ -34,7 +34,7 @@
         "@class": "com.kony.gen.viz.model.component.property.label.KioskLabelProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998655423",
+    "kuid": "p2kwiet12889314955423",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

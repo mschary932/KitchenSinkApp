@@ -14,7 +14,7 @@
             12,
             0
         ],
-        "leftSkin": "sae4deebfbb94e03b493eeb0700b1cd6",
+        "leftSkin": "s76c1734d3134dfe8babb81ec3881f6f",
         "margin": [
             12,
             10,
@@ -23,7 +23,7 @@
         ],
         "marginInPixel": true,
         "render": true,
-        "rightSkin": "s56847e746104f0fbb1bb0e0cf4c84b0"
+        "rightSkin": "s1142b79334d4668b862253565f2c7cf"
     },
     "canUpdateUI": true,
     "containerweight": 100,
@@ -40,7 +40,7 @@
             12,
             0
         ],
-        "leftSkin": "sae4deebfbb94e03b493eeb0700b1cd6",
+        "leftSkin": "s76c1734d3134dfe8babb81ec3881f6f",
         "margin": [
             12,
             10,
@@ -52,16 +52,16 @@
             "enableThumbTintColor": false
         },
         "render": true,
-        "rightSkin": "s56847e746104f0fbb1bb0e0cf4c84b0"
+        "rightSkin": "s1142b79334d4668b862253565f2c7cf"
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998652893",
-    "leftskin": "sae4deebfbb94e03b493eeb0700b1cd6",
+    "kuid": "p2kwiet12889314952893",
+    "leftskin": "s76c1734d3134dfe8babb81ec3881f6f",
     "name": "kony.ui.Slider",
     "noofsteps": 100,
     "parent": "frmSlider",
     "pf": "frmSlider",
-    "rightskin": "s56847e746104f0fbb1bb0e0cf4c84b0",
+    "rightskin": "s1142b79334d4668b862253565f2c7cf",
     "spa": {
         "@class": "com.kony.gen.viz.model.component.property.slider.SPASliderProperty"
     },
@@ -133,7 +133,7 @@
             12,
             0
         ],
-        "leftSkin": "saee009e959d421fbe80900e9030423b",
+        "leftSkin": "s1782c4c0a044367839116e15e7d4564",
         "margin": [
             12,
             10,
@@ -145,6 +145,6 @@
             "enableCache": false
         },
         "render": true,
-        "rightSkin": "s0467b2e84614a59ad538283c5aca8c7"
+        "rightSkin": "s42aa8b2ea134dc491bc7a53703097c3"
     }
 }

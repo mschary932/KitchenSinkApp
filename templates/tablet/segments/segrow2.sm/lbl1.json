@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "sc86eceff5244f579aa99f717c025f28",
+    "_skin_": "s9d06e03c3224afd99b64ba47036c556",
     "_text_": "Label",
     "_wrapping_": 2,
     "android": {
@@ -78,7 +78,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998656168",
+    "kuid": "p2kwiet12889314956168",
     "name": "kony.ui.Label",
     "parent": "hbxTempSPA2",
     "pf": "segrow2",

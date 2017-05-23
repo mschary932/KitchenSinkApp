@@ -26,7 +26,7 @@ function addWidgetsfrmSegSinleSelect() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865245,
+        "rowTemplate": vbox1288931495245,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -71,7 +71,7 @@ function addWidgetsfrmSegSinleSelect() {
         "focusSkin": "btnFocus",
         "id": "btnSegMulSelect",
         "isVisible": true,
-        "onClick": p2kwiet9745998652800_btnSegMulSelect_onClick_seq0,
+        "onClick": p2kwiet12889314952800_btnSegMulSelect_onClick_seq0,
         "skin": "btnNormal",
         "text": "Click here to get the selected data"
     }, {
@@ -138,6 +138,6 @@ function frmSegSinleSelectGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmSegSinleSelect.info = {
-        "kuid": "p2kwiet9745998652800"
+        "kuid": "p2kwiet12889314952800"
     };
 };

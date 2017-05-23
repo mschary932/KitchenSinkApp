@@ -14,7 +14,7 @@
         0,
         0
     ],
-    "_skin_": "s04698269f2842ecb408d31fb0ad8ccb",
+    "_skin_": "saedb0ca107f419b892cdff7626b22a8",
     "_text_": "",
     "advview": "default",
     "android": {
@@ -65,7 +65,7 @@
         8,
         2013
     ],
-    "focusskin": "s74b5598831a45cca97369fde1b976cd",
+    "focusskin": "s58ae66d9048472b863fafe8ad78762a",
     "format": "dd/MM/yyyy",
     "formatteddate": "",
     "hexpand": true,
@@ -111,7 +111,7 @@
         "viewType": "onscreen"
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998653623",
+    "kuid": "p2kwiet12889314953623",
     "margininpixel": false,
     "name": "kony.ui.Calendar",
     "paddinginpixel": false,
@@ -208,7 +208,7 @@
     "viewconfig": {
         "gridConfig": {
             "allowWeekendSelectable": true,
-            "gridSkin": "sbd9f55d47024de7a00f8f9c94c2ea57",
+            "gridSkin": "sc5f275fc8e741f5b7cc4b9eb37b680d",
             "leftNavigationImage": "",
             "monthSkin": "stu7GridCalendarCellSkinMonthSkin",
             "rightNavigationImage": ""

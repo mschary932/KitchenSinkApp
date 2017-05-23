@@ -1,0 +1,17 @@
+{
+    "p2kwiet1288931495790_button1930040990151315_onClick_seq0": {
+        "id": "p2kwiet1288931495790_button1930040990151315_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_3114112889314951412",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "createHashMD5",
+            "display": "createHashMD5"
+        }]
+    }
+}

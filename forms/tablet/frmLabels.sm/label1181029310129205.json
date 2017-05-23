@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "s8728c2ddccf4e23a0a0d2000a0920af",
+    "_skin_": "scec9199bb014df89761e28fe1efef5c",
     "_text_": "Label with shadow radius:20",
     "_wrapping_": 2,
     "android": {
@@ -38,7 +38,7 @@
         "render": false
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998654117",
+    "kuid": "p2kwiet12889314954117",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

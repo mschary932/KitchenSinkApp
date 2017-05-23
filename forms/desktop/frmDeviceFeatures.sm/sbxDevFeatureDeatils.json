@@ -17,7 +17,7 @@
     "_percent_": true,
     "_position_": 3,
     "_resize_": true,
-    "_skin_": "sa5161cf6f5746a1a22d03816b78bdeb",
+    "_skin_": "scd8737fafc64783a47cfec5f8878a6c",
     "allboxes": [],
     "canUpdateUI": true,
     "children": [],
@@ -46,7 +46,7 @@
         "position": 3,
         "render": true
     },
-    "kuid": "p2kwiet9745998655210",
+    "kuid": "p2kwiet12889314955210",
     "layoutalignment": 3,
     "margininpixel": false,
     "name": "kony.ui.ScrollBox",

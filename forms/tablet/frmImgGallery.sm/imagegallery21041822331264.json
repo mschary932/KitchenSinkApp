@@ -36,7 +36,7 @@
         0,
         0
     ],
-    "_skin_": "s986448d08be49228937201105d0f196",
+    "_skin_": "s7b7d078d80b4868890cc78f1cfe67fd",
     "_text_": "ImageGallery2",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.imagegallery2.AndroidImageGallery2Property",
@@ -64,7 +64,7 @@
         "spaceBetweenImages": 0
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998654070",
+    "kuid": "p2kwiet12889314954070",
     "margininpixel": false,
     "name": "kony.ui.ImageGallery2",
     "noofrowsperpage": 1,

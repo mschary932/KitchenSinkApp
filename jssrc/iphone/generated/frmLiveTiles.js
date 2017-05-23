@@ -3,7 +3,7 @@ function addWidgetsfrmLiveTiles() {
         "focusSkin": "btnFocus",
         "id": "button1927359800122731",
         "isVisible": true,
-        "onClick": p2kwiet9745998651612_button1927359800122731_onClick_seq0,
+        "onClick": p2kwiet12889314951612_button1927359800122731_onClick_seq0,
         "skin": "btnNormal",
         "text": "Create Secondary Tile"
     }, {
@@ -25,7 +25,7 @@ function addWidgetsfrmLiveTiles() {
         "focusSkin": "btnFocus",
         "id": "button104465247211227",
         "isVisible": true,
-        "onClick": p2kwiet9745998651612_button104465247211227_onClick_seq0,
+        "onClick": p2kwiet12889314951612_button104465247211227_onClick_seq0,
         "skin": "btnNormal",
         "text": "Remove Secondary Tile"
     }, {
@@ -91,6 +91,6 @@ function frmLiveTilesGlobals() {
         }
     });
     frmLiveTiles.info = {
-        "kuid": "p2kwiet9745998651612"
+        "kuid": "p2kwiet12889314951612"
     };
 };

@@ -1,0 +1,24 @@
+{
+    "p2kwiet12889314955712_frmSegPull_init_seq0": {
+        "id": "p2kwiet12889314955712_frmSegPull_init_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_init_6348712889314954635",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dataForSegTab",
+            "display": "dataForSegTab",
+            "inputparams": [{
+                "name": "eventObj",
+                "value": "eventobject"
+            }]
+        }]
+    }
+}

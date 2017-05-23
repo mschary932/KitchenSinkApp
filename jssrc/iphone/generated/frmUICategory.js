@@ -13,11 +13,11 @@ function addWidgetsfrmUICategory() {
         "id": "uiCatSeg",
         "isVisible": true,
         "needPageIndicator": true,
-        "onRowClick": p2kwiet9745998653282_uiCatSeg_onRowClick_seq0,
+        "onRowClick": p2kwiet12889314953282_uiCatSeg_onRowClick_seq0,
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865261,
+        "rowTemplate": vbox1288931495261,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -98,6 +98,6 @@ function frmUICategoryGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmUICategory.info = {
-        "kuid": "p2kwiet9745998653282"
+        "kuid": "p2kwiet12889314953282"
     };
 };

@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "s054db71b3e94186a60e30d46273963c",
+    "_skin_": "s1b7e6d7b10342b6a4b77f039b4bcd0c",
     "_text_": "",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.listbox.AndroidListBoxProperty",
@@ -33,7 +33,7 @@
         "templateType": "forms",
         "topLevelBox": null
     },
-    "focusskin": "s054db71b3e94186a60e30d46273963c",
+    "focusskin": "s1b7e6d7b10342b6a4b77f039b4bcd0c",
     "hexpand": true,
     "id": "listbox118082077326680",
     "info": null,
@@ -46,7 +46,7 @@
         "viewType": 1
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998654141",
+    "kuid": "p2kwiet12889314954141",
     "margininpixel": false,
     "masterdata": [
         [

@@ -22,7 +22,7 @@ function addWidgetsfrmBadge() {
         "focusSkin": "btnFocus",
         "id": "btnBadge",
         "isVisible": true,
-        "onClick": p2kwiet974599865321_btnBadge_onClick_seq0,
+        "onClick": p2kwiet1288931495321_btnBadge_onClick_seq0,
         "skin": "btnNormal",
         "text": "Click to change the badge counter"
     }, {
@@ -50,7 +50,7 @@ function frmBadgeGlobals() {
         "enabledForIdleTimeout": false,
         "id": "frmBadge",
         "needAppMenu": true,
-        "preShow": p2kwiet974599865321_frmBadge_preshow_seq0,
+        "preShow": p2kwiet1288931495321_frmBadge_preshow_seq0,
         "skin": "frm",
         "title": "Badge"
     }, {
@@ -90,6 +90,6 @@ function frmBadgeGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmBadge.info = {
-        "kuid": "p2kwiet974599865321"
+        "kuid": "p2kwiet1288931495321"
     };
 };

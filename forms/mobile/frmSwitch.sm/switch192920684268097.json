@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "s8b54fc725bf42da94720af2ab6bae6c",
+    "_skin_": "saa41be51dcc4fd8832bfce896a38f81",
     "_text_": "",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.switchh.AndroidSwitchProperty",
@@ -18,7 +18,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998652929",
+    "kuid": "p2kwiet12889314952929",
     "leftsidetext": "Yes",
     "name": "kony.ui.Switch",
     "onslide": null,

@@ -452,6 +452,6 @@ function frmLabelsGlobals() {
         "titleBar": true
     });
     frmLabels.info = {
-        "kuid": "p2kwiet9745998654120"
+        "kuid": "p2kwiet12889314954120"
     };
 };

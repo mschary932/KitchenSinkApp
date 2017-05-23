@@ -1,0 +1,19 @@
+{
+    "p2kwiet12889314951129_frmGeoCurrentNWatch_preshow_seq0": {
+        "id": "p2kwiet12889314951129_frmGeoCurrentNWatch_preshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_preshow_6875812889314957356",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if (kony.os.deviceInfo().name != \"android\")\n frmGeoCurrentNWatch.lblGeoAdress.text = \"\""
+        }]
+    }
+}

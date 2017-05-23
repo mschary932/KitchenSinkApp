@@ -7,7 +7,7 @@ function addWidgetsfrmDeviceInfo() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865147,
+        "rowTemplate": vbox1288931495147,
         "screenLevelWidget": true,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -91,6 +91,6 @@ function frmDeviceInfoGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmDeviceInfo.info = {
-        "kuid": "p2kwiet974599865884"
+        "kuid": "p2kwiet1288931495884"
     };
 };

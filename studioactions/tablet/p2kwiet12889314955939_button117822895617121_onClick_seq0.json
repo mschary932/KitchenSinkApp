@@ -1,0 +1,16 @@
+{
+    "p2kwiet12889314955939_button117822895617121_onClick_seq0": {
+        "id": "p2kwiet12889314955939_button117822895617121_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_onClick_8932912889314957979",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "popTopNBottom.dismiss()"
+        }]
+    }
+}

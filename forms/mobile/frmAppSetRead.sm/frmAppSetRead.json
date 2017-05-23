@@ -7,7 +7,7 @@
         0,
         0
     ],
-    "_skin_": "sb3af36433f04064b137408e88d13542",
+    "_skin_": "s27285c1a630442880f9be871bc171db",
     "_title_": "App settings",
     "addWidgetsdone": false,
     "allboxes": [],
@@ -94,7 +94,7 @@
     },
     "ismodal": false,
     "isvisible": true,
-    "kuid": "p2kwiet974599865273",
+    "kuid": "p2kwiet1288931495273",
     "margininpixel": false,
     "menuposition": 2,
     "name": "kony.ui.Form2",
@@ -142,7 +142,7 @@
         "render": true
     },
     "templateType": "forms",
-    "titleBarSkin": "s295496625ea4a25a1e89a1507d718be",
+    "titleBarSkin": "s3c00bcbcb0143eeb151337eb7c67c45",
     "titlebar": true,
     "transparencybehindthepopup": 100,
     "type": 3,

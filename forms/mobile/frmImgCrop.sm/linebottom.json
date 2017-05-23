@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "sc3e064209b94761b175f99769662244",
+    "_skin_": "s9daa39f9c9b4d49a387d0a00e4b6317",
     "_text_": "",
     "_thickness_": 1,
     "android": {
@@ -32,7 +32,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998651351",
+    "kuid": "p2kwiet12889314951351",
     "name": "kony.ui.Line",
     "parent": "frmImgCrop",
     "pf": "frmImgCrop",

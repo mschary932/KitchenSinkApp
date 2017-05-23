@@ -3,7 +3,7 @@ function addWidgetsfrmAppSettings() {
         "focusSkin": "btnFocus",
         "id": "button1927359800106146",
         "isVisible": true,
-        "onClick": p2kwiet974599865280_button1927359800106146_onClick_seq0,
+        "onClick": p2kwiet1288931495280_button1927359800106146_onClick_seq0,
         "skin": "btnNormal",
         "text": "Read settings"
     }, {
@@ -25,7 +25,7 @@ function addWidgetsfrmAppSettings() {
         "focusSkin": "btnFocus",
         "id": "button1927359800106157",
         "isVisible": true,
-        "onClick": p2kwiet974599865280_button1927359800106157_onClick_seq0,
+        "onClick": p2kwiet1288931495280_button1927359800106157_onClick_seq0,
         "skin": "btnNormal",
         "text": "Write settings"
     }, {
@@ -92,6 +92,6 @@ function frmAppSettingsGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmAppSettings.info = {
-        "kuid": "p2kwiet974599865280"
+        "kuid": "p2kwiet1288931495280"
     };
 };

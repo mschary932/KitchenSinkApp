@@ -1,0 +1,51 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        5,
+        3,
+        1,
+        3
+    ],
+    "_skin_": "s3ab48977dd441f6a76ab5d2fe0e0526",
+    "_text_": "Label",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "hexpand": true,
+    "id": "lblAdvancedWidget",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12889314955033",
+    "margininpixel": false,
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "vbox1288931495381",
+    "pf": "vbox1288931495381",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPALabelProperty",
+        "psp": {
+            "textCopyable": false
+        }
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPAAndroidTabletLabelProperty",
+        "render": true
+    },
+    "tooltip": "",
+    "vexpand": true,
+    "wType": "Label",
+    "widgetalignment": 5
+}

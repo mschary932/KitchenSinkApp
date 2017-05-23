@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "sc0c7fc580174c8fa892fc17a8920893",
+    "_skin_": "s72518611b7c4706a144e87b61cfd7ec",
     "_text_": "Gesture",
     "_wrapping_": 2,
     "canUpdateUI": true,
@@ -16,7 +16,7 @@
         }
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998651245",
+    "kuid": "p2kwiet12889314951245",
     "name": "kony.ui.Label",
     "parent": "hbox103994549623663",
     "pf": "frmGestures",

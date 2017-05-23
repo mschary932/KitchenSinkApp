@@ -62,7 +62,7 @@ function frmGesturesGlobals() {
         "enabledForIdleTimeout": false,
         "id": "frmGestures",
         "needAppMenu": true,
-        "postShow": p2kwiet9745998653920_frmGestures_postshow_seq0,
+        "postShow": p2kwiet12889314953920_frmGestures_postshow_seq0,
         "skin": "frm",
         "title": "Gestures"
     }, {
@@ -101,6 +101,6 @@ function frmGesturesGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmGestures.info = {
-        "kuid": "p2kwiet9745998653920"
+        "kuid": "p2kwiet12889314953920"
     };
 };

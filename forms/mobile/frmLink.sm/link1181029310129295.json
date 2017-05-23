@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "s95344600f4a4d64a92637ef45c81af8",
+    "_skin_": "sd2e85520cf94ea8bfc3a16a080e6236",
     "_text_": "Welcome to Kony",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.link.AndroidLinkProperty",
@@ -36,10 +36,10 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
-    "focusskin": "sf378e7e008741b681d6005d52b88f67",
+    "focusskin": "s2eda720dc214537af59e36fe2502850",
     "hexpand": true,
     "id": "link1181029310129295",
-    "ide_onClick": "p2kwiet9745998651605_link1181029310129295_onClick_seq0",
+    "ide_onClick": "p2kwiet12889314951605_link1181029310129295_onClick_seq0",
     "info": null,
     "iphone": {
         "@class": "com.kony.gen.viz.model.component.property.link.IPhoneLinkProperty",
@@ -75,7 +75,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998651604",
+    "kuid": "p2kwiet12889314951604",
     "name": "kony.ui.Link",
     "parent": "frmLink",
     "pf": "frmLink",

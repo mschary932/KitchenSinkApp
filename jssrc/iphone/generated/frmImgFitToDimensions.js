@@ -262,6 +262,6 @@ function frmImgFitToDimensionsGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmImgFitToDimensions.info = {
-        "kuid": "p2kwiet9745998651372"
+        "kuid": "p2kwiet12889314951372"
     };
 };

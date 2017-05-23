@@ -1,0 +1,25 @@
+{
+    "p2kwiet1288931495574_button1927508755138061_onClick_seq0": {
+        "id": "p2kwiet1288931495574_button1927508755138061_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "navigation_onClick_14921288931495210",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmCameraFrmOverlay",
+            "formKUID": "p2kwiet1288931495565",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "enableMappingEditor": true
+        }, {
+            "id": "expression_onClick_6239112889314955306",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmCameraFrmOverlay.lblFrmCamOverlay.text = \"\""
+        }]
+    }
+}

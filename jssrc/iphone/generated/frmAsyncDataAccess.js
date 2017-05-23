@@ -84,7 +84,7 @@ function addWidgetsfrmAsyncDataAccess() {
         "focusSkin": "btnSknRed",
         "id": "button117813958332763",
         "isVisible": true,
-        "onClick": p2kwiet974599865303_button117813958332763_onClick_seq0,
+        "onClick": p2kwiet1288931495303_button117813958332763_onClick_seq0,
         "skin": "btnSknBlack",
         "text": "Submit"
     }, {
@@ -149,7 +149,7 @@ function frmAsyncDataAccessGlobals() {
         "enabledForIdleTimeout": false,
         "id": "frmAsyncDataAccess",
         "needAppMenu": true,
-        "preShow": p2kwiet974599865303_frmAsyncDataAccess_preshow_seq0,
+        "preShow": p2kwiet1288931495303_frmAsyncDataAccess_preshow_seq0,
         "skin": "frm",
         "title": "Async Data"
     }, {
@@ -190,6 +190,6 @@ function frmAsyncDataAccessGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmAsyncDataAccess.info = {
-        "kuid": "p2kwiet974599865303"
+        "kuid": "p2kwiet1288931495303"
     };
 };

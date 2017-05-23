@@ -168,7 +168,7 @@ function addWidgetsfrmScrollSPA() {
         "focusSkin": "hBoxGrayFocus",
         "id": "hbox192735980042714",
         "isVisible": true,
-        "onClick": p2kwiet9745998652420_hbox192735980042714_onClick_seq0,
+        "onClick": p2kwiet12889314952420_hbox192735980042714_onClick_seq0,
         "orientation": constants.BOX_LAYOUT_HORIZONTAL,
         "position": constants.BOX_POSITION_AS_NORMAL,
         "skin": "hBoxGray"
@@ -260,7 +260,7 @@ function addWidgetsfrmScrollSPA() {
         "focusSkin": "hBoxGrayFocus",
         "id": "hbox192735980042797",
         "isVisible": true,
-        "onClick": p2kwiet9745998652420_hbox192735980042797_onClick_seq0,
+        "onClick": p2kwiet12889314952420_hbox192735980042797_onClick_seq0,
         "orientation": constants.BOX_LAYOUT_HORIZONTAL,
         "position": constants.BOX_POSITION_AS_NORMAL,
         "skin": "hBoxGray"
@@ -313,7 +313,7 @@ function addWidgetsfrmScrollSPA() {
         "focusSkin": "hBoxGrayFocus",
         "id": "hbox192735980042815",
         "isVisible": true,
-        "onClick": p2kwiet9745998652420_hbox192735980042815_onClick_seq0,
+        "onClick": p2kwiet12889314952420_hbox192735980042815_onClick_seq0,
         "orientation": constants.BOX_LAYOUT_HORIZONTAL,
         "position": constants.BOX_POSITION_AS_NORMAL,
         "skin": "hBoxGray"
@@ -954,6 +954,6 @@ function frmScrollSPAGlobals() {
         "titleBar": true
     });
     frmScrollSPA.info = {
-        "kuid": "p2kwiet9745998652420"
+        "kuid": "p2kwiet12889314952420"
     };
 };

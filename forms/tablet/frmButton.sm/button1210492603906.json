@@ -13,7 +13,7 @@
         0,
         1
     ],
-    "_skin_": "s55939ce1a494a3d8bf868f177020a23",
+    "_skin_": "sbd3f5d721764addaa33bc39c5bcdb7f",
     "_text_": "Button with rounded corner",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.button.AndroidButtonProperty",
@@ -37,7 +37,7 @@
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "sf6d56dd810743c291be3bb791ee0e02",
+    "focusskin": "s2fc5fcc2efd4f4c906bcdcecba7e13e",
     "hexpand": true,
     "id": "button1210492603906",
     "info": null,
@@ -63,7 +63,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998653604",
+    "kuid": "p2kwiet12889314953604",
     "margininpixel": false,
     "name": "kony.ui.Button",
     "paddinginpixel": false,

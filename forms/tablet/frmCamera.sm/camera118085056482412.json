@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "s63951f35dba4a6ba64d352ee1a16efa",
+    "_skin_": "sf4b86291870431e8caccac1cb97195e",
     "_text_": "Public mode",
     "accessmode": "public",
     "android": {
@@ -31,10 +31,10 @@
     "containerweight": 100,
     "contentalignment": 4,
     "enableoverlay": false,
-    "focusskin": "s6c869bd5cbb45bf9ee5ce2e5cd5e13b",
+    "focusskin": "s3c4a8589d8b4df1b65b0e88e3eb78c0",
     "hexpand": true,
     "id": "camera118085056482412",
-    "ide_onCapture": "p2kwiet9745998653672_camera118085056482412_onCapture_seq0",
+    "ide_onCapture": "p2kwiet12889314953672_camera118085056482412_onCapture_seq0",
     "info": null,
     "ipad": {
         "@class": "com.kony.gen.viz.model.component.property.camera.IPadCameraProperty",
@@ -50,7 +50,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998653657",
+    "kuid": "p2kwiet12889314953657",
     "margininpixel": false,
     "name": "kony.ui.Camera",
     "paddinginpixel": false,

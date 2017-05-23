@@ -13,7 +13,7 @@
         0,
         1
     ],
-    "_skin_": "s62f492900c04192bf1662c28d732fbd",
+    "_skin_": "s3c76bb823774c29bdbbb2e467c77fc0",
     "_text_": "Button with vertical gradient",
     "canUpdateUI": true,
     "containerweight": 50,
@@ -37,7 +37,7 @@
         "render": true
     },
     "displaytext": true,
-    "focusskin": "s95821a40faf452aaf5bcf454f55e02e",
+    "focusskin": "sf77479d77e5457cb0a564402fb48ffb",
     "hexpand": true,
     "id": "button1210492603899",
     "info": null,
@@ -46,7 +46,7 @@
         "@class": "com.kony.gen.viz.model.component.property.button.KioskButtonProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998655107",
+    "kuid": "p2kwiet12889314955107",
     "margininpixel": false,
     "name": "kony.ui.Button",
     "paddinginpixel": false,

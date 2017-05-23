@@ -44,11 +44,11 @@ function addWidgetsfrmSegmentFeatures() {
         "id": "segSegmentFeatureCat",
         "isVisible": true,
         "needPageIndicator": true,
-        "onRowClick": p2kwiet9745998654516_segSegmentFeatureCat_onRowClick_seq0,
+        "onRowClick": p2kwiet12889314954516_segSegmentFeatureCat_onRowClick_seq0,
         "retainSelection": true,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865293,
+        "rowTemplate": vbox1288931495293,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -115,7 +115,7 @@ function frmSegmentFeaturesGlobals() {
         "enabledForIdleTimeout": false,
         "id": "frmSegmentFeatures",
         "needAppMenu": true,
-        "postShow": p2kwiet9745998654516_frmSegmentFeatures_postshow_seq0,
+        "postShow": p2kwiet12889314954516_frmSegmentFeatures_postshow_seq0,
         "skin": "frm",
         "title": "Segment Features"
     }, {
@@ -154,6 +154,6 @@ function frmSegmentFeaturesGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmSegmentFeatures.info = {
-        "kuid": "p2kwiet9745998654516"
+        "kuid": "p2kwiet12889314954516"
     };
 };

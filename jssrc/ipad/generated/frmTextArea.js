@@ -341,6 +341,6 @@ function frmTextAreaGlobals() {
         "titleBar": true
     });
     frmTextArea.info = {
-        "kuid": "p2kwiet9745998654839"
+        "kuid": "p2kwiet12889314954839"
     };
 };

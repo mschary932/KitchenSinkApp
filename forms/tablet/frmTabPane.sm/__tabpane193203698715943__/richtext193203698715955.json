@@ -14,7 +14,7 @@
         0
     ],
     "_render_": true,
-    "_skin_": "s81cc737be6f4e11b1399b7dde11b784",
+    "_skin_": "sd982b64bcb647589486fc0b2c422dea",
     "_text_": "<p>KonyOne provides a world-class development environment and mobile middleware for both business & consumer applications. KonyOne incorporates industry - tested scalability and supports every technology and deployment option available today - including truly native apps on all native OSs, thousands of devices including those with HTML5 capable browser, SPAs,Wrappers, Hybrids, and traditional URL-based applications.</p>",
     "_wrapping_": 2,
     "android": {
@@ -34,7 +34,7 @@
         "wrapping": 2
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998654815",
+    "kuid": "p2kwiet12889314954815",
     "margininpixel": false,
     "name": "kony.ui.RichText",
     "paddinginpixel": false,

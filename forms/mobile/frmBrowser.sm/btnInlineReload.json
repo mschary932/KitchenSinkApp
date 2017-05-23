@@ -13,7 +13,7 @@
         0,
         0
     ],
-    "_skin_": "s13a3eec656c49bfb96f2ebe43ee5976",
+    "_skin_": "s11a4f529bad432b97939d6d5de054ef",
     "_text_": "Reload",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.button.AndroidButtonProperty",
@@ -50,10 +50,10 @@
     "containerweight": 34,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "s19e6993dce84450beb37b71f64b0baf",
+    "focusskin": "s9da0503b64647f5a06a80603a06a71f",
     "hexpand": true,
     "id": "btnInlineReload",
-    "ide_onClick": "p2kwiet974599865365_btnInlineReload_onClick_seq0",
+    "ide_onClick": "p2kwiet1288931495365_btnInlineReload_onClick_seq0",
     "info": null,
     "iphone": {
         "@class": "com.kony.gen.viz.model.component.property.button.IPhoneButtonProperty",
@@ -90,7 +90,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet974599865362",
+    "kuid": "p2kwiet1288931495362",
     "margininpixel": false,
     "name": "kony.ui.Button",
     "paddinginpixel": false,

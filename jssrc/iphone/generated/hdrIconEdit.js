@@ -37,7 +37,7 @@ function initializehdrIconEdit() {
         "focusSkin": "btnBack",
         "id": "button15633488265515",
         "isVisible": true,
-        "onClick": p2kwiet9745998655950_button15633488265515_onClick_seq0,
+        "onClick": p2kwiet12889314955950_button15633488265515_onClick_seq0,
         "skin": "btnBack2",
         "text": "Back"
     }, {
@@ -79,7 +79,7 @@ function initializehdrIconEdit() {
         "focusSkin": "btnEdit",
         "id": "button117822895620523",
         "isVisible": true,
-        "onClick": p2kwiet9745998655950_button117822895620523_onClick_seq0,
+        "onClick": p2kwiet12889314955950_button117822895620523_onClick_seq0,
         "skin": "btnEdit",
         "text": "Edit"
     }, {

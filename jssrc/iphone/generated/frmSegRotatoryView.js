@@ -16,7 +16,7 @@ function addWidgetsfrmSegRotatoryView() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865235,
+        "rowTemplate": vbox1288931495235,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -98,6 +98,6 @@ function frmSegRotatoryViewGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmSegRotatoryView.info = {
-        "kuid": "p2kwiet9745998652738"
+        "kuid": "p2kwiet12889314952738"
     };
 };

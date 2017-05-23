@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "sce047f773dd40598605e5b217906c14",
+    "_skin_": "sa8a0f6f5b06445686741f9d5ca4a117",
     "_text_": "Button with centerout gradient",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.button.AndroidButtonProperty",
@@ -38,7 +38,7 @@
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "s4491d1f709f4b3c80b56910d6f40b20",
+    "focusskin": "scf3c780f46c40888163fcf865b64d12",
     "hexpand": true,
     "id": "button117989725223688",
     "info": null,
@@ -77,7 +77,7 @@
         "render": false
     },
     "isvisible": true,
-    "kuid": "p2kwiet974599865425",
+    "kuid": "p2kwiet1288931495425",
     "name": "kony.ui.Button",
     "parent": "frmBtn",
     "pf": "frmBtn",

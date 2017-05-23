@@ -7,7 +7,7 @@ function addWidgetsfrmWebSQLResults() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865263,
+        "rowTemplate": vbox1288931495263,
         "screenLevelWidget": true,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -92,6 +92,6 @@ function frmWebSQLResultsGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmWebSQLResults.info = {
-        "kuid": "p2kwiet9745998653323"
+        "kuid": "p2kwiet12889314953323"
     };
 };

@@ -191,6 +191,6 @@ function frmCustomCollapsTabGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmCustomCollapsTab.info = {
-        "kuid": "p2kwiet974599865860"
+        "kuid": "p2kwiet1288931495860"
     };
 };

@@ -1,0 +1,17 @@
+{
+    "p2kwiet12889314952306_hbox192735980042797_onClick_seq0": {
+        "id": "p2kwiet12889314952306_hbox192735980042797_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_1793012889314957562",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "newsFeedBtnClick",
+            "display": "newsFeedBtnClick"
+        }]
+    }
+}

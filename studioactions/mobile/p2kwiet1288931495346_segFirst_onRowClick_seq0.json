@@ -1,0 +1,23 @@
+{
+    "p2kwiet1288931495346_segFirst_onRowClick_seq0": {
+        "id": "p2kwiet1288931495346_segFirst_onRowClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "sectionNumber",
+            "value": "sectionNumber"
+        }, {
+            "name": "rowNumber",
+            "value": "rowNumber"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onRowClick_7376712889314958510",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "basicSPA",
+            "display": "basicSPA"
+        }]
+    }
+}

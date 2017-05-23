@@ -26,7 +26,7 @@ function frmAniWinSlideGlobals() {
         "enabledForIdleTimeout": false,
         "id": "frmAniWinSlide",
         "needAppMenu": true,
-        "preShow": p2kwiet974599865248_frmAniWinSlide_preshow_seq0,
+        "preShow": p2kwiet1288931495248_frmAniWinSlide_preshow_seq0,
         "skin": "frmSknTrans",
         "title": "Slide"
     }, {
@@ -58,6 +58,6 @@ function frmAniWinSlideGlobals() {
         "titleBar": true
     });
     frmAniWinSlide.info = {
-        "kuid": "p2kwiet974599865248"
+        "kuid": "p2kwiet1288931495248"
     };
 };

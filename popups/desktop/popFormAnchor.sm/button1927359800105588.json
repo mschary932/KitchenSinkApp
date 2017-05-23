@@ -7,7 +7,7 @@
         1,
         0
     ],
-    "_skin_": "s9eada507bb74031a4211fe3d3846ebb",
+    "_skin_": "s7bca2e4b1084a51a698fb2fb59cc378",
     "_text_": "Cancel",
     "canUpdateUI": true,
     "containerweight": 100,
@@ -32,17 +32,17 @@
         "render": true
     },
     "displaytext": true,
-    "focusskin": "sf6d56dd810743c291be3bb791ee0e02",
+    "focusskin": "s2fc5fcc2efd4f4c906bcdcecba7e13e",
     "hexpand": true,
     "id": "button1927359800105588",
-    "ide_onClick": "p2kwiet9745998655943_button1927359800105588_onClick_seq0",
+    "ide_onClick": "p2kwiet12889314955943_button1927359800105588_onClick_seq0",
     "info": null,
     "isvisible": true,
     "kiosk": {
         "@class": "com.kony.gen.viz.model.component.property.button.KioskButtonProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998655942",
+    "kuid": "p2kwiet12889314955942",
     "name": "kony.ui.Button",
     "paddinginpixel": true,
     "parent": "popFormAnchor",

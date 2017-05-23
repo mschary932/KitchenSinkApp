@@ -60,7 +60,7 @@ function addWidgetsfrmSegBoxes() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865195,
+        "rowTemplate": vbox1288931495195,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -152,6 +152,6 @@ function frmSegBoxesGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmSegBoxes.info = {
-        "kuid": "p2kwiet9745998652453"
+        "kuid": "p2kwiet12889314952453"
     };
 };

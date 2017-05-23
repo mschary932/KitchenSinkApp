@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "s323e98fa6a94a1a9ca3e04656711d75",
+    "_skin_": "sd807df87cce4d10bf7bfa4bd8a0141e",
     "_text_": "No Image Selected",
     "_wrapping_": 2,
     "android": {
@@ -50,7 +50,7 @@
         }
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998651509",
+    "kuid": "p2kwiet12889314951509",
     "name": "kony.ui.Label",
     "parent": "frmImgStrip",
     "pf": "frmImgStrip",

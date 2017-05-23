@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "sc0c7fc580174c8fa892fc17a8920893",
+    "_skin_": "s72518611b7c4706a144e87b61cfd7ec",
     "_text_": "Async data",
     "_wrapping_": 2,
     "android": {
@@ -65,7 +65,7 @@
         "render": false
     },
     "isvisible": true,
-    "kuid": "p2kwiet974599865301",
+    "kuid": "p2kwiet1288931495301",
     "name": "kony.ui.Label",
     "parent": "hbxFrmAsyncData",
     "pf": "frmAsyncDataAccess",

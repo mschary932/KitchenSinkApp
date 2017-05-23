@@ -7,7 +7,7 @@ function addWidgetsfrmIconEditStyle() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865175,
+        "rowTemplate": vbox1288931495175,
         "screenLevelWidget": true,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -35,7 +35,7 @@ function addWidgetsfrmIconEditStyle() {
         "editStyle": constants.SEGUI_EDITING_STYLE_NONE,
         "enableDictionary": false,
         "indicator": constants.SEGUI_NONE,
-        "onEditing": p2kwiet9745998651304_segStates_iPhone_onEditing_seq0,
+        "onEditing": p2kwiet12889314951304_segStates_iPhone_onEditing_seq0,
         "progressIndicatorColor": constants.PROGRESS_INDICATOR_COLOR_WHITE,
         "searchCriteria": constants.SEGUI_SEARCH_CRITERIA_STARTSWITH,
         "showProgressIndicator": true
@@ -50,7 +50,7 @@ function frmIconEditStyleGlobals() {
         "enabledForIdleTimeout": false,
         "headers": [hbox117822895620695],
         "id": "frmIconEditStyle",
-        "init": p2kwiet9745998651304_frmIconEditStyle_init_seq0,
+        "init": p2kwiet12889314951304_frmIconEditStyle_init_seq0,
         "needAppMenu": true,
         "skin": "frm"
     }, {
@@ -82,6 +82,6 @@ function frmIconEditStyleGlobals() {
         "titleBar": false
     });
     frmIconEditStyle.info = {
-        "kuid": "p2kwiet9745998651304"
+        "kuid": "p2kwiet12889314951304"
     };
 };

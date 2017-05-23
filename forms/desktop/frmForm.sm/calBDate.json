@@ -8,7 +8,7 @@
         1,
         1
     ],
-    "_skin_": "s732febab8ec4b6a846e0cc5d245dd1c",
+    "_skin_": "s847f35a4d394dd488b800299d41d99f",
     "_text_": "",
     "advview": "default",
     "canUpdateUI": true,
@@ -42,7 +42,7 @@
         8,
         2013
     ],
-    "focusskin": "s74b5598831a45cca97369fde1b976cd",
+    "focusskin": "s58ae66d9048472b863fafe8ad78762a",
     "format": "dd/MM/yyyy",
     "formatteddate": "",
     "hexpand": true,
@@ -66,7 +66,7 @@
         "marginInPixel": false,
         "render": true
     },
-    "kuid": "p2kwiet9745998655241",
+    "kuid": "p2kwiet12889314955241",
     "name": "kony.ui.Calendar",
     "paddinginpixel": false,
     "pagedate": "8/2013",

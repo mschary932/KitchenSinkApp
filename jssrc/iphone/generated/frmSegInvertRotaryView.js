@@ -16,7 +16,7 @@ function addWidgetsfrmSegInvertRotaryView() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865215,
+        "rowTemplate": vbox1288931495215,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -98,6 +98,6 @@ function frmSegInvertRotaryViewGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmSegInvertRotaryView.info = {
-        "kuid": "p2kwiet9745998652551"
+        "kuid": "p2kwiet12889314952551"
     };
 };

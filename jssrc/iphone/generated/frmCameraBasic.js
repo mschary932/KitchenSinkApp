@@ -4,7 +4,7 @@ function addWidgetsfrmCameraBasic() {
         "focusSkin": "camFocus",
         "id": "cameraBasic",
         "isVisible": true,
-        "onCapture": p2kwiet974599865554_cameraBasic_onCapture_seq0,
+        "onCapture": p2kwiet1288931495554_cameraBasic_onCapture_seq0,
         "scaleFactor": 80,
         "skin": "camNormal",
         "text": "Capture Image"
@@ -108,6 +108,6 @@ function frmCameraBasicGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmCameraBasic.info = {
-        "kuid": "p2kwiet974599865554"
+        "kuid": "p2kwiet1288931495554"
     };
 };

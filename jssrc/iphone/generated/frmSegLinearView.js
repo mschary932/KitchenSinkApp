@@ -24,7 +24,7 @@ function addWidgetsfrmSegLinearView() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865217,
+        "rowTemplate": vbox1288931495217,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -108,6 +108,6 @@ function frmSegLinearViewGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmSegLinearView.info = {
-        "kuid": "p2kwiet9745998652562"
+        "kuid": "p2kwiet12889314952562"
     };
 };

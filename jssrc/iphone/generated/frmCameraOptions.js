@@ -3,7 +3,7 @@ function addWidgetsfrmCameraOptions() {
         "focusSkin": "btnFocus",
         "id": "button1927508755138051",
         "isVisible": true,
-        "onClick": p2kwiet974599865574_button1927508755138051_onClick_seq0,
+        "onClick": p2kwiet1288931495574_button1927508755138051_onClick_seq0,
         "skin": "btnNormal",
         "text": "Basic camera"
     }, {
@@ -25,7 +25,7 @@ function addWidgetsfrmCameraOptions() {
         "focusSkin": "btnFocus",
         "id": "button1927508755138061",
         "isVisible": true,
-        "onClick": p2kwiet974599865574_button1927508755138061_onClick_seq0,
+        "onClick": p2kwiet1288931495574_button1927508755138061_onClick_seq0,
         "skin": "btnNormal",
         "text": "Camera with form overlay"
     }, {
@@ -47,7 +47,7 @@ function addWidgetsfrmCameraOptions() {
         "focusSkin": "btnFocus",
         "id": "button1927508755138075",
         "isVisible": true,
-        "onClick": p2kwiet974599865574_button1927508755138075_onClick_seq0,
+        "onClick": p2kwiet1288931495574_button1927508755138075_onClick_seq0,
         "skin": "btnNormal",
         "text": "Camera access modes"
     }, {
@@ -69,7 +69,7 @@ function addWidgetsfrmCameraOptions() {
         "focusSkin": "btnFocus",
         "id": "button1927508755138081",
         "isVisible": true,
-        "onClick": p2kwiet974599865574_button1927508755138081_onClick_seq0,
+        "onClick": p2kwiet1288931495574_button1927508755138081_onClick_seq0,
         "skin": "btnNormal",
         "text": "Capture orientation"
     }, {
@@ -137,6 +137,6 @@ function frmCameraOptionsGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmCameraOptions.info = {
-        "kuid": "p2kwiet974599865574"
+        "kuid": "p2kwiet1288931495574"
     };
 };

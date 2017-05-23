@@ -224,7 +224,7 @@ function addWidgetsfrmComplex() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865141,
+        "rowTemplate": vbox1288931495141,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -291,8 +291,8 @@ function frmComplexGlobals() {
         "enabledForIdleTimeout": false,
         "id": "frmComplex",
         "needAppMenu": true,
-        "onOrientationChange": p2kwiet974599865668_frmComplex_iPhone_onOrientationChange_seq0,
-        "postShow": p2kwiet974599865668_frmComplex_postshow_seq0,
+        "onOrientationChange": p2kwiet1288931495668_frmComplex_iPhone_onOrientationChange_seq0,
+        "postShow": p2kwiet1288931495668_frmComplex_postshow_seq0,
         "skin": "frm",
         "title": "Auto Resize"
     }, {
@@ -332,6 +332,6 @@ function frmComplexGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmComplex.info = {
-        "kuid": "p2kwiet974599865668"
+        "kuid": "p2kwiet1288931495668"
     };
 };

@@ -13,13 +13,13 @@
         1,
         1
     ],
-    "_skin_": "s6a8b1cbc7944a88a88694eefed42a45",
+    "_skin_": "s14a8b145d524289a5a644b59ee96bf8",
     "_text_": "Edit",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.button.AndroidButtonProperty",
         "displayText": true,
         "psp": {
-            "pressedSkin": "s6dc3030d4af4cccb50490e68bf8b1c2"
+            "pressedSkin": "sd31d85325444266a5209a117c3eb8a7"
         },
         "render": true
     },
@@ -27,10 +27,10 @@
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "s7dcf1c34ee24bbcbfd7c43862135750",
+    "focusskin": "seb4c4d5145a411a83e0757046d08068",
     "hexpand": true,
     "id": "btnEditOrDone",
-    "ide_onClick": "p2kwiet9745998654608_btnEditOrDone_onClick_seq0",
+    "ide_onClick": "p2kwiet12889314954608_btnEditOrDone_onClick_seq0",
     "info": null,
     "ipad": {
         "@class": "com.kony.gen.viz.model.component.property.button.IPadButtonProperty",
@@ -41,13 +41,13 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998654603",
+    "kuid": "p2kwiet12889314954603",
     "margininpixel": false,
     "name": "kony.ui.Button",
     "paddinginpixel": false,
     "parent": "frmSegmentTablet",
     "pf": "frmSegmentTablet",
-    "pressedskin": "s6dc3030d4af4cccb50490e68bf8b1c2",
+    "pressedskin": "sd31d85325444266a5209a117c3eb8a7",
     "spa": {
         "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
         "displayText": true

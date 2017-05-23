@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "s0fd086f93f4442584d32959455b3007",
+    "_skin_": "s203ce0164794ebda6083deadc9385ba",
     "_text_": "Button with 9 patch image",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.button.AndroidButtonProperty",
@@ -38,7 +38,7 @@
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "s12b720493934d7784e00a8bfdba32eb",
+    "focusskin": "s81339e9f1834a7782aff75f7b021e43",
     "hexpand": true,
     "id": "button1181029310124158",
     "info": null,
@@ -77,7 +77,7 @@
         "render": false
     },
     "isvisible": true,
-    "kuid": "p2kwiet974599865427",
+    "kuid": "p2kwiet1288931495427",
     "name": "kony.ui.Button",
     "parent": "frmBtn",
     "pf": "frmBtn",

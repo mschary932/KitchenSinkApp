@@ -67,6 +67,6 @@ function frmTtlbarBgColorGlobals() {
         "titleBarSkin": "titlestudio1"
     });
     frmTtlbarBgColor.info = {
-        "kuid": "p2kwiet9745998653178"
+        "kuid": "p2kwiet12889314953178"
     };
 };

@@ -360,6 +360,6 @@ function frmFormGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmForm.info = {
-        "kuid": "p2kwiet9745998651002"
+        "kuid": "p2kwiet12889314951002"
     };
 };

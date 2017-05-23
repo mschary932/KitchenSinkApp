@@ -1,0 +1,33 @@
+{
+    "p2kwiet12889314954930_frmUInterface_preshow_seq0": {
+        "id": "p2kwiet12889314954930_frmUInterface_preshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "decision_preshow_5794212889314957225",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "expression",
+                "leftValue": "andTab==0"
+            }],
+            "criteria": "all"
+        }, {
+            "id": "decision_preshow_582251288931495182",
+            "type": "ELSE_CONDITION",
+            "conditions": [],
+            "criteria": "all"
+        }, {
+            "id": "expression_preshow_132112889314959832",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmUInterface.segBasicWidgets.setVisibility(false);\n frmUInterface.segAdvancedWidgets.setVisibility(false);\n ",
+            "parentId": "decision_preshow_5794212889314957225"
+        }]
+    }
+}

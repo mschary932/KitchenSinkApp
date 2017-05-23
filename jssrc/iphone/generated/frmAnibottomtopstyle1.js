@@ -40,6 +40,6 @@ function frmAnibottomtopstyle1Globals() {
         "titleBar": true
     });
     frmAnibottomtopstyle1.info = {
-        "kuid": "p2kwiet974599865129"
+        "kuid": "p2kwiet1288931495129"
     };
 };

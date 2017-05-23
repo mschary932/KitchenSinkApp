@@ -1,0 +1,21 @@
+{
+    "p2kwiet12889314952589_btnSegmentSingleSelect_onClick_seq0": {
+        "id": "p2kwiet12889314952589_btnSegmentSingleSelect_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_6122912889314959742",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "segmentSingleSelect",
+            "display": "segmentSingleSelect",
+            "inputparams": [{
+                "name": "evenObj",
+                "value": "eventobject"
+            }]
+        }]
+    }
+}

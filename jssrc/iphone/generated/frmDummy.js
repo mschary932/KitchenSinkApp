@@ -9,7 +9,7 @@ function frmDummyGlobals() {
         "enabledForIdleTimeout": false,
         "id": "frmDummy",
         "needAppMenu": true,
-        "postShow": p2kwiet974599865940_frmDummy_postshow_seq0,
+        "postShow": p2kwiet1288931495940_frmDummy_postshow_seq0,
         "skin": "frmSknTrans"
     }, {
         "displayOrientation": constants.FORM_DISPLAY_ORIENTATION_PORTRAIT,
@@ -41,6 +41,6 @@ function frmDummyGlobals() {
         "titleBar": true
     });
     frmDummy.info = {
-        "kuid": "p2kwiet974599865940"
+        "kuid": "p2kwiet1288931495940"
     };
 };

@@ -78,7 +78,7 @@
         0,
         0
     ],
-    "_skin_": "s9c0a3beefe841a8a8f1039b81de1ec3",
+    "_skin_": "s76f108ac02a409daa9348d3303003e3",
     "_text_": "HImageStrip2",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.himagestrip2.AndroidHImageStrip2Property",
@@ -104,7 +104,7 @@
     "count": 0,
     "focusedindex": null,
     "focuseditem": null,
-    "focusskin": "s9c0a3beefe841a8a8f1039b81de1ec3",
+    "focusskin": "s76f108ac02a409daa9348d3303003e3",
     "hexpand": true,
     "id": "himgstrip21210492603182",
     "imagescalemode": 1,
@@ -116,7 +116,7 @@
         "viewType": "slotview"
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998654084",
+    "kuid": "p2kwiet12889314954084",
     "margininpixel": false,
     "masterdata": [],
     "name": "kony.ui.HorizontalImageStrip2",

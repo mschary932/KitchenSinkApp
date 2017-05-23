@@ -1,0 +1,16 @@
+{
+    "p2kwiet1288931495391_btnInlineForward_onClick_seq0": {
+        "id": "p2kwiet1288931495391_btnInlineForward_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_onClick_6952812889314953309",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmBrowser.brwDemo.goForward()\n "
+        }]
+    }
+}

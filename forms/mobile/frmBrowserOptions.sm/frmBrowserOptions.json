@@ -13,7 +13,7 @@
         0,
         0
     ],
-    "_skin_": "s24af60f502740e6930d98577a143a83",
+    "_skin_": "s7c81ede9ddc4432ac9f4593ebf140b1",
     "_title_": "Browser",
     "addWidgetsdone": false,
     "allboxes": [],
@@ -35,7 +35,7 @@
             "showActionBar": true,
             "showActionBarIcon": true,
             "titleBar": true,
-            "titleBarSkin": "sff9552856fc46c88ded7f22a1a6db9f",
+            "titleBarSkin": "sefd3386b41842d69d3027fb5c62adbf",
             "windowSoftInputMode": 1
         },
         "render": true
@@ -56,7 +56,7 @@
     "footeroverlap": false,
     "headeroverlap": false,
     "id": "frmBrowserOptions",
-    "ide_preShow": "p2kwiet974599865410_frmBrowserOptions_preshow_seq0",
+    "ide_preShow": "p2kwiet1288931495410_frmBrowserOptions_preshow_seq0",
     "info": null,
     "initdone": false,
     "intransitionconfig": {
@@ -106,7 +106,7 @@
     },
     "ismodal": false,
     "isvisible": true,
-    "kuid": "p2kwiet974599865410",
+    "kuid": "p2kwiet1288931495410",
     "margininpixel": false,
     "menuposition": 2,
     "name": "kony.ui.Form2",
@@ -155,7 +155,7 @@
         "render": true
     },
     "templateType": "forms",
-    "titleBarSkin": "s295496625ea4a25a1e89a1507d718be",
+    "titleBarSkin": "s3c00bcbcb0143eeb151337eb7c67c45",
     "titlebar": true,
     "transparencybehindthepopup": 100,
     "type": 3,

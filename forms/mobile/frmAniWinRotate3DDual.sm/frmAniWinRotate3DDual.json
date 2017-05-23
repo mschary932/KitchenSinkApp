@@ -7,7 +7,7 @@
         0,
         0
     ],
-    "_skin_": "sd3ee88179d34adfac3a542293e11c83",
+    "_skin_": "s7479d21f79946b1b909db27f6e1ae50",
     "_title_": "Rotate3DDual",
     "addWidgetsdone": false,
     "allboxes": [],
@@ -40,9 +40,9 @@
     "enabledforidletimeout": false,
     "footeroverlap": false,
     "headeroverlap": false,
-    "headersId": "p2kwiet9745998655965",
+    "headersId": "p2kwiet12889314955965",
     "id": "frmAniWinRotate3DDual",
-    "ide_preShow": "p2kwiet974599865240_frmAniWinRotate3DDual_preshow_seq0",
+    "ide_preShow": "p2kwiet1288931495240_frmAniWinRotate3DDual_preshow_seq0",
     "info": null,
     "initdone": false,
     "intransitionconfig": {
@@ -80,7 +80,7 @@
     },
     "ismodal": false,
     "isvisible": true,
-    "kuid": "p2kwiet974599865240",
+    "kuid": "p2kwiet1288931495240",
     "margininpixel": false,
     "menuposition": 2,
     "name": "kony.ui.Form2",
@@ -128,7 +128,7 @@
         "render": true
     },
     "templateType": "forms",
-    "titleBarSkin": "s0b46d97067d45c29179d97c1e6cbbdc",
+    "titleBarSkin": "s451cd155d3649ac9e2793e49e50285d",
     "titlebar": true,
     "transparencybehindthepopup": 100,
     "type": 3,

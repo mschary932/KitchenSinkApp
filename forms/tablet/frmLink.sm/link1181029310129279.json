@@ -13,7 +13,7 @@
         0,
         1
     ],
-    "_skin_": "scaad2c102504d8ab7bcec5cce65c6eb",
+    "_skin_": "sa24ef2d9f8b4e51a2d80da8d5280f7e",
     "_text_": "Welcome to Kony",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.link.AndroidLinkProperty",
@@ -22,10 +22,10 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
-    "focusskin": "s07488138ac6466582bf9c88af1bef42",
+    "focusskin": "s6f9b42388874bd9a5db17607c77e90c",
     "hexpand": true,
     "id": "link1181029310129279",
-    "ide_onClick": "p2kwiet9745998654135_link1181029310129279_onClick_seq0",
+    "ide_onClick": "p2kwiet12889314954135_link1181029310129279_onClick_seq0",
     "info": null,
     "ipad": {
         "@class": "com.kony.gen.viz.model.component.property.link.IPadLinkProperty",
@@ -35,7 +35,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998654130",
+    "kuid": "p2kwiet12889314954130",
     "margininpixel": false,
     "name": "kony.ui.Link",
     "paddinginpixel": false,

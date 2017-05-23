@@ -1,0 +1,55 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        2,
+        1,
+        1,
+        1
+    ],
+    "_skin_": "sec2924dd71a479b90443e156583682e",
+    "_text_": "Label",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 33,
+    "contentalignment": 4,
+    "hexpand": true,
+    "id": "lblEmpID",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12889314953328",
+    "margininpixel": false,
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "hbox1930040990147164",
+    "pf": "vbox1288931495265",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPALabelProperty",
+        "psp": {
+            "textCopyable": false
+        }
+    },
+    "tooltip": "",
+    "vexpand": false,
+    "wType": "Label",
+    "widgetalignment": 5,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.label.WinPhone8LabelProperty",
+        "contentAlignment": 4,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true
+    }
+}

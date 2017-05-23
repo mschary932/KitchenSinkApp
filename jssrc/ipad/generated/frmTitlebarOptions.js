@@ -3,7 +3,7 @@ function addWidgetsfrmTitlebarOptions() {
         "focusSkin": "btnFocus",
         "id": "button1927359800101064",
         "isVisible": true,
-        "onClick": p2kwiet9745998654882_button1927359800101064_onClick_seq0,
+        "onClick": p2kwiet12889314954882_button1927359800101064_onClick_seq0,
         "skin": "btnNormal",
         "text": "Default titlebar"
     }, {
@@ -25,7 +25,7 @@ function addWidgetsfrmTitlebarOptions() {
         "focusSkin": "btnFocus",
         "id": "button1927359800101074",
         "isVisible": true,
-        "onClick": p2kwiet9745998654882_button1927359800101074_onClick_seq0,
+        "onClick": p2kwiet12889314954882_button1927359800101074_onClick_seq0,
         "skin": "btnNormal",
         "text": "Titlebar with background color"
     }, {
@@ -47,7 +47,7 @@ function addWidgetsfrmTitlebarOptions() {
         "focusSkin": "btnFocus",
         "id": "button1927359800101084",
         "isVisible": true,
-        "onClick": p2kwiet9745998654882_button1927359800101084_onClick_seq0,
+        "onClick": p2kwiet12889314954882_button1927359800101084_onClick_seq0,
         "skin": "btnNormal",
         "text": "Titlebar with background image"
     }, {
@@ -69,7 +69,7 @@ function addWidgetsfrmTitlebarOptions() {
         "focusSkin": "btnFocus",
         "id": "button1927359800101094",
         "isVisible": true,
-        "onClick": p2kwiet9745998654882_button1927359800101094_onClick_seq0,
+        "onClick": p2kwiet12889314954882_button1927359800101094_onClick_seq0,
         "skin": "btnNormal",
         "text": "Titlebar with left & right buttons"
     }, {
@@ -135,6 +135,6 @@ function frmTitlebarOptionsGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmTitlebarOptions.info = {
-        "kuid": "p2kwiet9745998654882"
+        "kuid": "p2kwiet12889314954882"
     };
 };

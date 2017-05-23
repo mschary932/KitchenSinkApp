@@ -26,7 +26,7 @@ function addWidgetsfrmSecHdrWidoutTemplates() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865193,
+        "rowTemplate": vbox1288931495193,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -71,7 +71,7 @@ function addWidgetsfrmSecHdrWidoutTemplates() {
         "focusSkin": "btnFocus",
         "id": "btnSegMulSelect",
         "isVisible": true,
-        "onClick": p2kwiet9745998652433_btnSegMulSelect_onClick_seq0,
+        "onClick": p2kwiet12889314952433_btnSegMulSelect_onClick_seq0,
         "skin": "btnNormal",
         "text": "Click here to get the selected data"
     }, {
@@ -138,6 +138,6 @@ function frmSecHdrWidoutTemplatesGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmSecHdrWidoutTemplates.info = {
-        "kuid": "p2kwiet9745998652433"
+        "kuid": "p2kwiet12889314952433"
     };
 };

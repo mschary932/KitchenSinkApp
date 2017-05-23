@@ -3,7 +3,7 @@ function addWidgetsfrmSegViews() {
         "focusSkin": "btnFocus",
         "id": "button117989725232057",
         "isVisible": true,
-        "onClick": p2kwiet9745998652885_button117989725232057_onClick_seq0,
+        "onClick": p2kwiet12889314952885_button117989725232057_onClick_seq0,
         "skin": "btnNormal",
         "text": "Table view"
     }, {
@@ -25,7 +25,7 @@ function addWidgetsfrmSegViews() {
         "focusSkin": "btnFocus",
         "id": "button117989725232069",
         "isVisible": true,
-        "onClick": p2kwiet9745998652885_button117989725232069_onClick_seq0,
+        "onClick": p2kwiet12889314952885_button117989725232069_onClick_seq0,
         "skin": "btnNormal",
         "text": "Page view"
     }, {
@@ -47,7 +47,7 @@ function addWidgetsfrmSegViews() {
         "focusSkin": "btnFocus",
         "id": "button117989725232081",
         "isVisible": true,
-        "onClick": p2kwiet9745998652885_button117989725232081_onClick_seq0,
+        "onClick": p2kwiet12889314952885_button117989725232081_onClick_seq0,
         "skin": "btnNormal",
         "text": "Coverflow view"
     }, {
@@ -69,7 +69,7 @@ function addWidgetsfrmSegViews() {
         "focusSkin": "btnFocus",
         "id": "button117989725232093",
         "isVisible": true,
-        "onClick": p2kwiet9745998652885_button117989725232093_onClick_seq0,
+        "onClick": p2kwiet12889314952885_button117989725232093_onClick_seq0,
         "skin": "btnNormal",
         "text": "Stack view"
     }, {
@@ -91,7 +91,7 @@ function addWidgetsfrmSegViews() {
         "focusSkin": "btnFocus",
         "id": "button117989725232099",
         "isVisible": true,
-        "onClick": p2kwiet9745998652885_button117989725232099_onClick_seq0,
+        "onClick": p2kwiet12889314952885_button117989725232099_onClick_seq0,
         "skin": "btnNormal",
         "text": "Linear view"
     }, {
@@ -113,7 +113,7 @@ function addWidgetsfrmSegViews() {
         "focusSkin": "btnFocus",
         "id": "button117989725232105",
         "isVisible": true,
-        "onClick": p2kwiet9745998652885_button117989725232105_onClick_seq0,
+        "onClick": p2kwiet12889314952885_button117989725232105_onClick_seq0,
         "skin": "btnNormal",
         "text": "Rotatory view"
     }, {
@@ -135,7 +135,7 @@ function addWidgetsfrmSegViews() {
         "focusSkin": "btnFocus",
         "id": "button117989725232111",
         "isVisible": true,
-        "onClick": p2kwiet9745998652885_button117989725232111_onClick_seq0,
+        "onClick": p2kwiet12889314952885_button117989725232111_onClick_seq0,
         "skin": "btnNormal",
         "text": "Inverted rotary view"
     }, {
@@ -157,7 +157,7 @@ function addWidgetsfrmSegViews() {
         "focusSkin": "btnFocus",
         "id": "button117989725232161",
         "isVisible": true,
-        "onClick": p2kwiet9745998652885_button117989725232161_onClick_seq0,
+        "onClick": p2kwiet12889314952885_button117989725232161_onClick_seq0,
         "skin": "btnNormal",
         "text": "Cylinder view"
     }, {
@@ -179,7 +179,7 @@ function addWidgetsfrmSegViews() {
         "focusSkin": "btnFocus",
         "id": "button117989725232167",
         "isVisible": true,
-        "onClick": p2kwiet9745998652885_button117989725232167_onClick_seq0,
+        "onClick": p2kwiet12889314952885_button117989725232167_onClick_seq0,
         "skin": "btnNormal",
         "text": "Inverted cylinder view"
     }, {
@@ -201,7 +201,7 @@ function addWidgetsfrmSegViews() {
         "focusSkin": "btnFocus",
         "id": "button192735980061190",
         "isVisible": true,
-        "onClick": p2kwiet9745998652885_button192735980061190_onClick_seq0,
+        "onClick": p2kwiet12889314952885_button192735980061190_onClick_seq0,
         "skin": "btnNormal",
         "text": "Search view"
     }, {
@@ -223,7 +223,7 @@ function addWidgetsfrmSegViews() {
         "focusSkin": "btnFocus",
         "id": "button192735980060449",
         "isVisible": true,
-        "onClick": p2kwiet9745998652885_button192735980060449_onClick_seq0,
+        "onClick": p2kwiet12889314952885_button192735980060449_onClick_seq0,
         "skin": "btnNormal",
         "text": "Page indicator at bottom"
     }, {
@@ -290,6 +290,6 @@ function frmSegViewsGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmSegViews.info = {
-        "kuid": "p2kwiet9745998652885"
+        "kuid": "p2kwiet12889314952885"
     };
 };

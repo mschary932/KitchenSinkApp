@@ -7,7 +7,7 @@ function addWidgetsfrmAsyncDataDisplay() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865131,
+        "rowTemplate": vbox1288931495131,
         "screenLevelWidget": true,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -95,6 +95,6 @@ function frmAsyncDataDisplayGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmAsyncDataDisplay.info = {
-        "kuid": "p2kwiet974599865314"
+        "kuid": "p2kwiet1288931495314"
     };
 };

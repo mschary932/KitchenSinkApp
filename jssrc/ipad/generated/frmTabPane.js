@@ -1198,6 +1198,6 @@ function frmTabPaneGlobals() {
         "titleBar": true
     });
     frmTabPane.info = {
-        "kuid": "p2kwiet9745998654820"
+        "kuid": "p2kwiet12889314954820"
     };
 };

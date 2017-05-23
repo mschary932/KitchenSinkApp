@@ -13,7 +13,7 @@
         0,
         0
     ],
-    "_skin_": "s0ee867e24a34e55b9589f5404cc3a38",
+    "_skin_": "se430d71dbd84ce0b30a3600469ff183",
     "_text_": "Do not have an API key?",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.link.AndroidLinkProperty",
@@ -48,10 +48,10 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
-    "focusskin": "s4e226596ef8423882d7feb3d3d58d3b",
+    "focusskin": "sf67461c3975447bbc0ff1008e2fe2ce",
     "hexpand": true,
     "id": "lnkNoAPIKey",
-    "ide_onClick": "p2kwiet974599865262_lnkNoAPIKey_onClick_seq0",
+    "ide_onClick": "p2kwiet1288931495262_lnkNoAPIKey_onClick_seq0",
     "info": null,
     "iphone": {
         "@class": "com.kony.gen.viz.model.component.property.link.IPhoneLinkProperty",
@@ -87,7 +87,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet974599865261",
+    "kuid": "p2kwiet1288931495261",
     "margininpixel": false,
     "name": "kony.ui.Link",
     "paddinginpixel": false,

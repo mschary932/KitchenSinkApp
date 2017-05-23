@@ -5,7 +5,7 @@
     "_percent_": true,
     "_position_": 3,
     "_resize_": true,
-    "_skin_": "s0089d20dd7f45c4ba362163bda24c3b",
+    "_skin_": "s36cb0d914ec48deb97722fd4492e36a",
     "allboxes": [],
     "android": {
         "@class": "com.kony.gen.viz.model.container.property.hbox.AndroidHBoxProperty",
@@ -45,7 +45,7 @@
         "image211798972521173"
     ],
     "containerweight": 100,
-    "focusskin": "s0089d20dd7f45c4ba362163bda24c3b",
+    "focusskin": "s36cb0d914ec48deb97722fd4492e36a",
     "id": "hbox192735980024368",
     "info": null,
     "ipad": {
@@ -81,7 +81,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998656005",
+    "kuid": "p2kwiet12889314956005",
     "layoutalignment": 3,
     "name": "kony.ui.Box",
     "parent": "ftrOne",

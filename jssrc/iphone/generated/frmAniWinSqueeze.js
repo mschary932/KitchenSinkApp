@@ -26,7 +26,7 @@ function frmAniWinSqueezeGlobals() {
         "enabledForIdleTimeout": false,
         "id": "frmAniWinSqueeze",
         "needAppMenu": true,
-        "preShow": p2kwiet974599865252_frmAniWinSqueeze_preshow_seq0,
+        "preShow": p2kwiet1288931495252_frmAniWinSqueeze_preshow_seq0,
         "skin": "frmSknTrans",
         "title": "Squeeze"
     }, {
@@ -58,6 +58,6 @@ function frmAniWinSqueezeGlobals() {
         "titleBar": false
     });
     frmAniWinSqueeze.info = {
-        "kuid": "p2kwiet974599865252"
+        "kuid": "p2kwiet1288931495252"
     };
 };

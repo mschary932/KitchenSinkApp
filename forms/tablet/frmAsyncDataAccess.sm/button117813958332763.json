@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "sb53ee535890455c82421a9d63596675",
+    "_skin_": "s0431a05470e415382c3be1521956be9",
     "_text_": "Submit",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.button.AndroidButtonProperty",
@@ -24,10 +24,10 @@
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "s9eada507bb74031a4211fe3d3846ebb",
+    "focusskin": "s7bca2e4b1084a51a698fb2fb59cc378",
     "hexpand": true,
     "id": "button117813958332763",
-    "ide_onClick": "p2kwiet9745998653570_button117813958332763_onClick_seq0",
+    "ide_onClick": "p2kwiet12889314953570_button117813958332763_onClick_seq0",
     "info": null,
     "ipad": {
         "@class": "com.kony.gen.viz.model.component.property.button.IPadButtonProperty",
@@ -38,7 +38,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998653548",
+    "kuid": "p2kwiet12889314953548",
     "margininpixel": false,
     "name": "kony.ui.Button",
     "paddinginpixel": false,

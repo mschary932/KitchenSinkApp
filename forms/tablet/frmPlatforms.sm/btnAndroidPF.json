@@ -13,7 +13,7 @@
         0,
         3
     ],
-    "_skin_": "s904c3b1151648fa8aebe79544313b7e",
+    "_skin_": "s389a0d7817f476db97109e302948964",
     "_text_": "",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.button.AndroidButtonProperty",
@@ -50,10 +50,10 @@
     "containerweight": 22,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "sf6dc5c0de354ed4aa0678b64587e301",
+    "focusskin": "s925120d08594ce09589d87bc8e5459e",
     "hexpand": false,
     "id": "btnAndroidPF",
-    "ide_onClick": "p2kwiet9745998654241_btnAndroidPF_onClick_seq0",
+    "ide_onClick": "p2kwiet12889314954241_btnAndroidPF_onClick_seq0",
     "info": null,
     "ipad": {
         "@class": "com.kony.gen.viz.model.component.property.button.IPadButtonProperty",
@@ -90,7 +90,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998654229",
+    "kuid": "p2kwiet12889314954229",
     "margininpixel": false,
     "name": "kony.ui.Button",
     "paddinginpixel": false,

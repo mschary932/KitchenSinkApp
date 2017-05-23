@@ -148,7 +148,7 @@ function addWidgetspopLeftNright() {
         "focusSkin": "btnFocus1",
         "id": "button117822895617346",
         "isVisible": true,
-        "onClick": p2kwiet9745998655927_button117822895617346_onClick_seq0,
+        "onClick": p2kwiet12889314955927_button117822895617346_onClick_seq0,
         "skin": "btnNormal1",
         "text": "Dismiss"
     }, {
@@ -201,6 +201,6 @@ function popLeftNrightGlobals() {
         "popupStyle": constants.POPUP_TYPE_NATIVE_STYLE
     });
     popLeftNright.info = {
-        "kuid": "p2kwiet9745998655927"
+        "kuid": "p2kwiet12889314955927"
     };
 };

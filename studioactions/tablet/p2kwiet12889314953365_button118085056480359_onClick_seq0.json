@@ -1,0 +1,16 @@
+{
+    "p2kwiet12889314953365_button118085056480359_onClick_seq0": {
+        "id": "p2kwiet12889314953365_button118085056480359_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_onClick_385771288931495602",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "\n kony.accelerometer.stopMonitoringAcceleration();"
+        }]
+    }
+}

@@ -8,7 +8,7 @@
         1
     ],
     "_render_": true,
-    "_skin_": "s477c95293d9440f852acbbf29d8ae25",
+    "_skin_": "s95df2972b4541aaa35e353e3662b5b6",
     "_text_": "This is a simple form consists of different widgets including Label, Textbox2, Combobox, Richtext, Calendar, hBox, Checkboxgroup, Radiobutton.",
     "_wrapping_": 2,
     "canUpdateUI": true,
@@ -52,7 +52,7 @@
         "marginInPixel": false,
         "render": true
     },
-    "kuid": "p2kwiet9745998655262",
+    "kuid": "p2kwiet12889314955262",
     "name": "kony.ui.RichText",
     "paddinginpixel": false,
     "parent": "hbox685080434212759",

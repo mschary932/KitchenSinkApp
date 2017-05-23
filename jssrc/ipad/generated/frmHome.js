@@ -35,7 +35,7 @@ function addWidgetsfrmHome() {
         "focusSkin": "btnFocus",
         "id": "btnUInterface",
         "isVisible": true,
-        "onClick": p2kwiet9745998653941_btnUInterface_onClick_seq0,
+        "onClick": p2kwiet12889314953941_btnUInterface_onClick_seq0,
         "skin": "btnUInterfaceSkn"
     }, {
         "containerWeight": 100,
@@ -91,7 +91,7 @@ function addWidgetsfrmHome() {
         "focusSkin": "btnFocus",
         "id": "btnFrmAnimations",
         "isVisible": true,
-        "onClick": p2kwiet9745998653941_btnFrmAnimations_onClick_seq0,
+        "onClick": p2kwiet12889314953941_btnFrmAnimations_onClick_seq0,
         "skin": "btnFormAniSkn"
     }, {
         "containerWeight": 100,
@@ -147,7 +147,7 @@ function addWidgetsfrmHome() {
         "focusSkin": "btnFocus",
         "id": "btnDvcFeatures",
         "isVisible": true,
-        "onClick": p2kwiet9745998653941_btnDvcFeatures_onClick_seq0,
+        "onClick": p2kwiet12889314953941_btnDvcFeatures_onClick_seq0,
         "skin": "btnDeviceFeaturesSkn"
     }, {
         "containerWeight": 100,
@@ -189,7 +189,7 @@ function addWidgetsfrmHome() {
         "focusSkin": "lnkFocus",
         "id": "lnkFeedback",
         "isVisible": true,
-        "onClick": p2kwiet9745998653941_lnkFeedback_onClick_seq0,
+        "onClick": p2kwiet12889314953941_lnkFeedback_onClick_seq0,
         "skin": "lnkTransparent",
         "text": "Provide feedback"
     }, {
@@ -253,6 +253,6 @@ function frmHomeGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmHome.info = {
-        "kuid": "p2kwiet9745998653941"
+        "kuid": "p2kwiet12889314953941"
     };
 };

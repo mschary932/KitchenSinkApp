@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "s4db4e67481b4e38b9cd481f2c847290",
+    "_skin_": "s07e43c1df2f48ec918818b644173771",
     "_text_": "Label with Georgia font",
     "_wrapping_": 2,
     "android": {
@@ -38,7 +38,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998654114",
+    "kuid": "p2kwiet12889314954114",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

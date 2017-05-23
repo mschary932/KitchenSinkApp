@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "s74e02f835c14630a3ce3d41d66d36f4",
+    "_skin_": "s90bea73e8514fc29d3ac5477ed3c367",
     "_text_": "Label with TrebuchetMS font",
     "_wrapping_": 2,
     "canUpdateUI": true,
@@ -34,7 +34,7 @@
         "@class": "com.kony.gen.viz.model.component.property.label.KioskLabelProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998655421",
+    "kuid": "p2kwiet12889314955421",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

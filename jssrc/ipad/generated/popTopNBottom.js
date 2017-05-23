@@ -186,7 +186,7 @@ function addWidgetspopTopNBottom() {
         "focusSkin": "btnFocus1",
         "id": "button117822895617121",
         "isVisible": true,
-        "onClick": p2kwiet9745998655939_button117822895617121_onClick_seq0,
+        "onClick": p2kwiet12889314955939_button117822895617121_onClick_seq0,
         "skin": "btnNormal1",
         "text": "Dismiss"
     }, {
@@ -239,6 +239,6 @@ function popTopNBottomGlobals() {
         "popupStyle": constants.POPUP_TYPE_NATIVE_STYLE
     });
     popTopNBottom.info = {
-        "kuid": "p2kwiet9745998655939"
+        "kuid": "p2kwiet12889314955939"
     };
 };

@@ -257,6 +257,6 @@ function frmURLBasedImageGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmURLBasedImage.info = {
-        "kuid": "p2kwiet9745998653302"
+        "kuid": "p2kwiet12889314953302"
     };
 };

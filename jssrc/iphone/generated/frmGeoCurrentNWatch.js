@@ -422,7 +422,7 @@ function addWidgetsfrmGeoCurrentNWatch() {
         "focusSkin": "btnFocus",
         "id": "button1930040990150304",
         "isVisible": true,
-        "onClick": p2kwiet9745998651129_button1930040990150304_onClick_seq0,
+        "onClick": p2kwiet12889314951129_button1930040990150304_onClick_seq0,
         "skin": "btnNormal",
         "text": "Get current adress"
     }, {
@@ -468,7 +468,7 @@ function frmGeoCurrentNWatchGlobals() {
         "enabledForIdleTimeout": false,
         "id": "frmGeoCurrentNWatch",
         "needAppMenu": true,
-        "preShow": p2kwiet9745998651129_frmGeoCurrentNWatch_preshow_seq0,
+        "preShow": p2kwiet12889314951129_frmGeoCurrentNWatch_preshow_seq0,
         "skin": "frm",
         "title": "Current Position"
     }, {
@@ -509,6 +509,6 @@ function frmGeoCurrentNWatchGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmGeoCurrentNWatch.info = {
-        "kuid": "p2kwiet9745998651129"
+        "kuid": "p2kwiet12889314951129"
     };
 };

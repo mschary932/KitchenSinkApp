@@ -34,7 +34,7 @@ function initializeactionWidsTemplate() {
         "focusSkin": "lnkFocus",
         "id": "imgActionLink",
         "isVisible": true,
-        "onClick": p2kwiet9745998656024_imgActionLink_onClick_seq0,
+        "onClick": p2kwiet12889314956024_imgActionLink_onClick_seq0,
         "skin": "linkImage",
         "text": "Link"
     }, {
@@ -54,7 +54,7 @@ function initializeactionWidsTemplate() {
         "focusSkin": "btnFocus",
         "id": "imgActionButton",
         "isVisible": true,
-        "onClick": p2kwiet9745998656024_imgActionButton_onClick_seq0,
+        "onClick": p2kwiet12889314956024_imgActionButton_onClick_seq0,
         "skin": "btnNormal",
         "text": "Button"
     }, {

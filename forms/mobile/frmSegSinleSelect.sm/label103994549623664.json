@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "sc0c7fc580174c8fa892fc17a8920893",
+    "_skin_": "s72518611b7c4706a144e87b61cfd7ec",
     "_text_": "Section header templates",
     "_wrapping_": 2,
     "android": {
@@ -65,7 +65,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998652798",
+    "kuid": "p2kwiet12889314952798",
     "name": "kony.ui.Label",
     "parent": "hbox103994549623663",
     "pf": "frmSegSinleSelect",

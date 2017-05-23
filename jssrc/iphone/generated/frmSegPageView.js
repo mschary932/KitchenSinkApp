@@ -26,7 +26,7 @@ function addWidgetsfrmSegPageView() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865225,
+        "rowTemplate": vbox1288931495225,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -110,6 +110,6 @@ function frmSegPageViewGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmSegPageView.info = {
-        "kuid": "p2kwiet9745998652680"
+        "kuid": "p2kwiet12889314952680"
     };
 };

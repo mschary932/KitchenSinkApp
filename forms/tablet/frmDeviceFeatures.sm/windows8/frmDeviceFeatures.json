@@ -13,7 +13,7 @@
         0,
         0
     ],
-    "_skin_": "sb3af36433f04064b137408e88d13542",
+    "_skin_": "s27285c1a630442880f9be871bc171db",
     "_title_": "Device features",
     "addWidgetsdone": false,
     "allboxes": [],
@@ -28,7 +28,7 @@
     "footeroverlap": false,
     "headeroverlap": false,
     "id": "frmDeviceFeatures",
-    "ide_init": "p2kwiet9745998653805_frmDeviceFeatures_init_seq0",
+    "ide_init": "p2kwiet12889314953805_frmDeviceFeatures_init_seq0",
     "info": null,
     "initdone": false,
     "intransitionconfig": {
@@ -66,7 +66,7 @@
         }
     },
     "templateType": "forms",
-    "titleBarSkin": "s0b46d97067d45c29179d97c1e6cbbdc",
+    "titleBarSkin": "s451cd155d3649ac9e2793e49e50285d",
     "titlebar": true,
     "transparencybehindthepopup": 100,
     "type": 3,
@@ -77,14 +77,14 @@
         "displayOrientation": 3,
         "needAppMenu": true,
         "psp": {
-            "backButtonSkin": "sf03a5b0a1e74ea8ae2f723798680c45",
+            "backButtonSkin": "sc464a3949af4c7f9ee7ed15be49a747",
             "enableBack": true,
             "enableOnscreenMenu": false,
             "layout": 2,
             "maxAppMenuButtons": 4,
             "noFixedItems": 0,
             "showBackButton": true,
-            "titleBarSkin": "s295496625ea4a25a1e89a1507d718be"
+            "titleBarSkin": "s3c00bcbcb0143eeb151337eb7c67c45"
         },
         "render": true,
         "titleBar": true

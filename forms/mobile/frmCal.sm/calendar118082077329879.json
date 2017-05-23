@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "Image": "default.png",
     "_enabled_": false,
-    "_skin_": "s04698269f2842ecb408d31fb0ad8ccb",
+    "_skin_": "saedb0ca107f419b892cdff7626b22a8",
     "_text_": "",
     "advview": "default",
     "android": {
@@ -40,7 +40,7 @@
         8,
         2013
     ],
-    "focusskin": "s74b5598831a45cca97369fde1b976cd",
+    "focusskin": "s58ae66d9048472b863fafe8ad78762a",
     "format": "dd/MM/yyyy",
     "formatteddate": "",
     "hexpand": true,
@@ -86,7 +86,7 @@
         "viewType": "wheelpopup"
     },
     "isvisible": true,
-    "kuid": "p2kwiet974599865515",
+    "kuid": "p2kwiet1288931495515",
     "name": "kony.ui.Calendar",
     "pagedate": "8/2013",
     "parent": "frmCal",

@@ -12,7 +12,7 @@
         0,
         0
     ],
-    "_skin_": "sb3af36433f04064b137408e88d13542",
+    "_skin_": "s27285c1a630442880f9be871bc171db",
     "_title_": "Flex Form",
     "allboxes": [],
     "allowhorizontalbounce": true,
@@ -35,7 +35,7 @@
             "showActionBar": true,
             "showActionBarIcon": true,
             "titleBar": true,
-            "titleBarSkin": "sff9552856fc46c88ded7f22a1a6db9f",
+            "titleBarSkin": "sefd3386b41842d69d3027fb5c62adbf",
             "windowSoftInputMode": 1
         },
         "render": true
@@ -70,8 +70,8 @@
     "headeroverlap": false,
     "horizontalscrollindicator": true,
     "id": "frmFlex",
-    "ide_postShow": "p2kwiet974599865983_frmFlex_postshow_seq0",
-    "ide_preShow": "p2kwiet974599865983_frmFlex_preshow_seq0",
+    "ide_postShow": "p2kwiet1288931495983_frmFlex_postshow_seq0",
+    "ide_preShow": "p2kwiet1288931495983_frmFlex_preshow_seq0",
     "iphone": {
         "@class": "com.kony.gen.viz.model.container.property.scrollflexform.IPhoneScrollFlexFormProperty",
         "displayOrientation": 1,
@@ -109,7 +109,7 @@
     },
     "ismodal": false,
     "isvisible": true,
-    "kuid": "p2kwiet974599865983",
+    "kuid": "p2kwiet1288931495983",
     "layouttype": 2,
     "margininpixel": false,
     "menuposition": 2,
@@ -149,7 +149,7 @@
         "needAppMenu": true,
         "render": true
     },
-    "titleBarSkin": "s295496625ea4a25a1e89a1507d718be",
+    "titleBarSkin": "s3c00bcbcb0143eeb151337eb7c67c45",
     "titlebar": true,
     "transparencybehindthepopup": 100,
     "type": 3,

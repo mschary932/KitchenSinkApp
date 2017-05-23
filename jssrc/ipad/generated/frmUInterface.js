@@ -61,7 +61,7 @@ function addWidgetsfrmUInterface() {
         "focusSkin": "btnUICatTabFoc",
         "id": "btnContainerWidTab",
         "isVisible": true,
-        "onClick": p2kwiet9745998654903_btnContainerWidTab_onClick_seq0,
+        "onClick": p2kwiet12889314954903_btnContainerWidTab_onClick_seq0,
         "skin": "btnUIWidgetsCatTab",
         "text": "Container widgets"
     }, {
@@ -107,11 +107,11 @@ function addWidgetsfrmUInterface() {
         "id": "segContainerWidgets",
         "isVisible": true,
         "needPageIndicator": true,
-        "onRowClick": p2kwiet9745998654903_segContainerWidgets_onRowClick_seq0,
+        "onRowClick": p2kwiet12889314954903_segContainerWidgets_onRowClick_seq0,
         "retainSelection": true,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865347,
+        "rowTemplate": vbox1288931495347,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -165,7 +165,7 @@ function addWidgetsfrmUInterface() {
         "focusSkin": "btnUICatTabFoc",
         "id": "btnBasicWidTab",
         "isVisible": true,
-        "onClick": p2kwiet9745998654903_btnBasicWidTab_onClick_seq0,
+        "onClick": p2kwiet12889314954903_btnBasicWidTab_onClick_seq0,
         "skin": "btnUIWidgetsCatTab",
         "text": "Basic widgets"
     }, {
@@ -235,11 +235,11 @@ function addWidgetsfrmUInterface() {
         "id": "segBasicWidgets",
         "isVisible": false,
         "needPageIndicator": true,
-        "onRowClick": p2kwiet9745998654903_segBasicWidgets_onRowClick_seq0,
+        "onRowClick": p2kwiet12889314954903_segBasicWidgets_onRowClick_seq0,
         "retainSelection": true,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865349,
+        "rowTemplate": vbox1288931495349,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -293,7 +293,7 @@ function addWidgetsfrmUInterface() {
         "focusSkin": "btnUICatTabFoc",
         "id": "btnAdvancedWidTab",
         "isVisible": true,
-        "onClick": p2kwiet9745998654903_btnAdvancedWidTab_onClick_seq0,
+        "onClick": p2kwiet12889314954903_btnAdvancedWidTab_onClick_seq0,
         "skin": "btnUIWidgetsCatTab",
         "text": "Advanced widgets"
     }, {
@@ -347,11 +347,11 @@ function addWidgetsfrmUInterface() {
         "id": "segAdvancedWidgets",
         "isVisible": false,
         "needPageIndicator": true,
-        "onRowClick": p2kwiet9745998654903_segAdvancedWidgets_onRowClick_seq0,
+        "onRowClick": p2kwiet12889314954903_segAdvancedWidgets_onRowClick_seq0,
         "retainSelection": true,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865351,
+        "rowTemplate": vbox1288931495351,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -417,7 +417,7 @@ function frmUInterfaceGlobals() {
         "bounces": true,
         "enabledForIdleTimeout": false,
         "id": "frmUInterface",
-        "init": p2kwiet9745998654903_frmUInterface_init_seq0,
+        "init": p2kwiet12889314954903_frmUInterface_init_seq0,
         "needAppMenu": true,
         "skin": "frm",
         "title": "User interface"
@@ -457,6 +457,6 @@ function frmUInterfaceGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmUInterface.info = {
-        "kuid": "p2kwiet9745998654903"
+        "kuid": "p2kwiet12889314954903"
     };
 };

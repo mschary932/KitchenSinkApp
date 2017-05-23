@@ -47,6 +47,6 @@ function frmAni4SplitRotateInGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmAni4SplitRotateIn.info = {
-        "kuid": "p2kwiet9745998653392"
+        "kuid": "p2kwiet12889314953392"
     };
 };

@@ -30,7 +30,7 @@
         "iurl"
     ],
     "_enabled_": false,
-    "_skin_": "scf8bca7cc7f411d973e6ba51d832029",
+    "_skin_": "sd472b85fabb422ebe3dcf368f472376",
     "_text_": "HImageStrip2",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.himagestrip2.AndroidHImageStrip2Property",
@@ -67,7 +67,7 @@
         "viewType": "stripview"
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998654087",
+    "kuid": "p2kwiet12889314954087",
     "masterdata": [],
     "name": "kony.ui.HorizontalImageStrip2",
     "parent": "vbox192926642422365",

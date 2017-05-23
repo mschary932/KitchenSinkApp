@@ -14,7 +14,7 @@
         2,
         2
     ],
-    "_skin_": "sd36f97b416744e0a37971e51a6152c4",
+    "_skin_": "s0ca754bf8794a0c9fb7f04a83b40a7b",
     "_text_": "",
     "canUpdateUI": true,
     "containerweight": 70,
@@ -30,7 +30,7 @@
         "itemOrientation": "vertical",
         "render": true
     },
-    "focusskin": "sd36f97b416744e0a37971e51a6152c4",
+    "focusskin": "s0ca754bf8794a0c9fb7f04a83b40a7b",
     "id": "checkboxgroup11798972524954",
     "info": null,
     "isvisible": true,
@@ -40,7 +40,7 @@
         "itemOrientation": "vertical",
         "render": true
     },
-    "kuid": "p2kwiet9745998655141",
+    "kuid": "p2kwiet12889314955141",
     "margininpixel": false,
     "masterdata": [
         [

@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "s9eada507bb74031a4211fe3d3846ebb",
+    "_skin_": "s7bca2e4b1084a51a698fb2fb59cc378",
     "_text_": "Clear All",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.button.AndroidButtonProperty",
@@ -25,10 +25,10 @@
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "sf6d56dd810743c291be3bb791ee0e02",
+    "focusskin": "s2fc5fcc2efd4f4c906bcdcecba7e13e",
     "hexpand": true,
     "id": "button1927359800105587",
-    "ide_onClick": "p2kwiet9745998655897_button1927359800105587_onClick_seq0",
+    "ide_onClick": "p2kwiet12889314955897_button1927359800105587_onClick_seq0",
     "info": null,
     "iphone": {
         "@class": "com.kony.gen.viz.model.component.property.button.IPhoneButtonProperty",
@@ -65,7 +65,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998655895",
+    "kuid": "p2kwiet12889314955895",
     "name": "kony.ui.Button",
     "parent": "popFormAnchor",
     "pf": "popFormAnchor",

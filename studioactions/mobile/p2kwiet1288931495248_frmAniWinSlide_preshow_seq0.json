@@ -1,0 +1,19 @@
+{
+    "p2kwiet1288931495248_frmAniWinSlide_preshow_seq0": {
+        "id": "p2kwiet1288931495248_frmAniWinSlide_preshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_preshow_3266612889314955859",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "hBoxTitle.lblTitle.text = \"Slide\";"
+        }]
+    }
+}

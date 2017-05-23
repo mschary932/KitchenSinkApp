@@ -7,7 +7,7 @@
         0,
         0
     ],
-    "_skin_": "sb3af36433f04064b137408e88d13542",
+    "_skin_": "s27285c1a630442880f9be871bc171db",
     "_title_": "Accelerometer",
     "addWidgetsdone": false,
     "allboxes": [],
@@ -29,7 +29,7 @@
             "showActionBar": true,
             "showActionBarIcon": true,
             "titleBar": true,
-            "titleBarSkin": "sff9552856fc46c88ded7f22a1a6db9f",
+            "titleBarSkin": "sefd3386b41842d69d3027fb5c62adbf",
             "windowSoftInputMode": 1
         },
         "render": true
@@ -50,7 +50,7 @@
     "footeroverlap": false,
     "headeroverlap": false,
     "id": "frmAclMeterReadings",
-    "ide_onHide": "p2kwiet97459986535_frmAclMeterReadings_onhide_seq0",
+    "ide_onHide": "p2kwiet128893149535_frmAclMeterReadings_onhide_seq0",
     "info": null,
     "initdone": false,
     "intransitionconfig": {
@@ -101,7 +101,7 @@
     },
     "ismodal": false,
     "isvisible": true,
-    "kuid": "p2kwiet97459986535",
+    "kuid": "p2kwiet128893149535",
     "margininpixel": false,
     "menuposition": 2,
     "name": "kony.ui.Form2",
@@ -149,7 +149,7 @@
         "render": true
     },
     "templateType": "forms",
-    "titleBarSkin": "s295496625ea4a25a1e89a1507d718be",
+    "titleBarSkin": "s3c00bcbcb0143eeb151337eb7c67c45",
     "titlebar": true,
     "transparencybehindthepopup": 100,
     "type": 3,
@@ -158,7 +158,7 @@
     "winphone8": {
         "@class": "com.kony.gen.viz.model.container.property.form.WinPhone8FormProperty",
         "displayOrientation": 1,
-        "ide_onDeviceBack": "p2kwiet97459986535_frmAclMeterReadings_WinPhone8_onDeviceBack_seq0",
+        "ide_onDeviceBack": "p2kwiet128893149535_frmAclMeterReadings_WinPhone8_onDeviceBack_seq0",
         "inTransitionConfig": {
             "transitionSpeed": 0
         },

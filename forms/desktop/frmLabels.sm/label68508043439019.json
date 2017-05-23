@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "s0554c4fab9149979129164c7e377bee",
+    "_skin_": "sdade4e15ebb4caa92664e7d820e1f4c",
     "_text_": "Label with Vertical Gradient",
     "_wrapping_": 2,
     "canUpdateUI": true,
@@ -34,7 +34,7 @@
         "@class": "com.kony.gen.viz.model.component.property.label.KioskLabelProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998655436",
+    "kuid": "p2kwiet12889314955436",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

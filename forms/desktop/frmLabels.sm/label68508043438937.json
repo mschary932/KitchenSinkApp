@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "sf25064142c4466d94ca5c69b8576fd1",
+    "_skin_": "s4c24e1688ee4e7f9b72166049093812",
     "_text_": "Label with Vertical Split",
     "_wrapping_": 2,
     "canUpdateUI": true,
@@ -34,7 +34,7 @@
         "@class": "com.kony.gen.viz.model.component.property.label.KioskLabelProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998655435",
+    "kuid": "p2kwiet12889314955435",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

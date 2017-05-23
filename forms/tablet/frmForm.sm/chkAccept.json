@@ -14,7 +14,7 @@
         1,
         1
     ],
-    "_skin_": "s792c6dc7bdf49d89dfddec9318aa63c",
+    "_skin_": "sa23097257b144ceb6fa7a49f32930a0",
     "_text_": "",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.checkbox.AndroidCheckBoxProperty",
@@ -43,7 +43,7 @@
         "templateType": "forms",
         "topLevelBox": null
     },
-    "focusskin": "s6addb4f77e34e63a25e4c0f82fdc2db",
+    "focusskin": "s41aefe5b0b54533958b1125c668297f",
     "id": "chkAccept",
     "info": null,
     "ipad": {
@@ -69,7 +69,7 @@
     },
     "isvisible": true,
     "itemorientation": "horizontal",
-    "kuid": "p2kwiet9745998653864",
+    "kuid": "p2kwiet12889314953864",
     "margininpixel": false,
     "masterdata": [
         [

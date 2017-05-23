@@ -64,13 +64,13 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998652891",
-    "leftskin": "sb5abd7cf7a44935932d97936d59c490",
+    "kuid": "p2kwiet12889314952891",
+    "leftskin": "se50e01e501a4b88a2c0c3f797adfda2",
     "name": "kony.ui.Slider",
     "noofsteps": 100,
     "parent": "frmSlider",
     "pf": "frmSlider",
-    "rightskin": "sc8f167453a8413ba3b7a9ba1aa7c5dc",
+    "rightskin": "se84100163f24d03a41cb9761bfedfa5",
     "spa": {
         "@class": "com.kony.gen.viz.model.component.property.slider.SPASliderProperty"
     },
@@ -187,7 +187,7 @@
             0,
             0
         ],
-        "leftSkin": "sae4deebfbb94e03b493eeb0700b1cd6",
+        "leftSkin": "s76c1734d3134dfe8babb81ec3881f6f",
         "margin": [
             12,
             10,
@@ -206,6 +206,6 @@
             "enableCache": false
         },
         "render": true,
-        "rightSkin": "s56847e746104f0fbb1bb0e0cf4c84b0"
+        "rightSkin": "s1142b79334d4668b862253565f2c7cf"
     }
 }

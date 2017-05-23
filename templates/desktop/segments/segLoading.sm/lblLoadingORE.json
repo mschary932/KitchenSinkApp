@@ -13,7 +13,7 @@
         0,
         0
     ],
-    "_skin_": "s5ae54fee69b49eeac05424d755d2a76",
+    "_skin_": "sfae6c4942a04e358ff2b78c0a8d3b21",
     "_text_": "Loading...",
     "_wrapping_": 2,
     "canUpdateUI": true,
@@ -34,7 +34,7 @@
         "@class": "com.kony.gen.viz.model.component.property.label.KioskLabelProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998656242",
+    "kuid": "p2kwiet12889314956242",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

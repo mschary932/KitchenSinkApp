@@ -69,7 +69,7 @@ function addWidgetsfrmAPIKey() {
         "focusSkin": "btnFocus",
         "id": "button1927359800106315",
         "isVisible": true,
-        "onClick": p2kwiet974599865262_button1927359800106315_onClick_seq0,
+        "onClick": p2kwiet1288931495262_button1927359800106315_onClick_seq0,
         "skin": "btnNormal",
         "text": "Continue"
     }, {
@@ -91,7 +91,7 @@ function addWidgetsfrmAPIKey() {
         "focusSkin": "lnkFocus",
         "id": "lnkNoAPIKey",
         "isVisible": true,
-        "onClick": p2kwiet974599865262_lnkNoAPIKey_onClick_seq0,
+        "onClick": p2kwiet1288931495262_lnkNoAPIKey_onClick_seq0,
         "skin": "lnkTransparent",
         "text": "Do not have an API key?"
     }, {
@@ -156,6 +156,6 @@ function frmAPIKeyGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmAPIKey.info = {
-        "kuid": "p2kwiet974599865262"
+        "kuid": "p2kwiet1288931495262"
     };
 };

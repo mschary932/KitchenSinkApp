@@ -35,7 +35,7 @@ function addWidgetsfrmAclMeterReadings() {
         "focusSkin": "btnFocus",
         "id": "button1927359800104630",
         "isVisible": true,
-        "onClick": p2kwiet9745998653365_button1927359800104630_onClick_seq0,
+        "onClick": p2kwiet12889314953365_button1927359800104630_onClick_seq0,
         "skin": "btnNormal",
         "text": "Current accelerometer data"
     }, {
@@ -57,7 +57,7 @@ function addWidgetsfrmAclMeterReadings() {
         "focusSkin": "btnFocus",
         "id": "button1927359800104641",
         "isVisible": true,
-        "onClick": p2kwiet9745998653365_button1927359800104641_onClick_seq0,
+        "onClick": p2kwiet12889314953365_button1927359800104641_onClick_seq0,
         "skin": "btnNormal",
         "text": "Start monitoring acceleration"
     }, {
@@ -79,7 +79,7 @@ function addWidgetsfrmAclMeterReadings() {
         "focusSkin": "btnFocus",
         "id": "button118085056480359",
         "isVisible": true,
-        "onClick": p2kwiet9745998653365_button118085056480359_onClick_seq0,
+        "onClick": p2kwiet12889314953365_button118085056480359_onClick_seq0,
         "skin": "btnNormal",
         "text": "Stop monitoring acceleration"
     }, {
@@ -101,7 +101,7 @@ function addWidgetsfrmAclMeterReadings() {
         "focusSkin": "btnFocus",
         "id": "button1927359800104647",
         "isVisible": true,
-        "onClick": p2kwiet9745998653365_button1927359800104647_onClick_seq0,
+        "onClick": p2kwiet12889314953365_button1927359800104647_onClick_seq0,
         "skin": "btnNormal",
         "text": "Register shake event"
     }, {
@@ -123,7 +123,7 @@ function addWidgetsfrmAclMeterReadings() {
         "focusSkin": "btnFocus",
         "id": "button118085056480483",
         "isVisible": true,
-        "onClick": p2kwiet9745998653365_button118085056480483_onClick_seq0,
+        "onClick": p2kwiet12889314953365_button118085056480483_onClick_seq0,
         "skin": "btnNormal",
         "text": "Unregister shake event"
     }, {
@@ -506,6 +506,6 @@ function frmAclMeterReadingsGlobals() {
         "titleBar": true
     });
     frmAclMeterReadings.info = {
-        "kuid": "p2kwiet9745998653365"
+        "kuid": "p2kwiet12889314953365"
     };
 };

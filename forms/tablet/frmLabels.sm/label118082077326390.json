@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "s0554c4fab9149979129164c7e377bee",
+    "_skin_": "sdade4e15ebb4caa92664e7d820e1f4c",
     "_text_": "Label with Vertical Gradient",
     "_wrapping_": 2,
     "android": {
@@ -38,7 +38,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998654100",
+    "kuid": "p2kwiet12889314954100",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

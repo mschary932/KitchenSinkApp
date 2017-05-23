@@ -1,0 +1,19 @@
+{
+    "p2kwiet12889314954734_slider192914726036080_onslide_seq0": {
+        "id": "p2kwiet12889314954734_slider192914726036080_onslide_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "selectedvalue",
+            "value": "selectedvalue"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_onslide_7076512889314951775",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(kony.os.deviceInfo().name == \"Windows\" && channel == \"tablet\")\n {\n sliderOnSelection(eventobject)\n }"
+        }]
+    }
+}

@@ -243,6 +243,6 @@ function frmCheckboxGlobals() {
         "titleBar": true
     });
     frmCheckbox.info = {
-        "kuid": "p2kwiet9745998653691"
+        "kuid": "p2kwiet12889314953691"
     };
 };

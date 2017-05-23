@@ -39,15 +39,15 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998654726",
-    "leftskin": "sb5abd7cf7a44935932d97936d59c490",
+    "kuid": "p2kwiet12889314954726",
+    "leftskin": "se50e01e501a4b88a2c0c3f797adfda2",
     "margininpixel": false,
     "name": "kony.ui.Slider",
     "noofsteps": 100,
     "paddinginpixel": false,
     "parent": "vbox192926642422365",
     "pf": "frmSlider",
-    "rightskin": "sc8f167453a8413ba3b7a9ba1aa7c5dc",
+    "rightskin": "se84100163f24d03a41cb9761bfedfa5",
     "selectedvalue": 20,
     "spa": {
         "@class": "com.kony.gen.viz.model.component.property.slider.SPASliderProperty",
@@ -73,10 +73,10 @@
     "widgetalignment": 5,
     "windows8": {
         "@class": "com.kony.gen.viz.model.component.property.slider.Windows8SliderProperty",
-        "leftSkin": "saee009e959d421fbe80900e9030423b",
+        "leftSkin": "s1782c4c0a044367839116e15e7d4564",
         "maxLabel": "100",
         "minLabel": "0",
         "render": true,
-        "rightSkin": "s0467b2e84614a59ad538283c5aca8c7"
+        "rightSkin": "s42aa8b2ea134dc491bc7a53703097c3"
     }
 }

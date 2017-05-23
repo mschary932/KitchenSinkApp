@@ -260,6 +260,6 @@ function frmButtonGlobals() {
         "titleBar": true
     });
     frmButton.info = {
-        "kuid": "p2kwiet9745998653615"
+        "kuid": "p2kwiet12889314953615"
     };
 };

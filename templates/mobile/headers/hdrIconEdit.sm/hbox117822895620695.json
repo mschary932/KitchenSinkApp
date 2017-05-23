@@ -17,7 +17,7 @@
     "_percent_": true,
     "_position_": 3,
     "_resize_": true,
-    "_skin_": "sc87e9c92a544f9abd9dc13afc638c30",
+    "_skin_": "s8bb3eac2f854861b09a45df1d1b93a2",
     "allboxes": [],
     "android": {
         "@class": "com.kony.gen.viz.model.container.property.hbox.AndroidHBoxProperty",
@@ -33,7 +33,7 @@
         "button117822895620523"
     ],
     "containerweight": 100,
-    "focusskin": "sc87e9c92a544f9abd9dc13afc638c30",
+    "focusskin": "s8bb3eac2f854861b09a45df1d1b93a2",
     "id": "hbox117822895620695",
     "info": null,
     "iphone": {
@@ -56,7 +56,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998655949",
+    "kuid": "p2kwiet12889314955949",
     "layoutalignment": 3,
     "margininpixel": false,
     "name": "kony.ui.Box",

@@ -13,7 +13,7 @@
         0,
         0
     ],
-    "_skin_": "sb3af36433f04064b137408e88d13542",
+    "_skin_": "s27285c1a630442880f9be871bc171db",
     "_title_": "Current Position",
     "addWidgetsdone": false,
     "allboxes": [],
@@ -31,7 +31,7 @@
     "footeroverlap": false,
     "headeroverlap": false,
     "id": "frmGeoCurrentNWatch",
-    "ide_preShow": "p2kwiet9745998651189_frmGeoCurrentNWatch_preshow_seq0",
+    "ide_preShow": "p2kwiet12889314951189_frmGeoCurrentNWatch_preshow_seq0",
     "info": null,
     "initdone": false,
     "intransitionconfig": {
@@ -73,7 +73,7 @@
         "render": true
     },
     "templateType": "forms",
-    "titleBarSkin": "s0b46d97067d45c29179d97c1e6cbbdc",
+    "titleBarSkin": "s451cd155d3649ac9e2793e49e50285d",
     "titlebar": true,
     "transparencybehindthepopup": 100,
     "type": 3,

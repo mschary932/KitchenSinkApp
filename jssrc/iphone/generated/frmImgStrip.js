@@ -44,7 +44,7 @@ function addWidgetsfrmImgStrip() {
         ],
         "id": "himgstrip21041822331260",
         "isVisible": true,
-        "onSelection": p2kwiet9745998651502_himgstrip21041822331260_onSelection_seq0,
+        "onSelection": p2kwiet12889314951502_himgstrip21041822331260_onSelection_seq0,
         "showArrows": false,
         "showScrollbars": false,
         "skin": "imgGalNormal",
@@ -268,6 +268,6 @@ function frmImgStripGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmImgStrip.info = {
-        "kuid": "p2kwiet9745998651502"
+        "kuid": "p2kwiet12889314951502"
     };
 };

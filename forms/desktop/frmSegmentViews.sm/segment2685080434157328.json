@@ -97,7 +97,7 @@
     },
     "focusedindex": null,
     "focuseditem": null,
-    "generatedtemplate": "p2kwiet9745998655693",
+    "generatedtemplate": "p2kwiet12889314955693",
     "groupcells": true,
     "hasSections": false,
     "hiddencolumns": {},
@@ -121,7 +121,7 @@
         "paddingInPixel": false,
         "render": true
     },
-    "kuid": "p2kwiet9745998655672",
+    "kuid": "p2kwiet12889314955672",
     "layoutalignment": 3,
     "layouttype": 0,
     "margininpixel": false,
@@ -133,14 +133,14 @@
     "parent": "vbox685080434174158",
     "pf": "frmSegmentViews",
     "retainselection": false,
-    "rowTemplateId": "p2kwiet9745998655693",
+    "rowTemplateId": "p2kwiet12889314955693",
     "rowcounter": 2,
-    "rowfocusskin": "se23b8d83a80446a806831bb5f0795ef",
-    "rowskin": "sf43e079429b46a5a2a5b11f32013b46",
+    "rowfocusskin": "sf7df98330a943738c02254b12797167",
+    "rowskin": "sb5581a529f6443fb38a98e305a6318d",
     "screenlevelwidget": false,
     "scrollingevents": false,
     "seccounter": 0,
-    "sectionheaderskin": "s5557b3379c44c279dac2a90738ae181",
+    "sectionheaderskin": "s672f78ac8444b7d96e37fd469e4a997",
     "selectedRows": null,
     "selectedState": false,
     "selectedindex": null,
@@ -165,5 +165,5 @@
         "label685080434157330": "label685080434157330",
         "label685080434157336": "label685080434157336"
     },
-    "widgetskin": "sd8d4bb0fe5949328819a5cd2c629d95"
+    "widgetskin": "s2e7ff93eeaf4f1f9fde937272c106c8"
 }

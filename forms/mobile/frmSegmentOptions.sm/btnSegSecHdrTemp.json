@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "s6a8b1cbc7944a88a88694eefed42a45",
+    "_skin_": "s14a8b145d524289a5a644b59ee96bf8",
     "_text_": "Section header template",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.button.AndroidButtonProperty",
@@ -25,10 +25,10 @@
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "s7dcf1c34ee24bbcbfd7c43862135750",
+    "focusskin": "seb4c4d5145a411a83e0757046d08068",
     "hexpand": true,
     "id": "btnSegSecHdrTemp",
-    "ide_onClick": "p2kwiet9745998652589_btnSegSecHdrTemp_onClick_seq0",
+    "ide_onClick": "p2kwiet12889314952589_btnSegSecHdrTemp_onClick_seq0",
     "info": null,
     "iphone": {
         "@class": "com.kony.gen.viz.model.component.property.button.IPhoneButtonProperty",
@@ -65,7 +65,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998652580",
+    "kuid": "p2kwiet12889314952580",
     "name": "kony.ui.Button",
     "parent": "frmSegmentOptions",
     "pf": "frmSegmentOptions",

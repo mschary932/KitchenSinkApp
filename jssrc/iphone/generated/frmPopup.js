@@ -22,7 +22,7 @@ function addWidgetsfrmPopup() {
         "focusSkin": "btnFocus",
         "id": "btnShowPopup",
         "isVisible": true,
-        "onClick": p2kwiet9745998651904_btnShowPopup_onClick_seq0,
+        "onClick": p2kwiet12889314951904_btnShowPopup_onClick_seq0,
         "skin": "btnNormal",
         "text": "Click here"
     }, {
@@ -89,6 +89,6 @@ function frmPopupGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmPopup.info = {
-        "kuid": "p2kwiet9745998651904"
+        "kuid": "p2kwiet12889314951904"
     };
 };

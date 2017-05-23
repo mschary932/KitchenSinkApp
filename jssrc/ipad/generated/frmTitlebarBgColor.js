@@ -66,6 +66,6 @@ function frmTitlebarBgColorGlobals() {
         "titleBarSkin": "titlestudio1"
     });
     frmTitlebarBgColor.info = {
-        "kuid": "p2kwiet9745998654862"
+        "kuid": "p2kwiet12889314954862"
     };
 };

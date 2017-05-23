@@ -7,7 +7,7 @@ function addWidgetsfrmSwipe() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865259,
+        "rowTemplate": vbox1288931495259,
         "screenLevelWidget": true,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -35,7 +35,7 @@ function addWidgetsfrmSwipe() {
         "editStyle": constants.SEGUI_EDITING_STYLE_SWIPE,
         "enableDictionary": false,
         "indicator": constants.SEGUI_NONE,
-        "onEditing": p2kwiet9745998652906_segStates_iPhone_onEditing_seq0,
+        "onEditing": p2kwiet12889314952906_segStates_iPhone_onEditing_seq0,
         "progressIndicatorColor": constants.PROGRESS_INDICATOR_COLOR_WHITE,
         "searchCriteria": constants.SEGUI_SEARCH_CRITERIA_STARTSWITH,
         "showProgressIndicator": true
@@ -49,7 +49,7 @@ function frmSwipeGlobals() {
         "bounces": true,
         "enabledForIdleTimeout": false,
         "id": "frmSwipe",
-        "init": p2kwiet9745998652906_frmSwipe_init_seq0,
+        "init": p2kwiet12889314952906_frmSwipe_init_seq0,
         "needAppMenu": true,
         "skin": "frm",
         "title": "On swipe"
@@ -90,6 +90,6 @@ function frmSwipeGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmSwipe.info = {
-        "kuid": "p2kwiet9745998652906"
+        "kuid": "p2kwiet12889314952906"
     };
 };

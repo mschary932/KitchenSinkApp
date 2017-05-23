@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_enabled_": false,
     "_orientation_": "vertical",
-    "_skin_": "s6addb4f77e34e63a25e4c0f82fdc2db",
+    "_skin_": "s41aefe5b0b54533958b1125c668297f",
     "_text_": "",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.checkbox.AndroidCheckBoxProperty",
@@ -31,7 +31,7 @@
         "templateType": "forms",
         "topLevelBox": null
     },
-    "focusskin": "s6addb4f77e34e63a25e4c0f82fdc2db",
+    "focusskin": "s41aefe5b0b54533958b1125c668297f",
     "id": "chkAccept",
     "info": null,
     "iphone": {
@@ -70,7 +70,7 @@
     },
     "isvisible": true,
     "itemorientation": "vertical",
-    "kuid": "p2kwiet9745998651001",
+    "kuid": "p2kwiet12889314951001",
     "masterdata": [
         [
             "1",

@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "s08e4f4a6c204b41b75a0911138aebb0",
+    "_skin_": "scb504f086954855812d164e1bd5f678",
     "_text_": "Device Features",
     "_wrapping_": 2,
     "canUpdateUI": true,
@@ -47,7 +47,7 @@
         "@class": "com.kony.gen.viz.model.component.property.label.KioskLabelProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998655332",
+    "kuid": "p2kwiet12889314955332",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

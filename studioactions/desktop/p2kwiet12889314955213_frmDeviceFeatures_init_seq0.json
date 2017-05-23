@@ -1,0 +1,20 @@
+{
+    "p2kwiet12889314955213_frmDeviceFeatures_init_seq0": {
+        "id": "p2kwiet12889314955213_frmDeviceFeatures_init_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_init_394512889314957486",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setSbxDevFeaturesDetails",
+            "display": "setSbxDevFeaturesDetails"
+        }]
+    }
+}

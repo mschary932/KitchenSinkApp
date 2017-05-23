@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "s8838f662bed4eac8542fcf26848ff11",
+    "_skin_": "s12f643db5e347689157e8b7164e0c62",
     "_text_": "",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.radio.AndroidRadioProperty",
@@ -30,7 +30,7 @@
         "templateType": "forms",
         "topLevelBox": null
     },
-    "focusskin": "s8838f662bed4eac8542fcf26848ff11",
+    "focusskin": "s12f643db5e347689157e8b7164e0c62",
     "hexpand": true,
     "id": "radiobuttongroup1180105789136012",
     "info": null,
@@ -53,7 +53,7 @@
     },
     "isvisible": true,
     "itemorientation": "horizontal",
-    "kuid": "p2kwiet9745998654257",
+    "kuid": "p2kwiet12889314954257",
     "margininpixel": false,
     "masterdata": [
         [

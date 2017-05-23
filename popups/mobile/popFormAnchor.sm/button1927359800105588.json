@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "sb53ee535890455c82421a9d63596675",
+    "_skin_": "s0431a05470e415382c3be1521956be9",
     "_text_": "Cancel",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.button.AndroidButtonProperty",
@@ -25,10 +25,10 @@
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "sf6d56dd810743c291be3bb791ee0e02",
+    "focusskin": "s2fc5fcc2efd4f4c906bcdcecba7e13e",
     "hexpand": true,
     "id": "button1927359800105588",
-    "ide_onClick": "p2kwiet9745998655897_button1927359800105588_onClick_seq0",
+    "ide_onClick": "p2kwiet12889314955897_button1927359800105588_onClick_seq0",
     "info": null,
     "iphone": {
         "@class": "com.kony.gen.viz.model.component.property.button.IPhoneButtonProperty",
@@ -65,7 +65,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998655896",
+    "kuid": "p2kwiet12889314955896",
     "name": "kony.ui.Button",
     "parent": "popFormAnchor",
     "pf": "popFormAnchor",

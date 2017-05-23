@@ -26,7 +26,7 @@ function addWidgetsfrmSegMulSelectData() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865219,
+        "rowTemplate": vbox1288931495219,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -111,6 +111,6 @@ function frmSegMulSelectDataGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmSegMulSelectData.info = {
-        "kuid": "p2kwiet9745998652641"
+        "kuid": "p2kwiet12889314952641"
     };
 };

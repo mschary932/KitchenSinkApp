@@ -7,7 +7,7 @@
         0,
         0
     ],
-    "_skin_": "s83fb06aca314283b4bb7fb23e81d8a4",
+    "_skin_": "sf8d88bebbd5461cb1c40843a7e1a968",
     "_title_": "left",
     "addWidgetsdone": false,
     "allboxes": [],
@@ -80,7 +80,7 @@
     },
     "ismodal": false,
     "isvisible": true,
-    "kuid": "p2kwiet9745998653449",
+    "kuid": "p2kwiet12889314953449",
     "margininpixel": false,
     "menuposition": 2,
     "name": "kony.ui.Form2",
@@ -127,7 +127,7 @@
         "render": true
     },
     "templateType": "forms",
-    "titleBarSkin": "s0b46d97067d45c29179d97c1e6cbbdc",
+    "titleBarSkin": "s451cd155d3649ac9e2793e49e50285d",
     "titlebar": true,
     "transparencybehindthepopup": 100,
     "type": 3,

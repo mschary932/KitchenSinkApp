@@ -23,11 +23,11 @@ function addWidgetsfrmFormOptions() {
         "id": "frmOptSeg",
         "isVisible": true,
         "needPageIndicator": true,
-        "onRowClick": p2kwiet9745998651070_frmOptSeg_onRowClick_seq0,
+        "onRowClick": p2kwiet12889314951070_frmOptSeg_onRowClick_seq0,
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865159,
+        "rowTemplate": vbox1288931495159,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -108,6 +108,6 @@ function frmFormOptionsGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmFormOptions.info = {
-        "kuid": "p2kwiet9745998651070"
+        "kuid": "p2kwiet12889314951070"
     };
 };

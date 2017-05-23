@@ -1,0 +1,63 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "sec2924dd71a479b90443e156583682e",
+    "_text_": "Label",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "hexpand": true,
+    "id": "label117989725234774",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12889314952712",
+    "name": "kony.ui.Label",
+    "parent": "vbox1288931495231",
+    "pf": "vbox1288931495231",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPALabelProperty",
+        "psp": {
+            "textCopyable": false
+        }
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPAAndroidLabelProperty",
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_padding_": [
+            1,
+            2,
+            1,
+            2
+        ],
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            2,
+            1,
+            2
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "tooltip": "",
+    "vexpand": false,
+    "wType": "Label",
+    "widgetalignment": 5
+}

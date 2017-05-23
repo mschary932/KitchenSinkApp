@@ -1,0 +1,40 @@
+{
+    "p2kwiet1288931495959_button1181029310123373_onClick_seq0": {
+        "id": "p2kwiet1288931495959_button1181029310123373_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "decision_onClick_4411412889314954516",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "expression",
+                "leftValue": "kony.os.deviceInfo().model != \"iPhone Simulator\""
+            }],
+            "criteria": "all"
+        }, {
+            "id": "decision_onClick_4583112889314951457",
+            "type": "ELSE_CONDITION",
+            "conditions": [],
+            "criteria": "all"
+        }, {
+            "id": "navigation_onClick_1902712889314955257",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmCalendarEvents",
+            "formKUID": "p2kwiet1288931495533",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "decision_onClick_4411412889314954516",
+            "enableMappingEditor": true
+        }, {
+            "id": "customcode_onClick_1243412889314958565",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "simulatorCheck",
+            "display": "simulatorCheck",
+            "parentId": "decision_onClick_4583112889314951457"
+        }]
+    }
+}

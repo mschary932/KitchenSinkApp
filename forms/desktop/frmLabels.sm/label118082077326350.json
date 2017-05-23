@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "s914178f9bb640acb7ebcd3a4409fbd1",
+    "_skin_": "sda144991d3147e289bf660bfc04546b",
     "_text_": "Label with TimesnewromanPSMT font",
     "_wrapping_": 2,
     "canUpdateUI": true,
@@ -34,7 +34,7 @@
         "@class": "com.kony.gen.viz.model.component.property.label.KioskLabelProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998655414",
+    "kuid": "p2kwiet12889314955414",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

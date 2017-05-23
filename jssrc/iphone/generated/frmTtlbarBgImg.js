@@ -66,6 +66,6 @@ function frmTtlbarBgImgGlobals() {
         }
     });
     frmTtlbarBgImg.info = {
-        "kuid": "p2kwiet9745998653182"
+        "kuid": "p2kwiet12889314953182"
     };
 };

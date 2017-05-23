@@ -442,6 +442,6 @@ function frmDatagrdGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmDatagrd.info = {
-        "kuid": "p2kwiet974599865875"
+        "kuid": "p2kwiet1288931495875"
     };
 };

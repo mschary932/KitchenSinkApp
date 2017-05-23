@@ -35,7 +35,7 @@ function addWidgetsfrmBrowserOptions() {
         "focusSkin": "btnFocus",
         "id": "btnStaticHTML",
         "isVisible": true,
-        "onClick": p2kwiet9745998653600_btnStaticHTML_onClick_seq0,
+        "onClick": p2kwiet12889314953600_btnStaticHTML_onClick_seq0,
         "skin": "btnNormal",
         "text": "Browser with static content"
     }, {
@@ -57,7 +57,7 @@ function addWidgetsfrmBrowserOptions() {
         "focusSkin": "btnFocus",
         "id": "btnDynamicURL",
         "isVisible": true,
-        "onClick": p2kwiet9745998653600_btnDynamicURL_onClick_seq0,
+        "onClick": p2kwiet12889314953600_btnDynamicURL_onClick_seq0,
         "skin": "btnNormal",
         "text": "Browser with dynamic content"
     }, {
@@ -79,7 +79,7 @@ function addWidgetsfrmBrowserOptions() {
         "focusSkin": "btnFocus",
         "id": "btnInLineBrowser",
         "isVisible": true,
-        "onClick": p2kwiet9745998653600_btnInLineBrowser_onClick_seq0,
+        "onClick": p2kwiet12889314953600_btnInLineBrowser_onClick_seq0,
         "skin": "btnNormal",
         "text": "Browser with inline Navigation"
     }, {
@@ -101,7 +101,7 @@ function addWidgetsfrmBrowserOptions() {
         "focusSkin": "btnFocus",
         "id": "button192840248542398",
         "isVisible": true,
-        "onClick": p2kwiet9745998653600_button192840248542398_onClick_seq0,
+        "onClick": p2kwiet12889314953600_button192840248542398_onClick_seq0,
         "skin": "btnNormal",
         "text": "Detect Telephone numbers"
     }, {
@@ -123,7 +123,7 @@ function addWidgetsfrmBrowserOptions() {
         "focusSkin": "btnFocus",
         "id": "button192840248542498",
         "isVisible": true,
-        "onClick": p2kwiet9745998653600_button192840248542498_onClick_seq0,
+        "onClick": p2kwiet12889314953600_button192840248542498_onClick_seq0,
         "skin": "btnNormal",
         "text": "Enable Zoom property of Browser"
     }, {
@@ -182,6 +182,6 @@ function frmBrowserOptionsGlobals() {
         "titleBar": true
     });
     frmBrowserOptions.info = {
-        "kuid": "p2kwiet9745998653600"
+        "kuid": "p2kwiet12889314953600"
     };
 };

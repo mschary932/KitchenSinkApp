@@ -49,6 +49,6 @@ function frmAniDoorGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmAniDoor.info = {
-        "kuid": "p2kwiet974599865140"
+        "kuid": "p2kwiet1288931495140"
     };
 };

@@ -51,11 +51,11 @@ function addWidgetsfrmAnimations() {
         "id": "segiPadAni",
         "isVisible": true,
         "needPageIndicator": true,
-        "onRowClick": p2kwiet9745998653460_segiPadAni_onRowClick_seq0,
+        "onRowClick": p2kwiet12889314953460_segiPadAni_onRowClick_seq0,
         "retainSelection": true,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865267,
+        "rowTemplate": vbox1288931495267,
         "screenLevelWidget": true,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -135,6 +135,6 @@ function frmAnimationsGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmAnimations.info = {
-        "kuid": "p2kwiet9745998653460"
+        "kuid": "p2kwiet12889314953460"
     };
 };

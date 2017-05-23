@@ -13,7 +13,7 @@
         0,
         0
     ],
-    "_skin_": "s95344600f4a4d64a92637ef45c81af8",
+    "_skin_": "sd2e85520cf94ea8bfc3a16a080e6236",
     "_text_": "Link",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.link.AndroidLinkProperty",
@@ -22,10 +22,10 @@
     "canUpdateUI": true,
     "containerweight": 39,
     "contentalignment": 5,
-    "focusskin": "s4e226596ef8423882d7feb3d3d58d3b",
+    "focusskin": "sf67461c3975447bbc0ff1008e2fe2ce",
     "hexpand": true,
     "id": "imgActionLink",
-    "ide_onClick": "p2kwiet9745998656024_imgActionLink_onClick_seq0",
+    "ide_onClick": "p2kwiet12889314956024_imgActionLink_onClick_seq0",
     "info": null,
     "iphone": {
         "@class": "com.kony.gen.viz.model.component.property.link.IPhoneLinkProperty",
@@ -48,7 +48,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998656021",
+    "kuid": "p2kwiet12889314956021",
     "margininpixel": false,
     "name": "kony.ui.Link",
     "paddinginpixel": false,

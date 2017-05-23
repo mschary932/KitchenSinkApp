@@ -13,7 +13,7 @@
         0,
         0
     ],
-    "_skin_": "s6dc3030d4af4cccb50490e68bf8b1c2",
+    "_skin_": "sd31d85325444266a5209a117c3eb8a7",
     "_text_": "Edit",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.button.AndroidButtonProperty",
@@ -45,7 +45,7 @@
         ],
         "paddingInPixel": false,
         "psp": {
-            "pressedSkin": "s6dc3030d4af4cccb50490e68bf8b1c2"
+            "pressedSkin": "sd31d85325444266a5209a117c3eb8a7"
         },
         "render": true
     },
@@ -53,10 +53,10 @@
     "containerweight": 19,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "s6dc3030d4af4cccb50490e68bf8b1c2",
+    "focusskin": "sd31d85325444266a5209a117c3eb8a7",
     "hexpand": true,
     "id": "button117822895620523",
-    "ide_onClick": "p2kwiet9745998655950_button117822895620523_onClick_seq0",
+    "ide_onClick": "p2kwiet12889314955950_button117822895620523_onClick_seq0",
     "info": null,
     "iphone": {
         "@class": "com.kony.gen.viz.model.component.property.button.IPhoneButtonProperty",
@@ -93,13 +93,13 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998655948",
+    "kuid": "p2kwiet12889314955948",
     "margininpixel": false,
     "name": "kony.ui.Button",
     "paddinginpixel": false,
     "parent": "hbox117822895620695",
     "pf": "hdrIconEdit",
-    "pressedskin": "s6dc3030d4af4cccb50490e68bf8b1c2",
+    "pressedskin": "sd31d85325444266a5209a117c3eb8a7",
     "spa": {
         "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
         "displayText": true

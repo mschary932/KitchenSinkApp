@@ -13,7 +13,7 @@
         0,
         1
     ],
-    "_skin_": "sa87bde8694e4a64a5170b6eb492e10c",
+    "_skin_": "sbb760718fd142518b51f1a99305b3c1",
     "_text_": "Button with single color",
     "canUpdateUI": true,
     "containerweight": 50,
@@ -37,7 +37,7 @@
         "render": true
     },
     "displaytext": true,
-    "focusskin": "s8c1630639bd4d348bd8532005c60966",
+    "focusskin": "s4e3a4673696412da5cee9e5e456ade5",
     "hexpand": true,
     "id": "button1210492603962",
     "info": null,
@@ -46,7 +46,7 @@
         "@class": "com.kony.gen.viz.model.component.property.button.KioskButtonProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998655106",
+    "kuid": "p2kwiet12889314955106",
     "margininpixel": false,
     "name": "kony.ui.Button",
     "paddinginpixel": false,

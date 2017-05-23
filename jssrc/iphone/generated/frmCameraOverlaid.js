@@ -82,6 +82,6 @@ function frmCameraOverlaidGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmCameraOverlaid.info = {
-        "kuid": "p2kwiet974599865579"
+        "kuid": "p2kwiet1288931495579"
     };
 };

@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "se7902a4aeb240b88e3db49fbbedc14a",
+    "_skin_": "s88fbdbed63d4ec1a8233ed176519362",
     "_text_": "Label with Drop Shadow on Left",
     "_wrapping_": 2,
     "android": {
@@ -78,7 +78,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998651565",
+    "kuid": "p2kwiet12889314951565",
     "name": "kony.ui.Label",
     "parent": "frmLbl",
     "pf": "frmLbl",

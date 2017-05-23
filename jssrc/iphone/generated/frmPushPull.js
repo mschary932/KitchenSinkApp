@@ -7,10 +7,10 @@ function addWidgetsfrmPushPull() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865183,
+        "rowTemplate": vbox1288931495183,
         "screenLevelWidget": true,
         "scrollingEvents": {
-            "onPull": p2kwiet9745998651909_segStates_onPull_seq0
+            "onPull": p2kwiet12889314951909_segStates_onPull_seq0
         },
         "sectionHeaderSkin": "sectionHeaderSkin",
         "selectionBehavior": constants.SEGUI_DEFAULT_BEHAVIOR,
@@ -50,7 +50,7 @@ function frmPushPullGlobals() {
         "bounces": true,
         "enabledForIdleTimeout": false,
         "id": "frmPushPull",
-        "init": p2kwiet9745998651909_frmPushPull_init_seq0,
+        "init": p2kwiet12889314951909_frmPushPull_init_seq0,
         "needAppMenu": true,
         "skin": "frm",
         "title": "On pull"
@@ -91,6 +91,6 @@ function frmPushPullGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmPushPull.info = {
-        "kuid": "p2kwiet9745998651909"
+        "kuid": "p2kwiet12889314951909"
     };
 };

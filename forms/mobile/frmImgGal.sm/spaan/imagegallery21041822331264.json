@@ -30,7 +30,7 @@
         0,
         0
     ],
-    "_skin_": "s986448d08be49228937201105d0f196",
+    "_skin_": "s7b7d078d80b4868890cc78f1cfe67fd",
     "_text_": "ImageGallery2",
     "canUpdateUI": true,
     "containerweight": 100,
@@ -48,7 +48,7 @@
     "imagescalemode": 1,
     "info": null,
     "isvisible": true,
-    "kuid": "p2kwiet9745998651408",
+    "kuid": "p2kwiet12889314951408",
     "name": "kony.ui.ImageGallery2",
     "noofrowsperpage": 1,
     "paddinginpixel": false,

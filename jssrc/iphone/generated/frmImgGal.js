@@ -143,6 +143,6 @@ function frmImgGalGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmImgGal.info = {
-        "kuid": "p2kwiet9745998651381"
+        "kuid": "p2kwiet12889314951381"
     };
 };

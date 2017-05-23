@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "sc73e3d234254e8b8d01215ea747b763",
+    "_skin_": "se792c643e76443d9f6e5001c7fa98ed",
     "_text_": "Label with Zapfino font",
     "_wrapping_": 2,
     "android": {
@@ -38,7 +38,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998654109",
+    "kuid": "p2kwiet12889314954109",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

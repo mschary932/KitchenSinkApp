@@ -44,8 +44,8 @@ function frmGesturesGlobals() {
         "enabledForIdleTimeout": false,
         "id": "frmGestures",
         "needAppMenu": true,
-        "postShow": p2kwiet9745998651226_frmGestures_postshow_seq0,
-        "preShow": p2kwiet9745998651226_frmGestures_preshow_seq0,
+        "postShow": p2kwiet12889314951226_frmGestures_postshow_seq0,
+        "preShow": p2kwiet12889314951226_frmGestures_preshow_seq0,
         "skin": "frm",
         "title": "Gestures"
     }, {
@@ -85,6 +85,6 @@ function frmGesturesGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmGestures.info = {
-        "kuid": "p2kwiet9745998651226"
+        "kuid": "p2kwiet12889314951226"
     };
 };

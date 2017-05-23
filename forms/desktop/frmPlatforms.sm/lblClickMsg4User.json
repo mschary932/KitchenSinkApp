@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "s08e4f4a6c204b41b75a0911138aebb0",
+    "_skin_": "scb504f086954855812d164e1bd5f678",
     "_text_": "Click icon above to start",
     "_wrapping_": 2,
     "canUpdateUI": true,
@@ -47,7 +47,7 @@
         "@class": "com.kony.gen.viz.model.component.property.label.KioskLabelProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998655545",
+    "kuid": "p2kwiet12889314955545",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

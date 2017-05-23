@@ -137,7 +137,7 @@ function addWidgetsfrmAppSetWrite() {
         "focusSkin": "btnFocus",
         "id": "button1927359800106315",
         "isVisible": true,
-        "onClick": p2kwiet974599865292_button1927359800106315_onClick_seq0,
+        "onClick": p2kwiet1288931495292_button1927359800106315_onClick_seq0,
         "skin": "btnNormal",
         "text": "Set Appsettings"
     }, {
@@ -202,7 +202,7 @@ function frmAppSetWriteGlobals() {
         "enabledForIdleTimeout": false,
         "id": "frmAppSetWrite",
         "needAppMenu": true,
-        "preShow": p2kwiet974599865292_frmAppSetWrite_preshow_seq0,
+        "preShow": p2kwiet1288931495292_frmAppSetWrite_preshow_seq0,
         "skin": "frm",
         "title": "App settings"
     }, {
@@ -242,6 +242,6 @@ function frmAppSetWriteGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmAppSetWrite.info = {
-        "kuid": "p2kwiet974599865292"
+        "kuid": "p2kwiet1288931495292"
     };
 };

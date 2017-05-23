@@ -1,5 +1,5 @@
 /*
- * kony-sdk-ide Version mBaaSSDK-QA-7.2.1.2
+ * kony-sdk-ide Version mBaaSSDK-GA-7.2.1
  */
 /**
  * Kony namespace
@@ -150,7 +150,7 @@ kony.sdk.isInitialized = false;
 kony.sdk.currentInstance = null;
 kony.sdk.isLicenseUrlAvailable = true;
 kony.sdk.constants = kony.sdk.constants || {};
-kony.sdk.version = "mBaaSSDK-QA-7.2.1.2";
+kony.sdk.version = "mBaaSSDK-GA-7.2.1";
 kony.sdk.logger = new konyLogger();
 kony.sdk.syncService = null;
 kony.sdk.nativestore = kony.sdk.nativestore || new konyDataStore();

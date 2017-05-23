@@ -14,7 +14,7 @@
         0
     ],
     "_render_": true,
-    "_skin_": "s1d25ea61ad04092a09a5fb976888032",
+    "_skin_": "s783b274712749de955b22d032d4324d",
     "_text_": "This is a simple form consists of different widgets including Label, Textbox2, Combobox, Richtext, Calendar, hBox, Checkboxgroup, Radiobutton.",
     "_wrapping_": 2,
     "canUpdateUI": true,
@@ -24,7 +24,7 @@
     "id": "rTxTermsNConditions",
     "info": null,
     "isvisible": true,
-    "kuid": "p2kwiet9745998651039",
+    "kuid": "p2kwiet12889314951039",
     "margininpixel": false,
     "name": "kony.ui.RichText",
     "paddinginpixel": false,

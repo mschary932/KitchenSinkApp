@@ -9,7 +9,7 @@ function frmAniWinPopGlobals() {
         "enabledForIdleTimeout": false,
         "id": "frmAniWinPop",
         "needAppMenu": true,
-        "preShow": p2kwiet974599865237_frmAniWinPop_preshow_seq0,
+        "preShow": p2kwiet1288931495237_frmAniWinPop_preshow_seq0,
         "skin": "frmAniSkin",
         "title": "Pop"
     }, {
@@ -41,6 +41,6 @@ function frmAniWinPopGlobals() {
         "titleBar": true
     });
     frmAniWinPop.info = {
-        "kuid": "p2kwiet974599865237"
+        "kuid": "p2kwiet1288931495237"
     };
 };

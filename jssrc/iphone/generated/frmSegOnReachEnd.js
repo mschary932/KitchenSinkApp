@@ -7,10 +7,10 @@ function addWidgetsfrmSegOnReachEnd() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865223,
+        "rowTemplate": vbox1288931495223,
         "screenLevelWidget": true,
         "scrollingEvents": {
-            "onReachingEnd": p2kwiet9745998652667_segRecords_onReachingEnd_seq0
+            "onReachingEnd": p2kwiet12889314952667_segRecords_onReachingEnd_seq0
         },
         "sectionHeaderSkin": "sectionHeaderSkin",
         "selectionBehavior": constants.SEGUI_DEFAULT_BEHAVIOR,
@@ -98,6 +98,6 @@ function frmSegOnReachEndGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmSegOnReachEnd.info = {
-        "kuid": "p2kwiet9745998652667"
+        "kuid": "p2kwiet12889314952667"
     };
 };

@@ -108,7 +108,7 @@ function addWidgetsfrmPlatforms() {
         "focusSkin": "btnAndPFFoc",
         "id": "btnAndroidPF",
         "isVisible": true,
-        "onClick": p2kwiet9745998654241_btnAndroidPF_onClick_seq0,
+        "onClick": p2kwiet12889314954241_btnAndroidPF_onClick_seq0,
         "skin": "btnAndPF"
     }, {
         "containerWeight": 22,
@@ -147,7 +147,7 @@ function addWidgetsfrmPlatforms() {
         "focusSkin": "btnIPhonePFFoc",
         "id": "btnIOSPF",
         "isVisible": true,
-        "onClick": p2kwiet9745998654241_btnIOSPF_onClick_seq0,
+        "onClick": p2kwiet12889314954241_btnIOSPF_onClick_seq0,
         "skin": "btnIphonePF"
     }, {
         "containerWeight": 22,
@@ -222,7 +222,7 @@ function addWidgetsfrmPlatforms() {
         "focusSkin": "btnWinPFFoc",
         "id": "btnWinPF",
         "isVisible": true,
-        "onClick": p2kwiet9745998654241_btnWinPF_onClick_seq0,
+        "onClick": p2kwiet12889314954241_btnWinPF_onClick_seq0,
         "skin": "btnWindowsPF"
     }, {
         "containerWeight": 22,
@@ -261,7 +261,7 @@ function addWidgetsfrmPlatforms() {
         "focusSkin": "btnHTML5PFFoc",
         "id": "btnHTMLPF",
         "isVisible": true,
-        "onClick": p2kwiet9745998654241_btnHTMLPF_onClick_seq0,
+        "onClick": p2kwiet12889314954241_btnHTMLPF_onClick_seq0,
         "skin": "btnHTML5PF"
     }, {
         "containerWeight": 22,
@@ -326,7 +326,7 @@ function frmPlatformsGlobals() {
         "enabledForIdleTimeout": false,
         "id": "frmPlatforms",
         "needAppMenu": false,
-        "preShow": p2kwiet9745998654241_frmPlatforms_preshow_seq0,
+        "preShow": p2kwiet12889314954241_frmPlatforms_preshow_seq0,
         "skin": "frm",
         "title": "Home"
     }, {
@@ -357,6 +357,6 @@ function frmPlatformsGlobals() {
         "titleBar": false
     });
     frmPlatforms.info = {
-        "kuid": "p2kwiet9745998654241"
+        "kuid": "p2kwiet12889314954241"
     };
 };

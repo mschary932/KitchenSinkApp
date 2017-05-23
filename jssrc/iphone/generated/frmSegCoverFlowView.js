@@ -24,7 +24,7 @@ function addWidgetsfrmSegCoverFlowView() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865197,
+        "rowTemplate": vbox1288931495197,
         "screenLevelWidget": false,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -108,6 +108,6 @@ function frmSegCoverFlowViewGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmSegCoverFlowView.info = {
-        "kuid": "p2kwiet9745998652464"
+        "kuid": "p2kwiet12889314952464"
     };
 };

@@ -13,7 +13,7 @@
         0,
         0
     ],
-    "_skin_": "sb3af36433f04064b137408e88d13542",
+    "_skin_": "s27285c1a630442880f9be871bc171db",
     "_title_": "Home",
     "addWidgetsdone": false,
     "allboxes": [],
@@ -52,7 +52,7 @@
     "footeroverlap": false,
     "headeroverlap": false,
     "id": "frmPlatforms",
-    "ide_preShow": "p2kwiet9745998655546_frmPlatforms_preshow_seq0",
+    "ide_preShow": "p2kwiet12889314955546_frmPlatforms_preshow_seq0",
     "info": null,
     "initdone": false,
     "intransitionconfig": {
@@ -74,7 +74,7 @@
         },
         "render": true
     },
-    "kuid": "p2kwiet9745998655546",
+    "kuid": "p2kwiet12889314955546",
     "layouttype": 0,
     "margininpixel": false,
     "menuposition": 2,
@@ -98,7 +98,7 @@
         }
     },
     "templateType": "forms",
-    "titleBarSkin": "s0b46d97067d45c29179d97c1e6cbbdc",
+    "titleBarSkin": "s451cd155d3649ac9e2793e49e50285d",
     "titlebar": false,
     "transparencybehindthepopup": 100,
     "type": 3,

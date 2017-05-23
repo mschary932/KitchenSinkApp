@@ -7,7 +7,7 @@ function addWidgetsfrmDictView() {
         "retainSelection": false,
         "rowFocusSkin": "rowFocusSkin",
         "rowSkin": "rowSkin",
-        "rowTemplate": vbox974599865157,
+        "rowTemplate": vbox1288931495157,
         "screenLevelWidget": true,
         "scrollingEvents": {},
         "sectionHeaderSkin": "sectionHeaderSkin",
@@ -88,6 +88,6 @@ function frmDictViewGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmDictView.info = {
-        "kuid": "p2kwiet974599865935"
+        "kuid": "p2kwiet1288931495935"
     };
 };

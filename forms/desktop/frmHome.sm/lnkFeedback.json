@@ -13,7 +13,7 @@
         0,
         0
     ],
-    "_skin_": "s0ee867e24a34e55b9589f5404cc3a38",
+    "_skin_": "se430d71dbd84ce0b30a3600469ff183",
     "_text_": "Provide feedback",
     "canUpdateUI": true,
     "containerweight": 100,
@@ -48,17 +48,17 @@
         "paddingInPixel": false,
         "render": true
     },
-    "focusskin": "s4e226596ef8423882d7feb3d3d58d3b",
+    "focusskin": "sf67461c3975447bbc0ff1008e2fe2ce",
     "hexpand": true,
     "id": "lnkFeedback",
-    "ide_onClick": "p2kwiet9745998655336_lnkFeedback_onClick_seq0",
+    "ide_onClick": "p2kwiet12889314955336_lnkFeedback_onClick_seq0",
     "info": null,
     "isvisible": true,
     "kiosk": {
         "@class": "com.kony.gen.viz.model.component.property.link.KioskLinkProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998655335",
+    "kuid": "p2kwiet12889314955335",
     "margininpixel": false,
     "name": "kony.ui.Link",
     "paddinginpixel": false,

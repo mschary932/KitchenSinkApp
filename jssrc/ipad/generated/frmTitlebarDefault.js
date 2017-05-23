@@ -66,6 +66,6 @@ function frmTitlebarDefaultGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmTitlebarDefault.info = {
-        "kuid": "p2kwiet9745998654875"
+        "kuid": "p2kwiet12889314954875"
     };
 };

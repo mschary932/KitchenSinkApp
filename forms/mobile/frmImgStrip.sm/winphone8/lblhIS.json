@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "s72e7540433d4476b4e30f1c73f67807",
+    "_skin_": "sec2924dd71a479b90443e156583682e",
     "_text_": "No Image Selected",
     "_wrapping_": 2,
     "canUpdateUI": true,
@@ -16,7 +16,7 @@
         }
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998651521",
+    "kuid": "p2kwiet12889314951521",
     "name": "kony.ui.Label",
     "parent": "frmImgStrip",
     "pf": "frmImgStrip",

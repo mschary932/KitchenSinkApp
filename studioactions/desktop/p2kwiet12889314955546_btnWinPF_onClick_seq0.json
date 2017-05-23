@@ -1,0 +1,21 @@
+{
+    "p2kwiet12889314955546_btnWinPF_onClick_seq0": {
+        "id": "p2kwiet12889314955546_btnWinPF_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_59931288931495161",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "selectPlatform",
+            "display": "selectPlatform",
+            "inputparams": [{
+                "name": "buttonObject",
+                "value": "eventobject"
+            }]
+        }]
+    }
+}

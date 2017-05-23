@@ -47,6 +47,6 @@ function frmAniSwitchLeftGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmAniSwitchLeft.info = {
-        "kuid": "p2kwiet9745998653496"
+        "kuid": "p2kwiet12889314953496"
     };
 };

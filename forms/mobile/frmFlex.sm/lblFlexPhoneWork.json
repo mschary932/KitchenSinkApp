@@ -25,7 +25,7 @@
         "type": "string",
         "value": "17dp"
     },
-    "_skin_": "s08e4f4a6c204b41b75a0911138aebb0",
+    "_skin_": "scb504f086954855812d164e1bd5f678",
     "_text_": "Work : +914080987652",
     "_top_": {
         "type": "string",
@@ -71,7 +71,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet974599865974",
+    "kuid": "p2kwiet1288931495974",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

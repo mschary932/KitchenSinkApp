@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "s95344600f4a4d64a92637ef45c81af8",
+    "_skin_": "sd2e85520cf94ea8bfc3a16a080e6236",
     "_text_": "Welcome to Kony",
     "canUpdateUI": true,
     "containerweight": 70,
@@ -22,17 +22,17 @@
         "@class": "com.kony.gen.viz.model.component.property.link.DesktopWebLinkProperty",
         "render": true
     },
-    "focusskin": "sf378e7e008741b681d6005d52b88f67",
+    "focusskin": "s2eda720dc214537af59e36fe2502850",
     "hexpand": true,
     "id": "link1181029310129295",
-    "ide_onClick": "p2kwiet9745998655463_link1181029310129295_onClick_seq0",
+    "ide_onClick": "p2kwiet12889314955463_link1181029310129295_onClick_seq0",
     "info": null,
     "isvisible": true,
     "kiosk": {
         "@class": "com.kony.gen.viz.model.component.property.link.KioskLinkProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998655459",
+    "kuid": "p2kwiet12889314955459",
     "margininpixel": false,
     "name": "kony.ui.Link",
     "paddinginpixel": false,

@@ -135,6 +135,6 @@ function frmImgCropGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmImgCrop.info = {
-        "kuid": "p2kwiet9745998651352"
+        "kuid": "p2kwiet12889314951352"
     };
 };

@@ -14,7 +14,7 @@
         0
     ],
     "_placeholder_": "First Name",
-    "_skin_": "sa845488d5554d5e8796bf30b67d25cc",
+    "_skin_": "s70c7f26ac9b4296a85723b3f14b48b5",
     "_text_": "",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.textbox2.AndroidTextBox2Property",
@@ -61,7 +61,7 @@
     "containerheightreference": 1,
     "containerweight": 100,
     "contentalignment": 4,
-    "focusskin": "sa13af17b0de47e3aa8f425d88888c19",
+    "focusskin": "s2bd9becc641403fb557c588854e986f",
     "hexpand": true,
     "id": "tbxFName",
     "info": null,
@@ -109,7 +109,7 @@
     "isvisible": true,
     "keyboardstyle": "A",
     "keyboardtype": "A",
-    "kuid": "p2kwiet974599865296",
+    "kuid": "p2kwiet1288931495296",
     "margininpixel": false,
     "mode": "A",
     "name": "kony.ui.TextBox2",

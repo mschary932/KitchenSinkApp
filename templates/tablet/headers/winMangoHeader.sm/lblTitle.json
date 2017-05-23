@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "s5ae54fee69b49eeac05424d755d2a76",
+    "_skin_": "sfae6c4942a04e358ff2b78c0a8d3b21",
     "_text_": "Rotate3DSingle",
     "_wrapping_": 2,
     "android": {
@@ -52,7 +52,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998655991",
+    "kuid": "p2kwiet12889314955991",
     "name": "kony.ui.Label",
     "parent": "hBoxTitle",
     "pf": "winMangoHeader",

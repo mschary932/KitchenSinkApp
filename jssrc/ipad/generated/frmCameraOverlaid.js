@@ -53,6 +53,6 @@ function frmCameraOverlaidGlobals() {
         "titleBar": true
     });
     frmCameraOverlaid.info = {
-        "kuid": "p2kwiet9745998653676"
+        "kuid": "p2kwiet12889314953676"
     };
 };

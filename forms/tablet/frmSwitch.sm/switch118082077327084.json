@@ -13,7 +13,7 @@
         0,
         0
     ],
-    "_skin_": "s67b8374278044188896fb9178302219",
+    "_skin_": "sdb5d85e3e614dbcbdc6a519fe6529b7",
     "_text_": "",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.switchh.AndroidSwitchProperty",
@@ -30,7 +30,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998654744",
+    "kuid": "p2kwiet12889314954744",
     "leftsidetext": "Yes",
     "margininpixel": false,
     "name": "kony.ui.Switch",

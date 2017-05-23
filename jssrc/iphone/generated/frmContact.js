@@ -3,7 +3,7 @@ function addWidgetsfrmContact() {
         "focusSkin": "btnFocus",
         "id": "button1930040990148062",
         "isVisible": true,
-        "onClick": p2kwiet974599865721_button1930040990148062_onClick_seq0,
+        "onClick": p2kwiet1288931495721_button1930040990148062_onClick_seq0,
         "skin": "btnNormal",
         "text": "Add contact"
     }, {
@@ -25,7 +25,7 @@ function addWidgetsfrmContact() {
         "focusSkin": "btnFocus",
         "id": "button1930040990148072",
         "isVisible": true,
-        "onClick": p2kwiet974599865721_button1930040990148072_onClick_seq0,
+        "onClick": p2kwiet1288931495721_button1930040990148072_onClick_seq0,
         "skin": "btnNormal",
         "text": "Find contact"
     }, {
@@ -47,7 +47,7 @@ function addWidgetsfrmContact() {
         "focusSkin": "btnFocus",
         "id": "button1930040990148078",
         "isVisible": true,
-        "onClick": p2kwiet974599865721_button1930040990148078_onClick_seq0,
+        "onClick": p2kwiet1288931495721_button1930040990148078_onClick_seq0,
         "skin": "btnNormal",
         "text": "Remove contact"
     }, {
@@ -93,7 +93,7 @@ function frmContactGlobals() {
         "enabledForIdleTimeout": false,
         "id": "frmContact",
         "needAppMenu": true,
-        "preShow": p2kwiet974599865721_frmContact_preshow_seq0,
+        "preShow": p2kwiet1288931495721_frmContact_preshow_seq0,
         "skin": "frm",
         "title": "Address book"
     }, {
@@ -134,6 +134,6 @@ function frmContactGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmContact.info = {
-        "kuid": "p2kwiet974599865721"
+        "kuid": "p2kwiet1288931495721"
     };
 };

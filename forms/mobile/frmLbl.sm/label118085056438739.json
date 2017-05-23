@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_enabled_": false,
-    "_skin_": "s139e0d2c9d245689e4e5f99863b7e2a",
+    "_skin_": "s97cbabb31e54f809108b476a284604b",
     "_text_": "Label with serif font",
     "_wrapping_": 2,
     "android": {
@@ -78,7 +78,7 @@
         "render": false
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998651574",
+    "kuid": "p2kwiet12889314951574",
     "name": "kony.ui.Label",
     "parent": "frmLbl",
     "pf": "frmLbl",

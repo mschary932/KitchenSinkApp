@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "s65b3e0b89de4b7cbf1849ece4872790",
+    "_skin_": "s42fd3dc5f8642f1a777e77da1979814",
     "_text_": "",
     "canUpdateUI": true,
     "containerweight": 70,
@@ -28,7 +28,7 @@
         "@class": "com.kony.gen.viz.model.component.property.radio.DesktopWebRadioProperty",
         "render": true
     },
-    "focusskin": "s65b3e0b89de4b7cbf1849ece4872790",
+    "focusskin": "s42fd3dc5f8642f1a777e77da1979814",
     "hexpand": true,
     "id": "radiobuttongroup117989725237929",
     "info": null,
@@ -38,7 +38,7 @@
         "@class": "com.kony.gen.viz.model.component.property.radio.KioskRadioProperty",
         "render": true
     },
-    "kuid": "p2kwiet9745998655553",
+    "kuid": "p2kwiet12889314955553",
     "margininpixel": false,
     "masterdata": [
         [

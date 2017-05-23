@@ -270,7 +270,7 @@ function frmAclMeterReadingsGlobals() {
         "enabledForIdleTimeout": false,
         "id": "frmAclMeterReadings",
         "needAppMenu": true,
-        "onHide": p2kwiet97459986535_frmAclMeterReadings_onhide_seq0,
+        "onHide": p2kwiet128893149535_frmAclMeterReadings_onhide_seq0,
         "skin": "frm",
         "title": "Accelerometer"
     }, {
@@ -310,6 +310,6 @@ function frmAclMeterReadingsGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmAclMeterReadings.info = {
-        "kuid": "p2kwiet97459986535"
+        "kuid": "p2kwiet128893149535"
     };
 };

@@ -13,7 +13,7 @@
         1,
         1
     ],
-    "_skin_": "s30f9527392846f984d32296e49ab9fe",
+    "_skin_": "s6a7d85de2ac420a868850c3613b851e",
     "_text_": "Label with Helvetica font",
     "_wrapping_": 2,
     "android": {
@@ -38,7 +38,7 @@
         "render": true
     },
     "isvisible": true,
-    "kuid": "p2kwiet9745998654110",
+    "kuid": "p2kwiet12889314954110",
     "margininpixel": false,
     "name": "kony.ui.Label",
     "paddinginpixel": false,

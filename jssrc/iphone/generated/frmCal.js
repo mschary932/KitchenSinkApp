@@ -274,6 +274,6 @@ function frmCalGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp"
     });
     frmCal.info = {
-        "kuid": "p2kwiet974599865524"
+        "kuid": "p2kwiet1288931495524"
     };
 };
