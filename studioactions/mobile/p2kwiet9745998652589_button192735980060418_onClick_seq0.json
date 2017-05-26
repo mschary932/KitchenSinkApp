@@ -1,0 +1,30 @@
+{
+    "p2kwiet9745998652589_button192735980060418_onClick_seq0": {
+        "id": "p2kwiet9745998652589_button192735980060418_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_95939745998658615",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "segwidMultiTemplate",
+            "display": "segwidMultiTemplate"
+        }, {
+            "id": "customcode_onClick_738259745998658522",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "segWidoutRowtmplateJS",
+            "display": "segWidoutRowtmplateJS"
+        }, {
+            "id": "navigation_onClick_618469745998656234",
+            "type": "NAVIGATE_TO_FORM",
+            "formKUID": "p2kwiet9745998651970",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "enableMappingEditor": true
+        }]
+    }
+}

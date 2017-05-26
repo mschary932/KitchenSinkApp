@@ -1,0 +1,17 @@
+{
+    "p2kwiet9745998653365_button1927359800104641_onClick_seq0": {
+        "id": "p2kwiet9745998653365_button1927359800104641_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_35899745998652475",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "startmonitoringAcc",
+            "display": "startmonitoringAcc"
+        }]
+    }
+}

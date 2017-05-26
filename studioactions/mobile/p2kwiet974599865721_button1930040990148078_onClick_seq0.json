@@ -1,0 +1,17 @@
+{
+    "p2kwiet974599865721_button1930040990148078_onClick_seq0": {
+        "id": "p2kwiet974599865721_button1930040990148078_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_435289745998658120",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "removeContact",
+            "display": "removeContact"
+        }]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "p2kwiet9745998654221_pickOne_onSelection_seq0": {
+        "id": "p2kwiet9745998654221_pickOne_onSelection_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "component",
+            "value": "component"
+        }, {
+            "name": "keyselected",
+            "value": "keyselected"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onSelection_744309745998659596",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "pickerviewselkeyvalues",
+            "display": "pickerviewselkeyvalues"
+        }]
+    }
+}

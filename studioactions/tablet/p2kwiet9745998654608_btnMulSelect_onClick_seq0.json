@@ -1,0 +1,17 @@
+{
+    "p2kwiet9745998654608_btnMulSelect_onClick_seq0": {
+        "id": "p2kwiet9745998654608_btnMulSelect_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_124909745998657585",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "multiSelectTab",
+            "display": "multiSelectTab"
+        }]
+    }
+}

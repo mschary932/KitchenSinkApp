@@ -1,0 +1,19 @@
+{
+    "p2kwiet97459986535_frmAclMeterReadings_onhide_seq0": {
+        "id": "p2kwiet97459986535_frmAclMeterReadings_onhide_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_onhide_822189745998658881",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "\n kony.accelerometer.stopMonitoringAcceleration();"
+        }]
+    }
+}

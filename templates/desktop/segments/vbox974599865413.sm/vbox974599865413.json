@@ -1,0 +1,50 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_position_": 3,
+    "_resize_": true,
+    "_skin_": "s6f451efc4c44da188a496b082462c12",
+    "allboxes": [],
+    "borderCollapse": false,
+    "canUpdateUI": true,
+    "children": [
+        "lbliPhone"
+    ],
+    "containerweight": 100,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.DesktopWebVBoxProperty",
+        "render": true
+    },
+    "id": "vbox974599865413",
+    "info": null,
+    "isGeneratedTemplate": true,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.KioskVBoxProperty",
+        "render": true
+    },
+    "kuid": "p2kwiet9745998655722",
+    "layouttype": 0,
+    "margininpixel": false,
+    "name": "kony.ui.Box",
+    "paddinginpixel": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.SPAVBoxProperty"
+    },
+    "templateType": "forms",
+    "wType": "VBox",
+    "widgetalignment": 1
+}

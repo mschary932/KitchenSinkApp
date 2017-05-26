@@ -1,0 +1,13 @@
+{
+    "p2kwiet9745998658_objectselector3D_onClick_seq0": {
+        "id": "p2kwiet9745998658_objectselector3D_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_602949745998657469",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "getSelected3DOS",
+            "display": "getSelected3DOS"
+        }]
+    }
+}

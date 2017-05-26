@@ -1,0 +1,20 @@
+{
+    "p2kwiet9745998651226_frmGestures_postshow_seq0": {
+        "id": "p2kwiet9745998651226_frmGestures_postshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_postshow_478419745998653886",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "GenericGestureHandler",
+            "display": "GenericGestureHandler"
+        }]
+    }
+}

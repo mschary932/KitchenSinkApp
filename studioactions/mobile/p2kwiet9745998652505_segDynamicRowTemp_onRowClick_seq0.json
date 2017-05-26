@@ -1,0 +1,23 @@
+{
+    "p2kwiet9745998652505_segDynamicRowTemp_onRowClick_seq0": {
+        "id": "p2kwiet9745998652505_segDynamicRowTemp_onRowClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "sectionNumber",
+            "value": "sectionNumber"
+        }, {
+            "name": "rowNumber",
+            "value": "rowNumber"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onRowClick_486579745998652719",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "isSelected",
+            "display": "isSelected"
+        }]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "p2kwiet9745998651904_frmPopup_WinMobile_onDeviceBack_seq0": {
+        "id": "p2kwiet9745998651904_frmPopup_WinMobile_onDeviceBack_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_onDeviceBack_471319745998655495",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "popFormAnchor.dismiss();\n frmFormOptions.show();"
+        }]
+    }
+}

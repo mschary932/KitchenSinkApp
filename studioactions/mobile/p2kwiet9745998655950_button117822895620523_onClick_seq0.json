@@ -1,0 +1,21 @@
+{
+    "p2kwiet9745998655950_button117822895620523_onClick_seq0": {
+        "id": "p2kwiet9745998655950_button117822895620523_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_658459745998656213",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "editOrDone",
+            "display": "editOrDone",
+            "inputparams": [{
+                "name": "eventObj",
+                "value": "eventobject"
+            }]
+        }]
+    }
+}
