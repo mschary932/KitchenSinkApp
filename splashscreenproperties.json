@@ -15,7 +15,8 @@
                 "backgroundColor": "b5d9f5"
             },
             "winphone8": {
-                "showLoadingIndicator": true
+                "showLoadingIndicator": true,
+                "splashImage": "splashlandscape.png"
             },
             "spa": {
                 "backgroundColor": "b5d9f5"
@@ -27,7 +28,10 @@
                 "splashImage": "splash.png"
             },
             "spawinphone8": {},
-            "splashImage": "splash.png"
+            "splashImage": "splash.png",
+            "winphone10": {
+                "splashImage": "splashlandscape.png"
+            }
         },
         "tablet": {
             "ipad": {
