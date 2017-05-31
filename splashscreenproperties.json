@@ -69,7 +69,8 @@
             "splashImage": "splash.png",
             "windows10": {
                 "foregroundColor": "ffffff",
-                "backgroundColor": "b5d9f5"
+                "backgroundColor": "b5d9f5",
+                "splashImage": "splashlandscape.png"
             }
         },
         "desktop": {

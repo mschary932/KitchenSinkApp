@@ -238,7 +238,7 @@
     <attributes name="winphn10bgagentpath" value=""/>
     <attributes name="Microphone" value="true"/>
     <attributes name="supportX86Devices" value="false"/>
-    <attributes name="win8smalllogokey" value="smalllogo.png"/>
+    <attributes name="win8smalllogokey" value="wintablogo.png"/>
     <attributes name="backgroundmodes" value="Disabled"/>
     <attributes name="allJoyn" value="false"/>
     <attributes name="videosLibrary" value="false"/>
@@ -458,7 +458,6 @@
     <attributes name="win8bgagentpath" value=""/>
     <attributes name="ID_CAP_IDENTITY_USER" value="true"/>
     <attributes name="wp10voipCall" value="false"/>
-    <attributes name="cloud_env_GUID" value="13a3f619-2156-49f0-a478-14a5ac801e27"/>
     <attributes name="androidInstallLocnPref" value="false"/>
     <attributes name="android_allowselfsignedcertificates" value="None"/>
     <attributes name="userAccountInformation" value="false"/>
