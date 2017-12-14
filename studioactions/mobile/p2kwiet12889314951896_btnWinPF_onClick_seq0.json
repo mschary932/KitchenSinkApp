@@ -15,7 +15,8 @@
             "inputparams": [{
                 "name": "buttonObject",
                 "value": "eventobject"
-            }]
+            }],
+            "source": "module"
         }]
     }
 }

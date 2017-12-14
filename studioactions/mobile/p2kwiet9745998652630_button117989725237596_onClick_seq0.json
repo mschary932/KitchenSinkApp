@@ -11,7 +11,8 @@
             "id": "customcode_onClick_311499745998655858",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "segwidDictionary",
-            "display": "segwidDictionary"
+            "display": "segwidDictionary",
+            "source": "module"
         }, {
             "id": "navigation_onClick_677359745998654926",
             "type": "NAVIGATE_TO_FORM",

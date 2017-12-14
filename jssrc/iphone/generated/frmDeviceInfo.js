@@ -1,4 +1,5 @@
 function addWidgetsfrmDeviceInfo() {
+    if (typeof initializevbox1288931495147 === 'function') initializevbox1288931495147();
     var segDeviceInfo = new kony.ui.SegmentedUI2({
         "groupCells": true,
         "id": "segDeviceInfo",
@@ -81,16 +82,20 @@ function frmDeviceInfoGlobals() {
         "retainScrollPosition": false,
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true,
-        "titleBarConfig": {
-            "renderTitleText": true,
-            "prevFormTitle": false,
-            "titleBarLeftSideView": "title",
-            "labelLeftSideView": "Back",
-            "titleBarRightSideView": "none"
+        "titleBarAttributes": {
+            "barStyle": constants.BAR_STYLE_DEAFULT,
+            "navigationBarHidden": false,
+            "translucent": true,
+            "tintColor": "4e4e4eff",
+            "hidesBackButton": true,
+            "prompt": "",
+            "leftItemsSupplementBackButton": true,
+            "leftBarButtonItems": [{
+                "titleBarLeftSideView": "title",
+                "labelLeftSideView": "Back"
+            }],
+            "rightBarButtonItems": []
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmDeviceInfo.info = {
-        "kuid": "p2kwiet1288931495884"
-    };
 };

@@ -35,7 +35,7 @@
         ],
         "marginInPixel": true,
         "overlayConfig": {
-            "overlayForm": "frmDummy",
+            "overlayForm": "p2kwiet1288931495940",
             "tapAnywhere": false
         },
         "render": true
@@ -163,7 +163,7 @@
         ],
         "marginInPixel": true,
         "overlayConfig": {
-            "overlayForm": "frmCameraOverlaid",
+            "overlayForm": "p2kwiet1288931495579",
             "referenceImageToCrop": "image21927419382155502",
             "tapAnywhere": true
         },

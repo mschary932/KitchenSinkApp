@@ -72,20 +72,29 @@
             "inputAccessoryViewType": 1,
             "needsIndicatorDuringPostShow": true,
             "statusBarStyle": "STATUS_BAR_STYLE_DEFAULT",
-            "titleBarConfig": {
-                "buttonText": "",
-                "ide_buttonClosureLeftSideView": "goToFrmAni",
-                "ide_titleClosureLeftSideView": "goToFrmAni",
-                "imageLeftSideView": "back1.png",
-                "leftButtonText": "Back",
-                "leftTitle": "Back",
-                "prevFormTitle": false,
+            "titleBarAttributes": {
+                "barStyle": 0,
+                "hidesBackButton": true,
+                "kuid": "ga4f5906104b4af7b1f6ae63252d782b",
+                "leftBarButtonItems": [
+                    {
+                        "ide_buttonClosureLeftSideView": "goToFrmAni",
+                        "ide_titleClosureLeftSideView": "goToFrmAni",
+                        "imageLeftSideView": "back1.png",
+                        "kuid": "b568102ae8cd42a5979693e3776a29a6",
+                        "leftButtonText": "Back",
+                        "leftTitle": "Back",
+                        "prevFormTitle": false,
+                        "titleBarLeftSideView": "title",
+                        "type": 4
+                    }
+                ],
+                "leftItemsSupplementBackButton": true,
+                "prompt": "",
                 "renderTitleText": true,
-                "skinID": "sknTitleBarSampleApp",
-                "titleBarLeftSideView": "title",
-                "titleBarRightSideView": "none",
-                "titleBarSkin": "sknTitleBarSampleApp",
-                "visible": true
+                "rightBarButtonItems": [],
+                "tintColor": "4e4e4eff",
+                "translucent": true
             }
         },
         "render": true,

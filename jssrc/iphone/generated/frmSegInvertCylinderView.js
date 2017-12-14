@@ -1,4 +1,5 @@
 function addWidgetsfrmSegInvertCylinderView() {
+    if (typeof initializevbox1288931495213 === 'function') initializevbox1288931495213();
     var segment2117989725234408 = new kony.ui.SegmentedUI2({
         "data": [{
             "image2117989725234414": "b1.png"
@@ -88,16 +89,20 @@ function frmSegInvertCylinderViewGlobals() {
         "retainScrollPosition": false,
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true,
-        "titleBarConfig": {
-            "renderTitleText": true,
-            "prevFormTitle": false,
-            "titleBarLeftSideView": "title",
-            "labelLeftSideView": "Back",
-            "titleBarRightSideView": "none"
+        "titleBarAttributes": {
+            "barStyle": constants.BAR_STYLE_DEAFULT,
+            "navigationBarHidden": false,
+            "translucent": true,
+            "tintColor": "4e4e4eff",
+            "hidesBackButton": true,
+            "prompt": "",
+            "leftItemsSupplementBackButton": true,
+            "leftBarButtonItems": [{
+                "titleBarLeftSideView": "title",
+                "labelLeftSideView": "Back"
+            }],
+            "rightBarButtonItems": []
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSegInvertCylinderView.info = {
-        "kuid": "p2kwiet12889314952542"
-    };
 };

@@ -89,17 +89,26 @@
             "needsIndicatorDuringPostShow": true,
             "popupStyle": "kony",
             "statusBarStyle": "STATUS_BAR_STYLE_DEFAULT",
-            "titleBarConfig": {
-                "buttonText": "",
-                "leftButtonText": "",
-                "leftTitle": "Back",
-                "prevFormTitle": false,
+            "titleBarAttributes": {
+                "barStyle": 0,
+                "hidesBackButton": true,
+                "kuid": "aa4f32101ae74b40b2000fc95bffdc2d",
+                "leftBarButtonItems": [
+                    {
+                        "kuid": "fff0f8ac235440c5af94c3183e610d4a",
+                        "leftButtonText": "",
+                        "leftTitle": "Back",
+                        "prevFormTitle": false,
+                        "titleBarLeftSideView": "title",
+                        "type": 4
+                    }
+                ],
+                "leftItemsSupplementBackButton": true,
+                "prompt": "",
                 "renderTitleText": true,
-                "skinID": "sknTitleBarSampleApp",
-                "titleBarLeftSideView": "title",
-                "titleBarRightSideView": "none",
-                "titleBarSkin": "sknTitleBarSampleApp",
-                "visible": true
+                "rightBarButtonItems": [],
+                "tintColor": "4e4e4eff",
+                "translucent": true
             }
         },
         "render": true,

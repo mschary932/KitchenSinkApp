@@ -1,4 +1,5 @@
 function addWidgetsfrmAniAnd() {
+    if (typeof initializevbox1288931495123 === 'function') initializevbox1288931495123();
     var segAndroid = new kony.ui.SegmentedUI2({
         "data": [{
             "lblAndroid": "bottom-top"
@@ -85,7 +86,4 @@ function frmAniAndGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAniAnd.info = {
-        "kuid": "p2kwiet1288931495115"
-    };
 };

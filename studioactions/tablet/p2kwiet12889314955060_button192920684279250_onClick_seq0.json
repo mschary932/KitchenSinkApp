@@ -11,7 +11,8 @@
             "id": "customcode_onClick_2554712889314957854",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "doTransactionsqlSelect",
-            "display": "doTransactionsqlSelect"
+            "display": "doTransactionsqlSelect",
+            "source": "module"
         }]
     }
 }

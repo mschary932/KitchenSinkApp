@@ -1,4 +1,5 @@
 function addWidgetsfrmAniSPA() {
+    if (typeof initializevbox1288931495125 === 'function') initializevbox1288931495125();
     var segSPA = new kony.ui.SegmentedUI2({
         "data": [{
             "lblSPA": "Top "
@@ -89,7 +90,4 @@ function frmAniSPAGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmAniSPA.info = {
-        "kuid": "p2kwiet1288931495203"
-    };
 };

@@ -301,7 +301,4 @@ function frmImgStripGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmImgStrip.info = {
-        "kuid": "frmImgStripAndroid"
-    };
 };

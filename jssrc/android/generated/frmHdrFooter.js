@@ -85,7 +85,4 @@ function frmHdrFooterGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmHdrFooter.info = {
-        "kuid": "p2kwiet12889314951263"
-    };
 };

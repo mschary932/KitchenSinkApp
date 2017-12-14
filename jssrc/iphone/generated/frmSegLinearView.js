@@ -1,4 +1,5 @@
 function addWidgetsfrmSegLinearView() {
+    if (typeof initializevbox1288931495217 === 'function') initializevbox1288931495217();
     var segment2117989725233942 = new kony.ui.SegmentedUI2({
         "data": [{
             "image2117989725233945": "b1.png",
@@ -98,16 +99,20 @@ function frmSegLinearViewGlobals() {
         "retainScrollPosition": false,
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true,
-        "titleBarConfig": {
-            "renderTitleText": true,
-            "prevFormTitle": false,
-            "titleBarLeftSideView": "title",
-            "labelLeftSideView": "Back",
-            "titleBarRightSideView": "none"
+        "titleBarAttributes": {
+            "barStyle": constants.BAR_STYLE_DEAFULT,
+            "navigationBarHidden": false,
+            "translucent": true,
+            "tintColor": "4e4e4eff",
+            "hidesBackButton": true,
+            "prompt": "",
+            "leftItemsSupplementBackButton": true,
+            "leftBarButtonItems": [{
+                "titleBarLeftSideView": "title",
+                "labelLeftSideView": "Back"
+            }],
+            "rightBarButtonItems": []
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSegLinearView.info = {
-        "kuid": "p2kwiet12889314952562"
-    };
 };

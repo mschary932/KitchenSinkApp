@@ -11,7 +11,8 @@
             "id": "customcode_onClick_336561288931495644",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "homeBtnClick",
-            "display": "homeBtnClick"
+            "display": "homeBtnClick",
+            "source": "module"
         }]
     }
 }

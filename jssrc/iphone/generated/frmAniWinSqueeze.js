@@ -57,7 +57,4 @@ function frmAniWinSqueezeGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": false
     });
-    frmAniWinSqueeze.info = {
-        "kuid": "p2kwiet1288931495252"
-    };
 };

@@ -201,7 +201,4 @@ function frmAppSetWriteGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAppSetWrite.info = {
-        "kuid": "p2kwiet1288931495292"
-    };
 };

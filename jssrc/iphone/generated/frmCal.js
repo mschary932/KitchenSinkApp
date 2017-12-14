@@ -88,6 +88,8 @@ function addWidgetsfrmCal() {
         "containerHeightReference": constants.CONTAINER_HEIGHT_BY_FORM_REFERENCE,
         "data": {},
         "dayTextAlignmentInCell": constants.CONTENT_ALIGN_CENTER,
+        "hideDaysHeader": false,
+        "hideMonthsHeader": false,
         "mode": constants.CALENDAR_WHEEL_ONLY_DATE
     });
     var label118082077329800 = new kony.ui.Label({
@@ -135,6 +137,8 @@ function addWidgetsfrmCal() {
         "containerHeightReference": constants.CONTAINER_HEIGHT_BY_FORM_REFERENCE,
         "data": {},
         "dayTextAlignmentInCell": constants.CONTENT_ALIGN_CENTER,
+        "hideDaysHeader": false,
+        "hideMonthsHeader": false,
         "mode": constants.CALENDAR_WHEEL_ONLY_DATE
     });
     var label118082077329845 = new kony.ui.Label({
@@ -264,16 +268,20 @@ function frmCalGlobals() {
         "retainScrollPosition": false,
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true,
-        "titleBarConfig": {
-            "renderTitleText": true,
-            "prevFormTitle": false,
-            "titleBarLeftSideView": "title",
-            "labelLeftSideView": "Back",
-            "titleBarRightSideView": "none"
+        "titleBarAttributes": {
+            "barStyle": constants.BAR_STYLE_DEAFULT,
+            "navigationBarHidden": false,
+            "translucent": true,
+            "tintColor": "4e4e4eff",
+            "hidesBackButton": true,
+            "prompt": "",
+            "leftItemsSupplementBackButton": true,
+            "leftBarButtonItems": [{
+                "titleBarLeftSideView": "title",
+                "labelLeftSideView": "Back"
+            }],
+            "rightBarButtonItems": []
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmCal.info = {
-        "kuid": "p2kwiet1288931495524"
-    };
 };

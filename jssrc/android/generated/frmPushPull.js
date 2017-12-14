@@ -1,4 +1,5 @@
 function addWidgetsfrmPushPull() {
+    if (typeof initializevbox1288931495183 === 'function') initializevbox1288931495183();
     var segStates = new kony.ui.SegmentedUI2({
         "groupCells": false,
         "id": "segStates",
@@ -68,7 +69,4 @@ function frmPushPullGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmPushPull.info = {
-        "kuid": "p2kwiet12889314951909"
-    };
 };

@@ -36,7 +36,8 @@ function addWidgetsfrmSegDynRowTemplate() {
         "separatorThickness": 1,
         "showScrollbars": false,
         "viewConfig": {},
-        "viewType": constants.SEGUI_VIEW_TYPE_TABLEVIEW
+        "viewType": constants.SEGUI_VIEW_TYPE_TABLEVIEW,
+        "widgetDataMap": {}
     }, {
         "containerHeightReference": constants.CONTAINER_HEIGHT_BY_FORM_REFERENCE,
         "containerWeight": 100,
@@ -96,16 +97,20 @@ function frmSegDynRowTemplateGlobals() {
         "retainScrollPosition": false,
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true,
-        "titleBarConfig": {
-            "renderTitleText": true,
-            "prevFormTitle": false,
-            "titleBarLeftSideView": "title",
-            "labelLeftSideView": "Back",
-            "titleBarRightSideView": "none"
+        "titleBarAttributes": {
+            "barStyle": constants.BAR_STYLE_DEAFULT,
+            "navigationBarHidden": false,
+            "translucent": true,
+            "tintColor": "4e4e4eff",
+            "hidesBackButton": true,
+            "prompt": "",
+            "leftItemsSupplementBackButton": true,
+            "leftBarButtonItems": [{
+                "titleBarLeftSideView": "title",
+                "labelLeftSideView": "Back"
+            }],
+            "rightBarButtonItems": []
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSegDynRowTemplate.info = {
-        "kuid": "p2kwiet12889314952505"
-    };
 };

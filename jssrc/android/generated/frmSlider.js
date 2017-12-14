@@ -217,7 +217,4 @@ function frmSliderGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmSlider.info = {
-        "kuid": "p2kwiet12889314952901"
-    };
 };

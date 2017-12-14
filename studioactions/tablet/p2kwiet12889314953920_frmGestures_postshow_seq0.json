@@ -14,7 +14,8 @@
             "id": "customcode_postshow_6746512889314956408",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "GenericGestureHandler",
-            "display": "GenericGestureHandler"
+            "display": "GenericGestureHandler",
+            "source": "module"
         }]
     }
 }

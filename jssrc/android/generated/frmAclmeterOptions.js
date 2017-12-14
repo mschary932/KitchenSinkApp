@@ -83,7 +83,4 @@ function frmAclmeterOptionsGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAclmeterOptions.info = {
-        "kuid": "p2kwiet128893149516"
-    };
 };

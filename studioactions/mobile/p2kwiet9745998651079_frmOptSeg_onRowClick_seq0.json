@@ -17,7 +17,8 @@
             "id": "customcode_onRowClick_350169745998657165",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "frmOptionsSPA",
-            "display": "frmOptionsSPA"
+            "display": "frmOptionsSPA",
+            "source": "module"
         }]
     }
 }

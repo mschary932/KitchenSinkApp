@@ -11,7 +11,8 @@
             "id": "customcode_onClick_4395412889314952075",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "tabWriteSettings",
-            "display": "tabWriteSettings"
+            "display": "tabWriteSettings",
+            "source": "module"
         }]
     }
 }

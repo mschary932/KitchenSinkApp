@@ -17,7 +17,6 @@ function initializevbox974599865223() {
     var lbl1 = new kony.ui.Label({
         "id": "lbl1",
         "isVisible": true,
-        "skin": "lblBoldIpad",
         "text": "Label"
     }, {
         "containerWeight": 100,
@@ -53,7 +52,6 @@ function initializevbox974599865223() {
     var lbl2 = new kony.ui.Label({
         "id": "lbl2",
         "isVisible": true,
-        "skin": "lblGraySmallIphn",
         "text": "Label"
     }, {
         "containerWeight": 64,
@@ -72,7 +70,6 @@ function initializevbox974599865223() {
     var lbl3 = new kony.ui.Label({
         "id": "lbl3",
         "isVisible": true,
-        "skin": "lblGraySmallIphn",
         "text": "Label"
     }, {
         "containerWeight": 36,
@@ -109,7 +106,6 @@ function initializevbox974599865223() {
     var lbl4 = new kony.ui.Label({
         "id": "lbl4",
         "isVisible": true,
-        "skin": "lblGraySmallIphn",
         "text": "Label"
     }, {
         "containerWeight": 64,
@@ -128,7 +124,6 @@ function initializevbox974599865223() {
     var lbl5 = new kony.ui.Label({
         "id": "lbl5",
         "isVisible": true,
-        "skin": "lblGraySmallIphn",
         "text": "Label"
     }, {
         "containerWeight": 36,

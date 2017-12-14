@@ -18,6 +18,7 @@ function addWidgetsfrmSegTableView() {
         "textCopyable": false,
         "wrapping": constants.WIDGET_TEXT_WORD_WRAP
     });
+    if (typeof initializevbox1288931495249 === 'function') initializevbox1288931495249();
     var segment2117989725234750 = new kony.ui.SegmentedUI2({
         "data": [{
             "image2117989725234759": "b1.png",
@@ -117,16 +118,20 @@ function frmSegTableViewGlobals() {
         "retainScrollPosition": false,
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true,
-        "titleBarConfig": {
-            "renderTitleText": true,
-            "prevFormTitle": false,
-            "titleBarLeftSideView": "title",
-            "labelLeftSideView": "Back",
-            "titleBarRightSideView": "none"
+        "titleBarAttributes": {
+            "barStyle": constants.BAR_STYLE_DEAFULT,
+            "navigationBarHidden": false,
+            "translucent": true,
+            "tintColor": "4e4e4eff",
+            "hidesBackButton": true,
+            "prompt": "",
+            "leftItemsSupplementBackButton": true,
+            "leftBarButtonItems": [{
+                "titleBarLeftSideView": "title",
+                "labelLeftSideView": "Back"
+            }],
+            "rightBarButtonItems": []
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSegTableView.info = {
-        "kuid": "p2kwiet12889314952829"
-    };
 };

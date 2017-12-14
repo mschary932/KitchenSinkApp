@@ -17,7 +17,6 @@ function initializevbox974599865139() {
     var lblFirst = new kony.ui.Label({
         "id": "lblFirst",
         "isVisible": true,
-        "skin": "lblNormal",
         "text": "Label"
     }, {
         "containerWeight": 100,

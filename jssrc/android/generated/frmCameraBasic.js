@@ -86,7 +86,4 @@ function frmCameraBasicGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmCameraBasic.info = {
-        "kuid": "p2kwiet1288931495554"
-    };
 };

@@ -190,7 +190,4 @@ function frmImgMaintainAspectRatioGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmImgMaintainAspectRatio.info = {
-        "kuid": "p2kwiet12889314951440"
-    };
 };

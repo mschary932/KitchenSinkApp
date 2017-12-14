@@ -1,4 +1,5 @@
 function addWidgetsfrmSegSections() {
+    if (typeof initializevbox1288931495239 === 'function') initializevbox1288931495239();
     var segment2117989725237554 = new kony.ui.SegmentedUI2({
         "data": [
             [{
@@ -118,6 +119,7 @@ function addWidgetsfrmSegSections() {
         "textCopyable": false,
         "wrapping": constants.WIDGET_TEXT_WORD_WRAP
     });
+    if (typeof initializevbox1288931495241 === 'function') initializevbox1288931495241();
     var segAltRow = new kony.ui.SegmentedUI2({
         "alternateRowSkin": "segrowfocus",
         "data": [
@@ -258,16 +260,20 @@ function frmSegSectionsGlobals() {
         "retainScrollPosition": false,
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true,
-        "titleBarConfig": {
-            "renderTitleText": true,
-            "prevFormTitle": false,
-            "titleBarLeftSideView": "title",
-            "labelLeftSideView": "Back",
-            "titleBarRightSideView": "none"
+        "titleBarAttributes": {
+            "barStyle": constants.BAR_STYLE_DEAFULT,
+            "navigationBarHidden": false,
+            "translucent": true,
+            "tintColor": "4e4e4eff",
+            "hidesBackButton": true,
+            "prompt": "",
+            "leftItemsSupplementBackButton": true,
+            "leftBarButtonItems": [{
+                "titleBarLeftSideView": "title",
+                "labelLeftSideView": "Back"
+            }],
+            "rightBarButtonItems": []
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSegSections.info = {
-        "kuid": "p2kwiet12889314952771"
-    };
 };

@@ -46,7 +46,4 @@ function frmTtlbarBgImgGlobals() {
         "titleBarSkin": "titleAndroidBg",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmTtlbarBgImg.info = {
-        "kuid": "p2kwiet12889314953182"
-    };
 };

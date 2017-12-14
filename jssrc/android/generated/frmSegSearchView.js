@@ -29,7 +29,4 @@ function frmSegSearchViewGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmSegSearchView.info = {
-        "kuid": "p2kwiet12889314952752"
-    };
 };

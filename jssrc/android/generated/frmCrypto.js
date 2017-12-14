@@ -296,7 +296,4 @@ function frmCryptoGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmCrypto.info = {
-        "kuid": "p2kwiet1288931495761"
-    };
 };

@@ -556,5 +556,6 @@
     <attributes name="build" value="debug"/>
     <attributes name="certs_key_store_type" value="JKS"/>
     <attributes name="spaandroidtab800basefontsize" value="17"/>
+    <attributes name="lastmodifiedtime" value="0"/>
     <attributes name="defaultlocalekey" value=""/>
 </properties>

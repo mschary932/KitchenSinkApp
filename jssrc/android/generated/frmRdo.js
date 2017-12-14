@@ -181,7 +181,4 @@ function frmRdoGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmRdo.info = {
-        "kuid": "p2kwiet12889314951930"
-    };
 };

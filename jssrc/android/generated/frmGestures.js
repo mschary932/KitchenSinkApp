@@ -63,7 +63,4 @@ function frmGesturesGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmGestures.info = {
-        "kuid": "p2kwiet12889314951226"
-    };
 };

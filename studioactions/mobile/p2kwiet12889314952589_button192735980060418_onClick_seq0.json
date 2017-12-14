@@ -11,12 +11,14 @@
             "id": "customcode_onClick_8507512889314958497",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "segwidMultiTemplate",
-            "display": "segwidMultiTemplate"
+            "display": "segwidMultiTemplate",
+            "source": "module"
         }, {
             "id": "customcode_onClick_39912889314951924",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "segWidoutRowtmplateJS",
-            "display": "segWidoutRowtmplateJS"
+            "display": "segWidoutRowtmplateJS",
+            "source": "module"
         }, {
             "id": "navigation_onClick_1895012889314953661",
             "type": "NAVIGATE_TO_FORM",
@@ -25,7 +27,8 @@
             "mappings": {},
             "mappingsOrder": [],
             "parentId": "",
-            "enableMappingEditor": true
+            "enableMappingEditor": true,
+            "package": ""
         }]
     }
 }

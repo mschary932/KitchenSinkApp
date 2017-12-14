@@ -22,6 +22,20 @@ function addWidgetsfrmTtlbarCustom() {
 };
 
 function frmTtlbarCustomGlobals() {
+    var RBarBtnItem0 = new kony.ui.BarButtonItem({
+        "type": constants.BAR_BUTTON_TITLE,
+        "tintColor": undefined,
+        "style": constants.BAR_ITEM_STYLE_PLAIN,
+        "enabled": true,
+        "metaData": {
+            "title": "Previous"
+        },
+        "isLegacyRightButton": true
+    });
+    RBarBtnItem0.setBackgroundImage ({
+        image: "greenbtn50x30.png",
+        barMetrics: constants.BAR_METRICS_DEFAULT
+    })
     frmTtlbarCustom = new kony.ui.Form2({
         "addWidgets": addWidgetsfrmTtlbarCustom,
         "bounces": true,
@@ -57,20 +71,21 @@ function frmTtlbarCustomGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true,
         "titleBarBackGroundImage": "konylogo4.png",
-        "titleBarConfig": {
-            "renderTitleText": true,
-            "prevFormTitle": false,
-            "titleBarLeftSideView": "button",
-            "closureLeftSideView": titleBar,
-            "labelLeftSideView": "Home",
-            "imageLeftSideView": "greenbtn50x30.png",
-            "titleBarRightSideView": "button",
-            "closureRightSideView": titleBar,
-            "labelRightSideView": "Previous",
-            "imageRightSideView": "greenbtn50x30.png"
+        "titleBarAttributes": {
+            "barStyle": constants.BAR_STYLE_DEAFULT,
+            "navigationBarHidden": false,
+            "translucent": true,
+            "tintColor": "333333",
+            "hidesBackButton": true,
+            "prompt": "",
+            "leftItemsSupplementBackButton": true,
+            "leftBarButtonItems": [{
+                "titleBarLeftSideView": "button",
+                "closureLeftSideView": titleBar,
+                "labelLeftSideView": "Home",
+                "imageLeftSideView": "greenbtn50x30.png"
+            }],
+            "rightBarButtonItems": [RBarBtnItem0]
         }
     });
-    frmTtlbarCustom.info = {
-        "kuid": "p2kwiet12889314953186"
-    };
 };

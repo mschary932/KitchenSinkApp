@@ -17,7 +17,8 @@
             "id": "customcode_onRowClick_17208974599865572",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "container",
-            "display": "container"
+            "display": "container",
+            "source": "module"
         }]
     }
 }

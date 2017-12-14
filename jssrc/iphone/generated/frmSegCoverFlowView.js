@@ -1,4 +1,5 @@
 function addWidgetsfrmSegCoverFlowView() {
+    if (typeof initializevbox1288931495197 === 'function') initializevbox1288931495197();
     var segment2117989725233822 = new kony.ui.SegmentedUI2({
         "data": [{
             "image2117989725233825": "b1.png",
@@ -98,16 +99,20 @@ function frmSegCoverFlowViewGlobals() {
         "retainScrollPosition": false,
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true,
-        "titleBarConfig": {
-            "renderTitleText": true,
-            "prevFormTitle": false,
-            "titleBarLeftSideView": "title",
-            "labelLeftSideView": "Back",
-            "titleBarRightSideView": "none"
+        "titleBarAttributes": {
+            "barStyle": constants.BAR_STYLE_DEAFULT,
+            "navigationBarHidden": false,
+            "translucent": true,
+            "tintColor": "4e4e4eff",
+            "hidesBackButton": true,
+            "prompt": "",
+            "leftItemsSupplementBackButton": true,
+            "leftBarButtonItems": [{
+                "titleBarLeftSideView": "title",
+                "labelLeftSideView": "Back"
+            }],
+            "rightBarButtonItems": []
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSegCoverFlowView.info = {
-        "kuid": "p2kwiet12889314952464"
-    };
 };

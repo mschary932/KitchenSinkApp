@@ -105,7 +105,4 @@ function frmCalendarEventsGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmCalendarEvents.info = {
-        "kuid": "p2kwiet1288931495533"
-    };
 };

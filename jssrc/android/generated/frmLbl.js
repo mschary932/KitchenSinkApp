@@ -263,7 +263,4 @@ function frmLblGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmLbl.info = {
-        "kuid": "p2kwiet12889314951589"
-    };
 };

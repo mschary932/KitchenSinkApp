@@ -17,7 +17,6 @@ function initializevbox974599865127() {
     var lblWin = new kony.ui.Label({
         "id": "lblWin",
         "isVisible": true,
-        "skin": "lblNormal",
         "text": "Label"
     }, {
         "containerWeight": 100,

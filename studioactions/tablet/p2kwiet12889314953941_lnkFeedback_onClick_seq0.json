@@ -11,7 +11,8 @@
             "id": "customcode_onClick_2722312889314959442",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "feedBack",
-            "display": "feedBack"
+            "display": "feedBack",
+            "source": "module"
         }]
     }
 }

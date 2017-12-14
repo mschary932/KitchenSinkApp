@@ -11,7 +11,8 @@
             "id": "customcode_onReachingEnd_35012889314956435",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "scrollEnd",
-            "display": "scrollEnd"
+            "display": "scrollEnd",
+            "source": "module"
         }]
     }
 }

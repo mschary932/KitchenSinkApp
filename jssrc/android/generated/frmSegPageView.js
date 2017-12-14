@@ -17,6 +17,7 @@ function addWidgetsfrmSegPageView() {
     }, {
         "textCopyable": false
     });
+    if (typeof initializevbox1288931495227 === 'function') initializevbox1288931495227();
     var segment2117989725234772 = new kony.ui.SegmentedUI2({
         "data": [{
             "image2117989725234776": "b1.png",
@@ -107,7 +108,4 @@ function frmSegPageViewGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmSegPageView.info = {
-        "kuid": "frmSegPageViewAndroid"
-    };
 };

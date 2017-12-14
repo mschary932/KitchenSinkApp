@@ -1,4 +1,5 @@
 function addWidgetsfrmSegInvertRotaryView() {
+    if (typeof initializevbox1288931495215 === 'function') initializevbox1288931495215();
     var segment2117989725234071 = new kony.ui.SegmentedUI2({
         "data": [{
             "image2117989725234127": "b1.png"
@@ -88,16 +89,20 @@ function frmSegInvertRotaryViewGlobals() {
         "retainScrollPosition": false,
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true,
-        "titleBarConfig": {
-            "renderTitleText": true,
-            "prevFormTitle": false,
-            "titleBarLeftSideView": "title",
-            "labelLeftSideView": "Back",
-            "titleBarRightSideView": "none"
+        "titleBarAttributes": {
+            "barStyle": constants.BAR_STYLE_DEAFULT,
+            "navigationBarHidden": false,
+            "translucent": true,
+            "tintColor": "4e4e4eff",
+            "hidesBackButton": true,
+            "prompt": "",
+            "leftItemsSupplementBackButton": true,
+            "leftBarButtonItems": [{
+                "titleBarLeftSideView": "title",
+                "labelLeftSideView": "Back"
+            }],
+            "rightBarButtonItems": []
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSegInvertRotaryView.info = {
-        "kuid": "p2kwiet12889314952551"
-    };
 };

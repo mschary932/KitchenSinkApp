@@ -11,7 +11,8 @@
             "id": "customcode_onClick_175199745998655932",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "deviceInfo",
-            "display": "deviceInfo"
+            "display": "deviceInfo",
+            "source": "module"
         }, {
             "id": "navigation_onClick_261939745998655392",
             "type": "NAVIGATE_TO_FORM",

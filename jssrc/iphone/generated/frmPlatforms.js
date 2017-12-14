@@ -433,7 +433,4 @@ function frmPlatformsGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": false
     });
-    frmPlatforms.info = {
-        "kuid": "p2kwiet12889314951896"
-    };
 };

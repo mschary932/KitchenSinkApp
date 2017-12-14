@@ -17,7 +17,6 @@ function initializevbox974599865159() {
     var lblFormOptions = new kony.ui.Label({
         "id": "lblFormOptions",
         "isVisible": true,
-        "skin": "lblNormal",
         "text": "Label"
     }, {
         "containerWeight": 100,

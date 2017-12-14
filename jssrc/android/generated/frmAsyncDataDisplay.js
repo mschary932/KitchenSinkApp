@@ -1,4 +1,5 @@
 function addWidgetsfrmAsyncDataDisplay() {
+    if (typeof initializevbox1288931495131 === 'function') initializevbox1288931495131();
     var segSmall = new kony.ui.SegmentedUI2({
         "groupCells": true,
         "id": "segSmall",
@@ -74,7 +75,4 @@ function frmAsyncDataDisplayGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAsyncDataDisplay.info = {
-        "kuid": "p2kwiet1288931495314"
-    };
 };

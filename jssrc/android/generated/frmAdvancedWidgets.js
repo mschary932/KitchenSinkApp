@@ -1,4 +1,5 @@
 function addWidgetsfrmAdvancedWidgets() {
+    if (typeof initializevbox1288931495113 === 'function') initializevbox1288931495113();
     var segFirst = new kony.ui.SegmentedUI2({
         "groupCells": false,
         "id": "segFirst",
@@ -68,7 +69,4 @@ function frmAdvancedWidgetsGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAdvancedWidgets.info = {
-        "kuid": "p2kwiet128893149542"
-    };
 };

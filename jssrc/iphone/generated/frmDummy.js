@@ -40,7 +40,4 @@ function frmDummyGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmDummy.info = {
-        "kuid": "p2kwiet1288931495940"
-    };
 };

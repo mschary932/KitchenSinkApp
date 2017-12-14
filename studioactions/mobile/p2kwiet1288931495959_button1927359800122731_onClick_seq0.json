@@ -28,13 +28,15 @@
             "mappings": {},
             "mappingsOrder": [],
             "parentId": "decision_onClick_8256112889314958400",
-            "enableMappingEditor": true
+            "enableMappingEditor": true,
+            "package": ""
         }, {
             "id": "customcode_onClick_4936312889314953641",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "simulatorCheck",
             "display": "simulatorCheck",
-            "parentId": "decision_onClick_9684312889314958490"
+            "parentId": "decision_onClick_9684312889314958490",
+            "source": "module"
         }]
     }
 }

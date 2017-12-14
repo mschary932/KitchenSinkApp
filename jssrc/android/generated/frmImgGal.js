@@ -74,7 +74,4 @@ function frmImgGalGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmImgGal.info = {
-        "kuid": "frmImgGalAndroid"
-    };
 };

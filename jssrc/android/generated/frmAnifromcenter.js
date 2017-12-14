@@ -29,7 +29,4 @@ function frmAnifromcenterGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAnifromcenter.info = {
-        "kuid": "p2kwiet1288931495160"
-    };
 };

@@ -11,7 +11,8 @@
             "id": "customcode_onClick_835859745998656182",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "emailSend",
-            "display": "emailSend"
+            "display": "emailSend",
+            "source": "module"
         }]
     }
 }

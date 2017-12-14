@@ -1,4 +1,5 @@
 function addWidgetsfrmDeviceInfo() {
+    if (typeof initializevbox1288931495147 === 'function') initializevbox1288931495147();
     var segDeviceInfo = new kony.ui.SegmentedUI2({
         "groupCells": true,
         "id": "segDeviceInfo",
@@ -70,7 +71,4 @@ function frmDeviceInfoGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmDeviceInfo.info = {
-        "kuid": "p2kwiet1288931495884"
-    };
 };

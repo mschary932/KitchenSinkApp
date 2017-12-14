@@ -99,6 +99,7 @@ function addWidgetsfrmAppSetRead() {
         "textCopyable": false
     });
     hbox1927359800106182.add(label1927359800106208, lblMsgSetR1);
+    if (typeof initializevbox1288931495129 === 'function') initializevbox1288931495129();
     var SegMsgSetR = new kony.ui.SegmentedUI2({
         "data": [{
             "image21927359800106232": "b1.png"
@@ -175,7 +176,4 @@ function frmAppSetReadGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAppSetRead.info = {
-        "kuid": "p2kwiet1288931495273"
-    };
 };

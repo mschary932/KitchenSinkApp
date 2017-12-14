@@ -1,4 +1,5 @@
 function addWidgetsfrmIconEditStyle() {
+    if (typeof initializevbox1288931495175 === 'function') initializevbox1288931495175();
     var segStates = new kony.ui.SegmentedUI2({
         "groupCells": false,
         "id": "segStates",
@@ -65,7 +66,4 @@ function frmIconEditStyleGlobals() {
         "titleBar": false,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmIconEditStyle.info = {
-        "kuid": "p2kwiet12889314951304"
-    };
 };

@@ -74,20 +74,42 @@
             "inputAccessoryViewType": 1,
             "needsIndicatorDuringPostShow": true,
             "statusBarStyle": "STATUS_BAR_STYLE_DEFAULT",
-            "titleBarBackGroundImage": "konylogo4.png",
-            "titleBarConfig": {
-                "buttonText": "Previous",
-                "ide_buttonClosureLeftSideView": "titleBar",
-                "ide_buttonClosureRightSideView": "titleBar",
-                "imageLeftSideView": "greenbtn50x30.png",
-                "imageRightSideView": "greenbtn50x30.png",
-                "leftButtonText": "Home",
-                "prevFormTitle": false,
+            "titleBarAttributes": {
+                "barStyle": 0,
+                "hidesBackButton": true,
+                "kuid": "g7fb8e0fcc084c6d80eedfea1f3783d1",
+                "leftBarButtonItems": [
+                    {
+                        "ide_buttonClosureLeftSideView": "titleBar",
+                        "imageLeftSideView": "greenbtn50x30.png",
+                        "kuid": "e1f70a184e6f4d8e803770cc979729a2",
+                        "leftButtonText": "Home",
+                        "prevFormTitle": false,
+                        "titleBarLeftSideView": "button",
+                        "type": 4
+                    }
+                ],
+                "leftItemsSupplementBackButton": true,
+                "prompt": "",
                 "renderTitleText": true,
-                "titleBarLeftSideView": "button",
-                "titleBarRightSideView": "button",
-                "visible": true
-            }
+                "rightBarButtonItems": [
+                    {
+                        "enabled": true,
+                        "ide_onClick": "titleBar",
+                        "info": {
+                            "backgroundImage": "greenbtn50x30.png",
+                            "title": "Previous"
+                        },
+                        "isLegacyRightButton": true,
+                        "kuid": "d7db401f948042cc8a983e86b939fc4f",
+                        "style": 0,
+                        "type": 1
+                    }
+                ],
+                "tintColor": "333333",
+                "translucent": true
+            },
+            "titleBarBackGroundImage": "konylogo4.png"
         },
         "render": true,
         "titleBar": true

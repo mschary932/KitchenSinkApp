@@ -70,7 +70,4 @@ function frmCBoxGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmCBox.info = {
-        "kuid": "p2kwiet1288931495610"
-    };
 };

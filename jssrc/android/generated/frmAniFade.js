@@ -29,7 +29,4 @@ function frmAniFadeGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAniFade.info = {
-        "kuid": "p2kwiet1288931495144"
-    };
 };

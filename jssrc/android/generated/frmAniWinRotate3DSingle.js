@@ -44,7 +44,4 @@ function frmAniWinRotate3DSingleGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAniWinRotate3DSingle.info = {
-        "kuid": "p2kwiet1288931495244"
-    };
 };

@@ -29,7 +29,4 @@ function frmAniRotateExchangeGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAniRotateExchange.info = {
-        "kuid": "p2kwiet1288931495195"
-    };
 };

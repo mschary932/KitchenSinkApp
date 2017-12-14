@@ -17,6 +17,7 @@ function addWidgetsfrmsegGroupMode() {
     }, {
         "textCopyable": false
     });
+    if (typeof initializevbox1288931495209 === 'function') initializevbox1288931495209();
     var segment2192735980060930 = new kony.ui.SegmentedUI2({
         "data": [{
             "label192735980060960": "Savings account"
@@ -79,6 +80,7 @@ function addWidgetsfrmsegGroupMode() {
     }, {
         "textCopyable": false
     });
+    if (typeof initializevbox1288931495211 === 'function') initializevbox1288931495211();
     var segment2192735980060992 = new kony.ui.SegmentedUI2({
         "data": [{
             "label192735980060994": "Savings account"
@@ -153,7 +155,4 @@ function frmsegGroupModeGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmsegGroupMode.info = {
-        "kuid": "frmsegGroupModeAndroid"
-    };
 };

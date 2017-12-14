@@ -14,7 +14,8 @@
             "id": "customcode_postshow_7584612889314955675",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "feedBack",
-            "display": "feedBack"
+            "display": "feedBack",
+            "source": "module"
         }]
     }
 }

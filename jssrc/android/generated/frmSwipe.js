@@ -1,4 +1,5 @@
 function addWidgetsfrmSwipe() {
+    if (typeof initializevbox1288931495259 === 'function') initializevbox1288931495259();
     var segStates = new kony.ui.SegmentedUI2({
         "groupCells": false,
         "id": "segStates",
@@ -66,7 +67,4 @@ function frmSwipeGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmSwipe.info = {
-        "kuid": "p2kwiet12889314952906"
-    };
 };

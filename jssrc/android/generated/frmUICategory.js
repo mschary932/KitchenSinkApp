@@ -1,4 +1,5 @@
 function addWidgetsfrmUICategory() {
+    if (typeof initializevbox1288931495261 === 'function') initializevbox1288931495261();
     var uiCatSeg = new kony.ui.SegmentedUI2({
         "data": [{
             "lblUICategory": "Container Widgets"
@@ -75,7 +76,4 @@ function frmUICategoryGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmUICategory.info = {
-        "kuid": "p2kwiet12889314953282"
-    };
 };

@@ -17,7 +17,6 @@ function initializevbox974599865123() {
     var lblAndroid = new kony.ui.Label({
         "id": "lblAndroid",
         "isVisible": true,
-        "skin": "lblNormal",
         "text": "Label"
     }, {
         "containerWeight": 100,

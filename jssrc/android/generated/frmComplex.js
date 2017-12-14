@@ -177,6 +177,7 @@ function addWidgetsfrmComplex() {
     hbox121043302135332.add(vbox121043302135333, label121043302135334);
     vbox121043302135330.add(label121043302135331, hbox121043302135332);
     hbox121043302135328.add(vbox121043302135330);
+    if (typeof initializevbox1288931495143 === 'function') initializevbox1288931495143();
     var segment2121043302135337 = new kony.ui.SegmentedUI2({
         "data": [{
             "label121043302135341": "Wal-Mart Stores Inc.",
@@ -306,7 +307,4 @@ function frmComplexGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmComplex.info = {
-        "kuid": "frmComplexAndroid"
-    };
 };

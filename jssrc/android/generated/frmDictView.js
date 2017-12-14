@@ -1,4 +1,5 @@
 function addWidgetsfrmDictView() {
+    if (typeof initializevbox1288931495157 === 'function') initializevbox1288931495157();
     var segStates = new kony.ui.SegmentedUI2({
         "groupCells": false,
         "id": "segStates",
@@ -65,7 +66,4 @@ function frmDictViewGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmDictView.info = {
-        "kuid": "p2kwiet1288931495935"
-    };
 };

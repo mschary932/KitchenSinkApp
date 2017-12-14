@@ -11,7 +11,8 @@
             "id": "customcode_onClick_292199745998653026",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "Encrypt",
-            "display": "Encrypt"
+            "display": "Encrypt",
+            "source": "module"
         }]
     }
 }

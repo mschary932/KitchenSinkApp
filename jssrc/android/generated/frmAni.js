@@ -1,4 +1,5 @@
 function addWidgetsfrmAni() {
+    if (typeof initializevbox1288931495121 === 'function') initializevbox1288931495121();
     var segiPhone = new kony.ui.SegmentedUI2({
         "data": [{
             "lbliPhone": "Flip"
@@ -113,7 +114,4 @@ function frmAniGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAni.info = {
-        "kuid": "p2kwiet128893149576"
-    };
 };

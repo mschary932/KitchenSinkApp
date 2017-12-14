@@ -125,7 +125,4 @@ function frmBrowserOptionsGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmBrowserOptions.info = {
-        "kuid": "p2kwiet1288931495410"
-    };
 };

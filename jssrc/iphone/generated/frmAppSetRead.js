@@ -109,6 +109,7 @@ function addWidgetsfrmAppSetRead() {
         "wrapping": constants.WIDGET_TEXT_WORD_WRAP
     });
     hbox1927359800106182.add(label1927359800106208, lblMsgSetR1);
+    if (typeof initializevbox1288931495129 === 'function') initializevbox1288931495129();
     var SegMsgSetR = new kony.ui.SegmentedUI2({
         "data": [{
             "image21927359800106232": "b1.png"
@@ -197,16 +198,20 @@ function frmAppSetReadGlobals() {
         "retainScrollPosition": false,
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true,
-        "titleBarConfig": {
-            "renderTitleText": true,
-            "prevFormTitle": false,
-            "titleBarLeftSideView": "title",
-            "labelLeftSideView": "Back",
-            "titleBarRightSideView": "none"
+        "titleBarAttributes": {
+            "barStyle": constants.BAR_STYLE_DEAFULT,
+            "navigationBarHidden": false,
+            "translucent": true,
+            "tintColor": "4e4e4eff",
+            "hidesBackButton": true,
+            "prompt": "",
+            "leftItemsSupplementBackButton": true,
+            "leftBarButtonItems": [{
+                "titleBarLeftSideView": "title",
+                "labelLeftSideView": "Back"
+            }],
+            "rightBarButtonItems": []
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmAppSetRead.info = {
-        "kuid": "p2kwiet1288931495273"
-    };
 };

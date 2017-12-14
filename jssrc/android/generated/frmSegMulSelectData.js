@@ -17,6 +17,7 @@ function addWidgetsfrmSegMulSelectData() {
     }, {
         "textCopyable": false
     });
+    if (typeof initializevbox1288931495219 === 'function') initializevbox1288931495219();
     var segment21927389591153585 = new kony.ui.SegmentedUI2({
         "groupCells": true,
         "id": "segment21927389591153585",
@@ -89,7 +90,4 @@ function frmSegMulSelectDataGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmSegMulSelectData.info = {
-        "kuid": "p2kwiet12889314952641"
-    };
 };

@@ -73,7 +73,4 @@ function popFormAnchorGlobals() {
             "transitionEffect": "none"
         }
     });
-    popFormAnchor.info = {
-        "kuid": "p2kwiet12889314955897"
-    };
 };

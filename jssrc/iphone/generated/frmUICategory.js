@@ -1,4 +1,5 @@
 function addWidgetsfrmUICategory() {
+    if (typeof initializevbox1288931495261 === 'function') initializevbox1288931495261();
     var uiCatSeg = new kony.ui.SegmentedUI2({
         "data": [{
             "lblUICategory": "Container Widgets"
@@ -88,16 +89,20 @@ function frmUICategoryGlobals() {
         "retainScrollPosition": false,
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true,
-        "titleBarConfig": {
-            "renderTitleText": true,
-            "prevFormTitle": false,
-            "titleBarLeftSideView": "title",
-            "labelLeftSideView": "Back",
-            "titleBarRightSideView": "none"
+        "titleBarAttributes": {
+            "barStyle": constants.BAR_STYLE_DEAFULT,
+            "navigationBarHidden": false,
+            "translucent": true,
+            "tintColor": "4e4e4eff",
+            "hidesBackButton": true,
+            "prompt": "",
+            "leftItemsSupplementBackButton": true,
+            "leftBarButtonItems": [{
+                "titleBarLeftSideView": "title",
+                "labelLeftSideView": "Back"
+            }],
+            "rightBarButtonItems": []
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmUICategory.info = {
-        "kuid": "p2kwiet12889314953282"
-    };
 };

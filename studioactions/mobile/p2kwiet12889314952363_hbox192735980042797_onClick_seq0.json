@@ -11,7 +11,8 @@
             "id": "customcode_onClick_7780412889314957463",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "newsFeedBtnClick",
-            "display": "newsFeedBtnClick"
+            "display": "newsFeedBtnClick",
+            "source": "module"
         }]
     }
 }

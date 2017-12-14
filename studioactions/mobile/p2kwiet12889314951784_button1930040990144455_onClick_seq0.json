@@ -11,7 +11,8 @@
             "id": "customcode_onClick_8532912889314953632",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "ClearItem",
-            "display": "ClearItem"
+            "display": "ClearItem",
+            "source": "module"
         }]
     }
 }

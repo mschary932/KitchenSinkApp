@@ -14,7 +14,8 @@
             "id": "customcode_preshow_1468712889314951589",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "platformCheck",
-            "display": "platformCheck"
+            "display": "platformCheck",
+            "source": "module"
         }]
     }
 }

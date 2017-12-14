@@ -58,7 +58,4 @@ function frm3DObjGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frm3DObj.info = {
-        "kuid": "p2kwiet12889314958"
-    };
 };

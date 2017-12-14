@@ -979,7 +979,4 @@ function frmScrollBoxMenuGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmScrollBoxMenu.info = {
-        "kuid": "frmScrollBoxMenuAndroid"
-    };
 };

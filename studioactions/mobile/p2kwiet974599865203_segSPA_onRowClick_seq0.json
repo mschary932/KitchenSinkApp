@@ -21,7 +21,8 @@
             "inputparams": [{
                 "name": "eventobj",
                 "value": "eventobject"
-            }]
+            }],
+            "source": "module"
         }]
     }
 }

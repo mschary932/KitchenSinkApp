@@ -46,7 +46,4 @@ function frm3DObjGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frm3DObj.info = {
-        "kuid": "p2kwiet12889314958"
-    };
 };

@@ -1,4 +1,5 @@
 function addWidgetsfrmWebSQLResults() {
+    if (typeof initializevbox1288931495263 === 'function') initializevbox1288931495263();
     var segWebSQLResults = new kony.ui.SegmentedUI2({
         "groupCells": true,
         "id": "segWebSQLResults",
@@ -82,16 +83,20 @@ function frmWebSQLResultsGlobals() {
         "retainScrollPosition": false,
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true,
-        "titleBarConfig": {
-            "renderTitleText": true,
-            "prevFormTitle": false,
-            "titleBarLeftSideView": "title",
-            "labelLeftSideView": "Back",
-            "titleBarRightSideView": "none"
+        "titleBarAttributes": {
+            "barStyle": constants.BAR_STYLE_DEAFULT,
+            "navigationBarHidden": false,
+            "translucent": true,
+            "tintColor": "4e4e4eff",
+            "hidesBackButton": true,
+            "prompt": "",
+            "leftItemsSupplementBackButton": true,
+            "leftBarButtonItems": [{
+                "titleBarLeftSideView": "title",
+                "labelLeftSideView": "Back"
+            }],
+            "rightBarButtonItems": []
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmWebSQLResults.info = {
-        "kuid": "p2kwiet12889314953323"
-    };
 };

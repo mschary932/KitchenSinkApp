@@ -11,7 +11,8 @@
             "id": "customcode_onClick_106729745998659063",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "decrypt",
-            "display": "decrypt"
+            "display": "decrypt",
+            "source": "module"
         }]
     }
 }

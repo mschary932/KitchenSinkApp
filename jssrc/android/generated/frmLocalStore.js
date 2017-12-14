@@ -750,7 +750,4 @@ function frmLocalStoreGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmLocalStore.info = {
-        "kuid": "p2kwiet12889314951655"
-    };
 };

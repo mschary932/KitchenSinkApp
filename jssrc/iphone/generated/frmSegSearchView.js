@@ -1,4 +1,5 @@
 function addWidgetsfrmSegSearchView() {
+    if (typeof initializevbox1288931495237 === 'function') initializevbox1288931495237();
     var segmentSearchBy = new kony.ui.SegmentedUI2({
         "data": [{
             "labelsby1": "Flight",
@@ -105,16 +106,20 @@ function frmSegSearchViewGlobals() {
         "retainScrollPosition": false,
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true,
-        "titleBarConfig": {
-            "renderTitleText": true,
-            "prevFormTitle": false,
-            "titleBarLeftSideView": "title",
-            "labelLeftSideView": "Back",
-            "titleBarRightSideView": "none"
+        "titleBarAttributes": {
+            "barStyle": constants.BAR_STYLE_DEAFULT,
+            "navigationBarHidden": false,
+            "translucent": true,
+            "tintColor": "4e4e4eff",
+            "hidesBackButton": true,
+            "prompt": "",
+            "leftItemsSupplementBackButton": true,
+            "leftBarButtonItems": [{
+                "titleBarLeftSideView": "title",
+                "labelLeftSideView": "Back"
+            }],
+            "rightBarButtonItems": []
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSegSearchView.info = {
-        "kuid": "p2kwiet12889314952752"
-    };
 };

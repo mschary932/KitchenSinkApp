@@ -329,7 +329,4 @@ function frmTbxGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmTbx.info = {
-        "kuid": "p2kwiet12889314953105"
-    };
 };

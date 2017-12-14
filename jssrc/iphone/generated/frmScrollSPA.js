@@ -953,7 +953,4 @@ function frmScrollSPAGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmScrollSPA.info = {
-        "kuid": "p2kwiet12889314952420"
-    };
 };

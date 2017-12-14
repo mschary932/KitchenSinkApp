@@ -18,7 +18,8 @@
             "inputparams": [{
                 "name": "eventObj",
                 "value": "eventobject"
-            }]
+            }],
+            "source": "module"
         }]
     }
 }

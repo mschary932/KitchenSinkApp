@@ -65,7 +65,4 @@ function frmPopupGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmPopup.info = {
-        "kuid": "p2kwiet12889314951904"
-    };
 };

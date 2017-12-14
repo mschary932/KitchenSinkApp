@@ -21,7 +21,8 @@
             }, {
                 "name": "y",
                 "value": " eventobject"
-            }]
+            }],
+            "source": "module"
         }]
     }
 }

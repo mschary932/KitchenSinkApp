@@ -11,7 +11,8 @@
             "id": "customcode_onClick_3100512889314959672",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "createHashMD2",
-            "display": "createHashMD2"
+            "display": "createHashMD2",
+            "source": "module"
         }]
     }
 }

@@ -130,18 +130,22 @@ function frmRegisterAccelerometerGlobals() {
         "retainScrollPosition": false,
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true,
-        "titleBarConfig": {
-            "renderTitleText": true,
-            "prevFormTitle": false,
-            "titleBarLeftSideView": "button",
-            "closureLeftSideView": unRegisterAccEvent,
-            "labelLeftSideView": "Back",
-            "imageLeftSideView": "back1.png",
-            "titleBarRightSideView": "none"
+        "titleBarAttributes": {
+            "barStyle": constants.BAR_STYLE_DEAFULT,
+            "navigationBarHidden": false,
+            "translucent": true,
+            "tintColor": "4e4e4eff",
+            "hidesBackButton": true,
+            "prompt": "",
+            "leftItemsSupplementBackButton": true,
+            "leftBarButtonItems": [{
+                "titleBarLeftSideView": "button",
+                "closureLeftSideView": unRegisterAccEvent,
+                "labelLeftSideView": "Back",
+                "imageLeftSideView": "back1.png"
+            }],
+            "rightBarButtonItems": []
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmRegisterAccelerometer.info = {
-        "kuid": "p2kwiet12889314951944"
-    };
 };

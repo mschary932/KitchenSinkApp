@@ -14,12 +14,14 @@
             "id": "customcode_init_489629745998657592",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "initArray",
-            "display": "initArray"
+            "display": "initArray",
+            "source": "module"
         }, {
             "id": "customcode_init_406259745998657168",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "rowTempSetData",
-            "display": "rowTempSetData"
+            "display": "rowTempSetData",
+            "source": "module"
         }]
     }
 }

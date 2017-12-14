@@ -18,12 +18,14 @@
             "id": "customcode_postshow_955449745998659712",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "segmentFeaturesSetting",
-            "display": "segmentFeaturesSetting"
+            "display": "segmentFeaturesSetting",
+            "source": "module"
         }, {
             "id": "customcode_postshow_68146974599865178",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "SecHdrTemplatesTab",
-            "display": "SecHdrTemplatesTab"
+            "display": "SecHdrTemplatesTab",
+            "source": "module"
         }, {
             "id": "customcode_postshow_36349745998658354",
             "type": "INVOKE_FUNCTION",
@@ -32,7 +34,8 @@
             "inputparams": [{
                 "name": "eventObj",
                 "value": ""
-            }]
+            }],
+            "source": "module"
         }]
     }
 }

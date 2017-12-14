@@ -11,7 +11,8 @@
             "id": "customcode_postshow_29678974599865103",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "animateFlex",
-            "display": "animateFlex"
+            "display": "animateFlex",
+            "source": "module"
         }]
     }
 }

@@ -15,7 +15,8 @@
             "mappings": {},
             "mappingsOrder": [],
             "parentId": "",
-            "enableMappingEditor": true
+            "enableMappingEditor": true,
+            "package": ""
         }, {
             "id": "expression_onClick_4529212889314958021",
             "type": "ADD_SNIPPET",

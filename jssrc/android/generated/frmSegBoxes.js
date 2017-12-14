@@ -1,4 +1,5 @@
 function addWidgetsfrmSegBoxes() {
+    if (typeof initializevbox1288931495195 === 'function') initializevbox1288931495195();
     var segment2192735980061495 = new kony.ui.SegmentedUI2({
         "data": [
             [{
@@ -129,7 +130,4 @@ function frmSegBoxesGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmSegBoxes.info = {
-        "kuid": "p2kwiet12889314952453"
-    };
 };

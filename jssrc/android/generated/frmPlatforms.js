@@ -394,7 +394,4 @@ function frmPlatformsGlobals() {
         "titleBar": false,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmPlatforms.info = {
-        "kuid": "p2kwiet12889314951896"
-    };
 };

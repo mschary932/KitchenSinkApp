@@ -14,7 +14,8 @@
             "id": "customcode_preshow_513412889314957193",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "setBadge",
-            "display": "setBadge"
+            "display": "setBadge",
+            "source": "module"
         }]
     }
 }

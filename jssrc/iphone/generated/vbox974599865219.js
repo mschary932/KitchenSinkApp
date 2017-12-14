@@ -34,7 +34,6 @@ function initializevbox974599865219() {
     var lblMulSel1 = new kony.ui.Label({
         "id": "lblMulSel1",
         "isVisible": true,
-        "skin": "lblNormal",
         "text": "Label"
     }, {
         "containerWeight": 46,
@@ -53,7 +52,6 @@ function initializevbox974599865219() {
     var lblMulSel2 = new kony.ui.Label({
         "id": "lblMulSel2",
         "isVisible": true,
-        "skin": "lblNormal",
         "text": "Label"
     }, {
         "containerWeight": 29,
@@ -72,7 +70,6 @@ function initializevbox974599865219() {
     var lblMulSel3 = new kony.ui.Label({
         "id": "lblMulSel3",
         "isVisible": true,
-        "skin": "lblNormal",
         "text": "Label"
     }, {
         "containerWeight": 25,

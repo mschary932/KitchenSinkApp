@@ -419,7 +419,4 @@ function frmDatagrdGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmDatagrd.info = {
-        "kuid": "p2kwiet1288931495875"
-    };
 };

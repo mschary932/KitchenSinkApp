@@ -14,7 +14,8 @@
             "id": "customcode_init_5472712889314959903",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "setSbxDevFeaturesDetails",
-            "display": "setSbxDevFeaturesDetails"
+            "display": "setSbxDevFeaturesDetails",
+            "source": "module"
         }]
     }
 }

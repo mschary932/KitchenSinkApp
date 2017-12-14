@@ -18,8 +18,7 @@ function initializevbox974599865221() {
         "id": "hbox1927389591153587",
         "isVisible": true,
         "orientation": constants.BOX_LAYOUT_HORIZONTAL,
-        "position": constants.BOX_POSITION_AS_NORMAL,
-        "skin": "hBoxWhite"
+        "position": constants.BOX_POSITION_AS_NORMAL
     }, {
         "containerWeight": 100,
         "layoutAlignment": constants.BOX_LAYOUT_ALIGN_FROM_LEFT,
@@ -35,7 +34,6 @@ function initializevbox974599865221() {
     var lblMulSel1 = new kony.ui.Label({
         "id": "lblMulSel1",
         "isVisible": true,
-        "skin": "lblWhiteBG",
         "text": "Label"
     }, {
         "containerWeight": 46,
@@ -54,7 +52,6 @@ function initializevbox974599865221() {
     var lblMulSel2 = new kony.ui.Label({
         "id": "lblMulSel2",
         "isVisible": true,
-        "skin": "lblWhiteBG",
         "text": "Label"
     }, {
         "containerWeight": 29,
@@ -73,7 +70,6 @@ function initializevbox974599865221() {
     var lblMulSel3 = new kony.ui.Label({
         "id": "lblMulSel3",
         "isVisible": true,
-        "skin": "lblWhiteBG",
         "text": "Label"
     }, {
         "containerWeight": 25,

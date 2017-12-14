@@ -17,6 +17,7 @@ function addWidgetsfrmSecHdrWidoutTemplates() {
     }, {
         "textCopyable": false
     });
+    if (typeof initializevbox1288931495193 === 'function') initializevbox1288931495193();
     var segSecHdrWidoutTmplate = new kony.ui.SegmentedUI2({
         "groupCells": false,
         "id": "segSecHdrWidoutTmplate",
@@ -113,7 +114,4 @@ function frmSecHdrWidoutTemplatesGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmSecHdrWidoutTemplates.info = {
-        "kuid": "p2kwiet12889314952433"
-    };
 };

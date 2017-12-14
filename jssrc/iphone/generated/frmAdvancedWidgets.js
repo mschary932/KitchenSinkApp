@@ -1,4 +1,5 @@
 function addWidgetsfrmAdvancedWidgets() {
+    if (typeof initializevbox1288931495113 === 'function') initializevbox1288931495113();
     var segFirst = new kony.ui.SegmentedUI2({
         "groupCells": false,
         "id": "segFirst",
@@ -80,16 +81,20 @@ function frmAdvancedWidgetsGlobals() {
         "retainScrollPosition": false,
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true,
-        "titleBarConfig": {
-            "renderTitleText": true,
-            "prevFormTitle": false,
-            "titleBarLeftSideView": "title",
-            "labelLeftSideView": "Back",
-            "titleBarRightSideView": "none"
+        "titleBarAttributes": {
+            "barStyle": constants.BAR_STYLE_DEAFULT,
+            "navigationBarHidden": false,
+            "translucent": true,
+            "tintColor": "4e4e4eff",
+            "hidesBackButton": true,
+            "prompt": "",
+            "leftItemsSupplementBackButton": true,
+            "leftBarButtonItems": [{
+                "titleBarLeftSideView": "title",
+                "labelLeftSideView": "Back"
+            }],
+            "rightBarButtonItems": []
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmAdvancedWidgets.info = {
-        "kuid": "p2kwiet128893149542"
-    };
 };

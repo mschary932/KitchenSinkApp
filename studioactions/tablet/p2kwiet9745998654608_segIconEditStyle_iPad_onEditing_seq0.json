@@ -33,7 +33,8 @@
             }, {
                 "name": "rowIndex",
                 "value": " rowNumber"
-            }]
+            }],
+            "source": "module"
         }]
     }
 }

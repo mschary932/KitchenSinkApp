@@ -1,4 +1,5 @@
 function addWidgetsfrmPushPull() {
+    if (typeof initializevbox1288931495183 === 'function') initializevbox1288931495183();
     var segStates = new kony.ui.SegmentedUI2({
         "groupCells": false,
         "id": "segStates",
@@ -81,16 +82,20 @@ function frmPushPullGlobals() {
         "retainScrollPosition": false,
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true,
-        "titleBarConfig": {
-            "renderTitleText": true,
-            "prevFormTitle": false,
-            "titleBarLeftSideView": "title",
-            "labelLeftSideView": "Back",
-            "titleBarRightSideView": "none"
+        "titleBarAttributes": {
+            "barStyle": constants.BAR_STYLE_DEAFULT,
+            "navigationBarHidden": false,
+            "translucent": true,
+            "tintColor": "4e4e4eff",
+            "hidesBackButton": true,
+            "prompt": "",
+            "leftItemsSupplementBackButton": true,
+            "leftBarButtonItems": [{
+                "titleBarLeftSideView": "title",
+                "labelLeftSideView": "Back"
+            }],
+            "rightBarButtonItems": []
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmPushPull.info = {
-        "kuid": "p2kwiet12889314951909"
-    };
 };

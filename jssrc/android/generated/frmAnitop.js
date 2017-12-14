@@ -28,7 +28,4 @@ function frmAnitopGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAnitop.info = {
-        "kuid": "p2kwiet1288931495219"
-    };
 };

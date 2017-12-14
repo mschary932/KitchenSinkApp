@@ -1,4 +1,5 @@
 function addWidgetsfrmWebSQLResults() {
+    if (typeof initializevbox1288931495263 === 'function') initializevbox1288931495263();
     var segWebSQLResults = new kony.ui.SegmentedUI2({
         "groupCells": true,
         "id": "segWebSQLResults",
@@ -71,7 +72,4 @@ function frmWebSQLResultsGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmWebSQLResults.info = {
-        "kuid": "p2kwiet12889314953323"
-    };
 };

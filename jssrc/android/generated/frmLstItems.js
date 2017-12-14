@@ -1,4 +1,5 @@
 function addWidgetsfrmLstItems() {
+    if (typeof initializevbox1288931495177 === 'function') initializevbox1288931495177();
     var segFirst = new kony.ui.SegmentedUI2({
         "data": [{
             "image2192822373931794": "arrgrite.png",
@@ -86,7 +87,4 @@ function frmLstItemsGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmLstItems.info = {
-        "kuid": "p2kwiet12889314951818"
-    };
 };

@@ -61,7 +61,4 @@ function frmCameraOverlaidGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmCameraOverlaid.info = {
-        "kuid": "p2kwiet1288931495579"
-    };
 };

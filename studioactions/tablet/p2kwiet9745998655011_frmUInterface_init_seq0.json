@@ -14,7 +14,8 @@
             "id": "customcode_init_99561974599865347",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "setTabUiSbxWidDetails",
-            "display": "setTabUiSbxWidDetails"
+            "display": "setTabUiSbxWidDetails",
+            "source": "module"
         }]
     }
 }

@@ -1,4 +1,5 @@
 function addWidgetsfrmAniWin() {
+    if (typeof initializevbox1288931495127 === 'function') initializevbox1288931495127();
     var segWin = new kony.ui.SegmentedUI2({
         "data": [{
             "lblWin": "Rotate3DSingle"
@@ -91,7 +92,4 @@ function frmAniWinGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmAniWin.info = {
-        "kuid": "p2kwiet1288931495232"
-    };
 };

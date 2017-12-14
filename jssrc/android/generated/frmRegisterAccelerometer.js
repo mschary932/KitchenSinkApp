@@ -114,7 +114,4 @@ function frmRegisterAccelerometerGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmRegisterAccelerometer.info = {
-        "kuid": "p2kwiet12889314951944"
-    };
 };

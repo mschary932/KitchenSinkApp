@@ -109,7 +109,4 @@ function frmImgCropGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmImgCrop.info = {
-        "kuid": "p2kwiet12889314951352"
-    };
 };

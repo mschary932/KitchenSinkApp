@@ -1,4 +1,5 @@
 function addWidgetsfrmFormOptions() {
+    if (typeof initializevbox1288931495159 === 'function') initializevbox1288931495159();
     var frmOptSeg = new kony.ui.SegmentedUI2({
         "data": [{
             "lblFormOptions": "Form with widgets"
@@ -87,7 +88,4 @@ function frmFormOptionsGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmFormOptions.info = {
-        "kuid": "p2kwiet12889314951070"
-    };
 };

@@ -39,7 +39,8 @@ function addWidgetsfrmSegDynRowTemplate() {
                 "isCircular": true
             }
         },
-        "viewType": constants.SEGUI_VIEW_TYPE_TABLEVIEW
+        "viewType": constants.SEGUI_VIEW_TYPE_TABLEVIEW,
+        "widgetDataMap": {}
     }, {
         "containerHeightReference": constants.CONTAINER_HEIGHT_BY_FORM_REFERENCE,
         "containerWeight": 100,
@@ -84,7 +85,4 @@ function frmSegDynRowTemplateGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmSegDynRowTemplate.info = {
-        "kuid": "p2kwiet12889314952505"
-    };
 };

@@ -11,7 +11,8 @@
             "id": "customcode_onClick_9470812889314956468",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "write",
-            "display": "write"
+            "display": "write",
+            "source": "module"
         }]
     }
 }

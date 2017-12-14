@@ -18,6 +18,7 @@ function addWidgetsfrmsegGroupMode() {
         "textCopyable": false,
         "wrapping": constants.WIDGET_TEXT_WORD_WRAP
     });
+    if (typeof initializevbox1288931495205 === 'function') initializevbox1288931495205();
     var segment2192735980060930 = new kony.ui.SegmentedUI2({
         "data": [{
             "label192735980060960": "Savings account"
@@ -84,6 +85,7 @@ function addWidgetsfrmsegGroupMode() {
         "textCopyable": false,
         "wrapping": constants.WIDGET_TEXT_WORD_WRAP
     });
+    if (typeof initializevbox1288931495207 === 'function') initializevbox1288931495207();
     var segment2192735980060992 = new kony.ui.SegmentedUI2({
         "data": [{
             "label192735980060994": "Savings account"
@@ -170,16 +172,20 @@ function frmsegGroupModeGlobals() {
         "retainScrollPosition": false,
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true,
-        "titleBarConfig": {
-            "renderTitleText": true,
-            "prevFormTitle": false,
-            "titleBarLeftSideView": "title",
-            "labelLeftSideView": "Back",
-            "titleBarRightSideView": "none"
+        "titleBarAttributes": {
+            "barStyle": constants.BAR_STYLE_DEAFULT,
+            "navigationBarHidden": false,
+            "translucent": true,
+            "tintColor": "4e4e4eff",
+            "hidesBackButton": true,
+            "prompt": "",
+            "leftItemsSupplementBackButton": true,
+            "leftBarButtonItems": [{
+                "titleBarLeftSideView": "title",
+                "labelLeftSideView": "Back"
+            }],
+            "rightBarButtonItems": []
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmsegGroupMode.info = {
-        "kuid": "p2kwiet12889314952516"
-    };
 };

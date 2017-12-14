@@ -1,4 +1,5 @@
 function addWidgetsfrmContainerWidgets() {
+    if (typeof initializevbox1288931495145 === 'function') initializevbox1288931495145();
     var uiContainerSeg = new kony.ui.SegmentedUI2({
         "data": [{
             "lblContainerWidgets": "Form"
@@ -74,7 +75,4 @@ function frmContainerWidgetsGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmContainerWidgets.info = {
-        "kuid": "p2kwiet1288931495728"
-    };
 };

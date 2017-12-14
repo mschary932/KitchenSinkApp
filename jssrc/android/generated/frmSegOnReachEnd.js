@@ -1,4 +1,5 @@
 function addWidgetsfrmSegOnReachEnd() {
+    if (typeof initializevbox1288931495223 === 'function') initializevbox1288931495223();
     var segRecords = new kony.ui.SegmentedUI2({
         "groupCells": false,
         "id": "segRecords",
@@ -77,7 +78,4 @@ function frmSegOnReachEndGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmSegOnReachEnd.info = {
-        "kuid": "p2kwiet12889314952667"
-    };
 };

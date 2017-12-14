@@ -11,7 +11,8 @@
             "id": "customcode_onClick_4789612889314958908",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "regAccEvent",
-            "display": "regAccEvent"
+            "display": "regAccEvent",
+            "source": "module"
         }, {
             "id": "navigation_onClick_1839112889314951799",
             "type": "NAVIGATE_TO_FORM",
@@ -20,7 +21,8 @@
             "mappings": {},
             "mappingsOrder": [],
             "parentId": "",
-            "enableMappingEditor": true
+            "enableMappingEditor": true,
+            "package": ""
         }]
     }
 }

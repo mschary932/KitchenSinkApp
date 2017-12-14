@@ -11,7 +11,8 @@
             "id": "customcode_onClick_4587812889314959931",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "getCurrentAdressSPA",
-            "display": "getCurrentAdressSPA"
+            "display": "getCurrentAdressSPA",
+            "source": "module"
         }]
     }
 }

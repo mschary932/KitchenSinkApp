@@ -17,6 +17,7 @@ function addWidgetsfrmSegCoverFlowView() {
     }, {
         "textCopyable": false
     });
+    if (typeof initializevbox1288931495199 === 'function') initializevbox1288931495199();
     var segment2117989725233822 = new kony.ui.SegmentedUI2({
         "data": [{
             "image2117989725233825": "b1.png",
@@ -108,7 +109,4 @@ function frmSegCoverFlowViewGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmSegCoverFlowView.info = {
-        "kuid": "frmSegCoverFlowViewAndroid"
-    };
 };

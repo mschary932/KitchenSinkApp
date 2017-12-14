@@ -1,4 +1,5 @@
 function addWidgetsfrmHome() {
+    if (typeof initializevbox1288931495167 === 'function') initializevbox1288931495167();
     var homeSeg = new kony.ui.SegmentedUI2({
         "data": [{
             "lblUILibrary": "UI Interface"
@@ -77,7 +78,4 @@ function frmHomeGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmHome.info = {
-        "kuid": "p2kwiet12889314951270"
-    };
 };

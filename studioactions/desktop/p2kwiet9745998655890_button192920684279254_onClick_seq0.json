@@ -11,7 +11,8 @@
             "id": "customcode_onClick_812089745998656692",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "doTransactionDelete",
-            "display": "doTransactionDelete"
+            "display": "doTransactionDelete",
+            "source": "module"
         }]
     }
 }

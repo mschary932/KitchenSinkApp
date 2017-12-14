@@ -11,17 +11,20 @@
             "id": "customcode_onClick_161299745998655772",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "segwidMultiTemplateSPA",
-            "display": "segwidMultiTemplateSPA"
+            "display": "segwidMultiTemplateSPA",
+            "source": "module"
         }, {
             "id": "customcode_onClick_45698974599865254",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "segWidoutRowtmplateJS",
-            "display": "segWidoutRowtmplateJS"
+            "display": "segWidoutRowtmplateJS",
+            "source": "module"
         }, {
             "id": "customcode_onClick_912869745998654398",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "segMetainfoJS",
-            "display": "segMetainfoJS"
+            "display": "segMetainfoJS",
+            "source": "module"
         }, {
             "id": "navigation_onClick_45103974599865885",
             "type": "NAVIGATE_TO_FORM",
