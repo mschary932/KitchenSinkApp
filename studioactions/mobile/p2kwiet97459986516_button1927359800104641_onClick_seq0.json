@@ -11,7 +11,8 @@
             "id": "customcode_onClick_551269745998659652",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "startmonitoringAcc",
-            "display": "startmonitoringAcc"
+            "display": "startmonitoringAcc",
+            "source": "module"
         }]
     }
 }

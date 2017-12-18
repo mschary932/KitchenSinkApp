@@ -15,7 +15,8 @@
             "inputparams": [{
                 "name": "cameraObj",
                 "value": "eventobject"
-            }]
+            }],
+            "source": "module"
         }]
     }
 }

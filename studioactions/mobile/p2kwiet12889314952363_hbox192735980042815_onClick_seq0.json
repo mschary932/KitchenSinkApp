@@ -11,7 +11,8 @@
             "id": "customcode_onClick_7186112889314951801",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "MessagesBtnClick",
-            "display": "MessagesBtnClick"
+            "display": "MessagesBtnClick",
+            "source": "module"
         }]
     }
 }

@@ -11,7 +11,8 @@
             "id": "customcode_onClick_731199745998659282",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "retrieveCurrentAcc",
-            "display": "retrieveCurrentAcc"
+            "display": "retrieveCurrentAcc",
+            "source": "module"
         }]
     }
 }

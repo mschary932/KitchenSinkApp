@@ -14,7 +14,8 @@
             "id": "customcode_init_816659745998657610",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "setScrollBox",
-            "display": "setScrollBox"
+            "display": "setScrollBox",
+            "source": "module"
         }]
     }
 }

@@ -15,7 +15,8 @@
             "inputparams": [{
                 "name": "evenObj",
                 "value": "eventobject"
-            }]
+            }],
+            "source": "module"
         }]
     }
 }

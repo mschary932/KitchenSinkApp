@@ -17,7 +17,8 @@
             "id": "customcode_onSelection_4383912889314958678",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "pickerviewselkeyvalues",
-            "display": "pickerviewselkeyvalues"
+            "display": "pickerviewselkeyvalues",
+            "source": "module"
         }]
     }
 }

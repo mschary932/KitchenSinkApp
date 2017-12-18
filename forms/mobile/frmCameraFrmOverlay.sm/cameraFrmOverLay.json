@@ -35,7 +35,7 @@
         ],
         "marginInPixel": true,
         "overlayConfig": {
-            "overlayForm": "frmCameraOverlaid",
+            "overlayForm": "p2kwiet1288931495579",
             "tapAnywhere": false
         },
         "render": true
@@ -69,7 +69,7 @@
         ],
         "marginInPixel": true,
         "overlayConfig": {
-            "overlayForm": "frmCameraOverlaid"
+            "overlayForm": "p2kwiet1288931495579"
         },
         "psp": {
             "captureOrientation": 0,
@@ -165,7 +165,7 @@
         ],
         "marginInPixel": true,
         "overlayConfig": {
-            "overlayForm": "frmCameraOverlaid",
+            "overlayForm": "p2kwiet1288931495579",
             "tapAnywhere": false
         },
         "psp": {

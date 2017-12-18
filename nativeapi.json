@@ -1,6 +1,26 @@
 {
     "NativeFunctionAPI": {
-        "iOS": {},
-        "Android": {}
+        "iOS": {
+            "11.0": {
+                "Kony_SyncV2-iOS-11.0": {
+                    "title": "Kony_SyncV2",
+                    "platform": "iOS",
+                    "os": "11.0",
+                    "url": "D:\\Installation\\Visualizer\\8.0\\Kony_Visualizer_Enterprise\\configuration\\org.eclipse.osgi\\bundles\\586\\1\\.cp\\resources\\sdk\\nativeBindings\\Kony_SyncV2-iOS-11.0.zip",
+                    "filepath": "C:\\Users\\KH9284\\8.0.7\\KitchenSinkApp\\nativebindings\\iOS\\11.0\\Kony_SyncV2-iOS-11.0.zip"
+                }
+            }
+        },
+        "Android": {
+            "4.0": {
+                "Kony_SyncV2-Android-4.0": {
+                    "title": "Kony_SyncV2",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "url": "D:\\Installation\\Visualizer\\8.0\\Kony_Visualizer_Enterprise\\configuration\\org.eclipse.osgi\\bundles\\586\\1\\.cp\\resources\\sdk\\nativeBindings\\Kony_SyncV2-Android-4.0.zip",
+                    "filepath": "C:\\Users\\KH9284\\8.0.7\\KitchenSinkApp\\nativebindings\\Android\\4.0\\Kony_SyncV2-Android-4.0.zip"
+                }
+            }
+        }
     }
 }

@@ -11,7 +11,8 @@
             "id": "customcode_onClick_805079745998652124",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "BadgeIncrease",
-            "display": "BadgeIncrease"
+            "display": "BadgeIncrease",
+            "source": "module"
         }]
     }
 }

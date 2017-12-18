@@ -11,7 +11,8 @@
             "id": "customcode_onClick_6036812889314953414",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "geoPosition",
-            "display": "geoPosition"
+            "display": "geoPosition",
+            "source": "module"
         }]
     }
 }

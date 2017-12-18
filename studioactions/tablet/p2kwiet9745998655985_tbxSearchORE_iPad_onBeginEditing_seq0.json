@@ -14,7 +14,8 @@
             "id": "customcode_onBeginEditing_542349745998658022",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "beginEdit",
-            "display": "beginEdit"
+            "display": "beginEdit",
+            "source": "module"
         }]
     }
 }

@@ -11,7 +11,8 @@
             "id": "customcode_onClick_5875212889314956108",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "SecHdrWidoutTemplatesJSSPA",
-            "display": "SecHdrWidoutTemplatesJSSPA"
+            "display": "SecHdrWidoutTemplatesJSSPA",
+            "source": "module"
         }]
     }
 }

@@ -11,7 +11,8 @@
             "id": "customcode_onClick_205019745998653884",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "sendSMS",
-            "display": "sendSMS"
+            "display": "sendSMS",
+            "source": "module"
         }]
     }
 }

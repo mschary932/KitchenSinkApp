@@ -15,7 +15,8 @@
             "inputparams": [{
                 "name": "seguiWidget",
                 "value": "eventobject"
-            }]
+            }],
+            "source": "module"
         }]
     }
 }

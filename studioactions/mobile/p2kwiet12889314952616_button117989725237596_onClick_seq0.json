@@ -11,7 +11,8 @@
             "id": "customcode_onClick_9925612889314958119",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "segwidDictionary",
-            "display": "segwidDictionary"
+            "display": "segwidDictionary",
+            "source": "module"
         }, {
             "id": "navigation_onClick_878112889314957698",
             "type": "NAVIGATE_TO_FORM",
@@ -20,7 +21,8 @@
             "mappings": {},
             "mappingsOrder": [],
             "parentId": "",
-            "enableMappingEditor": true
+            "enableMappingEditor": true,
+            "package": ""
         }]
     }
 }

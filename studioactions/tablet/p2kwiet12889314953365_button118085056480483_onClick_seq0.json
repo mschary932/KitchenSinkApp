@@ -11,7 +11,8 @@
             "id": "customcode_onClick_989212889314959162",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "unRegisterAccEvent",
-            "display": "unRegisterAccEvent"
+            "display": "unRegisterAccEvent",
+            "source": "module"
         }]
     }
 }

@@ -11,7 +11,8 @@
             "id": "customcode_onClick_287579745998654588",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "CalendarRemoveEvent",
-            "display": "CalendarRemoveEvent"
+            "display": "CalendarRemoveEvent",
+            "source": "module"
         }]
     }
 }

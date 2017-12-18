@@ -14,7 +14,8 @@
             "id": "customcode_init_286712889314952055",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "setLocationData",
-            "display": "setLocationData"
+            "display": "setLocationData",
+            "source": "module"
         }]
     }
 }

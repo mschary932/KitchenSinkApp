@@ -15,7 +15,8 @@
             "inputparams": [{
                 "name": "btnId",
                 "value": "eventobject.id"
-            }]
+            }],
+            "source": "module"
         }]
     }
 }

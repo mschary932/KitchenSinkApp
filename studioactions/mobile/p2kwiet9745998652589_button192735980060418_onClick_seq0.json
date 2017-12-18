@@ -11,12 +11,14 @@
             "id": "customcode_onClick_95939745998658615",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "segwidMultiTemplate",
-            "display": "segwidMultiTemplate"
+            "display": "segwidMultiTemplate",
+            "source": "module"
         }, {
             "id": "customcode_onClick_738259745998658522",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "segWidoutRowtmplateJS",
-            "display": "segWidoutRowtmplateJS"
+            "display": "segWidoutRowtmplateJS",
+            "source": "module"
         }, {
             "id": "navigation_onClick_618469745998656234",
             "type": "NAVIGATE_TO_FORM",

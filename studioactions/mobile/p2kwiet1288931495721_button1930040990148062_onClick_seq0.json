@@ -11,7 +11,8 @@
             "id": "customcode_onClick_2412712889314951536",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "addContact",
-            "display": "addContact"
+            "display": "addContact",
+            "source": "module"
         }]
     }
 }

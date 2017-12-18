@@ -11,7 +11,8 @@
             "id": "customcode_onClick_690021288931495213",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "GetKey",
-            "display": "GetKey"
+            "display": "GetKey",
+            "source": "module"
         }]
     }
 }

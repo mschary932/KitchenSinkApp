@@ -11,7 +11,8 @@
             "id": "customcode_onClick_584969745998658672",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "multiSelect",
-            "display": "multiSelect"
+            "display": "multiSelect",
+            "source": "module"
         }]
     }
 }

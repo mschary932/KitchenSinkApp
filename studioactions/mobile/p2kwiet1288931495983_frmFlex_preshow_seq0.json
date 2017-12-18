@@ -11,7 +11,8 @@
             "id": "customcode_preshow_3787912889314952466",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "resetWidgetPositions",
-            "display": "resetWidgetPositions"
+            "display": "resetWidgetPositions",
+            "source": "module"
         }]
     }
 }

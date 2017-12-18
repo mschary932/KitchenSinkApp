@@ -11,7 +11,8 @@
             "id": "customcode_onClick_5910812889314956947",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "tab_LoadingScreenCenter",
-            "display": "tab_LoadingScreenCenter"
+            "display": "tab_LoadingScreenCenter",
+            "source": "module"
         }]
     }
 }

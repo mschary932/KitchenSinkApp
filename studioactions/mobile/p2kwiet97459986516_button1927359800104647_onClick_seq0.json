@@ -11,7 +11,8 @@
             "id": "customcode_onClick_291039745998654828",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "regAccEvent",
-            "display": "regAccEvent"
+            "display": "regAccEvent",
+            "source": "module"
         }, {
             "id": "navigation_onClick_47104974599865224",
             "type": "NAVIGATE_TO_FORM",

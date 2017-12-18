@@ -11,7 +11,8 @@
             "id": "customcode_onClick_655359745998657715",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "doTransactioninsertData",
-            "display": "doTransactioninsertData"
+            "display": "doTransactioninsertData",
+            "source": "module"
         }]
     }
 }

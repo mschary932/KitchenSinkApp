@@ -14,7 +14,8 @@
             "id": "customcode_postshow_344739745998651783",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "segwidDictionary",
-            "display": "segwidDictionary"
+            "display": "segwidDictionary",
+            "source": "module"
         }]
     }
 }

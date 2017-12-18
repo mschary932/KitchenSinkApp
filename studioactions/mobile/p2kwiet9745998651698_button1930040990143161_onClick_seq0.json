@@ -11,7 +11,8 @@
             "id": "customcode_onClick_449179745998658245",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "getItemvalues",
-            "display": "getItemvalues"
+            "display": "getItemvalues",
+            "source": "module"
         }]
     }
 }

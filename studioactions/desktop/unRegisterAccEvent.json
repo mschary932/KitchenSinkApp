@@ -14,7 +14,8 @@
             "display": "unRegisterAccEvent",
             "inputparams": [],
             "parentId": null,
-            "callbackType": null
+            "callbackType": null,
+            "source": "module"
         }]
     }
 }

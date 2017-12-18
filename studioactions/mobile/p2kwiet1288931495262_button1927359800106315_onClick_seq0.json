@@ -11,7 +11,8 @@
             "id": "customcode_onClick_6279212889314951617",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "APIKeyCheck",
-            "display": "APIKeyCheck"
+            "display": "APIKeyCheck",
+            "source": "module"
         }]
     }
 }

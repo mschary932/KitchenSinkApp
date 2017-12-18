@@ -11,7 +11,8 @@
             "id": "customcode_onClick_328339745998655307",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "httpRequestCall",
-            "display": "httpRequestCall"
+            "display": "httpRequestCall",
+            "source": "module"
         }]
     }
 }

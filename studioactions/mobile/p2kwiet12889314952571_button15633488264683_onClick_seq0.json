@@ -11,12 +11,14 @@
             "id": "customcode_onClick_8058012889314952324",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "callService",
-            "display": "callService"
+            "display": "callService",
+            "source": "module"
         }, {
             "id": "customcode_onClick_7448212889314951314",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "scrollEnd",
-            "display": "scrollEnd"
+            "display": "scrollEnd",
+            "source": "module"
         }, {
             "id": "navigation_onClick_9326112889314954690",
             "type": "NAVIGATE_TO_FORM",
@@ -25,7 +27,8 @@
             "mappings": {},
             "mappingsOrder": [],
             "parentId": "",
-            "enableMappingEditor": true
+            "enableMappingEditor": true,
+            "package": ""
         }]
     }
 }

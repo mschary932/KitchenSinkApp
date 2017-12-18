@@ -17,7 +17,8 @@
             "id": "customcode_onRowClick_5808712889314953892",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "advancedSPA",
-            "display": "advancedSPA"
+            "display": "advancedSPA",
+            "source": "module"
         }]
     }
 }

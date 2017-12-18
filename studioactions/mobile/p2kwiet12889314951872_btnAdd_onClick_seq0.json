@@ -11,7 +11,8 @@
             "id": "customcode_onClick_949012889314954688",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "setNewData",
-            "display": "setNewData"
+            "display": "setNewData",
+            "source": "module"
         }]
     }
 }

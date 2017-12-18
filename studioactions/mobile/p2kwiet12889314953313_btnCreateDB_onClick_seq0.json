@@ -11,7 +11,8 @@
             "id": "customcode_onClick_3036512889314957440",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "createDB",
-            "display": "createDB"
+            "display": "createDB",
+            "source": "module"
         }]
     }
 }

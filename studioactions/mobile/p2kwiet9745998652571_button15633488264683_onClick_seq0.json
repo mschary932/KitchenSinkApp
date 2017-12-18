@@ -11,12 +11,14 @@
             "id": "customcode_onClick_265579745998651908",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "callService",
-            "display": "callService"
+            "display": "callService",
+            "source": "module"
         }, {
             "id": "customcode_onClick_44600974599865420",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "scrollEnd",
-            "display": "scrollEnd"
+            "display": "scrollEnd",
+            "source": "module"
         }, {
             "id": "navigation_onClick_784089745998653326",
             "type": "NAVIGATE_TO_FORM",

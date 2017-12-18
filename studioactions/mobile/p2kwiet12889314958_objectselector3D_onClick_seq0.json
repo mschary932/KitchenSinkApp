@@ -2,12 +2,14 @@
     "p2kwiet12889314958_objectselector3D_onClick_seq0": {
         "id": "p2kwiet12889314958_objectselector3D_onClick_seq0",
         "type": "ACTION_SEQUENCE",
+        "params": [],
         "language": "js",
         "actions": [{
             "id": "customcode_onClick_838841288931495189",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "getSelected3DOS",
-            "display": "getSelected3DOS"
+            "display": "getSelected3DOS",
+            "source": "module"
         }]
     }
 }

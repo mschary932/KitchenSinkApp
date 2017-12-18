@@ -14,7 +14,8 @@
             "id": "customcode_init_6418412889314953165",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "switchandOS3D",
-            "display": "switchandOS3D"
+            "display": "switchandOS3D",
+            "source": "module"
         }]
     }
 }

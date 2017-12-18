@@ -33,7 +33,8 @@
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "simulatorCheck",
             "display": "simulatorCheck",
-            "parentId": "decision_onClick_878289745998657431"
+            "parentId": "decision_onClick_878289745998657431",
+            "source": "module"
         }]
     }
 }

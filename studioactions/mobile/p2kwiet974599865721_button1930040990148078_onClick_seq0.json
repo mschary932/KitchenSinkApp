@@ -11,7 +11,8 @@
             "id": "customcode_onClick_435289745998658120",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "removeContact",
-            "display": "removeContact"
+            "display": "removeContact",
+            "source": "module"
         }]
     }
 }

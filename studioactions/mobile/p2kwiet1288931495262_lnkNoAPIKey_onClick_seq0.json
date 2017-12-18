@@ -11,7 +11,8 @@
             "id": "customcode_onClick_4793612889314959537",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "requestAPiKey",
-            "display": "requestAPiKey"
+            "display": "requestAPiKey",
+            "source": "module"
         }]
     }
 }

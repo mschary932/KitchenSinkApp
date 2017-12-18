@@ -18,7 +18,8 @@
             "id": "customcode_postshow_734512889314951950",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "segmentViewsSetting",
-            "display": "segmentViewsSetting"
+            "display": "segmentViewsSetting",
+            "source": "module"
         }]
     }
 }

@@ -11,7 +11,8 @@
             "id": "customcode_onClick_968911288931495757",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "deviceInfo",
-            "display": "deviceInfo"
+            "display": "deviceInfo",
+            "source": "module"
         }, {
             "id": "navigation_onClick_7044712889314954269",
             "type": "NAVIGATE_TO_FORM",
@@ -20,7 +21,8 @@
             "mappings": {},
             "mappingsOrder": [],
             "parentId": "",
-            "enableMappingEditor": true
+            "enableMappingEditor": true,
+            "package": ""
         }]
     }
 }

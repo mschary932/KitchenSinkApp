@@ -14,7 +14,8 @@
             "id": "customcode_onClick_86069745998654052",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "popSegSelect",
-            "display": "popSegSelect"
+            "display": "popSegSelect",
+            "source": "module"
         }]
     }
 }

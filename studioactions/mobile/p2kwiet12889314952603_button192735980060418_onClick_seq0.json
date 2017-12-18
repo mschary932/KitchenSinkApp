@@ -11,17 +11,20 @@
             "id": "customcode_onClick_515501288931495403",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "segwidMultiTemplateSPA",
-            "display": "segwidMultiTemplateSPA"
+            "display": "segwidMultiTemplateSPA",
+            "source": "module"
         }, {
             "id": "customcode_onClick_9121712889314959108",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "segWidoutRowtmplateJS",
-            "display": "segWidoutRowtmplateJS"
+            "display": "segWidoutRowtmplateJS",
+            "source": "module"
         }, {
             "id": "customcode_onClick_4576512889314952704",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "segMetainfoJS",
-            "display": "segMetainfoJS"
+            "display": "segMetainfoJS",
+            "source": "module"
         }, {
             "id": "navigation_onClick_630491288931495355",
             "type": "NAVIGATE_TO_FORM",
@@ -30,7 +33,8 @@
             "mappings": {},
             "mappingsOrder": [],
             "parentId": "",
-            "enableMappingEditor": true
+            "enableMappingEditor": true,
+            "package": ""
         }]
     }
 }

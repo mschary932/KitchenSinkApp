@@ -11,12 +11,14 @@
             "id": "customcode_preappinit_7937812889314951686",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "setChannelDesktop",
-            "display": "setChannelDesktop"
+            "display": "setChannelDesktop",
+            "source": "module"
         }, {
             "id": "customcode_preappinit_8643712889314958382",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "createAppMenu",
-            "display": "createAppMenu"
+            "display": "createAppMenu",
+            "source": "module"
         }, {
             "id": "expression_preappinit_2673012889314953309",
             "type": "ADD_SNIPPET",

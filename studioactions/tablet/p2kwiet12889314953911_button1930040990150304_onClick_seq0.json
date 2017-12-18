@@ -11,7 +11,8 @@
             "id": "customcode_onClick_6758612889314959382",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "getCurrentAdress",
-            "display": "getCurrentAdress"
+            "display": "getCurrentAdress",
+            "source": "module"
         }]
     }
 }

@@ -11,7 +11,8 @@
             "id": "customcode_onClick_675129745998652642",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "findContact",
-            "display": "findContact"
+            "display": "findContact",
+            "source": "module"
         }]
     }
 }

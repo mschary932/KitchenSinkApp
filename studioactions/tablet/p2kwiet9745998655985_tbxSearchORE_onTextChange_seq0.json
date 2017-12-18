@@ -14,7 +14,8 @@
             "id": "customcode_onTextChange_696379745998658688",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "displaySearch",
-            "display": "displaySearch"
+            "display": "displaySearch",
+            "source": "module"
         }]
     }
 }

@@ -21,7 +21,8 @@
             "inputparams": [{
                 "name": "segment",
                 "value": "eventobject"
-            }]
+            }],
+            "source": "module"
         }]
     }
 }
