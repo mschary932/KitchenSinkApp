@@ -548,7 +548,4 @@ function frmCryptoGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmCrypto.info = {
-        "kuid": "p2kwiet1288931495761"
-    };
 };

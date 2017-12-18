@@ -238,7 +238,4 @@ function popTopNBottomGlobals() {
         },
         "popupStyle": constants.POPUP_TYPE_NATIVE_STYLE
     });
-    popTopNBottom.info = {
-        "kuid": "p2kwiet12889314955939"
-    };
 };

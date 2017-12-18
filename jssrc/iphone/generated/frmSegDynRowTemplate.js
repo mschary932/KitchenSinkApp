@@ -105,7 +105,4 @@ function frmSegDynRowTemplateGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSegDynRowTemplate.info = {
-        "kuid": "p2kwiet12889314952505"
-    };
 };

@@ -97,7 +97,4 @@ function frmSegInvertCylinderViewGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSegInvertCylinderView.info = {
-        "kuid": "p2kwiet12889314952542"
-    };
 };

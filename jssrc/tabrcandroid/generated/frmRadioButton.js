@@ -217,7 +217,4 @@ function frmRadioButtonGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmRadioButton.info = {
-        "kuid": "p2kwiet12889314954260"
-    };
 };

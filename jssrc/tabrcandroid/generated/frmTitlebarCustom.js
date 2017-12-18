@@ -46,7 +46,4 @@ function frmTitlebarCustomGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmTitlebarCustom.info = {
-        "kuid": "p2kwiet12889314954870"
-    };
 };

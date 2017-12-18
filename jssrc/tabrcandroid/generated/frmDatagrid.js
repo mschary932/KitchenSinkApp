@@ -456,7 +456,4 @@ function frmDatagridGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmDatagrid.info = {
-        "kuid": "p2kwiet12889314953767"
-    };
 };

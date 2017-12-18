@@ -246,7 +246,4 @@ function frmPickerViewGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmPickerView.info = {
-        "kuid": "p2kwiet12889314951872"
-    };
 };

@@ -817,7 +817,4 @@ function frmLocalStoreGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmLocalStore.info = {
-        "kuid": "p2kwiet12889314951655"
-    };
 };

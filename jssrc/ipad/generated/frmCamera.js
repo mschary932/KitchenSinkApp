@@ -556,7 +556,4 @@ function frmCameraGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmCamera.info = {
-        "kuid": "p2kwiet12889314953672"
-    };
 };

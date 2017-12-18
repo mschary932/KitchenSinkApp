@@ -175,7 +175,4 @@ function frmIconsGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmIcons.info = {
-        "kuid": "p2kwiet12889314953994"
-    };
 };

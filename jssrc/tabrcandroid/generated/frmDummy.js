@@ -28,7 +28,4 @@ function frmDummyGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmDummy.info = {
-        "kuid": "p2kwiet12889314953845"
-    };
 };

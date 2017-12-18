@@ -153,7 +153,4 @@ function frmsegGroupModeGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmsegGroupMode.info = {
-        "kuid": "frmsegGroupModeAndroid"
-    };
 };

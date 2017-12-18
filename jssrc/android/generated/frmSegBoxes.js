@@ -129,7 +129,4 @@ function frmSegBoxesGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmSegBoxes.info = {
-        "kuid": "p2kwiet12889314952453"
-    };
 };

@@ -29,7 +29,4 @@ function frmAniSwitchLeftGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAniSwitchLeft.info = {
-        "kuid": "p2kwiet1288931495208"
-    };
 };

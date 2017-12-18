@@ -60,7 +60,4 @@ function popFormAnchorGlobals() {
         },
         "windowSoftInputMode": constants.POPUP_ADJUST_RESIZE
     });
-    popFormAnchor.info = {
-        "kuid": "p2kwiet12889314955909"
-    };
 };

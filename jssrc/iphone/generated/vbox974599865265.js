@@ -34,7 +34,6 @@ function initializevbox974599865265() {
     var lblEmpID = new kony.ui.Label({
         "id": "lblEmpID",
         "isVisible": true,
-        "skin": "lblNormal",
         "text": "Label"
     }, {
         "containerWeight": 33,
@@ -53,7 +52,6 @@ function initializevbox974599865265() {
     var lblEmpName = new kony.ui.Label({
         "id": "lblEmpName",
         "isVisible": true,
-        "skin": "lblNormal",
         "text": "Label"
     }, {
         "containerWeight": 34,
@@ -72,7 +70,6 @@ function initializevbox974599865265() {
     var lblDepId = new kony.ui.Label({
         "id": "lblDepId",
         "isVisible": true,
-        "skin": "lblNormal",
         "text": "Label"
     }, {
         "containerWeight": 33,

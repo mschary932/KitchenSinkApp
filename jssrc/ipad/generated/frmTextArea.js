@@ -340,7 +340,4 @@ function frmTextAreaGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmTextArea.info = {
-        "kuid": "p2kwiet12889314954839"
-    };
 };

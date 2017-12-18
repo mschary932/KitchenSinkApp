@@ -133,7 +133,4 @@ function frmCalendarEventsGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmCalendarEvents.info = {
-        "kuid": "p2kwiet1288931495533"
-    };
 };

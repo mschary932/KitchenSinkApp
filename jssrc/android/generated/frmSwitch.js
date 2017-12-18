@@ -134,7 +134,4 @@ function frmSwitchGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmSwitch.info = {
-        "kuid": "p2kwiet12889314952934"
-    };
 };

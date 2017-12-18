@@ -108,7 +108,4 @@ function frmSegCoverFlowViewGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmSegCoverFlowView.info = {
-        "kuid": "frmSegCoverFlowViewAndroid"
-    };
 };

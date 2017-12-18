@@ -113,7 +113,4 @@ function frmSegSinleSelectGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmSegSinleSelect.info = {
-        "kuid": "p2kwiet12889314952800"
-    };
 };

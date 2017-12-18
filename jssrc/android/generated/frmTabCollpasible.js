@@ -164,7 +164,4 @@ function frmTabCollpasibleGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmTabCollpasible.info = {
-        "kuid": "p2kwiet12889314952946"
-    };
 };

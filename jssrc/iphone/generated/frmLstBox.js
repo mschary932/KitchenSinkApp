@@ -347,7 +347,4 @@ function frmLstBoxGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmLstBox.info = {
-        "kuid": "p2kwiet12889314951809"
-    };
 };

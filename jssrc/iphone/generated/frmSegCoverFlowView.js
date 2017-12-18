@@ -107,7 +107,4 @@ function frmSegCoverFlowViewGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSegCoverFlowView.info = {
-        "kuid": "p2kwiet12889314952464"
-    };
 };

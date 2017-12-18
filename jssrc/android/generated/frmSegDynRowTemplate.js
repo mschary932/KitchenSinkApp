@@ -84,7 +84,4 @@ function frmSegDynRowTemplateGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmSegDynRowTemplate.info = {
-        "kuid": "p2kwiet12889314952505"
-    };
 };

@@ -109,7 +109,4 @@ function frmSegCustomPageIndicatorGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSegCustomPageIndicator.info = {
-        "kuid": "p2kwiet12889314952487"
-    };
 };

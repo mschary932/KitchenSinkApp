@@ -308,7 +308,4 @@ function frmRdoGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmRdo.info = {
-        "kuid": "p2kwiet12889314951930"
-    };
 };

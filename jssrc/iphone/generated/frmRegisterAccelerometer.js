@@ -141,7 +141,4 @@ function frmRegisterAccelerometerGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmRegisterAccelerometer.info = {
-        "kuid": "p2kwiet12889314951944"
-    };
 };

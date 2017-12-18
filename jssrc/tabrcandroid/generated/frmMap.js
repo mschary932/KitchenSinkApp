@@ -96,7 +96,4 @@ function frmMapGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmMap.info = {
-        "kuid": "p2kwiet12889314954207"
-    };
 };

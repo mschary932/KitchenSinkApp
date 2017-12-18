@@ -65,7 +65,4 @@ function frmAppSettingsGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAppSettings.info = {
-        "kuid": "p2kwiet1288931495280"
-    };
 };

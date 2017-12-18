@@ -433,7 +433,4 @@ function frmGeoCurrentNWatchGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmGeoCurrentNWatch.info = {
-        "kuid": "p2kwiet12889314953911"
-    };
 };

@@ -147,7 +147,4 @@ function frmCamOrientGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmCamOrient.info = {
-        "kuid": "p2kwiet1288931495588"
-    };
 };

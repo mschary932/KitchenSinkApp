@@ -68,7 +68,4 @@ function frmEmailGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmEmail.info = {
-        "kuid": "p2kwiet1288931495966"
-    };
 };

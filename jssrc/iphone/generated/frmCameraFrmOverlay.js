@@ -162,7 +162,4 @@ function frmCameraFrmOverlayGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmCameraFrmOverlay.info = {
-        "kuid": "p2kwiet1288931495565"
-    };
 };

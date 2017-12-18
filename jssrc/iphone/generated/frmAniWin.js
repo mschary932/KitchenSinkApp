@@ -91,7 +91,4 @@ function frmAniWinGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmAniWin.info = {
-        "kuid": "p2kwiet1288931495232"
-    };
 };

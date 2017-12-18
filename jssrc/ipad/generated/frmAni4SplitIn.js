@@ -46,7 +46,4 @@ function frmAni4SplitInGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmAni4SplitIn.info = {
-        "kuid": "p2kwiet12889314953384"
-    };
 };

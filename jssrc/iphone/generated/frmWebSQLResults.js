@@ -91,7 +91,4 @@ function frmWebSQLResultsGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmWebSQLResults.info = {
-        "kuid": "p2kwiet12889314953323"
-    };
 };

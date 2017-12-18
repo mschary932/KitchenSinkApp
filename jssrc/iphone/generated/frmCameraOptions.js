@@ -136,7 +136,4 @@ function frmCameraOptionsGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmCameraOptions.info = {
-        "kuid": "p2kwiet1288931495574"
-    };
 };

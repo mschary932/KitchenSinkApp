@@ -107,7 +107,4 @@ function frmSegPageViewGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmSegPageView.info = {
-        "kuid": "frmSegPageViewAndroid"
-    };
 };

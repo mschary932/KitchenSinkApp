@@ -95,7 +95,4 @@ function frmSegOnReachEndGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSegOnReachEnd.info = {
-        "kuid": "p2kwiet12889314954669"
-    };
 };

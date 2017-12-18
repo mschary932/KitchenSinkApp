@@ -371,7 +371,4 @@ function frmListBoxGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmListBox.info = {
-        "kuid": "p2kwiet12889314954158"
-    };
 };

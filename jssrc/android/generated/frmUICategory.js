@@ -75,7 +75,4 @@ function frmUICategoryGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmUICategory.info = {
-        "kuid": "p2kwiet12889314953282"
-    };
 };

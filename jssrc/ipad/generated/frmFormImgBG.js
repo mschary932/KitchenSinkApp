@@ -46,7 +46,4 @@ function frmFormImgBGGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmFormImgBG.info = {
-        "kuid": "p2kwiet12889314953870"
-    };
 };

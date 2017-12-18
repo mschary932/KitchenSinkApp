@@ -296,7 +296,4 @@ function frmFlexGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp",
         "zoomScale": 1
     });
-    frmFlex.info = {
-        "kuid": "p2kwiet1288931495983"
-    };
 };

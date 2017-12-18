@@ -197,7 +197,4 @@ function frmSwitchGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSwitch.info = {
-        "kuid": "p2kwiet12889314952934"
-    };
 };

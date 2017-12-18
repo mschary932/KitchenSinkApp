@@ -90,7 +90,4 @@ function frmLiveTilesGlobals() {
             "titleBarRightSideView": "none"
         }
     });
-    frmLiveTiles.info = {
-        "kuid": "p2kwiet12889314951612"
-    };
 };

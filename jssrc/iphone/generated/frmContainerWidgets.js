@@ -95,7 +95,4 @@ function frmContainerWidgetsGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmContainerWidgets.info = {
-        "kuid": "p2kwiet1288931495728"
-    };
 };

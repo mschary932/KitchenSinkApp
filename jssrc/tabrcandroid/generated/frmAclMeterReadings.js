@@ -470,7 +470,4 @@ function frmAclMeterReadingsGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAclMeterReadings.info = {
-        "kuid": "p2kwiet12889314953365"
-    };
 };

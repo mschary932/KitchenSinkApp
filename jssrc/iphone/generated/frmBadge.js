@@ -89,7 +89,4 @@ function frmBadgeGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmBadge.info = {
-        "kuid": "p2kwiet1288931495321"
-    };
 };

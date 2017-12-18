@@ -78,7 +78,4 @@ function frmRichTextGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmRichText.info = {
-        "kuid": "p2kwiet12889314954266"
-    };
 };

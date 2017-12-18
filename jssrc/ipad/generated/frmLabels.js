@@ -451,7 +451,4 @@ function frmLabelsGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmLabels.info = {
-        "kuid": "p2kwiet12889314954120"
-    };
 };

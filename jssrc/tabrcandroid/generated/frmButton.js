@@ -223,7 +223,4 @@ function frmButtonGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmButton.info = {
-        "kuid": "p2kwiet12889314953615"
-    };
 };

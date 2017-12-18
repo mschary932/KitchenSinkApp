@@ -142,7 +142,4 @@ function frmComboBoxGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmComboBox.info = {
-        "kuid": "p2kwiet12889314953712"
-    };
 };

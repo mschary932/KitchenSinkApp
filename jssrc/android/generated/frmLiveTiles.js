@@ -67,7 +67,4 @@ function frmLiveTilesGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmLiveTiles.info = {
-        "kuid": "p2kwiet12889314951612"
-    };
 };

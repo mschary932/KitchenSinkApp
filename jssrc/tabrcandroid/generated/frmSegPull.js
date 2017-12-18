@@ -71,7 +71,4 @@ function frmSegPullGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmSegPull.info = {
-        "kuid": "p2kwiet12889314954676"
-    };
 };

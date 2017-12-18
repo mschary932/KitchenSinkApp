@@ -37,7 +37,4 @@ function frmAnitoleftGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmAnitoleft.info = {
-        "kuid": "p2kwiet12889314953504"
-    };
 };

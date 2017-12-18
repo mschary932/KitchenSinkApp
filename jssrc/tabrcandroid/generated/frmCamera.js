@@ -529,7 +529,4 @@ function frmCameraGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmCamera.info = {
-        "kuid": "p2kwiet12889314953672"
-    };
 };

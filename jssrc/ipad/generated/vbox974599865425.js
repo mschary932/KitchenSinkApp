@@ -17,7 +17,6 @@ function initializevbox974599865425() {
     var lblContact = new kony.ui.Label({
         "id": "lblContact",
         "isVisible": true,
-        "skin": "lblNormal",
         "text": "Label"
     }, {
         "containerWeight": 100,

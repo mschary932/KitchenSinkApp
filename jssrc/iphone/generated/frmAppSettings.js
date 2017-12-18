@@ -91,7 +91,4 @@ function frmAppSettingsGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmAppSettings.info = {
-        "kuid": "p2kwiet1288931495280"
-    };
 };

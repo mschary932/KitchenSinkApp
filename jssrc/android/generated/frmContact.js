@@ -105,7 +105,4 @@ function frmContactGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmContact.info = {
-        "kuid": "p2kwiet1288931495721"
-    };
 };

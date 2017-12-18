@@ -155,7 +155,4 @@ function frmAPIKeyGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmAPIKey.info = {
-        "kuid": "p2kwiet1288931495262"
-    };
 };

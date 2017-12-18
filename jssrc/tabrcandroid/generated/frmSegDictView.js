@@ -68,7 +68,4 @@ function frmSegDictViewGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmSegDictView.info = {
-        "kuid": "p2kwiet12889314954499"
-    };
 };

@@ -242,7 +242,4 @@ function frmLinkGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmLink.info = {
-        "kuid": "p2kwiet12889314951605"
-    };
 };

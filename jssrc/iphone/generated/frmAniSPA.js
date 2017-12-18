@@ -89,7 +89,4 @@ function frmAniSPAGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmAniSPA.info = {
-        "kuid": "p2kwiet1288931495203"
-    };
 };

@@ -306,7 +306,4 @@ function frmComplexGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmComplex.info = {
-        "kuid": "frmComplexAndroid"
-    };
 };

@@ -28,7 +28,4 @@ function frmAnileftGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAnileft.info = {
-        "kuid": "p2kwiet12889314953449"
-    };
 };

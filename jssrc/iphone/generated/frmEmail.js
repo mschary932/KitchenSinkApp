@@ -92,7 +92,4 @@ function frmEmailGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmEmail.info = {
-        "kuid": "p2kwiet1288931495966"
-    };
 };

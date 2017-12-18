@@ -1197,7 +1197,4 @@ function frmTabPaneGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmTabPane.info = {
-        "kuid": "p2kwiet12889314954820"
-    };
 };

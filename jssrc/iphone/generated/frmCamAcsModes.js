@@ -170,7 +170,4 @@ function frmCamAcsModesGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmCamAcsModes.info = {
-        "kuid": "p2kwiet1288931495546"
-    };
 };

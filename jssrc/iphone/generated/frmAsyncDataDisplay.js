@@ -94,7 +94,4 @@ function frmAsyncDataDisplayGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmAsyncDataDisplay.info = {
-        "kuid": "p2kwiet1288931495314"
-    };
 };

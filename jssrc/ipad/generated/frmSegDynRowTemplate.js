@@ -94,7 +94,4 @@ function frmSegDynRowTemplateGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmSegDynRowTemplate.info = {
-        "kuid": "p2kwiet12889314954506"
-    };
 };

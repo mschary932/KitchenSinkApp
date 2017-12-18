@@ -159,7 +159,4 @@ function frmTabDefaultGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmTabDefault.info = {
-        "kuid": "p2kwiet12889314952958"
-    };
 };

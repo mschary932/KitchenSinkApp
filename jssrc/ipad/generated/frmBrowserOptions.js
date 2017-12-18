@@ -181,7 +181,4 @@ function frmBrowserOptionsGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmBrowserOptions.info = {
-        "kuid": "p2kwiet12889314953600"
-    };
 };

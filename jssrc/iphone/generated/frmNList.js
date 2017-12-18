@@ -109,7 +109,4 @@ function frmNListGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmNList.info = {
-        "kuid": "p2kwiet12889314951835"
-    };
 };

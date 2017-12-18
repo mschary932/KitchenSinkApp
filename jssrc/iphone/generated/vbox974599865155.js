@@ -34,7 +34,6 @@ function initializevbox974599865155() {
     var lblKey = new kony.ui.Label({
         "id": "lblKey",
         "isVisible": true,
-        "skin": "lblNormal",
         "text": "Label"
     }, {
         "containerWeight": 46,
@@ -53,7 +52,6 @@ function initializevbox974599865155() {
     var lblVal = new kony.ui.Label({
         "id": "lblVal",
         "isVisible": true,
-        "skin": "lblNormal",
         "text": "Label"
     }, {
         "containerWeight": 54,

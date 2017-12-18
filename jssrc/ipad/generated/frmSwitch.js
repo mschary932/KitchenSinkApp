@@ -227,7 +227,4 @@ function frmSwitchGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmSwitch.info = {
-        "kuid": "p2kwiet12889314954757"
-    };
 };

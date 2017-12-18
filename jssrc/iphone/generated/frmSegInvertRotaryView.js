@@ -97,7 +97,4 @@ function frmSegInvertRotaryViewGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSegInvertRotaryView.info = {
-        "kuid": "p2kwiet12889314952551"
-    };
 };

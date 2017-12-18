@@ -135,7 +135,4 @@ function frmAniGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmAni.info = {
-        "kuid": "p2kwiet128893149576"
-    };
 };

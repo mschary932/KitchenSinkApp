@@ -179,7 +179,4 @@ function frmsegGroupModeGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmsegGroupMode.info = {
-        "kuid": "p2kwiet12889314952516"
-    };
 };

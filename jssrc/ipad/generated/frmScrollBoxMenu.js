@@ -1284,7 +1284,4 @@ function frmScrollBoxMenuGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmScrollBoxMenu.info = {
-        "kuid": "p2kwiet12889314954342"
-    };
 };

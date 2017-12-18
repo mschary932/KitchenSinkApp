@@ -180,7 +180,4 @@ function frmCheckboxGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmCheckbox.info = {
-        "kuid": "p2kwiet12889314953691"
-    };
 };

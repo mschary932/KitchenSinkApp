@@ -359,7 +359,4 @@ function frmFormGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmForm.info = {
-        "kuid": "p2kwiet12889314951002"
-    };
 };

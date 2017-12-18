@@ -57,7 +57,4 @@ function frmAniWinRotate3DSingleGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmAniWinRotate3DSingle.info = {
-        "kuid": "p2kwiet1288931495244"
-    };
 };

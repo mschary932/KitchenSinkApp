@@ -17,7 +17,6 @@ function initializevbox974599865283() {
     var lblContainerWidget = new kony.ui.Label({
         "id": "lblContainerWidget",
         "isVisible": true,
-        "skin": "lblNormalTab",
         "text": "Label"
     }, {
         "containerWeight": 100,

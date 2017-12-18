@@ -113,7 +113,4 @@ function frmAclmeterOptionsGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmAclmeterOptions.info = {
-        "kuid": "p2kwiet128893149516"
-    };
 };

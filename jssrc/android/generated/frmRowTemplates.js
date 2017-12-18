@@ -138,7 +138,4 @@ function frmRowTemplatesGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmRowTemplates.info = {
-        "kuid": "p2kwiet12889314951970"
-    };
 };

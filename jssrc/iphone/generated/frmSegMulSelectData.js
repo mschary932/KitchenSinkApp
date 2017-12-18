@@ -110,7 +110,4 @@ function frmSegMulSelectDataGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSegMulSelectData.info = {
-        "kuid": "p2kwiet12889314952641"
-    };
 };

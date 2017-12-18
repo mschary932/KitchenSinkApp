@@ -90,7 +90,4 @@ function frmPushPullGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmPushPull.info = {
-        "kuid": "p2kwiet12889314951909"
-    };
 };

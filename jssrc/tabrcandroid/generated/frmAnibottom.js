@@ -28,7 +28,4 @@ function frmAnibottomGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAnibottom.info = {
-        "kuid": "p2kwiet12889314953400"
-    };
 };

@@ -17,7 +17,6 @@ function initializevbox974599865351() {
     var lblAdvancedWidget = new kony.ui.Label({
         "id": "lblAdvancedWidget",
         "isVisible": true,
-        "skin": "lblNormalTab",
         "text": "Label"
     }, {
         "containerWeight": 100,

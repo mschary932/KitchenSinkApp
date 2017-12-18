@@ -215,7 +215,4 @@ function frmWebSQLGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmWebSQL.info = {
-        "kuid": "p2kwiet12889314955060"
-    };
 };

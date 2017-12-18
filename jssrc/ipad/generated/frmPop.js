@@ -141,7 +141,4 @@ function frmPopGlobals() {
         },
         "popupStyle": constants.POPUP_TYPE_NATIVE_STYLE
     });
-    frmPop.info = {
-        "kuid": "p2kwiet12889314955903"
-    };
 };

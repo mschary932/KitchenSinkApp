@@ -44,7 +44,4 @@ function frmAniWinSqueezeGlobals() {
         "titleBar": false,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAniWinSqueeze.info = {
-        "kuid": "p2kwiet1288931495252"
-    };
 };

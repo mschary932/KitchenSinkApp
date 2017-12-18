@@ -519,7 +519,4 @@ function frmAppSettingsGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmAppSettings.info = {
-        "kuid": "p2kwiet12889314953540"
-    };
 };

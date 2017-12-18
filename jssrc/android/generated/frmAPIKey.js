@@ -123,7 +123,4 @@ function frmAPIKeyGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAPIKey.info = {
-        "kuid": "p2kwiet1288931495262"
-    };
 };

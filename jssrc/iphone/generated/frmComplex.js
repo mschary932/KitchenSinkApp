@@ -331,7 +331,4 @@ function frmComplexGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmComplex.info = {
-        "kuid": "p2kwiet1288931495668"
-    };
 };

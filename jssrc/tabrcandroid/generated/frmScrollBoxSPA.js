@@ -250,7 +250,4 @@ function frmScrollBoxSPAGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmScrollBoxSPA.info = {
-        "kuid": "p2kwiet12889314954494"
-    };
 };

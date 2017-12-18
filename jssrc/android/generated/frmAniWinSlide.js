@@ -44,7 +44,4 @@ function frmAniWinSlideGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAniWinSlide.info = {
-        "kuid": "p2kwiet1288931495248"
-    };
 };

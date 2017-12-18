@@ -133,7 +133,4 @@ function frmContactGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmContact.info = {
-        "kuid": "p2kwiet1288931495721"
-    };
 };

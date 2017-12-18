@@ -394,7 +394,4 @@ function frmAsyncDataAccessGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAsyncDataAccess.info = {
-        "kuid": "p2kwiet12889314953570"
-    };
 };

@@ -17,7 +17,6 @@ function initializevbox974599865199() {
     var label117989725233823 = new kony.ui.Label({
         "id": "label117989725233823",
         "isVisible": true,
-        "skin": "lblNormal",
         "text": "Label"
     }, {
         "containerWeight": 100,
@@ -62,7 +61,6 @@ function initializevbox974599865199() {
     var label117989725233827 = new kony.ui.Label({
         "id": "label117989725233827",
         "isVisible": true,
-        "skin": "lblNormal",
         "text": "Label"
     }, {
         "containerWeight": 100,

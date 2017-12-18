@@ -508,7 +508,4 @@ function frmGeoCurrentNWatchGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmGeoCurrentNWatch.info = {
-        "kuid": "p2kwiet12889314951129"
-    };
 };

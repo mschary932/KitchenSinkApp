@@ -190,7 +190,4 @@ function frmToggleTabsGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmToggleTabs.info = {
-        "kuid": "p2kwiet12889314953174"
-    };
 };

@@ -66,7 +66,4 @@ function frmSegSwipeGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmSegSwipe.info = {
-        "kuid": "p2kwiet12889314954714"
-    };
 };

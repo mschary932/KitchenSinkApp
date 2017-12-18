@@ -107,7 +107,4 @@ function frmCameraBasicGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmCameraBasic.info = {
-        "kuid": "p2kwiet1288931495554"
-    };
 };

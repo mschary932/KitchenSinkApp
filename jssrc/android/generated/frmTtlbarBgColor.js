@@ -47,7 +47,4 @@ function frmTtlbarBgColorGlobals() {
         "titleBarSkin": "titlestudio1",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmTtlbarBgColor.info = {
-        "kuid": "p2kwiet12889314953178"
-    };
 };

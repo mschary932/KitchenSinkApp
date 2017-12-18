@@ -1113,7 +1113,4 @@ function frmScrollBoxMenuGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmScrollBoxMenu.info = {
-        "kuid": "p2kwiet12889314952058"
-    };
 };

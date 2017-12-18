@@ -326,7 +326,4 @@ function frmTextAreaGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmTextArea.info = {
-        "kuid": "p2kwiet12889314954839"
-    };
 };

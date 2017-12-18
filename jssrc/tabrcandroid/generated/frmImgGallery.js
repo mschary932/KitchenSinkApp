@@ -108,7 +108,4 @@ function frmImgGalleryGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmImgGallery.info = {
-        "kuid": "p2kwiet12889314954077"
-    };
 };

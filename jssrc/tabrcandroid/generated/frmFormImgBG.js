@@ -30,7 +30,4 @@ function frmFormImgBGGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmFormImgBG.info = {
-        "kuid": "p2kwiet12889314953870"
-    };
 };

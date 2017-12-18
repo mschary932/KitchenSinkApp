@@ -66,7 +66,4 @@ function frmTtlbarDefaultGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmTtlbarDefault.info = {
-        "kuid": "p2kwiet12889314953191"
-    };
 };

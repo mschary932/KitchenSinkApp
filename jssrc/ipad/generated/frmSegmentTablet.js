@@ -1386,7 +1386,4 @@ function frmSegmentTabletGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmSegmentTablet.info = {
-        "kuid": "p2kwiet12889314954608"
-    };
 };

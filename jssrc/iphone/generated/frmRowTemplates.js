@@ -164,7 +164,4 @@ function frmRowTemplatesGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmRowTemplates.info = {
-        "kuid": "p2kwiet12889314951970"
-    };
 };

@@ -86,7 +86,4 @@ function frmLstItemsGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmLstItems.info = {
-        "kuid": "p2kwiet12889314951818"
-    };
 };

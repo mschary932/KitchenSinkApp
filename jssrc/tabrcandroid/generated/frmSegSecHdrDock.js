@@ -173,7 +173,4 @@ function frmSegSecHdrDockGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmSegSecHdrDock.info = {
-        "kuid": "p2kwiet12889314954707"
-    };
 };

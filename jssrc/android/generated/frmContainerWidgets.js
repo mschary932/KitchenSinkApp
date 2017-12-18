@@ -74,7 +74,4 @@ function frmContainerWidgetsGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmContainerWidgets.info = {
-        "kuid": "p2kwiet1288931495728"
-    };
 };

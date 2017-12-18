@@ -370,7 +370,4 @@ function frmLblGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmLbl.info = {
-        "kuid": "p2kwiet12889314951589"
-    };
 };

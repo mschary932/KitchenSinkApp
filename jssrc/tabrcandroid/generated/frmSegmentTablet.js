@@ -1302,7 +1302,4 @@ function frmSegmentTabletGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmSegmentTablet.info = {
-        "kuid": "p2kwiet12889314954608"
-    };
 };

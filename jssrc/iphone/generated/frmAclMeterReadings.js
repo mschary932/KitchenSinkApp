@@ -309,7 +309,4 @@ function frmAclMeterReadingsGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmAclMeterReadings.info = {
-        "kuid": "p2kwiet128893149535"
-    };
 };

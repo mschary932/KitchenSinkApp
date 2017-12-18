@@ -84,7 +84,4 @@ function frmGesturesGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmGestures.info = {
-        "kuid": "p2kwiet12889314951226"
-    };
 };

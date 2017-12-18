@@ -200,7 +200,4 @@ function popLeftNrightGlobals() {
         },
         "popupStyle": constants.POPUP_TYPE_NATIVE_STYLE
     });
-    popLeftNright.info = {
-        "kuid": "p2kwiet12889314955927"
-    };
 };

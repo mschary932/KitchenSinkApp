@@ -162,7 +162,4 @@ function frmCustomCollapsTabGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmCustomCollapsTab.info = {
-        "kuid": "p2kwiet1288931495860"
-    };
 };

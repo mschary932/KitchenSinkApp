@@ -18,8 +18,7 @@ function initializevbox974599865189() {
         "id": "hbox120858598121942",
         "isVisible": true,
         "orientation": constants.BOX_LAYOUT_HORIZONTAL,
-        "position": constants.BOX_POSITION_AS_NORMAL,
-        "skin": "hBoxWhite"
+        "position": constants.BOX_POSITION_AS_NORMAL
     }, {
         "containerWeight": 100,
         "layoutAlignment": constants.BOX_LAYOUT_ALIGN_FROM_LEFT,
@@ -32,8 +31,7 @@ function initializevbox974599865189() {
     }, {});
     var lbl1 = new kony.ui.Label({
         "id": "lbl1",
-        "isVisible": true,
-        "skin": "lblWhiteBG"
+        "isVisible": true
     }, {
         "containerWeight": 48,
         "contentAlignment": constants.CONTENT_ALIGN_TOP_LEFT,
@@ -48,8 +46,7 @@ function initializevbox974599865189() {
     });
     var lbl2 = new kony.ui.Label({
         "id": "lbl2",
-        "isVisible": true,
-        "skin": "lblWhiteBG"
+        "isVisible": true
     }, {
         "containerWeight": 27,
         "contentAlignment": constants.CONTENT_ALIGN_TOP_LEFT,
@@ -64,8 +61,7 @@ function initializevbox974599865189() {
     });
     var lbl3 = new kony.ui.Label({
         "id": "lbl3",
-        "isVisible": true,
-        "skin": "lblWhiteBG"
+        "isVisible": true
     }, {
         "containerWeight": 25,
         "contentAlignment": constants.CONTENT_ALIGN_TOP_LEFT,

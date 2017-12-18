@@ -456,7 +456,4 @@ function frmUInterfaceGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmUInterface.info = {
-        "kuid": "p2kwiet12889314954903"
-    };
 };

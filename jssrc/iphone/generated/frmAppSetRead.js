@@ -206,7 +206,4 @@ function frmAppSetReadGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmAppSetRead.info = {
-        "kuid": "p2kwiet1288931495273"
-    };
 };

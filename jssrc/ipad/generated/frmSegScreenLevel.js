@@ -99,7 +99,4 @@ function frmSegScreenLevelGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSegScreenLevel.info = {
-        "kuid": "p2kwiet12889314954683"
-    };
 };

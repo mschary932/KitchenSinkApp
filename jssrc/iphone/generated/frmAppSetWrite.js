@@ -241,7 +241,4 @@ function frmAppSetWriteGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmAppSetWrite.info = {
-        "kuid": "p2kwiet1288931495292"
-    };
 };

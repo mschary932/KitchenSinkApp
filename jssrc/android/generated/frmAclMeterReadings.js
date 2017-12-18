@@ -264,7 +264,4 @@ function frmAclMeterReadingsGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAclMeterReadings.info = {
-        "kuid": "p2kwiet128893149535"
-    };
 };

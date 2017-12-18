@@ -34,7 +34,6 @@ function initializevbox974599865329() {
     var lblBankAcct = new kony.ui.Label({
         "id": "lblBankAcct",
         "isVisible": true,
-        "skin": "lblNormalTab",
         "text": "Label"
     }, {
         "containerWeight": 44,
@@ -53,7 +52,6 @@ function initializevbox974599865329() {
     var lblWidrawLmt = new kony.ui.Label({
         "id": "lblWidrawLmt",
         "isVisible": true,
-        "skin": "lblNormalTab",
         "text": "Label"
     }, {
         "containerWeight": 30,
@@ -72,7 +70,6 @@ function initializevbox974599865329() {
     var lblCreditLmt = new kony.ui.Label({
         "id": "lblCreditLmt",
         "isVisible": true,
-        "skin": "lblNormalTab",
         "text": "Label"
     }, {
         "containerWeight": 26,

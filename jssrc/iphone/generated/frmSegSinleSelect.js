@@ -137,7 +137,4 @@ function frmSegSinleSelectGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSegSinleSelect.info = {
-        "kuid": "p2kwiet12889314952800"
-    };
 };

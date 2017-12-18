@@ -101,7 +101,9 @@ function addWidgetsfrmCal() {
     }, {
         "containerHeightReference": constants.CONTAINER_HEIGHT_BY_FORM_REFERENCE,
         "data": {},
-        "dayTextAlignmentInCell": constants.CONTENT_ALIGN_CENTER
+        "dayTextAlignmentInCell": constants.CONTENT_ALIGN_CENTER,
+        "hideDaysHeader": false,
+        "hideMonthsHeader": false
     });
     hbox685080434386974.add(calendar685080434386988);
     var label118082077329800 = new kony.ui.Label({
@@ -147,7 +149,9 @@ function addWidgetsfrmCal() {
     }, {
         "containerHeightReference": constants.CONTAINER_HEIGHT_BY_FORM_REFERENCE,
         "data": {},
-        "dayTextAlignmentInCell": constants.CONTENT_ALIGN_CENTER
+        "dayTextAlignmentInCell": constants.CONTENT_ALIGN_CENTER,
+        "hideDaysHeader": false,
+        "hideMonthsHeader": false
     });
     var label1181029310129167 = new kony.ui.Label({
         "id": "label1181029310129167",
@@ -221,7 +225,4 @@ function frmCalGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmCal.info = {
-        "kuid": "p2kwiet1288931495524"
-    };
 };

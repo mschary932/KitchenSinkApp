@@ -65,7 +65,4 @@ function frmRichTextGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmRichText.info = {
-        "kuid": "p2kwiet12889314951951"
-    };
 };

@@ -46,7 +46,4 @@ function frmAniFlipLeftGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmAniFlipLeft.info = {
-        "kuid": "p2kwiet12889314953432"
-    };
 };

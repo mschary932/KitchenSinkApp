@@ -89,7 +89,4 @@ function frmRichTextGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmRichText.info = {
-        "kuid": "p2kwiet12889314954266"
-    };
 };

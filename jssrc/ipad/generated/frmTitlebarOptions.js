@@ -134,7 +134,4 @@ function frmTitlebarOptionsGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmTitlebarOptions.info = {
-        "kuid": "p2kwiet12889314954882"
-    };
 };

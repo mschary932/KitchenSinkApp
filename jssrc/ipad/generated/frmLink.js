@@ -266,7 +266,4 @@ function frmLinkGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmLink.info = {
-        "kuid": "p2kwiet12889314954135"
-    };
 };

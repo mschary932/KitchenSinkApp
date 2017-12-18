@@ -48,7 +48,4 @@ function frmAniRotateExchangeGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmAniRotateExchange.info = {
-        "kuid": "p2kwiet1288931495195"
-    };
 };

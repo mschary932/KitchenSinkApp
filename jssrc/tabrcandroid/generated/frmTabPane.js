@@ -1140,7 +1140,4 @@ function frmTabPaneGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmTabPane.info = {
-        "kuid": "p2kwiet12889314954820"
-    };
 };

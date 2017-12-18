@@ -396,7 +396,4 @@ function frmTbxGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmTbx.info = {
-        "kuid": "p2kwiet12889314953105"
-    };
 };

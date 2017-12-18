@@ -170,7 +170,4 @@ function frmCamOrientGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmCamOrient.info = {
-        "kuid": "p2kwiet1288931495588"
-    };
 };

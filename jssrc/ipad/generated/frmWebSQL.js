@@ -242,7 +242,4 @@ function frmWebSQLGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmWebSQL.info = {
-        "kuid": "p2kwiet12889314955060"
-    };
 };

@@ -85,7 +85,4 @@ function frmAniAndGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAniAnd.info = {
-        "kuid": "p2kwiet1288931495115"
-    };
 };

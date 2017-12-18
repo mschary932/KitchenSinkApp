@@ -99,7 +99,4 @@ function frmBadgeGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmBadge.info = {
-        "kuid": "p2kwiet12889314953579"
-    };
 };

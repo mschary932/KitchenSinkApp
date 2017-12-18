@@ -69,7 +69,4 @@ function frmSegSectionsGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmSegSections.info = {
-        "kuid": "frmSegSectionsAndroid"
-    };
 };

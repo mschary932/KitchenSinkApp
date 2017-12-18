@@ -78,7 +78,4 @@ function frmSegSwipeGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmSegSwipe.info = {
-        "kuid": "p2kwiet12889314954714"
-    };
 };

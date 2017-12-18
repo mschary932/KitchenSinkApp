@@ -179,7 +179,4 @@ function frmTabsGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmTabs.info = {
-        "kuid": "p2kwiet12889314953034"
-    };
 };

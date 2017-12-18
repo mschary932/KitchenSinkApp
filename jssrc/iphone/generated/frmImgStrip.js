@@ -267,7 +267,4 @@ function frmImgStripGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmImgStrip.info = {
-        "kuid": "p2kwiet12889314951502"
-    };
 };

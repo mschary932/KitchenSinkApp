@@ -155,7 +155,4 @@ function frmAsyncDataAccessGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAsyncDataAccess.info = {
-        "kuid": "p2kwiet1288931495303"
-    };
 };

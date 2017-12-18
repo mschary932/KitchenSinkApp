@@ -242,7 +242,4 @@ function frmCheckboxGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmCheckbox.info = {
-        "kuid": "p2kwiet12889314953691"
-    };
 };

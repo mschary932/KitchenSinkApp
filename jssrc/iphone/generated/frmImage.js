@@ -154,7 +154,4 @@ function frmImageGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmImage.info = {
-        "kuid": "p2kwiet12889314951341"
-    };
 };

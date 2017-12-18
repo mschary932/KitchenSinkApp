@@ -90,7 +90,4 @@ function frmNLst2Globals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmNLst2.info = {
-        "kuid": "p2kwiet12889314951846"
-    };
 };

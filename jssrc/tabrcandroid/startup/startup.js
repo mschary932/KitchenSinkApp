@@ -12,18 +12,14 @@ var appConfig = {
     middlewareContext: "ksa2",
     isMFApp: false,
     eventTypes: [],
-    url: "https://app-factory-dev.konycloud.com/ksa2/MWServlet",
-    secureurl: "https://app-factory-dev.konycloud.com/ksa2/MWServlet"
+    url: null,
+    secureurl: null
 };
 sessionID = "";
 
 function appInit(params) {
     skinsInit();
-    initializehdrOne();
-    initializehdrSearch();
-    initializehdrUI();
-    initializewinMangoHeader();
-    initializeftrOne();
+    initializeUserWidgets();
     initializedynamicTemplate1();
     initializedynamicTemplate2();
     initializehdr();
@@ -98,6 +94,71 @@ function appInit(params) {
     initializevbox1288931495381();
     initializevbox1288931495383();
     initializevbox1288931495425();
+    initializevbox974599865267();
+    initializevbox974599865269();
+    initializevbox974599865271();
+    initializevbox974599865273();
+    initializevbox974599865275();
+    initializevbox974599865277();
+    initializevbox974599865279();
+    initializevbox974599865281();
+    initializevbox974599865283();
+    initializevbox974599865285();
+    initializevbox974599865287();
+    initializevbox974599865289();
+    initializevbox974599865291();
+    initializevbox974599865293();
+    initializevbox974599865295();
+    initializevbox974599865297();
+    initializevbox974599865299();
+    initializevbox974599865301();
+    initializevbox974599865303();
+    initializevbox974599865305();
+    initializevbox974599865307();
+    initializevbox974599865309();
+    initializevbox974599865311();
+    initializevbox974599865313();
+    initializevbox974599865315();
+    initializevbox974599865317();
+    initializevbox974599865319();
+    initializevbox974599865321();
+    initializevbox974599865323();
+    initializevbox974599865325();
+    initializevbox974599865327();
+    initializevbox974599865329();
+    initializevbox974599865331();
+    initializevbox974599865333();
+    initializevbox974599865335();
+    initializevbox974599865337();
+    initializevbox974599865339();
+    initializevbox974599865341();
+    initializevbox974599865343();
+    initializevbox974599865345();
+    initializevbox974599865347();
+    initializevbox974599865349();
+    initializevbox974599865351();
+    initializevbox974599865353();
+    initializevbox974599865355();
+    initializevbox974599865357();
+    initializevbox974599865359();
+    initializevbox974599865361();
+    initializevbox974599865363();
+    initializevbox974599865365();
+    initializevbox974599865367();
+    initializevbox974599865369();
+    initializevbox974599865371();
+    initializevbox974599865373();
+    initializevbox974599865375();
+    initializevbox974599865377();
+    initializevbox974599865379();
+    initializevbox974599865381();
+    initializevbox974599865383();
+    initializevbox974599865425();
+    initializehdrOne();
+    initializehdrSearch();
+    initializehdrUI();
+    initializewinMangoHeader();
+    initializeftrOne();
     frmAclMeterReadingsGlobals();
     frmAni2SplitHorizontalInGlobals();
     frmAni2SplitHorizontalOutGlobals();
@@ -213,8 +274,8 @@ function setAppBehaviors() {
 };
 
 function themeCallBack() {
-    callAppMenu();
     initializeGlobalVariables();
+    callAppMenu();
     kony.application.setApplicationInitializationEvents({
         preappinit: ksa2preappinit,
         init: appInit,

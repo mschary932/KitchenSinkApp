@@ -29,7 +29,4 @@ function frmAni2SplitVerticalOutGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAni2SplitVerticalOut.info = {
-        "kuid": "p2kwiet128893149593"
-    };
 };

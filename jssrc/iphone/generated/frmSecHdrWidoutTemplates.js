@@ -137,7 +137,4 @@ function frmSecHdrWidoutTemplatesGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSecHdrWidoutTemplates.info = {
-        "kuid": "p2kwiet12889314952433"
-    };
 };

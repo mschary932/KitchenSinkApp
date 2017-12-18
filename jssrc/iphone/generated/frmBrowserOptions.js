@@ -158,7 +158,4 @@ function frmBrowserOptionsGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmBrowserOptions.info = {
-        "kuid": "p2kwiet1288931495410"
-    };
 };

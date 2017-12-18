@@ -1,153 +1,153 @@
 {
-    "mwaddrkey": "10.10.5.172",
-    "mapkey": "AIzaSyBBR_-JLwZ9Ami6h5m7KgaGvIxpno6vFDU",
-    "wap_android360_fontsize": "13",
-    "isA11yConfigEnabled": false,
-    "spaipadbasefontsize": "17",
-    "watchos_notificationcentericon_42": "",
-    "wap_android440_fontsize": "15",
-    "wap_spaandroidtabxhdpi_fontsize": "18",
+    "@class": "com.kony.gen.appprops.KVizAppProps",
+    "androidmapkey": "0YW7LQ_ON4_GfRt4bYcgXO-kkSrxlOyipmMN7CA",
+    "androidmapwidgetkey": "0YW7LQ_ON4_GfRt4bYcgXO-kkSrxlOyipmMN7CA",
+    "appidkey": "ksa2",
+    "applogokey": "konyap.png",
+    "appmenu": {
+        "desktop": {
+            "data": [
+                {
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "95134a113ef94dccab0ed1677a0ee644",
+                    "title": "Item 1"
+                },
+                {
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "36974c509fa24631928c6a534e078124",
+                    "title": "Item 2"
+                },
+                {
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "f371bd118e834b30a92fda59e0fb9433",
+                    "title": "Item 3"
+                },
+                {
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "38e32b65ed934a64907272dd43259e14",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "mobile": {
+            "data": []
+        },
+        "tablet": {
+            "data": []
+        },
+        "wType": "Appmenu"
+    },
+    "appnamekey": "KitchenSinkApp",
     "apppackagekey": "com.kony.KitchenSinkApp",
-    "winmangotiletitlekey": "KitchenSinkApp",
-    "wap_android400_fontsize": "14",
+    "apptitle": "KitchenSinkApp",
+    "appversionkey": "1.0.0",
+    "build": "debug",
+    "category": "app",
+    "cordovaVersionInfo": {
+        "useGlobalCordova": false
+    },
+    "createdVizVersion": "7.2.1",
+    "createdgaversion": "5.0.0",
+    "currentgaversion": "7.3.0",
+    "defaulttheme": "defaultTheme",
+    "desktopstartupformkey": "frmUInterface",
+    "desktopwebaligenmentoption": "left",
+    "desktopwebbasefontsize": "16",
+    "desktopwebwidthoption": "Percentage",
+    "desktopwebwidthval": "100",
+    "enableCordova": false,
+    "enableIdForAutomation": true,
+    "enableactionbar": false,
+    "extendBottom": "false",
+    "extendTop": "false",
+    "ide_appEvents": {
+        "desktop": {
+            "preappinit": "ksa2preappinit"
+        },
+        "mobile": {
+            "preappinit": "ksa2preappinit"
+        },
+        "tablet": {
+            "preappinit": "ksa2preappinit"
+        }
+    },
+    "ipadlandscapemodekey": "both",
+    "iphonebundleidentifierkey": "com.kone.KitchenSink",
+    "iphonebundleversionkey": "1.0",
+    "iphoneipadglossyeffectkey": "true",
+    "isA11yConfigEnabled": false,
+    "isDpScaleFactor": true,
+    "isNewAppWithRespectToAndroidPackageName": "true",
+    "konyVizVersion": "7.3.0",
+    "mapkey": "AIzaSyBBR_-JLwZ9Ami6h5m7KgaGvIxpno6vFDU",
+    "mastersProperties": {
+        "masterVersion": "2.0.0"
+    },
+    "mwaddrkey": "10.10.5.172",
+    "mwportkey": "8080",
     "nativeContainerProperties": {
         "isModified": false,
         "isEnableJSContainer": false,
         "isEnableJSContainerAndroid": false,
         "isEnableJSContaineriOS": false
     },
-    "wap_spaandroidtabhdpi_fontsize": "16",
-    "iphonebundleidentifierkey": "com.kone.KitchenSink",
-    "cordovaVersionInfo": {
-        "useGlobalCordova": false
-    },
-    "desktopwebaligenmentoption": "left",
-    "appversionkey": "1.0.0",
-    "watchos_longlooknotificationicon_38": "",
-    "desktopwebwidthoption": "Percentage",
-    "applogokey": "konyap.png",
+    "pasteboardType": "2",
+    "project_version": "sprint27",
+    "referenceWidth": "320",
     "spaandroidtabbasefontsize": "17",
+    "spaipadbasefontsize": "17",
     "startupformkey": "frmPlatforms",
-    "wap_bb480_fontsize": "12",
-    "wap_winphone480_fontsize": "12",
-    "wap_android640_fontsize": "19",
-    "vendornamekey": "KonyLabs",
-    "wap_android320_fontsize": "12",
-    "wap_android_fontsize": "10",
+    "staticmapwidgetkey": "AIzaSyBBR_-JLwZ9Ami6h5m7KgaGvIxpno6vFDU",
+    "statusBarHidden": "false",
     "statusBarStyle": "STATUS_BAR_STYLE_DEFAULT",
-    "createdgaversion": "5.0.0",
-    "watchos_notificationcentericon_38": "",
-    "extendTop": "false",
-    "desktopstartupformkey": "frmUInterface",
-    "enableactionbar": false,
-    "watchos_shortlooknotificationicon_42": "",
-    "wap_android480_fontsize": "14",
-    "androidmapkey": "0YW7LQ_ON4_GfRt4bYcgXO-kkSrxlOyipmMN7CA",
-    "mastersProperties": {
-        "masterVersion": "2.0.0"
-    },
-    "wap_winphone320_fontsize": "12",
-    "watchos_longlooknotificationicon_42": "",
-    "appmenu": {
-        "tablet": {
-            "data": []
-        },
-        "desktop": {
-            "data": [
-                {
-                    "kuid": "95134a113ef94dccab0ed1677a0ee644",
-                    "icon": {
-                        "default": "option1.png"
-                    },
-                    "id": "appmenuitemid1",
-                    "title": "Item 1"
-                },
-                {
-                    "kuid": "36974c509fa24631928c6a534e078124",
-                    "icon": {
-                        "default": "option2.png"
-                    },
-                    "id": "appmenuitemid2",
-                    "title": "Item 2"
-                },
-                {
-                    "kuid": "f371bd118e834b30a92fda59e0fb9433",
-                    "icon": {
-                        "default": "option3.png"
-                    },
-                    "id": "appmenuitemid3",
-                    "title": "Item 3"
-                },
-                {
-                    "kuid": "38e32b65ed934a64907272dd43259e14",
-                    "icon": {
-                        "default": "option4.png"
-                    },
-                    "id": "appmenuitemid4",
-                    "title": "Item 4"
-                }
-            ]
-        },
-        "wType": "Appmenu",
-        "mobile": {
-            "data": []
-        }
-    },
-    "wap_spaipad_fontsize": "17",
-    "mwportkey": "8080",
     "supportedorientations": [
         "portrait",
         "landscape"
     ],
-    "wap_bb440_fontsize": "12",
-    "desktopwebwidthval": "100",
-    "wap_bb400_fontsize": "12",
-    "appidkey": "ksa2",
-    "statusBarHidden": "false",
-    "wap_bb360_fontsize": "12",
-    "export.type": "studioviz",
-    "isNewAppWithRespectToAndroidPackageName": "true",
-    "wap_spawindowstab_fontsize": "12",
-    "androidmapwidgetkey": "0YW7LQ_ON4_GfRt4bYcgXO-kkSrxlOyipmMN7CA",
-    "defaulttheme": "defaultTheme",
-    "staticmapwidgetkey": "AIzaSyBBR_-JLwZ9Ami6h5m7KgaGvIxpno6vFDU",
-    "iphonebundleversionkey": "1.0",
-    "watchos_shortlooknotificationicon_38": "",
-    "iphoneipadglossyeffectkey": "true",
-    "extendBottom": "false",
     "tabletstartupformkey": "frmPlatforms",
-    "pasteboardType": "2",
-    "appnamekey": "KitchenSinkApp",
-    "currentgaversion": "7.2.0",
-    "wap_bb320_fontsize": "12",
-    "enableCordova": false,
-    "wap_bb240_fontsize": "12",
-    "enableIdForAutomation": true,
-    "desktopwebbasefontsize": "16",
+    "vendornamekey": "KonyLabs",
     "wap_android240_fontsize": "10",
-    "@class": "com.kony.gen.appprops.KVizAppProps",
+    "wap_android320_fontsize": "12",
+    "wap_android360_fontsize": "13",
+    "wap_android400_fontsize": "14",
+    "wap_android440_fontsize": "15",
+    "wap_android480_fontsize": "14",
+    "wap_android640_fontsize": "19",
+    "wap_android_fontsize": "10",
+    "wap_bb240_fontsize": "12",
+    "wap_bb320_fontsize": "12",
+    "wap_bb360_fontsize": "12",
+    "wap_bb400_fontsize": "12",
+    "wap_bb440_fontsize": "12",
+    "wap_bb480_fontsize": "12",
+    "wap_ip_fontsize": "12",
+    "wap_spaandroidtab_fontsize": "17",
+    "wap_spaandroidtabhdpi_fontsize": "16",
     "wap_spaandroidtabldpi_fontsize": "17",
     "wap_spaandroidtabmdpi_fontsize": "14",
-    "apptitle": "KitchenSinkApp",
-    "konyVizVersion": "7.2.1",
-    "wap_spaandroidtab_fontsize": "17",
-    "isDpScaleFactor": true,
-    "referenceWidth": "320",
-    "winmobileguidkey": "3918fdb1-83cc-48a2-a0ed-75b78b896999",
-    "ide_appEvents": {
-        "tablet": {
-            "preappinit": "ksa2preappinit"
-        },
-        "desktop": {
-            "preappinit": "ksa2preappinit"
-        },
-        "mobile": {
-            "preappinit": "ksa2preappinit"
-        }
-    },
-    "build": "debug",
-    "project_version": "sprint25",
-    "ipadlandscapemodekey": "both",
-    "wap_ip_fontsize": "12",
-    "createdVizVersion": "7.2.1"
+    "wap_spaandroidtabxhdpi_fontsize": "18",
+    "wap_spaipad_fontsize": "17",
+    "wap_spawindowstab_fontsize": "12",
+    "wap_winphone320_fontsize": "12",
+    "wap_winphone480_fontsize": "12",
+    "watchos_longlooknotificationicon_38": "",
+    "watchos_longlooknotificationicon_42": "",
+    "watchos_notificationcentericon_38": "",
+    "watchos_notificationcentericon_42": "",
+    "watchos_shortlooknotificationicon_38": "",
+    "watchos_shortlooknotificationicon_42": "",
+    "winmangotiletitlekey": "KitchenSinkApp",
+    "winmobileguidkey": "3918fdb1-83cc-48a2-a0ed-75b78b896999"
 }

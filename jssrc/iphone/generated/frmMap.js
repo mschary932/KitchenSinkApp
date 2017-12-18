@@ -80,7 +80,4 @@ function frmMapGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmMap.info = {
-        "kuid": "p2kwiet12889314951826"
-    };
 };

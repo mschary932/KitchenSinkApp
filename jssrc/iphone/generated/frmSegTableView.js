@@ -126,7 +126,4 @@ function frmSegTableViewGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSegTableView.info = {
-        "kuid": "p2kwiet12889314952829"
-    };
 };

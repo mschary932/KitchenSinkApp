@@ -136,7 +136,4 @@ function frmCalendarEventsGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmCalendarEvents.info = {
-        "kuid": "p2kwiet12889314953643"
-    };
 };

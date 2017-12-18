@@ -109,7 +109,4 @@ function frmSegPageViewGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSegPageView.info = {
-        "kuid": "p2kwiet12889314952680"
-    };
 };

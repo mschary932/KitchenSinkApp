@@ -242,7 +242,4 @@ function frmLabelsGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmLabels.info = {
-        "kuid": "p2kwiet12889314954120"
-    };
 };

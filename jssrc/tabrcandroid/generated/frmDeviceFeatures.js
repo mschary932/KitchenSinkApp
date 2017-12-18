@@ -152,7 +152,4 @@ function frmDeviceFeaturesGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmDeviceFeatures.info = {
-        "kuid": "frmDeviceFeaturesAndroid"
-    };
 };

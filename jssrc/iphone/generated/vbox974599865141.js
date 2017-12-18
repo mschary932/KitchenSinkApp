@@ -18,8 +18,7 @@ function initializevbox974599865141() {
         "id": "hbxWallMartDisney",
         "isVisible": true,
         "orientation": constants.BOX_LAYOUT_HORIZONTAL,
-        "position": constants.BOX_POSITION_AS_NORMAL,
-        "skin": "hbxTop"
+        "position": constants.BOX_POSITION_AS_NORMAL
     }, {
         "containerWeight": 100,
         "layoutAlignment": constants.BOX_LAYOUT_ALIGN_FROM_LEFT,
@@ -50,7 +49,6 @@ function initializevbox974599865141() {
     var lblWallMartDisney = new kony.ui.Label({
         "id": "lblWallMartDisney",
         "isVisible": true,
-        "skin": "lblMainRed",
         "text": "Label"
     }, {
         "containerWeight": 100,
@@ -69,7 +67,6 @@ function initializevbox974599865141() {
     var lblWMTDIS = new kony.ui.Label({
         "id": "lblWMTDIS",
         "isVisible": true,
-        "skin": "lblGrey",
         "text": "Label"
     }, {
         "containerWeight": 100,
@@ -91,8 +88,7 @@ function initializevbox974599865141() {
         "id": "hbxValueDiff",
         "isVisible": true,
         "orientation": constants.BOX_LAYOUT_HORIZONTAL,
-        "position": constants.BOX_POSITION_AS_NORMAL,
-        "skin": "hbxBal"
+        "position": constants.BOX_POSITION_AS_NORMAL
     }, {
         "containerWeight": 100,
         "layoutAlignment": constants.BOX_LAYOUT_ALIGN_FROM_LEFT,
@@ -180,7 +176,6 @@ function initializevbox974599865141() {
     var lblWMDPrice = new kony.ui.Label({
         "id": "lblWMDPrice",
         "isVisible": true,
-        "skin": "lblNormal",
         "text": "Label"
     }, {
         "containerWeight": 40,
@@ -199,7 +194,6 @@ function initializevbox974599865141() {
     var lblWMDValue = new kony.ui.Label({
         "id": "lblWMDValue",
         "isVisible": true,
-        "skin": "lblNormal",
         "text": "Label"
     }, {
         "containerWeight": 30,
@@ -218,7 +212,6 @@ function initializevbox974599865141() {
     var lblWMDDiff = new kony.ui.Label({
         "id": "lblWMDDiff",
         "isVisible": true,
-        "skin": "lblNormal",
         "text": "Label"
     }, {
         "containerWeight": 30,
@@ -237,8 +230,7 @@ function initializevbox974599865141() {
     hbxWMDPrice.add(lblWMDPrice, lblWMDValue, lblWMDDiff);
     var linePrice = new kony.ui.Line({
         "id": "linePrice",
-        "isVisible": true,
-        "skin": "lineNormal"
+        "isVisible": true
     }, {
         "margin": [1, 1, 1, 1],
         "marginInPixel": true,
@@ -264,7 +256,6 @@ function initializevbox974599865141() {
     var lblAvgVolume = new kony.ui.Label({
         "id": "lblAvgVolume",
         "isVisible": true,
-        "skin": "lblNormal",
         "text": "Label"
     }, {
         "containerWeight": 40,
@@ -283,7 +274,6 @@ function initializevbox974599865141() {
     var lblAvgValue = new kony.ui.Label({
         "id": "lblAvgValue",
         "isVisible": true,
-        "skin": "lblNormal",
         "text": "Label"
     }, {
         "containerWeight": 30,
@@ -302,7 +292,6 @@ function initializevbox974599865141() {
     var lblAvgDiff = new kony.ui.Label({
         "id": "lblAvgDiff",
         "isVisible": true,
-        "skin": "lblNormal",
         "text": "Label"
     }, {
         "containerWeight": 30,
@@ -321,8 +310,7 @@ function initializevbox974599865141() {
     hbxAvgVolume.add(lblAvgVolume, lblAvgValue, lblAvgDiff);
     var linAvgVolume = new kony.ui.Line({
         "id": "linAvgVolume",
-        "isVisible": true,
-        "skin": "lineNormal"
+        "isVisible": true
     }, {
         "margin": [1, 1, 1, 1],
         "marginInPixel": true,
@@ -348,7 +336,6 @@ function initializevbox974599865141() {
     var lblPETrailing = new kony.ui.Label({
         "id": "lblPETrailing",
         "isVisible": true,
-        "skin": "lblNormal",
         "text": "Label"
     }, {
         "containerWeight": 40,
@@ -367,7 +354,6 @@ function initializevbox974599865141() {
     var lblPEValue = new kony.ui.Label({
         "id": "lblPEValue",
         "isVisible": true,
-        "skin": "lblNormal",
         "text": "Label"
     }, {
         "containerWeight": 30,
@@ -386,7 +372,6 @@ function initializevbox974599865141() {
     var lblPEDiff = new kony.ui.Label({
         "id": "lblPEDiff",
         "isVisible": true,
-        "skin": "lblNormal",
         "text": "Label"
     }, {
         "containerWeight": 30,
@@ -405,8 +390,7 @@ function initializevbox974599865141() {
     hbxPETrailing.add(lblPETrailing, lblPEValue, lblPEDiff);
     var linPEDiff = new kony.ui.Line({
         "id": "linPEDiff",
-        "isVisible": true,
-        "skin": "lineNormal"
+        "isVisible": true
     }, {
         "margin": [1, 1, 1, 1],
         "marginInPixel": true,
@@ -416,8 +400,7 @@ function initializevbox974599865141() {
         "id": "hbxMarketCap",
         "isVisible": true,
         "orientation": constants.BOX_LAYOUT_HORIZONTAL,
-        "position": constants.BOX_POSITION_AS_NORMAL,
-        "skin": "hbxBottom"
+        "position": constants.BOX_POSITION_AS_NORMAL
     }, {
         "containerWeight": 100,
         "layoutAlignment": constants.BOX_LAYOUT_ALIGN_FROM_LEFT,
@@ -433,7 +416,6 @@ function initializevbox974599865141() {
     var lblMarketCap = new kony.ui.Label({
         "id": "lblMarketCap",
         "isVisible": true,
-        "skin": "lblBold",
         "text": "Label"
     }, {
         "containerWeight": 51,
@@ -452,7 +434,6 @@ function initializevbox974599865141() {
     var lblMarketCapValue = new kony.ui.Label({
         "id": "lblMarketCapValue",
         "isVisible": true,
-        "skin": "lblBold",
         "text": "Label"
     }, {
         "containerWeight": 49,

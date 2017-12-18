@@ -217,7 +217,4 @@ function popTopNBottomGlobals() {
         },
         "windowSoftInputMode": constants.POPUP_ADJUST_RESIZE
     });
-    popTopNBottom.info = {
-        "kuid": "p2kwiet12889314955939"
-    };
 };

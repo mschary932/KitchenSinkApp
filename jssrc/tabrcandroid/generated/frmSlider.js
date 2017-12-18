@@ -255,7 +255,4 @@ function frmSliderGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmSlider.info = {
-        "kuid": "p2kwiet12889314954734"
-    };
 };

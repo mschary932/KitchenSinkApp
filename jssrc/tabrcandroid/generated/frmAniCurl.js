@@ -29,7 +29,4 @@ function frmAniCurlGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAniCurl.info = {
-        "kuid": "p2kwiet12889314953416"
-    };
 };

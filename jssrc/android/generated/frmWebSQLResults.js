@@ -71,7 +71,4 @@ function frmWebSQLResultsGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmWebSQLResults.info = {
-        "kuid": "p2kwiet12889314953323"
-    };
 };

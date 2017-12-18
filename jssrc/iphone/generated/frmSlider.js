@@ -241,7 +241,4 @@ function frmSliderGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSlider.info = {
-        "kuid": "p2kwiet12889314952901"
-    };
 };

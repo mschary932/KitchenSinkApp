@@ -86,7 +86,4 @@ function frmSegDictViewGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSegDictView.info = {
-        "kuid": "p2kwiet12889314954499"
-    };
 };

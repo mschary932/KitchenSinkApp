@@ -89,7 +89,4 @@ function frmSegPullGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSegPull.info = {
-        "kuid": "p2kwiet12889314954676"
-    };
 };

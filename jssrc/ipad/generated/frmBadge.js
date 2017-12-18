@@ -112,7 +112,4 @@ function frmBadgeGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmBadge.info = {
-        "kuid": "p2kwiet12889314953579"
-    };
 };

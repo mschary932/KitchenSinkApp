@@ -29,7 +29,4 @@ function frmAni4SplitRotateInGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAni4SplitRotateIn.info = {
-        "kuid": "p2kwiet12889314953392"
-    };
 };

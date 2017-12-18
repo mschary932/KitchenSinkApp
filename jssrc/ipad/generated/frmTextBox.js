@@ -393,7 +393,4 @@ function frmTextBoxGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmTextBox.info = {
-        "kuid": "p2kwiet12889314954858"
-    };
 };

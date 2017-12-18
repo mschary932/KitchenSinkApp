@@ -451,7 +451,4 @@ function frmTabScreenLevelGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmTabScreenLevel.info = {
-        "kuid": "frmTabScreenLevelAndroid"
-    };
 };

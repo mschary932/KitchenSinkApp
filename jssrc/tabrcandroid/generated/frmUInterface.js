@@ -412,7 +412,4 @@ function frmUInterfaceGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmUInterface.info = {
-        "kuid": "frmUInterfaceAndroid"
-    };
 };

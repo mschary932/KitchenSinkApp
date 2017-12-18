@@ -97,7 +97,4 @@ function frmUICategoryGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmUICategory.info = {
-        "kuid": "p2kwiet12889314953282"
-    };
 };

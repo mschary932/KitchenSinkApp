@@ -402,7 +402,4 @@ function frmComboBoxGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmComboBox.info = {
-        "kuid": "p2kwiet12889314953712"
-    };
 };

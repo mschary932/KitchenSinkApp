@@ -97,7 +97,4 @@ function frmSegRotatoryViewGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSegRotatoryView.info = {
-        "kuid": "p2kwiet12889314952738"
-    };
 };

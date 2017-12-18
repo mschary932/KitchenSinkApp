@@ -136,7 +136,4 @@ function frmSegmentMoreFeaturesGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSegmentMoreFeatures.info = {
-        "kuid": "p2kwiet12889314952571"
-    };
 };

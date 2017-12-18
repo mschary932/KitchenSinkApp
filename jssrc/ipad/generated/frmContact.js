@@ -155,7 +155,4 @@ function frmContactGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmContact.info = {
-        "kuid": "p2kwiet12889314953721"
-    };
 };

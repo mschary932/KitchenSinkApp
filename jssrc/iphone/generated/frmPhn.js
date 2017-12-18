@@ -127,7 +127,4 @@ function frmPhnGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmPhn.info = {
-        "kuid": "p2kwiet12889314951857"
-    };
 };

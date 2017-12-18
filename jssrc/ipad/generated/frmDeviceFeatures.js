@@ -180,7 +180,4 @@ function frmDeviceFeaturesGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmDeviceFeatures.info = {
-        "kuid": "p2kwiet12889314953775"
-    };
 };

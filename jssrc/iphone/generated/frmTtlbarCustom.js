@@ -70,7 +70,4 @@ function frmTtlbarCustomGlobals() {
             "imageRightSideView": "greenbtn50x30.png"
         }
     });
-    frmTtlbarCustom.info = {
-        "kuid": "p2kwiet12889314953186"
-    };
 };

@@ -181,7 +181,4 @@ function popLeftNrightGlobals() {
         },
         "windowSoftInputMode": constants.POPUP_ADJUST_RESIZE
     });
-    popLeftNright.info = {
-        "kuid": "p2kwiet12889314955927"
-    };
 };

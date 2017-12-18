@@ -155,7 +155,4 @@ function frmCalendarEventsGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmCalendarEvents.info = {
-        "kuid": "p2kwiet12889314953643"
-    };
 };

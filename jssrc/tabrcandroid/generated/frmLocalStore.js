@@ -782,7 +782,4 @@ function frmLocalStoreGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmLocalStore.info = {
-        "kuid": "p2kwiet12889314954201"
-    };
 };

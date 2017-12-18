@@ -131,7 +131,4 @@ function frmSegmentViewsGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmSegmentViews.info = {
-        "kuid": "p2kwiet12889314954656"
-    };
 };

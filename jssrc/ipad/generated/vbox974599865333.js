@@ -17,7 +17,6 @@ function initializevbox974599865333() {
     var lblSegViewCat = new kony.ui.Label({
         "id": "lblSegViewCat",
         "isVisible": true,
-        "skin": "lblNormalTab",
         "text": "Label"
     }, {
         "containerWeight": 100,

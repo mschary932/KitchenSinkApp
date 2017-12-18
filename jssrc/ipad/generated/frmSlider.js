@@ -265,7 +265,4 @@ function frmSliderGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmSlider.info = {
-        "kuid": "p2kwiet12889314954734"
-    };
 };

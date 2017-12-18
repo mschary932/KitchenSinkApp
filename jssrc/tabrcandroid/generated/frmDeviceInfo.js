@@ -102,7 +102,4 @@ function frmDeviceInfoGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmDeviceInfo.info = {
-        "kuid": "p2kwiet12889314953840"
-    };
 };

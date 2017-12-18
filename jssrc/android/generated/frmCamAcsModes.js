@@ -190,7 +190,4 @@ function frmCamAcsModesGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmCamAcsModes.info = {
-        "kuid": "p2kwiet1288931495546"
-    };
 };

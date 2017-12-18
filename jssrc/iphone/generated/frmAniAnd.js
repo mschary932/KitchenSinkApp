@@ -99,7 +99,4 @@ function frmAniAndGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmAniAnd.info = {
-        "kuid": "p2kwiet1288931495115"
-    };
 };

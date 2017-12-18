@@ -41,7 +41,4 @@ function frmCameraOverlaidGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmCameraOverlaid.info = {
-        "kuid": "p2kwiet12889314953676"
-    };
 };

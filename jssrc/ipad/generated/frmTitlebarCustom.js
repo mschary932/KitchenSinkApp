@@ -69,7 +69,4 @@ function frmTitlebarCustomGlobals() {
             "imageRightSideView": "greenbtn50x30.png"
         }
     });
-    frmTitlebarCustom.info = {
-        "kuid": "p2kwiet12889314954870"
-    };
 };

@@ -70,7 +70,4 @@ function frmDeviceInfoGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmDeviceInfo.info = {
-        "kuid": "p2kwiet1288931495884"
-    };
 };

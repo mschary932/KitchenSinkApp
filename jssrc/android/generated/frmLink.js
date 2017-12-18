@@ -169,7 +169,4 @@ function frmLinkGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmLink.info = {
-        "kuid": "p2kwiet12889314951605"
-    };
 };

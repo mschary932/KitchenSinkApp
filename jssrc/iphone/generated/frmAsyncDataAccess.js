@@ -189,7 +189,4 @@ function frmAsyncDataAccessGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmAsyncDataAccess.info = {
-        "kuid": "p2kwiet1288931495303"
-    };
 };

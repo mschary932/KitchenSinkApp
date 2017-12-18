@@ -97,7 +97,4 @@ function frmBasicWidgetsGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmBasicWidgets.info = {
-        "kuid": "p2kwiet1288931495328"
-    };
 };

@@ -99,7 +99,4 @@ function frmSegActionableWidgetsGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmSegActionableWidgets.info = {
-        "kuid": "p2kwiet12889314952439"
-    };
 };

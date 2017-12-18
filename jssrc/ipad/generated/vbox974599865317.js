@@ -34,7 +34,6 @@ function initializevbox974599865317() {
     var lblBnkAcctName = new kony.ui.Label({
         "id": "lblBnkAcctName",
         "isVisible": true,
-        "skin": "lblNormalTab",
         "text": "Label"
     }, {
         "containerWeight": 45,
@@ -53,7 +52,6 @@ function initializevbox974599865317() {
     var lblWidDrwLimit = new kony.ui.Label({
         "id": "lblWidDrwLimit",
         "isVisible": true,
-        "skin": "lblNormalTab",
         "text": "Label"
     }, {
         "containerWeight": 25,
@@ -72,7 +70,6 @@ function initializevbox974599865317() {
     var lblCreditLimit = new kony.ui.Label({
         "id": "lblCreditLimit",
         "isVisible": true,
-        "skin": "lblNormalTab",
         "text": "Label"
     }, {
         "containerWeight": 20,

@@ -64,7 +64,4 @@ function frmTitlebarBgImageGlobals() {
             "titleBarRightSideView": "none"
         }
     });
-    frmTitlebarBgImage.info = {
-        "kuid": "p2kwiet12889314954866"
-    };
 };

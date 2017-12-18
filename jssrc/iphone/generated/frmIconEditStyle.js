@@ -81,7 +81,4 @@ function frmIconEditStyleGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": false
     });
-    frmIconEditStyle.info = {
-        "kuid": "p2kwiet12889314951304"
-    };
 };

@@ -119,7 +119,4 @@ function frmBasicWidgetsGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmBasicWidgets.info = {
-        "kuid": "p2kwiet1288931495328"
-    };
 };

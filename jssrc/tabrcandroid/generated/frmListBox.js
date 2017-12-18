@@ -204,7 +204,4 @@ function frmListBoxGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmListBox.info = {
-        "kuid": "p2kwiet12889314954158"
-    };
 };

@@ -76,7 +76,4 @@ function frmAniWinGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmAniWin.info = {
-        "kuid": "p2kwiet1288931495232"
-    };
 };

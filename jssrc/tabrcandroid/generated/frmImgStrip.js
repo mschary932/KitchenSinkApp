@@ -354,7 +354,4 @@ function frmImgStripGlobals() {
         "titleBar": true,
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmImgStrip.info = {
-        "kuid": "p2kwiet12889314954090"
-    };
 };

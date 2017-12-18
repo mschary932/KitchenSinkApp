@@ -465,7 +465,4 @@ function frmDatagridGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmDatagrid.info = {
-        "kuid": "p2kwiet12889314953767"
-    };
 };

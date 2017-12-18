@@ -66,7 +66,4 @@ function frmBadgeGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmBadge.info = {
-        "kuid": "p2kwiet1288931495321"
-    };
 };

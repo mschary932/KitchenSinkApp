@@ -107,7 +107,4 @@ function frmSegStackViewGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmSegStackView.info = {
-        "kuid": "p2kwiet12889314952811"
-    };
 };

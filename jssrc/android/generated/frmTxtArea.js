@@ -287,7 +287,4 @@ function frmTxtAreaGlobals() {
         "titleBarSkin": "titleBarAndroid",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmTxtArea.info = {
-        "kuid": "p2kwiet12889314953218"
-    };
 };

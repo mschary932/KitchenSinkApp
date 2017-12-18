@@ -77,7 +77,4 @@ function frmSegOnReachEndGlobals() {
         "titleBarSkin": "sknTitleBarSampleApp",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmSegOnReachEnd.info = {
-        "kuid": "p2kwiet12889314954669"
-    };
 };

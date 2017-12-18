@@ -88,7 +88,4 @@ function frmPopupGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmPopup.info = {
-        "kuid": "p2kwiet12889314951904"
-    };
 };

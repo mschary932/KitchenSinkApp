@@ -57,7 +57,4 @@ function frmAniWinSlideGlobals() {
         "statusBarStyle": constants.STATUS_BAR_STYLE_DEFAULT,
         "titleBar": true
     });
-    frmAniWinSlide.info = {
-        "kuid": "p2kwiet1288931495248"
-    };
 };

@@ -127,7 +127,4 @@ function frmPopGlobals() {
         },
         "windowSoftInputMode": constants.POPUP_ADJUST_RESIZE
     });
-    frmPop.info = {
-        "kuid": "p2kwiet12889314955903"
-    };
 };

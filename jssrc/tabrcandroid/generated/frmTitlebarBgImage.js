@@ -47,7 +47,4 @@ function frmTitlebarBgImageGlobals() {
         "titleBarSkin": "titleAndroidBg",
         "windowSoftInputMode": constants.FORM_ADJUST_RESIZE
     });
-    frmTitlebarBgImage.info = {
-        "kuid": "p2kwiet12889314954866"
-    };
 };

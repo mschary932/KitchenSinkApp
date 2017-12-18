@@ -97,7 +97,4 @@ function frmHomeGlobals() {
         },
         "titleBarSkin": "sknTitleBarSampleApp"
     });
-    frmHome.info = {
-        "kuid": "p2kwiet12889314951270"
-    };
 };

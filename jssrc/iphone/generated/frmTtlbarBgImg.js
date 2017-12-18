@@ -65,7 +65,4 @@ function frmTtlbarBgImgGlobals() {
             "titleBarRightSideView": "none"
         }
     });
-    frmTtlbarBgImg.info = {
-        "kuid": "p2kwiet12889314953182"
-    };
 };
